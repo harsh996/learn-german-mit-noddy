@@ -1,0 +1,75 @@
+version: "3.8"
+
+services:
+  livekit:
+    image: livekit/livekit-server:latest
+    # node_ip must be the host LAN IP the browser can reach (not a stale address).
+    command: --config /etc/livekit.yaml --node-ip ${LIVEKIT_NODE_IP:-127.0.0.1}
+    ports:
+      - "7880:7880"
+      - "7881:7881"
+      - "7882:7882/udp"
+      - "50000-50100:50000-50100/udp"
+    volumes:
+      - ./livekit.yaml:/etc/livekit.yaml
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - DATABASE_URL=file:/app/prisma/dev.db
+      - NEXT_PUBLIC_LIVEKIT_URL=${NEXT_PUBLIC_LIVEKIT_URL:-ws://localhost:7880}
+      - LIVEKIT_URL=ws://livekit:7880
+      - LIVEKIT_API_KEY=devkey
+      - LIVEKIT_API_SECRET=secretsecretsecretsecretsecret12
+      - AUTH_SECRET=${AUTH_SECRET:-german-tutor-dev-secret-change-in-prod}
+      - NEXT_SERVER_ACTIONS_ENCRYPTION_KEY=${NEXT_SERVER_ACTIONS_ENCRYPTION_KEY:-dGVybWFuLXR1dG9yLWRldi1zZXJ2ZXItYWN0aW9uLWtleSE=}
+      - ADMIN_USERNAME=admin
+      - ADMIN_PASSWORD=Password123!
+      - AI_PROVIDER=${AI_PROVIDER:-gemini}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+    volumes:
+      - sqlite_data:/app/prisma
+    depends_on:
+      - livekit
+    restart: unless-stopped
+
+  backend-agent:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    environment:
+      - LIVEKIT_URL=ws://livekit:7880
+      - LIVEKIT_API_KEY=devkey
+      - LIVEKIT_API_SECRET=secretsecretsecretsecretsecret12
+      - AI_PROVIDER=${AI_PROVIDER:-gemini}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash-native-audio-preview-12-2025}
+      - GEMINI_SILENCE_MS=${GEMINI_SILENCE_MS:-900}
+      - GEMINI_PREFIX_PADDING_MS=${GEMINI_PREFIX_PADDING_MS:-300}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-realtime-preview}
+      - DATABASE_PATH=/frontend/prisma/dev.db
+      - FRONTEND_URL=http://frontend:3000
+      - AUTH_SECRET=${AUTH_SECRET:-german-tutor-dev-secret-change-in-prod}
+    volumes:
+      - sqlite_data:/frontend/prisma
+    depends_on:
+      - livekit
+      - frontend
+    restart: unless-stopped
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    command: tunnel --no-autoupdate --url http://frontend:3000
+    depends_on:
+      - frontend
+    restart: unless-stopped
+
+volumes:
+  sqlite_data:

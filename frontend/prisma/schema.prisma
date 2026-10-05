@@ -1,0 +1,48 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id       String    @id @default(uuid())
+  username String    @unique
+  password String
+  profiles Profile[]
+}
+
+model Profile {
+  id           String          @id @default(uuid())
+  userId       String
+  user         User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name         String
+  level        String
+  avatarGender String
+  avatarName   String
+  createdAt    DateTime        @default(now())
+  memories     ProfileMemory[]
+  sessions     SessionLog[]
+}
+
+model ProfileMemory {
+  id              String   @id @default(uuid())
+  profileId       String
+  profile         Profile  @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  category        String
+  errorPattern    String
+  correctionNote  String
+  occurrenceCount Int      @default(1)
+  lastSeenAt      DateTime @default(now())
+}
+
+model SessionLog {
+  id          String   @id @default(uuid())
+  profileId   String
+  profile     Profile  @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  createdAt   DateTime @default(now())
+  summary     String
+  newMistakes String
+}

@@ -1,0 +1,208 @@
+:root {
+  --ink: #0c1f1c;
+  --forest: #0f3d36;
+  --pine: #1a5c52;
+  --mist: #e8f2ef;
+  --foam: #f4faf8;
+  --gold: #c9a227;
+  --gold-soft: #e8d48b;
+  --clay: #3d2c1e;
+  --danger: #b33a3a;
+  --muted: #5a736e;
+  --glass: rgba(255, 255, 255, 0.55);
+  --shadow: 0 18px 50px rgba(12, 31, 28, 0.12);
+  --radius: 18px;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Manrope", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(201, 162, 39, 0.18), transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(26, 92, 82, 0.22), transparent 50%),
+    linear-gradient(165deg, #f7fbf9 0%, #e4efe9 45%, #d5e8e2 100%);
+  background-attachment: fixed;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 1.5rem;
+  gap: 1rem;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: var(--forest);
+}
+
+.brand span {
+  color: var(--gold);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border: none;
+  border-radius: 999px;
+  padding: 0.75rem 1.35rem;
+  font-weight: 600;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--forest), var(--pine));
+  color: #fff;
+  box-shadow: 0 10px 24px rgba(15, 61, 54, 0.28);
+}
+
+.btn-primary:hover {
+  box-shadow: 0 14px 28px rgba(15, 61, 54, 0.35);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--forest);
+  border: 1px solid rgba(15, 61, 54, 0.2);
+}
+
+.btn-danger {
+  background: var(--danger);
+  color: #fff;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.field label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.field input,
+.field select {
+  border: 1px solid rgba(15, 61, 54, 0.18);
+  background: rgba(255, 255, 255, 0.75);
+  border-radius: 12px;
+  padding: 0.8rem 1rem;
+  outline: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.field input:focus,
+.field select:focus {
+  border-color: var(--pine);
+  box-shadow: 0 0 0 3px rgba(26, 92, 82, 0.15);
+}
+
+.error-banner {
+  background: rgba(179, 58, 58, 0.1);
+  color: var(--danger);
+  border: 1px solid rgba(179, 58, 58, 0.25);
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-soft {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.03);
+  }
+}
+
+@keyframes mouth-idle {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(0.5);
+  }
+}
+
+.animate-rise {
+  animation: rise-in 0.55s ease both;
+}

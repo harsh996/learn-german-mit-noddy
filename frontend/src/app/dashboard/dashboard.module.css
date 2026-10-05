@@ -1,0 +1,34 @@
+.main {
+  flex: 1;
+  padding: 0.5rem 1.25rem 2.5rem;
+}
+
+.navActions {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.empty,
+.loading {
+  text-align: center;
+  color: var(--muted);
+  margin-top: 4rem;
+  display: grid;
+  gap: 1rem;
+  justify-items: center;
+}
+
+.brand {
+  background: none;
+  border: none;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: var(--forest);
+  cursor: pointer;
+}
+
+.brand span {
+  color: var(--gold);
+}
