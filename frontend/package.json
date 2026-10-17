@@ -12,6 +12,7 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
+    "@met4citizen/headaudio": "^0.1.0",
     "@met4citizen/talkinghead": "^1.7.0",
     "@prisma/client": "^6.5.0",
     "bcryptjs": "^2.4.3",

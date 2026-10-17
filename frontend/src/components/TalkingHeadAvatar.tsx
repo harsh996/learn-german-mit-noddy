@@ -9,62 +9,76 @@ type Props = {
   gender: AvatarGender;
   name: string;
   mediaStream: MediaStream | null;
+  /** When true, resume Web Audio so delayed tutor playback + lip sync run */
+  audioUnlocked?: boolean;
   mouthOpen?: number;
   speaking?: boolean;
 };
 
 type HeadInstance = {
   showAvatar: (avatar: Record<string, unknown>, onprogress?: unknown) => Promise<void>;
-  setValue: (mt: string, val: number, ms?: number | null) => void;
   lookAtCamera: (t?: number) => void;
+  setView?: (view: string, opt?: Record<string, unknown>) => void;
   start: () => void;
   stop: () => void;
   streamStop?: () => void;
+  speakWithHands?: () => void;
+  audioCtx: AudioContext;
+  mtAvatar: Record<string, { newvalue: number | null; needsUpdate: boolean }>;
+  opt: { update?: ((dt: number) => void) | null };
+  isSpeaking: boolean;
 };
 
-const VISEME_KEYS = [
-  "viseme_sil",
-  "viseme_PP",
-  "viseme_FF",
-  "viseme_TH",
-  "viseme_DD",
-  "viseme_kk",
-  "viseme_CH",
-  "viseme_SS",
-  "viseme_nn",
-  "viseme_RR",
-  "viseme_aa",
-  "viseme_E",
-  "viseme_I",
-  "viseme_O",
-  "viseme_U",
-] as const;
+type HeadAudioInstance = AudioWorkletNode & {
+  loadModel: (url: string, reset?: boolean) => Promise<void>;
+  update: (dt: number) => void;
+  start: () => void;
+  stop: () => void;
+  onvalue: ((key: string, value: number) => void) | null;
+  onstarted: ((data: unknown) => void) | null;
+  onended: ((data: unknown) => void) | null;
+  parameters: AudioParamMap;
+};
+
+const WORKLET_URL = "/headaudio/headworklet.min.mjs";
+const MODEL_URL = "/headaudio/model-en-mixed.bin";
+/** Delay heard audio so MFCC visemes land on the syllables the user hears */
+const PLAYBACK_DELAY_SEC = 0.09;
 
 /**
- * Free client-side 3D avatar (TalkingHead + local GLB).
- * Lip sync driven from the LiveKit tutor MediaStream.
+ * Production avatar: TalkingHead 3D + HeadAudio MFCC lip-sync.
+ * Looks at the camera; lips driven from live tutor audio (works for German speech).
  */
 export function TalkingHeadAvatar({
   gender,
   name,
   mediaStream,
+  audioUnlocked = false,
   mouthOpen = 0,
   speaking = false,
 }: Props) {
-  const rootRef = useRef<HTMLDivElement>(null);
   const mountRef = useRef<HTMLDivElement>(null);
   const headRef = useRef<HeadInstance | null>(null);
+  const headAudioRef = useRef<HeadAudioInstance | null>(null);
+  const streamNodesRef = useRef<{
+    source: MediaStreamAudioSourceNode;
+    delay: DelayNode;
+    gain: GainNode;
+  } | null>(null);
+  const gazeTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+
   const [ready, setReady] = useState(false);
   const [failed, setFailed] = useState(false);
   const [loading, setLoading] = useState(true);
   const [errorHint, setErrorHint] = useState("");
 
+  // Boot TalkingHead + HeadAudio
   useEffect(() => {
     let cancelled = false;
     let head: HeadInstance | null = null;
+    let headAudio: HeadAudioInstance | null = null;
 
     async function boot() {
-      // Wait one frame so the mount node has layout size
       await new Promise((r) => requestAnimationFrame(() => r(null)));
       const node = mountRef.current;
       if (!node || cancelled) return;
@@ -75,7 +89,10 @@ export function TalkingHeadAvatar({
       setErrorHint("");
 
       try {
-        const { TalkingHead } = await import("@met4citizen/talkinghead");
+        const [{ TalkingHead }, { HeadAudio }] = await Promise.all([
+          import("@met4citizen/talkinghead"),
+          import("@met4citizen/headaudio/dist/headaudio.min.mjs"),
+        ]);
         if (cancelled || !mountRef.current) return;
 
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -83,17 +100,27 @@ export function TalkingHeadAvatar({
           ttsEndpoint: "",
           lipsyncModules: [],
           lipsyncLang: "de",
-          cameraView: "upper",
-          cameraDistance: -0.05,
+          cameraView: "head",
+          cameraDistance: -0.35,
           cameraY: 0.02,
+          cameraX: 0,
+          cameraRotateX: 0,
+          cameraRotateY: 0,
           modelFPS: 30,
-          modelPixelRatio: Math.min(typeof window !== "undefined" ? window.devicePixelRatio || 1 : 1, 1.75),
-          lightAmbientIntensity: 2.2,
-          lightDirectIntensity: 22,
-          lightSpotIntensity: 4,
-          avatarMood: "happy",
-          avatarIdleHeadMove: 0.5,
-          avatarSpeakingHeadMove: 0.7,
+          modelMovementFactor: 0.25,
+          modelPixelRatio: Math.min(
+            typeof window !== "undefined" ? window.devicePixelRatio || 1 : 1,
+            1.75
+          ),
+          lightAmbientIntensity: 2.4,
+          lightDirectIntensity: 20,
+          lightSpotIntensity: 6,
+          avatarMood: "neutral",
+          avatarIgnoreCamera: false,
+          avatarIdleEyeContact: 0.95,
+          avatarSpeakingEyeContact: 1,
+          avatarIdleHeadMove: 0.12,
+          avatarSpeakingHeadMove: 0.18,
           cameraRotateEnable: false,
           cameraPanEnable: false,
           cameraZoomEnable: false,
@@ -101,12 +128,58 @@ export function TalkingHeadAvatar({
 
         headRef.current = head;
 
+        await head.audioCtx.audioWorklet.addModule(WORKLET_URL);
+        if (cancelled) {
+          head.stop();
+          return;
+        }
+
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        headAudio = new (HeadAudio as any)(head.audioCtx, {
+          parameterData: {
+            vadGateActiveDb: -42,
+            vadGateInactiveDb: -58,
+            vadGateActiveMs: 12,
+            vadGateInactiveMs: 80,
+            speakerMeanHz: gender === "female" ? 210 : 120,
+          },
+        }) as HeadAudioInstance;
+
+        await headAudio.loadModel(MODEL_URL);
+        headAudioRef.current = headAudio;
+
+        headAudio.onvalue = (key, value) => {
+          const mt = head?.mtAvatar?.[key];
+          if (!mt) return;
+          Object.assign(mt, { newvalue: value, needsUpdate: true });
+        };
+
+        let lastEnded = 0;
+        headAudio.onended = () => {
+          lastEnded = Date.now();
+          if (head) head.isSpeaking = false;
+        };
+        headAudio.onstarted = () => {
+          if (!head) return;
+          head.isSpeaking = true;
+          if (Date.now() - lastEnded > 120) {
+            head.lookAtCamera(400);
+          }
+        };
+
+        head.opt.update = headAudio.update.bind(headAudio);
+
         const cfg = getAvatarConfig(gender);
         const avatarOpts: Record<string, unknown> = {
           url: cfg.url,
           body: cfg.body,
-          avatarMood: cfg.avatarMood,
+          avatarMood: "neutral",
           lipsyncLang: "de",
+          avatarIgnoreCamera: false,
+          avatarIdleEyeContact: 0.95,
+          avatarSpeakingEyeContact: 1,
+          avatarIdleHeadMove: 0.12,
+          avatarSpeakingHeadMove: 0.18,
         };
         if (cfg.baseline) avatarOpts.baseline = cfg.baseline;
         if (cfg.retarget) avatarOpts.retarget = cfg.retarget;
@@ -117,12 +190,23 @@ export function TalkingHeadAvatar({
           return;
         }
 
-        head.lookAtCamera(600);
+        head.setView?.("head", {
+          cameraDistance: -0.35,
+          cameraY: 0.02,
+          cameraX: 0,
+        });
+        head.lookAtCamera(0);
         head.start();
+        headAudio.start();
+
+        gazeTimerRef.current = setInterval(() => {
+          headRef.current?.lookAtCamera(600);
+        }, 3500);
+
         setReady(true);
         setLoading(false);
       } catch (err) {
-        console.warn("TalkingHead failed, using canvas fallback", err);
+        console.warn("TalkingHead/HeadAudio failed, using canvas fallback", err);
         if (!cancelled) {
           setErrorHint(err instanceof Error ? err.message : "3D avatar failed to load");
           setFailed(true);
@@ -136,6 +220,25 @@ export function TalkingHeadAvatar({
 
     return () => {
       cancelled = true;
+      if (gazeTimerRef.current) {
+        clearInterval(gazeTimerRef.current);
+        gazeTimerRef.current = null;
+      }
+      try {
+        streamNodesRef.current?.source.disconnect();
+        streamNodesRef.current?.delay.disconnect();
+        streamNodesRef.current?.gain.disconnect();
+      } catch {
+        // ignore
+      }
+      streamNodesRef.current = null;
+      try {
+        headAudioRef.current?.stop();
+        headAudioRef.current?.disconnect();
+      } catch {
+        // ignore
+      }
+      headAudioRef.current = null;
       try {
         headRef.current?.streamStop?.();
         headRef.current?.stop();
@@ -147,108 +250,63 @@ export function TalkingHeadAvatar({
     };
   }, [gender]);
 
+  // Wire LiveKit tutor MediaStream → HeadAudio + delayed playback
   useEffect(() => {
     const head = headRef.current;
-    if (!ready || !head || !mediaStream) return;
+    const headAudio = headAudioRef.current;
+    if (!ready || !head || !headAudio || !mediaStream) return;
     if (!mediaStream.getAudioTracks()[0]) return;
 
-    const Ctx =
-      window.AudioContext ||
-      (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
-    const ctx = new Ctx();
-    const source = ctx.createMediaStreamSource(mediaStream);
-    const analyser = ctx.createAnalyser();
-    analyser.fftSize = 512;
-    analyser.smoothingTimeConstant = 0.55;
-    source.connect(analyser);
+    try {
+      streamNodesRef.current?.source.disconnect();
+      streamNodesRef.current?.delay.disconnect();
+      streamNodesRef.current?.gain.disconnect();
+    } catch {
+      // ignore
+    }
 
-    const freq = new Uint8Array(analyser.frequencyBinCount);
-    const time = new Uint8Array(analyser.fftSize);
-    let raf = 0;
-    let lastViseme = "viseme_sil";
+    const source = head.audioCtx.createMediaStreamSource(mediaStream);
+    const delay = head.audioCtx.createDelay(0.25);
+    delay.delayTime.value = PLAYBACK_DELAY_SEC;
+    const gain = head.audioCtx.createGain();
+    gain.gain.value = 1;
 
-    const clearVisemes = (except?: string) => {
-      for (const key of VISEME_KEYS) {
-        if (key === except) continue;
-        head.setValue(key, 0, 60);
-      }
-      head.setValue("mouthOpen", 0, 60);
-      head.setValue("jawOpen", 0, 60);
-    };
+    // Undelayed → lip sync classifier (so mouth leads, then delayed audio catches up)
+    source.connect(headAudio);
+    // Delayed → speakers (aligns heard German syllables with visemes)
+    source.connect(delay);
+    delay.connect(gain);
+    gain.connect(head.audioCtx.destination);
 
-    const tick = () => {
-      analyser.getByteFrequencyData(freq);
-      analyser.getByteTimeDomainData(time);
-
-      let ampSum = 0;
-      for (let i = 0; i < time.length; i++) {
-        const v = (time[i] - 128) / 128;
-        ampSum += v * v;
-      }
-      const rms = Math.sqrt(ampSum / time.length);
-
-      const n = freq.length;
-      const band = (from: number, to: number) => {
-        let s = 0;
-        const a = Math.floor(from * n);
-        const b = Math.min(n, Math.ceil(to * n));
-        for (let i = a; i < b; i++) s += freq[i];
-        return s / Math.max(1, b - a) / 255;
-      };
-
-      const low = band(0.02, 0.12);
-      const mid = band(0.12, 0.35);
-      const high = band(0.35, 0.7);
-      const level = Math.min(1, Math.pow(rms * 4.2, 1.05));
-
-      if (level < 0.045) {
-        if (lastViseme !== "viseme_sil") {
-          clearVisemes("viseme_sil");
-          head.setValue("viseme_sil", 1, 80);
-          lastViseme = "viseme_sil";
-        }
-        raf = requestAnimationFrame(tick);
-        return;
-      }
-
-      let viseme: (typeof VISEME_KEYS)[number] = "viseme_aa";
-      if (high > mid && high > low && high > 0.22) {
-        viseme = high > 0.4 ? "viseme_SS" : "viseme_FF";
-      } else if (low > mid * 1.15) {
-        viseme = low > 0.45 ? "viseme_O" : "viseme_aa";
-      } else if (mid > low && mid > high) {
-        viseme = mid > 0.4 ? "viseme_E" : "viseme_I";
-      } else if (high > 0.18 && mid > 0.2) {
-        viseme = "viseme_CH";
-      } else {
-        viseme = "viseme_U";
-      }
-
-      const strength = Math.min(0.95, 0.35 + level * 0.7);
-      if (viseme !== lastViseme) {
-        clearVisemes(viseme);
-        lastViseme = viseme;
-      }
-      head.setValue(viseme, strength, 45);
-      head.setValue("mouthOpen", Math.min(1, level * 1.15), 45);
-      head.setValue("jawOpen", Math.min(0.85, level * 0.9), 45);
-
-      raf = requestAnimationFrame(tick);
-    };
-
-    void ctx.resume().catch(() => undefined);
-    raf = requestAnimationFrame(tick);
+    streamNodesRef.current = { source, delay, gain };
+    head.lookAtCamera(300);
 
     return () => {
-      cancelAnimationFrame(raf);
-      clearVisemes();
-      void ctx.close().catch(() => undefined);
+      try {
+        source.disconnect();
+        delay.disconnect();
+        gain.disconnect();
+      } catch {
+        // ignore
+      }
+      if (streamNodesRef.current?.source === source) {
+        streamNodesRef.current = null;
+      }
     };
   }, [ready, mediaStream]);
 
+  // Resume AudioContext after user gesture / unlock
+  useEffect(() => {
+    const head = headRef.current;
+    if (!ready || !head || !audioUnlocked) return;
+    void head.audioCtx.resume().catch(() => undefined);
+    headAudioRef.current?.start();
+    head.lookAtCamera(400);
+  }, [ready, audioUnlocked]);
+
   if (failed) {
     return (
-      <div className={styles.fallback} ref={rootRef}>
+      <div className={styles.fallback}>
         <LipSyncAvatar gender={gender} name={name} mouthOpen={mouthOpen} speaking={speaking} />
         {errorHint ? <p className={styles.errorHint}>{errorHint}</p> : null}
       </div>
@@ -256,7 +314,7 @@ export function TalkingHeadAvatar({
   }
 
   return (
-    <div className={styles.root} ref={rootRef}>
+    <div className={styles.root}>
       <div ref={mountRef} className={styles.viewport} aria-label={`${name} 3D avatar`} />
       {loading ? <div className={styles.overlay}>Loading {name}…</div> : null}
     </div>

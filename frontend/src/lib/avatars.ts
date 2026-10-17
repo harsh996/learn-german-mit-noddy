@@ -10,8 +10,14 @@ export const TUTOR_AVATARS = {
     name: "Hannah",
     body: "F" as const,
     url: "/avatars/hannah.glb",
-    avatarMood: "happy",
-    baseline: undefined as Record<string, number> | undefined,
+    avatarMood: "neutral",
+    // Face the camera; slight lid baseline keeps a natural resting gaze
+    baseline: {
+      headRotateX: -0.02,
+      headRotateY: 0,
+      eyeBlinkLeft: 0.04,
+      eyeBlinkRight: 0.04,
+    } as Record<string, number>,
     retarget: undefined as Record<string, unknown> | undefined,
   },
   male: {
