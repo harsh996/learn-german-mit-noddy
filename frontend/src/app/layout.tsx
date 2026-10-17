@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Fraunces, Manrope } from "next/font/google";
 import "./globals.css";
+import { SavedWordsProvider } from "@/components/vocab/SavedWordsProvider";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -30,7 +31,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           } as React.CSSProperties
         }
       >
-        {children}
+        <SavedWordsProvider>{children}</SavedWordsProvider>
       </body>
     </html>
   );

@@ -1,0 +1,481 @@
+#410
+p verb | gratuliert, gratulierte, hat gratuliert
+m to congratulate ; 0
+s Congratulations! ## Ich=I|gratuliere=congratulate|dir=you
+
+#411
+p verb | grillt, grillte, hat gegrillt
+m to grill, to barbecue ; 0
+s Today we're barbecuing in the garden. ## Heute=today|grillen=barbecue|wir=we|im=in the|Garten=garden
+
+#412
+p verb | hat, hatte, hat gehabt
+m to have ; 0
+s I have a new car. ## Ich=I|habe=have|ein=a|neues=new|Auto=car
+
+#413
+p verb | hält, hielt, hat gehalten
+m to stop, to hold ; 0
+s This train does not stop in Rüdesheim. ## Dieser=this|Zug=train|hält=stops|nicht=not|in=in|Rüdesheim=Rüdesheim
+
+#414
+p verb | heiratet, heiratete, hat geheiratet
+m to marry, to get married ; 0
+s My sister is marrying a Japanese man. ## Meine=my|Schwester=sister|heiratet=marries|einen=a|Japaner=Japanese man
+
+#415
+p verb | heißt, hieß, hat geheißen
+m to be called, to be named ; 0
+m to mean, to be called (in a language) ; 1
+s My name is Charlotte Meier. ## Ich=I|heiße=am called|Charlotte=Charlotte|Meier=Meier
+s What is that called in German? ## Wie=how|heißt=is called|das=that|auf=in|Deutsch=German
+
+#416
+p verb | hilft, half, hat geholfen
+m to help ; 0
+s Can you help me, please? ## Können=can|Sie=you|mir=me|helfen=help|bitte=please
+
+#417
+p verb | holt, holte, hat geholt
+m to fetch, to get ; 0
+s I'm getting two bottles of water from the kitchen. ## Ich=I|hole=fetch|zwei=two|Flaschen=bottles|Wasser=water|aus=from|der=the|Küche=kitchen
+
+#418
+p verb | hört, hörte, hat gehört
+m to hear, to listen ; 0,1
+s Listen! What is that? ## Hör=listen|mal=just|Was=what|ist=is|das=that
+s I've heard the song before. ## Ich=I|habe=have|das=the|Lied=song|schon=already|mal=once|gehört=heard
+
+#419
+p verb | kauft, kaufte, hat gekauft
+m to buy ; 0
+s Tim is buying himself a new car. ## Tim=Tim|kauft=buys|sich=himself|ein=a|neues=new|Auto=car
+
+#420
+p verb | kennt, kannte, hat gekannt
+m to know (a person/place) ; 0
+s Do you know this woman? No, unfortunately not. ## Kennen=know|Sie=you|diese=this|Frau=woman|Nein=no|leider=unfortunately|nicht=not
+
+#421
+p verb | lernt kennen, lernte kennen, hat kennengelernt
+m to get to know, to meet ; 0
+s We are new here. We would like to get to know you. ## Wir=we|sind=are|neu=new|hier=here|möchten=would like|Sie=you|kennenlernen=get to know
+
+#422
+p verb | kocht, kochte, hat gekocht
+m to cook ; 0
+s Mr. Georgi can cook well. ## Herr=Mr.|Georgi=Georgi|kann=can|gut=well|kochen=cook
+
+#423
+p verb | kommt, kam, ist gekommen
+m to come ; 0,1
+s Where do you come from? – From France. ## Woher=where from|kommen=come|Sie=you|Aus=from|Frankreich=France
+s Are you coming to the swimming pool? ## Kommst=come|du=you|mit=along|ins=to the|Schwimmbad=swimming pool
+
+#424
+p verb | kann, konnte, hat gekonnt
+m can, to be able to ; 0,1
+s I can speak German and Russian. ## Ich=I|kann=can|Deutsch=German|und=and|Russisch=Russian
+s Can you help me? ## Können=can|Sie=you|mir=me|helfen=help
+
+#425
+p verb | kostet, kostete, hat gekostet
+m to cost ; 0
+s How much does that cost? 10 euros. ## Wie=how|viel=much|kostet=costs|das=that|Euro=euros
+
+#426
+p verb | kriegt, kriegte, hat gekriegt
+m to get, to receive (informal) ; 0
+s I get 15 euros an hour for my work. ## Ich=I|kriege=get|Euro=euros|in=in|der=the|Stunde=hour|für=for|meine=my|Arbeit=work
+
+#427
+p verb | kümmert sich, kümmerte sich, hat sich gekümmert
+m to take care of, to look after ; 0
+s Every mother takes care of her small children. ## Jede=every|Mutter=mother|kümmert=takes care|sich=herself|um=of|ihre=her|kleinen=small|Kinder=children
+
+#428
+p verb | lacht, lachte, hat gelacht
+m to laugh ; 0
+s The children laugh a lot. ## Die=the|Kinder=children|lachen=laugh|viel=a lot
+
+#429
+p verb | läuft, lief, ist gelaufen
+m to walk, to run ; 0
+s I don't want to drive, I want to walk. ## Ich=I|möchte=would like|nicht=not|Auto=car|fahren=drive|laufen=walk
+
+#430
+p verb | lebt, lebte, hat gelebt
+m to live, to be alive ; 0,1
+s She lives with her sister. ## Sie=she|lebt=lives|bei=with|ihrer=her|Schwester=sister
+s Her parents are no longer alive. ## Ihre=her|Eltern=parents|leben=live|nicht=not|mehr=any more
+
+#431
+p verb | legt, legte, hat gelegt
+m to lay, to put (flat) ; 0
+s Put the book on the table. ## Legen=put|Sie=you|das=the|Buch=book|auf=on|den=the|Tisch=table
+
+#432
+p verb | lernt, lernte, hat gelernt
+m to learn ; 0
+s How long have you been learning German? ## Wie=how|lange=long|lernen=learn|Sie=you|schon=already|Deutsch=German
+
+#433
+p verb | liest, las, hat gelesen
+m to read ; 0
+s I'm reading a book by García Márquez. ## Ich=I|lese=read|ein=a|Buch=book|von=by|García=García|Márquez=Márquez
+
+#434
+p verb | liebt, liebte, hat geliebt
+m to love ; 0
+s I love you! ## Ich=I|liebe=love|dich=you
+
+#435
+p verb | liegt, lag, hat gelegen
+m to lie, to be lying ; 0
+m to be located ; 1
+s At nine o'clock Judith is still lying in bed. ## Um=at|neun=nine|Uhr=o'clock|liegt=lies|Judith=Judith|noch=still|im=in|Bett=bed
+s Frankfurt is located on the Main. ## Frankfurt=Frankfurt|liegt=is located|am=on the|Main=Main
+
+#436
+p verb | macht, machte, hat gemacht
+m to do, to make ; 0,1
+m to amount to (price) ; 2
+m "it doesn't matter" (Das macht nichts.) ; 3
+s What are you doing tonight? ## Was=what|machst=do|du=you|heute=today|Abend=evening
+s I have to make the meal now. ## Ich=I|muss=must|jetzt=now|das=the|Essen=meal|machen=make
+s That comes to 5 euros 95. ## Das=that|macht=makes|Euro=euros
+s That doesn't matter. ## Das=that|macht=makes|nichts=nothing
+
+#437
+p verb | mietet, mietete, hat gemietet
+m to rent ; 0
+s I would like to rent a car. ## Ich=I|möchte=would like|ein=a|Auto=car|mieten=rent
+
+#438
+p verb | bringt mit, brachte mit, hat mitgebracht
+m to bring along ; 0
+s I'm going shopping. Shall I bring you something? ## Ich=I|gehe=go|einkaufen=shopping|Soll=shall|ich=I|dir=you|was=something|mitbringen=bring along
+
+#439
+p verb | kommt mit, kam mit, ist mitgekommen
+m to come along ; 0
+s I'm going to the cinema. Are you coming along? ## Ich=I|gehe=go|ins=to the|Kino=cinema|Kommst=come|du=you|mit=along
+
+#440
+p verb | macht mit, machte mit, hat mitgemacht
+m to join in, to take part ; 0
+s Why aren't you joining in? ## Warum=why|macht=makes|ihr=you (pl.)|nicht=not|mit=along
+
+#441
+p verb | nimmt mit, nahm mit, hat mitgenommen
+m to take along ; 0
+s Shall we take my sister to the cinema? ## Nehmen=take|wir=we|meine=my|Schwester=sister|ins=to the|Kino=cinema|mit=along
+
+#442
+p verb | möchte, wollte, hat gewollt
+m would like (to) ; 0
+s What would you like to drink? ## Was=what|möchten=would like|Sie=you|trinken=drink
+
+#443
+p verb | mag, mochte, hat gemocht
+m to like ; 0
+s Do you like coffee or tea? ## Magst=like|du=you|Kaffee=coffee|oder=or|Tee=tea
+
+#444
+p verb | muss, musste, hat gemusst
+m must, to have to ; 0
+s I have to work every day from 8 a.m. to 6 p.m. ## Ich=I|muss=must|jeden=every|Tag=day|von=from|Uhr=o'clock|bis=to|arbeiten=work
+
+#445
+p verb | nimmt, nahm, hat genommen
+m to take ; 0,1
+s Today there's chicken. I'll take that. ## Heute=today|gibt=gives|es=it|Hähnchen=chicken|Das=that|nehme=take|ich=I
+s I'll take the bus. ## Ich=I|nehme=take|den=the|Bus=bus
+
+#446
+p verb | öffnet, öffnete, hat geöffnet
+m to open ; 0
+s I'm opening the door. ## Ich=I|öffne=open|die=the|Tür=door
+
+#447
+p verb | raucht, rauchte, hat geraucht
+m to smoke ; 0
+s I don't smoke. ## Ich=I|rauche=smoke|nicht=not
+
+#448
+p verb | regnet, regnete, hat geregnet
+m to rain ; 0
+s It's raining today. ## Heute=today|regnet=rains|es=it
+
+#449
+p verb | reist, reiste, ist gereist
+m to travel ; 0
+s I like traveling. ## Ich=I|reise=travel|gern=gladly
+
+#450
+p verb | repariert, reparierte, hat repariert
+m to repair, to fix ; 0
+s He repaired the bicycle. ## Er=he|hat=has|das=the|Fahrrad=bicycle|repariert=repaired
+
+#451
+p verb | riecht, roch, hat gerochen
+m to smell ; 0
+s This wine smells good. ## Dieser=this|Wein=wine|riecht=smells|gut=good
+
+#452
+p verb | sagt, sagte, hat gesagt
+m to say, to tell ; 0
+s Tell me, how are you doing? ## Sag=say|mal=just|wie=how|geht=goes|es=it|dir=you|denn=then
+
+#453
+p verb | scheint, schien, hat geschienen
+m to shine, to seem ; 0
+s The sun is shining. ## Die=the|Sonne=sun|scheint=shines
+
+#454
+p verb | schickt, schickte, hat geschickt
+m to send ; 0
+s Please send me an email. ## Bitte=please|schicken=send|Sie=you|mir=me|eine=an|E-Mail=email
+
+#455
+p verb | schläft, schlief, hat geschlafen
+m to sleep ; 0
+s I usually sleep eight hours. ## Ich=I|schlafe=sleep|meistens=mostly|acht=eight|Stunden=hours
+
+#456
+p verb | schließt, schloss, hat geschlossen
+m to close, to shut ; 0
+s Please close the door. ## Bitte=please|schließen=close|Sie=you|die=the|Tür=door
+
+#457
+p verb | schmeckt, schmeckte, hat geschmeckt
+m to taste ; 0
+s Does that taste good? ## Schmeckt=tastes|das=that|gut=good
+
+#458
+p verb | schreibt, schrieb, hat geschrieben
+m to write ; 0
+s He writes fifty emails every day. ## Er=he|schreibt=writes|jeden=every|Tag=day|fünfzig=fifty|E-Mails=emails
+
+#459
+p verb | schwimmt, schwamm, ist geschwommen
+m to swim ; 0
+s I swim one kilometer every day. ## Ich=I|schwimme=swim|jeden=every|Tag=day|einen=one|Kilometer=kilometer
+
+#460
+p verb | sieht, sah, hat gesehen
+m to see ; 0,1
+s I can't see you. ## Ich=I|kann=can|dich=you|nicht=not|sehen=see
+s I've seen this boy before. ## Ich=I|habe=have|diesen=this|Jungen=boy|schon=already|einmal=once|gesehen=seen
+
+#461
+p verb | ist, war, ist gewesen
+m to be ; 0,1,2
+s Mr. Müller is in his room. ## Herr=Mr.|Müller=Müller|ist=is|in=in|seinem=his|Zimmer=room
+s I am cold. ## Mir=me|ist=is|kalt=cold
+s I am twenty-three. ## Ich=I|bin=am|dreiundzwanzig=twenty-three
+
+#462
+p verb | sitzt, saß, hat gesessen
+m to sit ; 0
+s Where are you sitting? ## Wo=where|sitzen=sit|Sie=you
+
+#463
+p verb | soll, sollte, hat gesollt
+m should, to be supposed to ; 0,1
+s Should I come? ## Soll=should|ich=I|kommen=come
+s What should I bring? ## Was=what|soll=should|ich=I|mitbringen=bring
+
+#464
+p verb | spielt, spielte, hat gespielt
+m to play ; 0,1
+s The children are playing outside. ## Die=the|Kinder=children|spielen=play|draußen=outside
+s Do you play cards? ## Spielen=play|Sie=you|Karten=cards
+
+#465
+p verb | spricht, sprach, hat gesprochen
+m to speak, to talk ; 0,1
+s Which languages do you speak? ## Welche=which|Sprachen=languages|sprichst=speak|du=you
+s May I speak to Mr. Klein? ## Kann=can|ich=I|mit=with|Herrn=Mr.|Klein=Klein|sprechen=speak
+
+#466
+p verb | steht, stand, hat gestanden
+m to stand ; 1
+m to be written, to say (in a text) ; 0
+s I don't believe it, but it says so in the newspaper. ## Ich=I|glaube=believe|es=it|nicht=not|aber=but|steht=stands|in=in|der=the|Zeitung=newspaper
+s The bus is already standing at the stop. ## Der=the|Bus=bus|steht=stands|schon=already|an=at|der=the|Haltestelle=stop
+
+#467
+p verb | stellt, stellte, hat gestellt
+m to put, to place (upright) ; 0
+s Put the bag in the corner on the right! ## Stell=put|die=the|Tasche=bag|rechts=right|in=in|die=the|Ecke=corner
+
+#468
+p verb | studiert, studierte, hat studiert
+m to study (at university) ; 0
+s I study in Mainz. ## Ich=I|studiere=study|in=in|Mainz=Mainz
+
+#469
+p verb | sucht, suchte, hat gesucht
+m to look for, to search ; 0
+s Are you looking for something? ## Suchst=look for|du=you|etwas=something
+
+#470
+p verb | tanzt, tanzte, hat getanzt
+m to dance ; 0
+s Do you like dancing? ## Tanzen=dance|Sie=you|gern=gladly
+
+#471
+p verb | telefoniert, telefonierte, hat telefoniert
+m to phone, to make a phone call ; 0
+s May I make a call? ## Darf=may|ich=I|mal=once|telefonieren=phone
+
+#472
+p verb | trifft, traf, hat getroffen
+m to meet ; 0
+m to meet up (with each other) ; 1
+s I'm meeting a colleague in town. ## Ich=I|treffe=meet|in=in|der=the|Stadt=town|einen=a|Kollegen=colleague
+s We always meet on Fridays. ## Wir=we|treffen=meet|uns=each other|immer=always|freitags=on Fridays
+
+#473
+p verb | trinkt, trank, hat getrunken
+m to drink ; 0
+s Would you like something to drink? ## Möchtest=would like|du=you|etwas=something|trinken=drink
+
+#474
+p verb | tut, tat, hat getan
+m to do ; 0,1
+s I still have something to do. ## Ich=I|habe=have|noch=still|etwas=something|zu=to|tun=do
+s What does your husband do? ## Was=what|tut=does|Ihr=your|Mann=husband
+
+#475
+p verb | übernachtet, übernachtete, hat übernachtet
+m to stay overnight ; 0
+s You can stay the night at my place. ## Du=you|kannst=can|bei=at|mir=me|übernachten=stay overnight
+
+#476
+p verb | überweist, überwies, hat überwiesen
+m to transfer (money) ; 0
+s You can also transfer the money. ## Sie=you|können=can|das=the|Geld=money|auch=also|überweisen=transfer
+
+#477
+p verb | zieht um, zog um, ist umgezogen
+m to move (house) ; 0
+s We're moving next month. ## Nächsten=next|Monat=month|ziehen=move|wir=we|um=(part of umziehen)
+
+#478
+p verb | unterschreibt, unterschrieb, hat unterschrieben
+m to sign ; 0
+s Where do I have to sign? ## Wo=where|muss=must|ich=I|unterschreiben=sign
+
+#479
+p verb | verdient, verdiente, hat verdient
+m to earn ; 0
+s I earn 1,500 euros a month. ## Ich=I|verdiene=earn|Euro=euros|im=per|Monat=month
+
+#480
+p verb | verkauft, verkaufte, hat verkauft
+m to sell ; 0
+s He is selling his old car. ## Er=he|verkauft=sells|sein=his|altes=old|Auto=car
+
+#481
+p verb | vermietet, vermietete, hat vermietet
+m to rent out ; 0
+s The apartment has already been rented out. ## Die=the|Wohnung=apartment|ist=is|schon=already|vermietet=rented out
+
+#482
+p verb | versteht, verstand, hat verstanden
+m to understand ; 0
+s Can you understand me? ## Können=can|Sie=you|mich=me|verstehen=understand
+
+#483
+p verb | stellt sich vor, stellte sich vor, hat sich vorgestellt
+m to introduce oneself ; 0
+s We want to get to know each other. Could you please introduce yourself? ## Wir=we|wollen=want|uns=each other|kennenlernen=get to know|Können=can|Sie=you|sich=yourself|bitte=please|vorstellen=introduce
+
+#484
+p verb | wandert, wanderte, ist gewandert
+m to hike ; 0
+s We are hiking around Lake Chiemsee. ## Wir=we|wandern=hike|um=around|den=the|Chiemsee=Lake Chiemsee
+
+#485
+p verb | wartet, wartete, hat gewartet
+m to wait ; 0,1
+s Can you wait a few minutes? ## Können=can|Sie=you|ein=a|paar=few|Minuten=minutes|warten=wait
+s Who are you waiting for? ## Auf=for|wen=whom|warten=wait|Sie=you
+
+#486
+p verb | wäscht, wusch, hat gewaschen
+m to wash (oneself) ; 0
+m to do the laundry ; 1
+s Where can I wash my hands? ## Wo=where|kann=can|ich=I|mir=myself|die=the|Hände=hands|waschen=wash
+s I have to do the laundry tomorrow. ## Ich=I|muss=must|morgen=tomorrow|waschen=do laundry
+
+#487
+p verb | tut weh, tat weh, hat wehgetan
+m to hurt ; 0
+s I have to go to the doctor. My leg hurts. ## Ich=I|muss=must|zum=to the|Arzt=doctor|Mein=my|Bein=leg|tut=does|weh=hurt
+
+#488
+p verb | wird, wurde, ist geworden
+m to become ; 0
+s My son wants to become a doctor. ## Mein=my|Sohn=son|will=wants|Arzt=doctor|werden=become
+
+#489
+p verb | wiederholt, wiederholte, hat wiederholt
+m to repeat ; 0
+s Can you please repeat that? ## Können=can|Sie=you|das=that|bitte=please|wiederholen=repeat
+
+#490
+p verb | weiß, wusste, hat gewusst
+m to know (a fact) ; 0
+s Do you know what he's called? ## Weißt=know|du=you|wie=how|er=he|heißt=is called
+
+#491
+p verb | wohnt, wohnte, hat gewohnt
+m to live, to reside ; 0
+s I live in Munich. ## Ich=I|wohne=live|in=in|München=Munich
+
+#492
+p verb | will, wollte, hat gewollt
+m to want (to) ; 0
+s Do you want to have a coffee? ## Wollen=want|Sie=you|einen=a|Kaffee=coffee|trinken=drink
+
+#493
+p verb | zahlt, zahlte, hat gezahlt
+m to pay ; 0
+s The bill, please! (lit. Paying, please!) ## Zahlen=pay|bitte=please
+
+#494
+p adjective | 
+m alone, on one's own ; 0
+s He is coming alone. ## Er=he|kommt=comes|allein=alone
+
+#495
+p adjective | 
+m old ; 0,1,2,3,4
+s How old are you? ## Wie=how|alt=old|sind=are|Sie=you
+s But you don't look that old. ## Sie=you|sehen=look|aber=but|nicht=not|so=so|alt=old|aus=(part of aussehen)
+s My car is already very old. ## Mein=my|Auto=car|ist=is|schon=already|sehr=very|alt=old
+s We live in a very old house. ## Wir=we|wohnen=live|in=in|einem=a|sehr=very|alten=old|Haus=house
+s Cologne is an old city. ## Köln=Cologne|ist=is|eine=an|alte=old|Stadt=city
+
+#496
+p adjective | 
+m other, another ; 0
+s Do you want this jacket? No, I'd like the other one. ## Willst=want|du=you|diese=this|Jacke=jacket|Nein=no|ich=I|möchte=would like|die=the|andere=other one
+
+#497
+p adjective | 
+m on, switched on ; 0
+s The light was on all night. ## Heute=tonight|Nacht=night|war=was|das=the|Licht=light|an=on
+
+#498
+p adjective | 
+m unemployed ; 0
+s There are many people here who have been unemployed for a long time. ## Es=it|gibt=gives|bei=with|uns=us|viele=many|Leute=people|die=who|schon=already|lange=long|arbeitslos=unemployed|sind=are
+
+#499
+p adjective | 
+m foreign ; 0
+s Unfortunately I only have foreign money. ## Leider=unfortunately|habe=have|ich=I|nur=only|ausländisches=foreign|Geld=money

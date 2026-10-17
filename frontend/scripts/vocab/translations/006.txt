@@ -1,0 +1,540 @@
+#500
+p adjective | 
+m off, switched off ; 0
+m over, finished ; 1
+s The light is off. ## Das=the|Licht=light|ist=is|aus=off
+s School is over. ## Die=the|Schule=school|ist=is|aus=over
+
+#501
+p adjective | 
+m automatic ; 0
+s You don't have to do anything. It happens automatically. ## Du=you|musst=must|nichts=nothing|machen=do|Das=that|geht=goes|automatisch=automatically
+
+#502
+p adjective | 
+m in cash ; 0
+s Do I have to pay in cash or can I pay by card too? ## Muss=must|ich=I|bar=in cash|zahlen=pay|oder=or|geht's=goes it|auch=also|mit=with|Karte=card
+
+#503
+p adjective | 
+m well-known, famous ; 0
+s Picasso is very famous. ## Picasso=Picasso|ist=is|sehr=very|bekannt=famous
+
+#504
+p adjective | 
+m busy, engaged (phone) ; 0
+m taken, occupied ; 1
+s The number is always busy. ## Die=the|Nummer=number|ist=is|immer=always|besetzt=busy
+s The seat is taken. ## Der=the|Platz=seat|ist=is|besetzt=taken
+
+#505
+p adjective | besser, am besten
+m good ; 2,3,4,5,6
+m better, best ; 0,1
+s I'm already feeling better. ## Es=it|geht=goes|mir=me|schon=already|besser=better
+s It's best if we meet tomorrow. ## Am=at the|besten=best|treffen=meet|wir=we|uns=each other|morgen=tomorrow
+s I think that's good. ## Das=that|finde=find|ich=I|gut=good
+s I'll come at 1 p.m. – Good! ## Ich=I|komme=come|um=at|Uhr=o'clock|Gut=good
+s Good morning! ## Guten=good|Morgen=morning
+s Happy New Year! ## Ein=a|gutes=good|neues=new|Jahr=year
+s Enjoy your meal! ## Guten=good|Appetit=appetite
+
+#506
+p adjective | 
+m cheap ; 0
+s The jacket only costs 10 euros! That's cheap! ## Die=the|Jacke=jacket|kostet=costs|nur=only|Euro=euros|Die=that|ist=is|aber=but|billig=cheap
+
+#507
+p adjective | 
+m bitter ; 0
+s The coffee tastes bitter. ## Der=the|Kaffee=coffee|schmeckt=tastes|bitter=bitter
+
+#508
+p adjective | 
+m angry, mad ; 0
+m bad, evil ;
+s She is angry with me. ## Sie=she|ist=is|böse=angry|auf=with|mich=me
+
+#509
+p adjective | 
+m wide, broad ; 0
+s How wide is the cupboard? ## Wie=how|breit=wide|ist=is|der=the|Schrank=cupboard
+
+#510
+p adjective | 
+m German ;
+x Das ist ein deutsches Auto. ## That is a German car. ## Das=that|ist=is|ein=a|deutsches=German|Auto=car
+
+#511
+p adjective | 
+m European ;
+x Deutschland ist ein europäisches Land. ## Germany is a European country. ## Deutschland=Germany|ist=is|ein=a|europäisches=European|Land=country
+
+#512
+p adjective | 
+m simple, easy ; 0,2
+m one-way (ticket) ; 1
+s The exam is very easy. ## Die=the|Prüfung=exam|ist=is|ganz=quite|einfach=easy
+s Round trip? No, just one-way please. ## Hin=there|und=and|zurück=back|Nein=no|bitte=please|nur=only|einfach=one-way
+s I only need a basic room. ## Ich=I|brauche=need|nur=only|ein=a|einfaches=simple|Zimmer=room
+
+#513
+p adjective | 
+m in a hurry ; 0
+s Are you in a hurry? ## Hast=have|du=you|es=it|eilig=in a hurry
+
+#514
+p adjective | 
+m wrong, false ; 0
+s That is wrong. ## Das=that|ist=is|falsch=wrong
+
+#515
+p adjective | 
+m finished, ready ; 0,1
+s Are you ready? ## Bist=are|du=you|fertig=ready
+s Is my car ready yet? ## Ist=is|mein=my|Auto=car|schon=already|fertig=ready
+
+#516
+p adjective | 
+m free, vacant ; 0
+s Is the seat still free? ## Ist=is|der=the|Platz=seat|noch=still|frei=free
+
+#517
+p adjective | 
+m unfamiliar, foreign ; 0
+s I don't know that; I'm a stranger here. ## Das=that|weiß=know|ich=I|nicht=not|ich=I|bin=am|fremd=a stranger|hier=here
+
+#518
+p adjective | 
+m born ; 0
+s I was born in Zagreb. ## Ich=I|bin=am|in=in|Zagreb=Zagreb|geboren=born
+
+#519
+p adjective | 
+m dead, deceased ; 0
+s My wife died yesterday. ## Meine=my|Frau=wife|ist=is|gestern=yesterday|gestorben=died
+
+#520
+p adjective | 
+m happy ; 0
+s My children are happily married. ## Meine=my|Kinder=children|sind=are|glücklich=happily|verheiratet=married
+
+#521
+p adjective | größer, am größten
+m big, tall, large ; 0,1
+s My brother and I are the same height. ## Mein=my|Bruder=brother|und=and|ich=I|sind=are|gleich=equally|groß=tall
+s Frankfurt is a big city. ## Frankfurt=Frankfurt|ist=is|eine=a|große=big|Stadt=city
+
+#522
+p adjective | 
+m valid ; 0
+s The passport is no longer valid. ## Der=the|Pass=passport|ist=is|nicht=not|mehr=any more|gültig=valid
+
+#523
+p adjective | 
+m favorable, good value ; 0
+s There are good deals there. ## Dort=there|gibt=gives|es=it|günstige=good|Angebote=deals
+
+#524
+p adjective | 
+m bright, light ; 0
+s In summer it stays light until 9 p.m. ## Im=in|Sommer=summer|ist=is|es=it|bis=until|Uhr=o'clock|hell=light
+
+#525
+p adjective | 
+m warm, cordial, heartfelt ; 0
+s Congratulations! (lit. heartfelt congratulations) ## Herzlichen=heartfelt|Glückwunsch=congratulations
+
+#526
+p adjective | höher, am höchsten
+m high, tall ; 0
+s Mount Everest is 8,880 meters high. ## Der=the|Mount=Mount|Everest=Everest|ist=is|Meter=meters|hoch=high
+
+#527
+p adjective | 
+m international ; 0
+s Our German course is international: Silvana comes from Italy... ## Unser=our|Deutschkurs=German course|ist=is|international=international|Silvana=Silvana|kommt=comes|aus=from|Italien=Italy
+
+#528
+p adjective | jünger, am jüngsten
+m young ; 0
+s Claudia is 21. What? So young? ## Claudia=Claudia|ist=is|Was=what|Noch=still|so=so|jung=young
+
+#529
+p adjective | 
+m broken ; 0
+s The glass was expensive. It breaks very easily. ## Das=the|Glas=glass|war=was|teuer=expensive|Es=it|geht=goes|sehr=very|leicht=easily|kaputt=broken
+
+#530
+p adjective | 
+m clear, of course ; 0
+s Are you coming along? – Sure! ## Kommst=come|du=you|mit=along|Klar=sure
+
+#531
+p adjective | 
+m small, little ; 0
+s Eltville is a small town on the Rhine. ## Eltville=Eltville|ist=is|eine=a|kleine=small|Stadt=town|am=on the|Rhein=Rhine
+
+#532
+p adjective | kränker
+m sick, ill ; 0
+s I can't come to work today, I'm sick and in bed. ## Ich=I|kann=can|heute=today|nicht=not|zur=to|Arbeit=work|kommen=come|bin=am|krank=sick|und=and|liege=lie|im=in|Bett=bed
+
+#533
+p adjective | 
+m cultural ; 0
+s I'm interested in culture. I often go to the museum. ## Ich=I|bin=am|kulturell=culturally|interessiert=interested|gehe=go|oft=often|ins=to the|Museum=museum
+
+#534
+p adjective | kürzer, am kürzesten
+m short ; 0
+s Ricardo has short hair. ## Ricardo=Ricardo|hat=has|kurzes=short|Haar=hair
+
+#535
+p adjective | länger, am längsten
+m long ; 0
+s The jeans are too long. ## Die=the|Jeans=jeans|ist=is|zu=too|lang=long
+
+#536
+p adjective | 
+m slow, slowly ; 0
+s Could you please speak a little more slowly? ## Könnten=could|Sie=you|bitte=please|etwas=somewhat|langsamer=more slowly|sprechen=speak
+
+#537
+p adjective | 
+m loud ; 0
+s Not so loud! The baby is sleeping. ## Nicht=not|so=so|laut=loud|Das=the|Baby=baby|schläft=sleeps
+
+#538
+p adjective | 
+m single, unmarried ; 0
+s Are you married? – No. Single. ## Sind=are|Sie=you|verheiratet=married|Nein=no|Ledig=single
+
+#539
+p adjective | 
+m light (weight) ; 0
+m easy ; 1
+s The suitcase is light. ## Der=the|Koffer=suitcase|ist=is|leicht=light
+s German is not easy. ## Deutsch=German|ist=is|nicht=not|leicht=easy
+
+#540
+p adjective | 
+m quiet ; 0
+s Be quiet. The others are already sleeping. ## Seid=be|leise=quiet|Die=the|anderen=others|schlafen=sleep|schon=already
+
+#541
+p adjective | 
+m last ; 0
+s Tomorrow is the last day of the course. ## Morgen=tomorrow|ist=is|der=the|letzte=last|Kurstag=course day
+
+#542
+p adjective | 
+m dear ;
+x Liebe Anna, wie geht es dir? ## Dear Anna, how are you? ## Liebe=dear|Anna=Anna|wie=how|geht=goes|es=it|dir=you
+
+#543
+p adverb | 
+m rather, preferably ; 0
+s She prefers to travel by train. ## Sie=she|fährt=travels|lieber=rather|mit=with|der=the|Bahn=train
+
+#544
+p adjective | 
+m funny, cheerful ; 0
+s Ms. Mertens is funny. She's always laughing. ## Frau=Ms.|Mertens=Mertens|ist=is|lustig=funny|Sie=she|lacht=laughs|immer=always
+
+#545
+p adjective | 
+m male ; 0
+s Please tick: "female" or "male". ## Kreuzen=tick|Sie=you|bitte=please|an=(part of ankreuzen)|weiblich=female|oder=or|männlich=male
+
+#546
+p adjective | 
+m most ; 0
+s Most northern Germans are very tall. ## Die=the|meisten=most|Norddeutschen=northern Germans|sind=are|sehr=very|groß=tall
+
+#547
+p adjective | 
+m tired ; 0
+s I'm tired. I'm going to sleep. ## Ich=I|bin=am|müde=tired|gehe=go|schlafen=to sleep
+
+#548
+p adjective | 
+m next ; 0
+s Shall we see each other next week? ## Sehen=see|wir=we|uns=each other|nächste=next|Woche=week
+
+#549
+p adjective | 
+m new ; 0,1
+s I'm the new colleague. ## Ich=I|bin=am|der=the|neue=new|Kollege=colleague
+s We have a new apartment. ## Wir=we|haben=have|eine=a|neue=new|Wohnung=apartment
+
+#550
+p adjective | 
+m normal ; 0
+s 75 kg. His weight is normal. ## kg=kg|Sein=his|Gewicht=weight|ist=is|normal=normal
+
+#551
+p adjective | 
+m punctual, on time ; 0,1
+s The bus leaves punctually at eight o'clock. ## Der=the|Bus=bus|fährt=leaves|pünktlich=on time|um=at|acht=eight|Uhr=o'clock
+s Mr. Müller is always on time. ## Herr=Mr.|Müller=Müller|ist=is|immer=always|pünktlich=punctual
+
+#552
+p adjective | 
+m right, correct ; 0,1
+s Did I understand that correctly? ## Habe=have|ich=I|das=that|richtig=correctly|verstanden=understood
+s That is correct. ## Das=that|ist=is|richtig=correct
+
+#553
+p adjective | 
+m quiet, calm ; 0
+s I would like a quiet room. ## Ich=I|möchte=would like|ein=a|ruhiges=quiet|Zimmer=room
+
+#554
+p adjective | schlechter, am schlechtesten
+m bad ; 2
+m ill, sick (Mir ist schlecht) ; 0
+m badly ; 1
+s I feel sick! ## Mir=me|ist=is|schlecht=sick
+s You look unwell. ## Sie=you|sehen=look|schlecht=bad|aus=(part of aussehen)
+s We have bad weather. ## Wir=we|haben=have|schlechtes=bad|Wetter=weather
+
+#555
+p adjective | 
+m fast, quick ; 0
+s He drives fast. ## Er=he|fährt=drives|schnell=fast
+
+#556
+p adjective | schöner, am schönsten
+m beautiful, nice ; 0,1
+s Have a nice vacation! ## Schönen=nice|Urlaub=vacation
+s That is very nice. ## Das=that|ist=is|sehr=very|schön=nice
+
+#557
+p adjective | 
+m heavy ; 0
+m difficult, hard ; 1
+s Is your luggage very heavy? ## Ist=is|Ihr=your|Gepäck=luggage|sehr=very|schwer=heavy
+s That is hard work. ## Das=that|ist=is|eine=a|schwere=hard|Arbeit=work
+
+#558
+p adjective | 
+m self-employed, independent ; 0
+s He is self-employed. ## Er=he|ist=is|selbstständig=self-employed
+
+#559
+p adjective | 
+m late ; 0
+s It's already late, I have to go. ## Es=it|ist=is|schon=already|spät=late|ich=I|muss=must|gehen=go
+
+#560
+p adjective | 
+m expensive ; 0
+s That is too expensive for me. ## Das=that|ist=is|mir=me|zu=too|teuer=expensive
+
+#561
+p adjective | 
+m dead ; 0
+s His father has been dead for a long time. ## Sein=his|Vater=father|ist=is|schon=already|lange=long|tot=dead
+
+#562
+p adjective | 
+m forbidden, prohibited ; 0
+s Smoking is prohibited here. ## Hier=here|ist=is|Rauchen=smoking|verboten=prohibited
+
+#563
+p adjective | 
+m married ; 0
+s I'm married and have three children. ## Ich=I|bin=am|verheiratet=married|und=and|habe=have|drei=three|Kinder=children
+
+#564
+p adjective | mehr, am meisten
+m much, a lot of ; 0
+s It rains a lot here. ## Hier=here|regnet=rains|es=it|viel=a lot
+
+#565
+p adjective | 
+m female ; 0
+s Please tick: "female" or "male". ## Kreuzen=tick|Sie=you|bitte=please|an=(part of ankreuzen)|weiblich=female|oder=or|männlich=male
+
+#566
+p adjective | weiter, am weitesten
+m far, wide ; 0
+s It's not far to the station. ## Zum=to the|Bahnhof=station|ist=is|es=it|nicht=not|weit=far
+
+#567
+p adjective | 
+m important ; 0
+s This form is very important. ## Dieses=this|Formular=form|ist=is|sehr=very|wichtig=important
+
+#568
+p adjective | 
+m wonderful ; 0
+s The food tastes wonderful. ## Das=the|Essen=food|schmeckt=tastes|wunderbar=wonderful
+
+#569
+p adjective | 
+m satisfied, content ; 0
+s I'm satisfied with the apartment. ## Ich=I|bin=am|mit=with|der=the|Wohnung=apartment|zufrieden=satisfied
+
+#570
+p adjective | 
+m black ;
+x Die Katze ist schwarz. ## The cat is black. ## Die=the|Katze=cat|ist=is|schwarz=black
+
+#571
+p adjective | 
+m white ;
+x Der Schnee ist weiß. ## The snow is white. ## Der=the|Schnee=snow|ist=is|weiß=white
+
+#572
+p adjective | 
+m gray ;
+x Der Himmel ist heute grau. ## The sky is gray today. ## Der=the|Himmel=sky|ist=is|heute=today|grau=gray
+
+#573
+p adjective | 
+m red ;
+x Das Auto ist rot. ## The car is red. ## Das=the|Auto=car|ist=is|rot=red
+
+#574
+p adjective | 
+m blue ;
+x Das Meer ist blau. ## The sea is blue. ## Das=the|Meer=sea|ist=is|blau=blue
+
+#575
+p adjective | 
+m yellow ;
+x Die Banane ist gelb. ## The banana is yellow. ## Die=the|Banane=banana|ist=is|gelb=yellow
+
+#576
+p adjective | 
+m green ;
+x Die Tomate ist noch grün. ## The tomato is still green. ## Die=the|Tomate=tomato|ist=is|noch=still|grün=green
+
+#577
+p adjective | 
+m brown ;
+x Der Tisch ist braun. ## The table is brown. ## Der=the|Tisch=table|ist=is|braun=brown
+
+#578
+p adverb | 
+m so, well, therefore ; 0,1
+s So, here's the thing ... ## Also=so|es=it|ist=is|so=so
+s He has time, so he has to help us. ## Er=he|hat=has|Zeit=time|also=so|muss=must|uns=us|helfen=help
+
+#579
+p adverb | 
+m also, too ; 0
+s I'm Spanish too. ## Ich=I|bin=am|auch=also|Spanier=Spaniard
+
+#580
+p adverb | 
+m soon ; 0
+s I'll be there soon. ## Ich=I|komme=come|bald=soon
+
+#581
+p adverb | 
+m a bit, a little ; 0
+s I speak English, French and a little German. ## Ich=I|spreche=speak|Englisch=English|Französisch=French|und=and|ein=a|bisschen=bit|Deutsch=German
+
+#582
+p adverb | 
+m there ; 0,2
+m then, at that moment ; 1
+m here, present (da sein) ; 3
+s There he is. ## Da=there|hinten=back|ist=is|er=he|ja=indeed
+s We're just talking about Paul. Here he comes. ## Wir=we|sprechen=talk|gerade=just|über=about|Paul=Paul|Da=there|kommt=comes|er=he|ja=indeed|gerade=just
+s I'll take that one. ## Ich=I|nehme=take|das=that|da=there
+s Is Mr. Klein here yet? ## Ist=is|Herr=Mr.|Klein=Klein|schon=already|da=here
+
+#583
+p adverb | 
+m next to it ; 0
+s You know the post office. The bank is next to it. ## Du=you|kennst=know|doch=surely|die=the|Post=post office|Daneben=next to it|ist=is|die=the|Bank=bank
+
+#584
+p adverb | 
+m then ; 0
+s I just have to quickly go to the post office, then I'll come. ## Ich=I|muss=must|noch=still|schnell=quickly|zur=to the|Post=post office|dann=then|komme=come|ich=I
+
+#585
+p adverb | 
+m there ; 0,1
+s You can put your bag over there. ## Deine=your|Tasche=bag|kannst=can|du=you|dorthin=over there|stellen=put
+s Our house is there. ## Dort=there|ist=is|unser=our|Haus=house
+
+#586
+p adverb | 
+m here (toward the speaker) ;
+x Komm her! ## Come here! ## Komm=come|her=here
+
+#587
+p adverb | 
+m there (away from the speaker) ;
+x Wo gehst du hin? ## Where are you going? ## Wo=where|gehst=go|du=you|hin=to
+
+#588
+p adverb | 
+m outside ; 0
+s Shall we sit outside? ## Wollen=want|wir=we|draußen=outside|sitzen=sit
+
+#589
+p adverb | 
+m once ; 0
+s I won't take this exam again. ## Diese=this|Prüfung=exam|mache=take|ich=I|nicht=not|noch=again|einmal=once
+
+#590
+p adverb | 
+m just, at the moment ; 0
+s Here he comes right now. ## Da=there|kommt=comes|er=he|ja=indeed|gerade=just
+
+#591
+p adverb | 
+m straight ahead ; 0
+s Keep going straight ahead! ## Gehen=go|Sie=you|immer=always|geradeaus=straight ahead
+
+#592
+p adverb | lieber, am liebsten
+m gladly, with pleasure ; 0
+s I like going shopping. ## Ich=I|gehe=go|gerne=gladly|einkaufen=shopping
+
+#593
+p adverb | 
+m soon, right away ; 0,3
+m all the same, equal ; 1,2
+s I think he'll be here soon. ## Ich=I|glaube=think|er=he|kommt=comes|gleich=soon
+s It's all the same to me. ## Das=that|ist=is|mir=me|gleich=the same
+s That is the same price. ## Das=that|ist=is|der=the|gleiche=same|Preis=price
+s I'll be right there. ## Ich=I|komme=come|gleich=right away
+
+#594
+p adverb | 
+m yesterday ; 0
+s Yesterday I was sick. ## Gestern=yesterday|war=was|ich=I|krank=sick
+
+#595
+p adverb | 
+m today ; 0
+s Today is a beautiful day. ## Heute=today|ist=is|ein=a|schöner=beautiful|Tag=day
+
+#596
+p adverb | 
+m here ; 0,1
+s This is 06131-553221, Pamela Linke. (phone) ## Hier=here|ist=is|Pamela=Pamela|Linke=Linke
+s I live here. ## Hier=here|wohne=live|ich=I
+
+#597
+p adverb | 
+m at the back ; 0
+s The exit door is at the back. ## Die=the|Tür=door|zum=for|Aussteigen=getting off|ist=is|hinten=at the back
+
+#598
+p adverb | 
+m now ; 0
+s Now we're taking a break. ## Jetzt=now|machen=make|wir=we|eine=a|Pause=break
+
+#599
+p adverb | länger, am längsten
+m long (duration) ; 0
+s How long does the train take from Hamburg to Berlin? ## Wie=how|lange=long|fährt=travels|der=the|Zug=train|von=from|Hamburg=Hamburg|nach=to|Berlin=Berlin

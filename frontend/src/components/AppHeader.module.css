@@ -1,0 +1,64 @@
+.brand {
+  background: none;
+  border: none;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: var(--forest);
+}
+.brand span { color: var(--gold); }
+.actions { display: flex; align-items: center; gap: 0.5rem; }
+.saved {
+  position: relative;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid rgba(15, 61, 54, 0.2);
+  background: transparent;
+  color: var(--forest);
+  display: grid;
+  place-items: center;
+}
+.saved:hover { background: rgba(255, 255, 255, 0.6); }
+.badge {
+  position: absolute;
+  top: -4px;
+  right: -4px;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 4px;
+  border-radius: 9px;
+  background: var(--gold);
+  color: var(--ink);
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: grid;
+  place-items: center;
+}
+.overlay { position: fixed; inset: 0; background: rgba(12, 31, 28, 0.35); z-index: 50; display: flex; justify-content: flex-end; }
+.drawer {
+  width: min(420px, 100%);
+  height: 100%;
+  background: var(--foam);
+  box-shadow: var(--shadow);
+  padding: 1.25rem;
+  overflow-y: auto;
+}
+.drawerHead { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+.drawerHead h2 { font-family: var(--font-display); font-size: 1.2rem; }
+.close { background: none; border: none; font-size: 1.8rem; line-height: 1; color: var(--muted); }
+.empty { color: var(--muted); }
+.list { list-style: none; display: grid; gap: 0.5rem; }
+.list li {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: #fff;
+  border-radius: 12px;
+  padding: 0.65rem 0.85rem;
+}
+.list li > div { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+.list li span { color: var(--muted); font-size: 0.88rem; }
+.list li em { font-style: normal; font-size: 0.72rem; font-weight: 700; color: var(--pine); }
+.list li button { background: none; border: none; color: var(--danger); font-size: 0.8rem; font-weight: 600; }

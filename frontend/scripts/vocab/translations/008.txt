@@ -1,0 +1,119 @@
+#700
+p number | 
+m fourteen ;
+x Ich bin vierzehn Jahre alt. ## I am fourteen years old. ## Ich=I|bin=am|vierzehn=fourteen|Jahre=years|alt=old
+
+#701
+p number | 
+m fifteen ;
+x Es sind fünfzehn Personen da. ## There are fifteen people here. ## Es=it|sind=are|fünfzehn=fifteen|Personen=people|da=here
+
+#702
+p number | 
+m sixteen ;
+x Sie ist sechzehn. ## She is sixteen. ## Sie=she|ist=is|sechzehn=sixteen
+
+#703
+p number | 
+m seventeen ;
+x Er wird nächstes Jahr siebzehn. ## He turns seventeen next year. ## Er=he|wird=becomes|nächstes=next|Jahr=year|siebzehn=seventeen
+
+#704
+p number | 
+m eighteen ;
+x Mit achtzehn darf man Auto fahren. ## At eighteen you may drive a car. ## Mit=with|achtzehn=eighteen|darf=may|man=one|Auto=car|fahren=drive
+
+#705
+p number | 
+m nineteen ;
+x Mein Bruder ist neunzehn. ## My brother is nineteen. ## Mein=my|Bruder=brother|ist=is|neunzehn=nineteen
+
+#706
+p number | 
+m twenty ;
+x Das kostet zwanzig Euro. ## That costs twenty euros. ## Das=that|kostet=costs|zwanzig=twenty|Euro=euros
+
+#707
+p number | 
+m twenty-one ;
+x Mein Sohn ist einundzwanzig. ## My son is twenty-one. ## Mein=my|Sohn=son|ist=is|einundzwanzig=twenty-one
+
+#708
+p number | 
+m thirty ;
+x Heute sind es dreißig Grad. ## Today it is thirty degrees. ## Heute=today|sind=are|es=it|dreißig=thirty|Grad=degrees
+
+#709
+p number | 
+m forty ;
+x Er ist vierzig Jahre alt. ## He is forty years old. ## Er=he|ist=is|vierzig=forty|Jahre=years|alt=old
+
+#710
+p number | 
+m fifty ;
+x Das Buch hat fünfzig Seiten. ## The book has fifty pages. ## Das=the|Buch=book|hat=has|fünfzig=fifty|Seiten=pages
+
+#711
+p number | 
+m sixty ;
+x Eine Stunde hat sechzig Minuten. ## An hour has sixty minutes. ## Eine=an|Stunde=hour|hat=has|sechzig=sixty|Minuten=minutes
+
+#712
+p number | 
+m seventy ;
+x Meine Oma ist siebzig. ## My grandma is seventy. ## Meine=my|Oma=grandma|ist=is|siebzig=seventy
+
+#713
+p number | 
+m eighty ;
+x Mein Opa ist achtzig Jahre alt. ## My grandpa is eighty years old. ## Mein=my|Opa=grandpa|ist=is|achtzig=eighty|Jahre=years|alt=old
+
+#714
+p number | 
+m ninety ;
+x Das Haus ist neunzig Jahre alt. ## The house is ninety years old. ## Das=the|Haus=house|ist=is|neunzig=ninety|Jahre=years|alt=old
+
+#715
+p number | 
+m one hundred ;
+x Es sind hundert Gäste gekommen. ## A hundred guests came. ## Es=it|sind=are|hundert=hundred|Gäste=guests|gekommen=come
+
+#716
+p number | 
+m one hundred and one ;
+x Die Zahl nach hundert ist hunderteins. ## The number after one hundred is one hundred and one. ## Die=the|Zahl=number|nach=after|hundert=hundred|ist=is|hunderteins=one hundred and one
+
+#717
+p number | 
+m two hundred ;
+x Das Fahrrad kostet zweihundert Euro. ## The bicycle costs two hundred euros. ## Das=the|Fahrrad=bicycle|kostet=costs|zweihundert=two hundred|Euro=euros
+
+#718
+p number | 
+m one thousand ;
+x Die Reise kostet tausend Euro. ## The trip costs a thousand euros. ## Die=the|Reise=trip|kostet=costs|tausend=thousand|Euro=euros
+
+#719
+p number | 
+m one million ;
+x In der Stadt leben über eine Million Menschen. ## More than a million people live in the city. ## In=in|der=the|Stadt=city|leben=live|über=over|eine=a|Million=million|Menschen=people
+
+#720
+p number | 
+m one billion ;
+x Eine Milliarde ist tausend Millionen. ## A billion is a thousand millions. ## Eine=a|Milliarde=billion|ist=is|tausend=thousand|Millionen=millions
+
+#721
+p number | 
+m first, second, third, fourth (ordinals) ;
+x Heute ist der erste Mai. ## Today is the first of May. ## Heute=today|ist=is|der=the|erste=first|Mai=May
+
+#722
+p number | 
+m one half ;
+x Ich möchte ein halbes Brot. ## I would like half a loaf of bread. ## Ich=I|möchte=would like|ein=a|halbes=half|Brot=bread
+
+#723
+p number | 
+m one quarter ;
+x Es ist Viertel nach drei. ## It is quarter past three. ## Es=it|ist=is|Viertel=quarter|nach=past|drei=three

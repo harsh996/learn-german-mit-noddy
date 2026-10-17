@@ -1,0 +1,360 @@
+#0
+p noun | Absender
+m sender ; 0
+s There is a letter for you without a sender. ## Da=there|ist=is|ein=a|Brief=letter|für=for|dich=you|ohne=without|Absender=sender
+
+#1
+p noun | Adressen
+m address ; 0
+s Can you tell me his address? ## Können=can|Sie=you|mir=me|seine=his|Adresse=address|sagen=tell
+
+#2
+p noun | 
+m age ; 0
+s Age: 26 years. ## Alter=age|Jahre=years
+
+#3
+p noun | Angebote
+m offer, special offer ; 0
+s Sports shoes are on sale today. ## Heute=today|sind=are|Sportschuhe=sports shoes|im=in the|Angebot=special offer
+
+#4
+p noun | Anfänge
+m beginning, start ; 0,1
+s She lives at the beginning of the street. ## Sie=she|wohnt=lives|am=at the|Anfang=beginning|der=of the|Straße=street
+s We are taking a vacation at the beginning of July. ## Wir=we|machen=take|Anfang=beginning|Juli=July|Urlaub=vacation
+
+#5
+p noun | 
+m arrival ; 0
+s This schedule only shows the arrival (time) of the trains. ## Auf=on|diesem=this|Plan=schedule|steht=says|nur=only|die=the|Ankunft=arrival|szeit=time|der=of the|Züge=trains
+
+#6
+p noun | Anmeldungen
+m registration, sign-up ; 0
+s Registration for this course is no longer possible. ## Eine=a|Anmeldung=registration|für=for|diesen=this|Kurs=course|ist=is|nicht=not|mehr=any more|möglich=possible
+
+#7
+p noun | Anreden
+m salutation, form of address ; 0
+s Please also write a salutation and a greeting. ## Schreiben=write|Sie=you|auch=also|eine=a|Anrede=salutation|und=and|einen=a|Gruß=greeting
+
+#8
+p noun | Anrufe
+m phone call ; 0
+s She gets many calls on her mobile phone. ## Sie=she|bekommt=gets|viele=many|Anrufe=calls|auf=on|ihrem=her|Handy=mobile phone
+
+#9
+p noun | 
+m answering machine ; 0
+s We are not here at the moment. Please speak after the beep (on the answering machine). ## Wir=we|sind=are|im=at the|Moment=moment|nicht=not|da=here|Sprechen=speak|Sie=you|bitte=please|auf=onto|den=the|Anrufbeantworter=answering machine
+
+#10
+p noun | Ansagen
+m announcement ; 0
+s Listen to the announcements. ## Hören=listen to|Sie=you|die=the|Ansagen=announcements
+
+#11
+p noun | Anschlüsse
+m connection (transport) ; 0
+m connection (phone, utility) ; 1
+s In Mannheim you have a connection to Saarbrücken. ## In=in|Mannheim=Mannheim|haben=have|Sie=you|Anschluss=connection|nach=to|Saarbrücken=Saarbrücken
+s Is this the registration for a telephone line? ## Ist=is|das=this|die=the|Anmeldung=registration|für=for|einen=a|Telefonanschluss=telephone connection
+
+#12
+p noun | Antworten
+m answer, reply ; 0
+s Unfortunately he doesn't give an answer. ## Er=he|gibt=gives|leider=unfortunately|keine=no|Antwort=answer
+
+#13
+p noun | Anzeigen
+m advertisement, ad ; 0
+s I read your ad in the newspaper. ## Ich=I|habe=have|Ihre=your|Anzeige=ad|in=in|der=the|Zeitung=newspaper|gelesen=read
+
+#14
+p noun | Apartments
+m apartment, flat ; 0
+s We have rented an apartment. ## Wir=we|haben=have|ein=an|Apartment=apartment|gemietet=rented
+
+#15
+p noun | Äpfel
+m apple ; 0
+s A pound of apples, please. ## Ein=a|Pfund=pound|Äpfel=apples|bitte=please
+
+#16
+p noun | 
+m appetite ; 0
+s Enjoy your meal! ## Guten=good|Appetit=appetite
+
+#17
+p noun | Arbeiten
+m work, job ; 0
+s My brother is looking for work. ## Mein=my|Bruder=brother|sucht=looks for|Arbeit=work
+
+#18
+p noun | Arbeitsplätze
+m workplace, job ; 0
+s There is a printer missing at my workplace. ## An=at|meinem=my|Arbeitsplatz=workplace|fehlt=is missing|ein=a|Drucker=printer
+
+#19
+p noun | Arme
+m arm ; 0
+s My arm hurts. ## Mein=my|Arm=arm|tut=does|weh=hurt
+
+#20
+p noun | Ärzte
+m doctor, physician ; 0
+s Tomorrow I have an appointment with my doctor. ## Morgen=tomorrow|habe=have|ich=I|einen=an|Termin=appointment|bei=with|meiner=my|Ärztin=female doctor
+
+#21
+p noun | Aufgaben
+m task, exercise ; 0
+s That is a difficult task. ## Das=that|ist=is|eine=a|schwere=difficult|Aufgabe=task
+
+#22
+p noun | Aufzüge
+m elevator, lift ; 0
+s There is no elevator in this building. ## In=in|diesem=this|Haus=building|gibt=gives|es=it|keinen=no|Aufzug=elevator
+
+#23
+p noun | Augen
+m eye ; 0
+s He has blue eyes. ## Er=he|hat=has|blaue=blue|Augen=eyes
+
+#24
+p noun | Ausflüge
+m outing, excursion ; 0
+s Tomorrow we are going on an outing to Heidelberg. ## Morgen=tomorrow|machen=make|wir=we|einen=an|Ausflug=outing|nach=to|Heidelberg=Heidelberg
+
+#25
+p noun | Ausgänge
+m exit ; 0
+s Where is the exit? ## Wo=where|ist=is|der=the|Ausgang=exit
+
+#26
+p noun | Auskünfte
+m information ; 0
+s Can you give me some information? ## Können=can|Sie=you|mir=me|eine=a|Auskunft=information|geben=give
+
+#27
+p noun | 
+m abroad, foreign countries ; 0
+s Are you going abroad? ## Fahren=travel|Sie=you|ins=into the|Ausland=abroad
+
+#28
+p noun | Ausländer
+m foreigner ; 0
+s Are you a foreigner (female)? ## Sind=are|Sie=you|Ausländerin=female foreigner
+
+#29
+p noun | Aussagen
+m statement ; 0
+s Is the statement true or false? ## Ist=is|die=the|Aussage=statement|richtig=true|oder=or|falsch=false
+
+#30
+p noun | Ausweise
+m ID card, identification ; 0
+s Here is my ID. ## Hier=here|ist=is|mein=my|Ausweis=ID
+
+#31
+p noun | Autos
+m car ; 0
+s He comes by car. ## Er=he|kommt=comes|mit=with|dem=the|Auto=car
+
+#32
+p noun | Autobahnen
+m motorway, highway ; 0
+s Where is the way to the motorway, please? ## Wo=where|geht's=goes it|hier=here|bitte=please|zur=to the|Autobahn=motorway
+
+#33
+p noun | Automaten
+m machine, vending machine ; 0
+s Tickets are only available from the machine. ## Die=the|Fahrkarten=tickets|gibt=gives|es=it|nur=only|am=at the|Automaten=machine
+
+#34
+p noun | Babys
+m baby ; 0
+s My child is still a baby. ## Mein=my|Kind=child|ist=is|noch=still|ein=a|Baby=baby
+
+#35
+p noun | Bäckereien
+m bakery ; 0
+s I'll quickly pop over to the bakery. ## Ich=I|geh=go|mal=just|schnell=quickly|zur=to the|Bäckerei=bakery
+
+#36
+p noun | Bäder
+m bathroom, bath ; 0
+s We don't have a big bathroom. ## Wir=we|haben=have|kein=no|großes=big|Bad=bathroom
+
+#37
+p noun | Bahnen
+m railway, train ; 0
+m tram, rapid transit (train) ; 1
+s We prefer to travel by train. ## Wir=we|fahren=travel|lieber=prefer to|mit=with|der=the|Bahn=train
+s I'll take the next train. ## Ich=I|nehme=take|die=the|nächste=next|Bahn=train
+
+#38
+p noun | Bahnhöfe
+m train station ; 0
+s Can I get to the station this way? ## Komme=get|ich=I|hier=here|zum=to the|Bahnhof=station
+
+#39
+p noun | Bahnsteige
+m platform ; 0
+s Which platform does the train leave from? ## Auf=on|welchem=which|Bahnsteig=platform|fährt=leaves|der=the|Zug=train
+
+#40
+p noun | Balkone
+m balcony ; 0
+s The apartment also has a small balcony. ## Die=the|Wohnung=apartment|hat=has|auch=also|einen=a|kleinen=small|Balkon=balcony
+
+#41
+p noun | Bananen
+m banana ; 0
+s Three bananas, please! ## Drei=three|Bananen=bananas|bitte=please
+
+#42
+p noun | Banken
+m bank (financial) ; 0
+m bench ; 1
+s The bank closes at four o'clock already. ## Die=the|Bank=bank|schließt=closes|schon=already|um=at|vier=four|Uhr=o'clock
+s He is sitting on a bench in the park, reading. ## Er=he|sitzt=sits|im=in the|Park=park|auf=on|einer=a|Bank=bench|und=and|liest=reads
+
+#43
+p noun | Bäuche
+m belly, stomach ; 0
+s My stomach has been hurting since yesterday. ## Seit=since|gestern=yesterday|tut=does|mir=me|der=the|Bauch=stomach|weh=hurt
+
+#44
+p noun | Bäume
+m tree ; 0
+s Careful, don't drive into the tree! ## Vorsicht=careful|fahr=drive|nicht=not|an=into|den=the|Baum=tree
+
+#45
+p noun | Beamten
+m civil servant, official ; 0
+s Ask the official at counter eight! ## Fragen=ask|Sie=you|die=the|Beamtin=female official|am=at the|Schalter=counter|acht=eight
+
+#46
+p noun | Beine
+m leg ; 0
+s My right leg hurts. ## Mein=my|rechtes=right|Bein=leg|tut=does|weh=hurt
+
+#47
+p noun | Beispiele
+m example ; 0,1
+s Can you give me an example? ## Kannst=can|du=you|mir=me|ein=an|Beispiel=example|sagen=tell
+s Many of my relatives, e.g. my two brothers, also work here. ## Viele=many|meiner=of my|Verwandten=relatives|z=for|B=example|meine=my|beiden=two|Brüder=brothers|arbeiten=work|auch=also|hier=here
+
+#48
+p noun | Bekannten
+m acquaintance ; 0
+s An acquaintance of mine is called Klaus. ## Ein=an|Bekannter=acquaintance|von=of|mir=mine|heißt=is called|Klaus=Klaus
+
+#49
+p noun | Berufe
+m profession, occupation ; 0,1
+s What do you do for a living? ## Was=what|sind=are|Sie=you|von=by|Beruf=profession
+s What is your profession? ## Was=what|ist=is|Ihr=your|Beruf=profession
+
+#50
+p noun | Betten
+m bed ; 0
+s We still need a child's bed. ## Wir=we|brauchen=need|noch=still|ein=a|Kinderbett=child's bed
+
+#51
+p noun | Biere
+m beer ; 0
+s Another beer, please. ## Noch=another|ein=a|Bier=beer|bitte=please
+
+#52
+p noun | Bilder
+m picture, image ; 0
+s Do you have a picture of your son? ## Hast=have|du=you|ein=a|Bild=picture|von=of|deinem=your|Sohn=son
+
+#53
+p noun | Birnen
+m pear ; 0
+s A kilo of pears, please! ## Ein=a|Kilo=kilo|Birnen=pears|bitte=please
+
+#54
+p noun | Bitten
+m request, favor ; 0
+s I have one more request. ## Ich=I|habe=have|noch=still|eine=a|Bitte=request
+
+#55
+p noun | Bleistifte
+m pencil ; 0
+s Do you have a pencil? ## Hast=have|du=you|einen=a|Bleistift=pencil
+
+#56
+p noun | Blicke
+m view, look ; 0
+s From this hotel you have a nice view of the Rhine. ## Von=from|diesem=this|Hotel=hotel|hat=has|man=one|einen=a|guten=good|Blick=view|auf=of|den=the|Rhein=Rhine
+
+#57
+p noun | Blumen
+m flower ; 0
+s Do you like the flowers? ## Gefallen=please|dir=you|die=the|Blumen=flowers
+
+#58
+p noun | Bögen
+m sheet (of paper) ; 0
+s Please write your answers on the answer sheet. ## Schreiben=write|Sie=you|Ihre=your|Lösungen=answers|bitte=please|auf=on|den=the|Antwortbogen=answer sheet
+
+#59
+p noun | Briefe
+m letter ; 0
+s Do you have a letter for me? ## Haben=have|Sie=you|einen=a|Brief=letter|für=for|mich=me
+
+#60
+p noun | Briefmarken
+m stamp ; 0
+s Please buy stamps at the post office. ## Kaufst=buy|du=you|bitte=please|Briefmarken=stamps|bei=at|der=the|Post=post office
+
+#61
+p noun | Brote
+m bread, loaf ; 0,1
+s Do you also have white bread? ## Haben=have|Sie=you|auch=also|Weißbrot=white bread
+s Take a few sandwiches for the trip. ## Nimm=take|noch=also|ein=a|paar=few|Brote=sandwiches|für=for|die=the|Fahrt=trip|mit=along
+
+#62
+p noun | Brötchen
+m bread roll ; 0
+s Would you like rolls for breakfast? ## Möchtest=would like|du=you|Brötchen=rolls|zum=for|Frühstück=breakfast
+
+#63
+p noun | Brüder
+m brother ; 0
+s His brother also works here. ## Sein=his|Bruder=brother|arbeitet=works|auch=also|hier=here
+
+#64
+p noun | Bücher
+m book ; 0,1
+s Good books are often very expensive. ## Gute=good|Bücher=books|sind=are|oft=often|sehr=very|teuer=expensive
+s In this dictionary you will find more than 20,000 words. ## In=in|diesem=this|Wörterbuch=dictionary|finden=find|Sie=you|mehr=more|als=than|Wörter=words
+
+#65
+p noun | Buchstaben
+m letter (of the alphabet) ; 0
+s This letter doesn't exist in my language. ## Diesen=this|Buchstaben=letter|gibt=gives|es=it|in=in|meiner=my|Sprache=language|nicht=not
+
+#66
+p noun | Busse
+m bus ; 0
+s When does the next bus come? ## Wann=when|kommt=comes|der=the|nächste=next|Bus=bus
+
+#67
+p noun | 
+m butter ; 0
+s For me, a roll with butter and cheese, please. ## Für=for|mich=me|bitte=please|ein=a|Brötchen=roll|mit=with|Butter=butter|und=and|Käse=cheese
+
+#68
+p noun | Cafés
+m café ; 0
+s Shall we meet in the café? ## Sollen=shall|wir=we|uns=each other|im=in the|Café=café|treffen=meet
+
+#69
+p noun | CDs
+m CD ; 0
+s Please bring your favorite CD. ## Bring=bring|bitte=please|deine=your|Lieblings-CD=favorite CD|mit=along

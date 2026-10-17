@@ -120,9 +120,10 @@ export function VoiceSession({ profileId, onEnded }: Props) {
       if (audioCtxRef.current?.state === "suspended") {
         await audioCtxRef.current.resume();
       }
+      // Keep HTML elements muted — audible path is Web Audio inside TalkingHeadAvatar.
       for (const el of audioElsRef.current) {
-        el.muted = false;
-        el.volume = 1;
+        el.muted = true;
+        el.volume = 0;
         await el.play().catch(() => undefined);
       }
       setAudioUnlocked(true);
@@ -262,11 +263,13 @@ export function VoiceSession({ profileId, onEnded }: Props) {
         if (track.kind !== Track.Kind.Audio) return;
 
         const audioTrack = track as RemoteAudioTrack;
+        // Keep a muted element so browsers unlock the remote MediaStream track.
+        // Audible playback + lip-sync run through TalkingHeadAvatar (Web Audio + delay).
         const el = audioTrack.attach() as HTMLAudioElement;
         el.autoplay = true;
         el.setAttribute("playsinline", "true");
-        el.muted = false;
-        el.volume = 1;
+        el.muted = true;
+        el.volume = 0;
         el.style.display = "none";
         document.body.appendChild(el);
         audioElsRef.current.push(el);
@@ -434,6 +437,7 @@ export function VoiceSession({ profileId, onEnded }: Props) {
             gender={gender}
             name={avatarName}
             mediaStream={tutorStream}
+            audioUnlocked={audioUnlocked}
             mouthOpen={mouthOpen}
             speaking={speaking || status === "connecting"}
           />

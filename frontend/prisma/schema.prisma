@@ -12,6 +12,8 @@ model User {
   username String    @unique
   password String
   profiles Profile[]
+  savedWords SavedWord[]
+  preferences UserPreference?
 }
 
 model Profile {
@@ -45,4 +47,26 @@ model SessionLog {
   createdAt   DateTime @default(now())
   summary     String
   newMistakes String
+}
+
+model SavedWord {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  wordKey     String
+  word        String
+  article     String?
+  pos         String?
+  level       String?
+  translation String
+  createdAt   DateTime @default(now())
+
+  @@unique([userId, wordKey])
+  @@index([userId, createdAt])
+}
+
+model UserPreference {
+  userId String @id
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  vocab  String @default("{}")
 }

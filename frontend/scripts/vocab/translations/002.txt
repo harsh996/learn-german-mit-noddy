@@ -1,0 +1,410 @@
+#150
+p noun | Großmütter
+m grandmother ; 0
+s My grandmother is called Eva. ## Meine=my|Großmutter=grandmother|heißt=is called|Eva=Eva
+
+#151
+p noun | Großväter
+m grandfather ; 0
+s My grandfather is already 80. ## Mein=my|Großvater=grandfather|ist=is|schon=already
+
+#152
+p noun | Gruppen
+m group ; 0
+s The first group starts at 4 p.m. ## Die=the|erste=first|Gruppe=group|beginnt=starts|um=at|Uhr=o'clock
+
+#153
+p noun | Grüße
+m greeting, regards ; 0
+s Many greetings to your wife. ## Viele=many|Grüße=greetings|an=to|Ihre=your|Frau=wife
+
+#154
+p noun | Haare
+m hair ; 0
+s She has long hair. ## Sie=she|hat=has|lange=long|Haare=hair
+
+#155
+p noun | Hähnchen
+m chicken ; 0
+s A chicken with fries, please! ## Ein=a|Hähnchen=chicken|mit=with|Pommes=fries|bitte=please
+
+#156
+p noun | 
+m half board ; 0
+s Would you like full board or half board? ## Möchten=would like|Sie=you|Vollpension=full board|oder=or|Halbpension=half board
+
+#157
+p noun | Hallen
+m hall ; 0
+s We'll meet in Hall B. ## Wir=we|treffen=meet|uns=each other|in=in|Halle=hall|B=B
+
+#158
+p noun | Haltestellen
+m stop (bus, tram) ; 0
+s You have to get off at the next stop. ## An=at|der=the|nächsten=next|Haltestelle=stop|müssen=must|Sie=you|aussteigen=get off
+
+#159
+p noun | Hände
+m hand ; 0
+s He gives me his hand. ## Er=he|gibt=gives|mir=me|die=the|Hand=hand
+
+#160
+p noun | Handys
+m mobile phone, cell phone ; 0
+s Please turn off mobile phones at school! ## In=in|der=the|Schule=school|bitte=please|die=the|Handys=mobile phones|ausmachen=turn off
+
+#161
+p noun | Häuser
+m house, building ; 0
+s Which house do you live in? ## In=in|welchem=which|Haus=house|wohnst=live|du=you
+
+#162
+p noun | Hausaufgaben
+m homework assignment ; 0
+s Can you help me with my homework? ## Kannst=can|du=you|mir=me|bei=with|den=the|Hausaufgaben=homework|helfen=help
+
+#163
+p noun | Hausfrauen
+m housewife ; 0
+s The housewife does the washing, cooks and goes shopping. ## Die=the|Hausfrau=housewife|wäscht=washes|kocht=cooks|und=and|kauft=buys|ein=(part of einkaufen)
+
+#164
+p noun | Hausmänner
+m househusband ; 0
+s The househusband does the washing, cooks and goes shopping. ## Der=the|Hausmann=househusband|wäscht=washes|kocht=cooks|und=and|kauft=buys|ein=(part of einkaufen)
+
+#165
+p noun | 
+m homeland, home country ; 0
+s I come from Switzerland. That is my homeland. ## Ich=I|komme=come|aus=from|der=the|Schweiz=Switzerland|Das=that|ist=is|meine=my|Heimat=homeland
+
+#166
+p noun | Herde
+m stove, cooker ; 0
+s The stove is still missing in the new kitchen. ## In=in|der=the|neuen=new|Küche=kitchen|fehlt=is missing|noch=still|der=the|Herd=stove
+
+#167
+p noun | Herren
+m gentleman, Mr. ; 0
+s Good day, Mr. Sommer! ## Guten=good|Tag=day|Herr=Mr.|Sommer=Sommer
+
+#168
+p noun | 
+m help ; 0,1
+s Help! Please help me! ## Hilfe=help|Bitte=please|helfen=help|Sie=you|mir=me
+s Do you need my help? ## Brauchen=need|Sie=you|meine=my|Hilfe=help
+
+#169
+p noun | Hobbys
+m hobby ; 0
+s My hobbies are hiking and swimming. ## Meine=my|Hobbys=hobbies|sind=are|Wandern=hiking|und=and|Schwimmen=swimming
+
+#170
+p noun | Hochzeiten
+m wedding ; 0
+s More than fifty guests are coming to this wedding. ## Zur=to the|dieser=this|Hochzeit=wedding|kommen=come|mehr=more|als=than|fünfzig=fifty|Gäste=guests
+
+#171
+p noun | Hotels
+m hotel ; 0
+s On vacation we stay in a hotel by the sea. ## Im=on|Urlaub=vacation|sind=are|wir=we|in=in|einem=a|Hotel=hotel|am=by the|Meer=sea
+
+#172
+p noun | Hunde
+m dog ; 0
+s The dog is still young. ## Der=the|Hund=dog|ist=is|noch=still|jung=young
+
+#173
+p noun | 
+m hunger ; 0
+s I'm hungry! When is the meal ready? ## Ich=I|habe=have|Hunger=hunger|Wann=when|ist=is|das=the|Essen=meal|fertig=ready
+
+#174
+p noun | Informationen
+m information desk ; 0
+m information ; 1
+s If you have questions, go to the information desk. ## Wenn=if|Sie=you|Fragen=questions|haben=have|gehen=go|zur=to the|Information=information desk
+s We have important information for you here. ## Wir=we|haben=have|hier=here|wichtige=important|Informationen=information|für=for|Sie=you
+
+#175
+p noun | 
+m internet ; 0
+s You can find that on the internet. ## Das=that|findest=find|du=you|im=on the|Internet=internet
+
+#176
+p noun | Jacken
+m jacket ; 0
+s Put on a jacket. It's cold. ## Zieh=put|dir=yourself|eine=a|Jacke=jacket|an=on|Es=it|ist=is|kalt=cold
+
+#177
+p noun | Jobs
+m job ; 0
+s Jenny has a new job at the post office. ## Jenny=Jenny|hat=has|einen=a|neuen=new|Job=job|bei=at|der=the|Post=post office
+
+#178
+p noun | Jugendlichen
+m teenager, young person ; 0
+s Many young people like to shop. ## Viele=many|Jugendliche=young people|kaufen=buy|gern=gladly|ein=(part of einkaufen)
+
+#179
+p noun | Jungen
+m boy ; 0
+s I have two children. A boy and a girl. ## Ich=I|habe=have|zwei=two|Kinder=children|Einen=a|Jungen=boy|und=and|ein=a|Mädchen=girl
+
+#180
+p noun | 
+m coffee ; 0
+s I always drink coffee with breakfast. ## Zum=with|Frühstück=breakfast|trinke=drink|ich=I|immer=always|Kaffee=coffee
+
+#181
+p noun | Karten
+m card, postcard ; 0
+m playing cards ; 1
+m menu ; 2
+s I'm writing my acquaintances a card from my vacation. ## Ich=I|schreibe=write|meinen=my|Bekannten=acquaintances|eine=a|Karte=card|aus=from|dem=the|Urlaub=vacation
+s Shall we play cards? ## Wollen=want|wir=we|Karten=cards|spielen=play
+s Bring me the menu, please. ## Bringen=bring|Sie=you|mir=me|die=the|Karte=menu|bitte=please
+
+#182
+p noun | Kreditkarten
+m credit card ; 0
+s Can I also pay by card? ## Kann=can|ich=I|auch=also|mit=with|Karte=card|be-=(part of bezahlen)|zahlen=pay
+
+#183
+p noun | Kartoffeln
+m potato ; 0
+s You need potatoes for French fries. ## Für=for|Pommes=fries|frites=fries|braucht=needs|man=one|Kartoffeln=potatoes
+
+#184
+p noun | Kassen
+m cash register, checkout ; 0
+s Please pay at the checkout. ## Zahlen=pay|Sie=you|bitte=please|an=at|der=the|Kasse=checkout
+
+#185
+p noun | Kinder
+m child ; 0
+s How many children do you have? ## Wie=how|viele=many|Kinder=children|haben=have|Sie=you
+
+#186
+p noun | Kindergärten
+m kindergarten, nursery school ; 0
+s Little Laura already goes to kindergarten. ## Die=the|kleine=little|Laura=Laura|geht=goes|schon=already|in=to|den=the|Kindergarten=kindergarten
+
+#187
+p noun | Kinos
+m cinema, movie theater ; 0
+s Tonight we're watching a nice film at the cinema. ## Wir=we|sehen=watch|heute=today|Abend=evening|im=at the|Kino=cinema|einen=a|schönen=nice|Film=film
+
+#188
+p noun | Kioske
+m kiosk, newsstand ; 0
+s At the kiosk you can get drinks, cigarettes and newspapers. ## Am=at the|Kiosk=kiosk|bekommen=get|Sie=you|Getränke=drinks|Zigaretten=cigarettes|und=and|Zeitungen=newspapers
+
+#189
+p noun | Klassen
+m class (school) ; 0
+m class (train, travel) ; 1
+s There are twenty-five students in our class. ## In=in|unserer=our|Klasse=class|sind=are|fünfundzwanzig=twenty-five|Schüler=students
+s I always travel second class on the train. ## Im=in the|Zug=train|fahre=travel|ich=I|immer=always|Klasse=class
+
+#190
+p noun | 
+m clothing, clothes ; 0
+s Where can I find clothing? Jackets on the first floor, jeans on the second. ## Wo=where|finde=find|ich=I|Kleidung=clothing|Jacken=jackets|im=on the|ersten=first|Jeans=jeans|zweiten=second|Stock=floor
+
+#191
+p noun | Koffer
+m suitcase ; 0
+s Is this your suitcase? ## Ist=is|das=this|Ihr=your|Koffer=suitcase
+
+#192
+p noun | Kollegen
+m colleague, coworker ; 0
+s What is the new (female) colleague called? ## Wie=how|heißt=is called|die=the|neue=new|Kollegin=female colleague
+
+#193
+p noun | Konten
+m (bank) account ; 0
+s We will transfer the money to your account on March 1st. ## Das=the|Geld=money|überweisen=transfer|wir=we|am=on the|ersten=first|März=March|auf=to|Ihr=your|Konto=account
+
+#194
+p noun | Köpfe
+m head ; 0
+s My head hurts! ## Mein=my|Kopf=head|tut=does|weh=hurt
+
+#195
+p noun | Küchen
+m kitchen ; 0
+s The new stove is going into the kitchen. ## Der=the|neue=new|Herd=stove|kommt=comes|in=into|die=the|Küche=kitchen
+
+#196
+p noun | Kuchen
+m cake ; 0
+s I'll have a piece of cake. ## Ich=I|nehme=take|ein=a|Stück=piece|Kuchen=cake
+
+#197
+p noun | Kugelschreiber
+m ballpoint pen ; 0
+s Do you have a pen for me? ## Hast=have|du=you|einen=a|Kugelschreiber=pen|für=for|mich=me
+
+#198
+p noun | Kühlschränke
+m refrigerator, fridge ; 0
+s Do we still have milk? Yes, in the fridge. ## Haben=have|wir=we|noch=still|Milch=milk|Ja=yes|im=in the|Kühlschrank=fridge
+
+#199
+p noun | Kunden
+m customer ; 0
+s One moment, please. I have a customer. ## Einen=one|Moment=moment|bitte=please|Ich=I|habe=have|eine=a|Kundin=female customer
+
+#200
+p noun | Kurse
+m course, class ; 0
+s The German course runs until summer. ## Der=the|Deutschkurs=German course|geht=goes|bis=until|zum=to the|Sommer=summer
+
+#201
+p noun | Läden
+m shop, store ; 0
+s In the bookshop you can buy books. ## Im=in the|Buchladen=bookshop|können=can|Sie=you|Bücher=books|kaufen=buy
+
+#202
+p noun | Länder
+m country ; 0
+s Italy is a beautiful country. ## Italien=Italy|ist=is|ein=a|schönes=beautiful|Land=country
+
+#203
+p noun | 
+m life ; 0
+s Life in this country is expensive. ## Das=the|Leben=life|in=in|diesem=this|Land=country|ist=is|teuer=expensive
+
+#204
+p noun | 
+m groceries, food ; 0
+s You can get groceries at the supermarket. ## Lebensmittel=groceries|bekommen=get|Sie=you|im=at the|Supermarkt=supermarket
+
+#205
+p noun | Lehrer
+m teacher ; 0
+s Our German teacher is called Ms. Müller. ## Unsere=our|Deutschlehrerin=German teacher|heißt=is called|Frau=Ms.|Müller=Müller
+
+#206
+p noun | 
+m people ; 0
+s There are many people at the disco. ## In=in|der=the|Disko=disco|sind=are|viele=many|Leute=people
+
+#207
+p noun | Lichter
+m light ; 0
+s Where do you turn on the light here? ## Wo=where|macht=makes|man=one|hier=here|das=the|Licht=light|an=on
+
+#208
+p noun | Lieder
+m song ; 0
+s Which is your favorite song? ## Welches=which|ist=is|dein=your|Lieblingslied=favorite song
+
+#209
+p noun | Lkws
+m truck, lorry ; 0
+s This truck is very big. ## Dieser=this|Lastkraftwagen=truck|ist=is|sehr=very|groß=big
+
+#210
+p noun | Lokale
+m restaurant, pub ; 0
+s There is a new restaurant on our street. ## In=on|unserer=our|Straße=street|gibt=gives|es=it|ein=a|neues=new|Lokal=restaurant
+
+#211
+p noun | Lösungen
+m solution, answer ; 0
+s The solution is very simple. ## Die=the|Lösung=solution|ist=is|ganz=quite|einfach=simple
+
+#212
+p noun | Mädchen
+m girl ; 0
+s The Kurz family is having a baby. – Boy or girl? ## Familie=family|Kurz=Kurz|bekommt=gets|ein=a|Baby=baby|Junge=boy|oder=or|Mädchen=girl
+
+#213
+p noun | Männer
+m man ; 
+m husband ; 0
+s My husband works for the police. ## Mein=my|Mann=husband|arbeitet=works|bei=for|der=the|Polizei=police
+
+#214
+p noun | Maschinen
+m machine ; 0
+s The washing machine is reasonably priced. ## Die=the|Waschmaschine=washing machine|ist=is|günstig=cheap
+
+#215
+p noun | Meere
+m sea, ocean ; 0
+s We are going on vacation by the sea. ## Wir=we|machen=make|Urlaub=vacation|am=at the|Meer=sea
+
+#216
+p noun | Menschen
+m human being, person ; 0
+s People here are different from where we live. ## Die=the|Menschen=people|sind=are|hier=here|anders=different|als=than|bei=at|uns=us
+
+#217
+p noun | Mieten
+m rent ; 0
+s The rent for this apartment is 600 euros. ## Die=the|Miete=rent|für=for|diese=this|Wohnung=apartment|ist=is|Euro=euros
+
+#218
+p noun | 
+m milk ; 0
+s The milk is in the fridge. ## Die=the|Milch=milk|steht=stands|im=in the|Kühlschrank=fridge
+
+#219
+p noun | Mitten
+m middle, center ; 0
+s The teacher is standing in the middle of the classroom. ## Der=the|Lehrer=teacher|steht=stands|in=in|der=the|Mitte=middle|des=of the|Klassenzimmers=classroom
+
+#220
+p noun | 
+m furniture ; 0
+s Is the furniture new? ## Sind=are|die=the|Möbel=furniture|neu=new
+
+#221
+p noun | Momente
+m moment ; 0,1
+s Just a moment, please! ## Moment=moment|mal=just|bitte=please
+s One moment, please. ## Einen=one|Moment=moment|bitte=please
+
+#222
+p noun | 
+m morning ;
+x Am Morgen trinke ich Kaffee. ## In the morning I drink coffee. ## Am=in the|Morgen=morning|trinke=drink|ich=I|Kaffee=coffee
+
+#223
+p noun | Vormittage
+m (late) morning, before noon ;
+x Am Vormittag arbeite ich. ## In the morning I work. ## Am=in the|Vormittag=morning|arbeite=work|ich=I
+
+#224
+p noun | 
+m midday, noon ;
+x Zu Mittag essen wir zusammen. ## We eat together at noon. ## Zu=at|Mittag=noon|essen=eat|wir=we|zusammen=together
+
+#225
+p noun | Nachmittage
+m afternoon ;
+x Am Nachmittag gehe ich spazieren. ## In the afternoon I go for a walk. ## Am=in the|Nachmittag=afternoon|gehe=go|ich=I|spazieren=for a walk
+
+#226
+p noun | Abende
+m evening ;
+x Am Abend sehen wir fern. ## In the evening we watch TV. ## Am=in the|Abend=evening|sehen=see|wir=we|fern=(part of fernsehen)
+
+#227
+p noun | Nächte
+m night ;
+x In der Nacht schlafe ich. ## At night I sleep. ## In=in|der=the|Nacht=night|schlafe=sleep|ich=I
+
+#228
+p noun | Münder
+m mouth ; 0
+s Open your mouth. ## Öffnen=open|Sie=you|den=the|Mund=mouth
+
+#229
+p noun | Mütter
+m mother ; 0
+s Ms. Berghäuser is Michaela's mother. ## Frau=Ms.|Berghäuser=Berghäuser|ist=is|die=the|Mutter=mother|von=of|Michaela=Michaela
