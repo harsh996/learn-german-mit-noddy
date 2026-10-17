@@ -32,3 +32,50 @@
 .brand span {
   color: var(--gold);
 }
+
+.picker {
+  display: grid;
+  gap: 1.5rem;
+  justify-items: center;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.picker h1 {
+  font-family: var(--font-display);
+  color: var(--forest);
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  width: min(760px, 100%);
+}
+
+.option {
+  display: grid;
+  gap: 0.4rem;
+  padding: 1.5rem 1rem;
+  background: var(--glass);
+  border: 1px solid var(--mist);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  color: var(--ink);
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+
+.option:hover:not(:disabled) {
+  border-color: var(--gold);
+}
+
+.option:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.option span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
