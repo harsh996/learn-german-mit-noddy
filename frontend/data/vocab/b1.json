@@ -1,0 +1,3567 @@
+[
+ {
+  "word": "abbiegen",
+  "pos": "verb",
+  "frequency": 1138,
+  "meanings": [
+   {
+    "english": "to turn (off a road)",
+    "examples": [
+     {
+      "de": "An der nächsten Kreuzung müssen Sie links abbiegen.",
+      "en": "You have to turn left at the next intersection.",
+      "glosses": {
+       "An": "at",
+       "der": "the",
+       "nächsten": "next",
+       "Kreuzung": "intersection",
+       "müssen": "must",
+       "Sie": "you",
+       "links": "left",
+       "abbiegen": "turn"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "biegt ab, bog ab, ist abgebogen"
+ },
+ {
+  "word": "Abbildung",
+  "pos": "noun",
+  "frequency": 1139,
+  "meanings": [
+   {
+    "english": "illustration, figure",
+    "examples": [
+     {
+      "de": "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet.",
+      "en": "The illustration shows how to switch on the device.",
+      "glosses": {
+       "Auf": "in",
+       "der": "the",
+       "Abbildung": "illustration",
+       "sehen": "see",
+       "Sie": "you",
+       "wie": "how",
+       "man": "one",
+       "das": "the",
+       "Gerät": "device",
+       "einschaltet": "switches on"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Abbildungen"
+ },
+ {
+  "word": "abbrechen",
+  "pos": "verb",
+  "frequency": 1140,
+  "meanings": [
+   {
+    "english": "to break off, to drop out of",
+    "examples": [
+     {
+      "de": "Er hat sein Studium abgebrochen.",
+      "en": "He dropped out of his studies.",
+      "glosses": {
+       "Er": "he",
+       "hat": "has",
+       "sein": "his",
+       "Studium": "studies",
+       "abgebrochen": "dropped"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "bricht ab, brach ab, hat abgebrochen"
+ },
+ {
+  "word": "Abenteuer",
+  "pos": "noun",
+  "frequency": 1141,
+  "meanings": [
+   {
+    "english": "adventure",
+    "examples": [
+     {
+      "de": "Unser Urlaub war ein tolles Abenteuer.",
+      "en": "Our vacation was a great adventure.",
+      "glosses": {
+       "Unser": "our",
+       "Urlaub": "vacation",
+       "war": "was",
+       "ein": "a",
+       "tolles": "great",
+       "Abenteuer": "adventure"
+      }
+     },
+     {
+      "de": "Die Kinder lieben Abenteuergeschichten.",
+      "en": "The children love adventure stories.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "lieben": "love",
+       "Abenteuergeschichten": "adventure stories"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "das",
+  "notes": "Plural: die Abenteuer"
+ },
+ {
+  "word": "Abfall",
+  "pos": "noun",
+  "frequency": 1142,
+  "meanings": [
+   {
+    "english": "waste, rubbish",
+    "examples": [
+     {
+      "de": "Werfen Sie den Bioabfall bitte nicht zum normalen Müll.",
+      "en": "Please don't throw organic waste in with the normal trash.",
+      "glosses": {
+       "Werfen": "throw",
+       "Sie": "you",
+       "den": "the",
+       "Bioabfall": "organic waste",
+       "bitte": "please",
+       "nicht": "not",
+       "zum": "in with the",
+       "normalen": "normal",
+       "Müll": "trash"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Abfälle"
+ },
+ {
+  "word": "Abfalleimer",
+  "pos": "noun",
+  "frequency": 1143,
+  "meanings": [
+   {
+    "english": "trash can, waste bin",
+    "examples": [
+     {
+      "de": "Wirf das bitte in den Abfalleimer!",
+      "en": "Please throw that in the trash can!",
+      "glosses": {
+       "Wirf": "throw",
+       "das": "that",
+       "bitte": "please",
+       "in": "into",
+       "den": "the",
+       "Abfalleimer": "trash can"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Abfalleimer"
+ },
+ {
+  "word": "Abgase",
+  "pos": "noun",
+  "frequency": 1144,
+  "meanings": [
+   {
+    "english": "exhaust fumes, emissions",
+    "examples": [
+     {
+      "de": "Abgase aus Industrie und Haushalten verschmutzen die Luft.",
+      "en": "Emissions from industry and households pollute the air.",
+      "glosses": {
+       "Abgase": "emissions",
+       "aus": "from",
+       "Industrie": "industry",
+       "und": "and",
+       "Haushalten": "households",
+       "verschmutzen": "pollute",
+       "die": "the",
+       "Luft": "air"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "plural only"
+ },
+ {
+  "word": "abhängen",
+  "pos": "verb",
+  "frequency": 1145,
+  "meanings": [
+   {
+    "english": "to depend (on)",
+    "examples": [
+     {
+      "de": "Vielleicht bleiben wir ein paar Tage länger, das hängt vom Wetter ab.",
+      "en": "Maybe we'll stay a few days longer, it depends on the weather.",
+      "glosses": {
+       "Vielleicht": "maybe",
+       "bleiben": "stay",
+       "wir": "we",
+       "ein": "a",
+       "paar": "few",
+       "Tage": "days",
+       "länger": "longer",
+       "das": "that",
+       "hängt": "depends",
+       "vom": "on the",
+       "Wetter": "weather",
+       "ab": "(part of abhängen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "hängt ab, hing ab, hat abgehangen (von)"
+ },
+ {
+  "word": "abheben",
+  "pos": "verb",
+  "frequency": 1146,
+  "meanings": [
+   {
+    "english": "to withdraw (money)",
+    "examples": [
+     {
+      "de": "Für die Reise habe ich 500 Euro von meinem Konto abgehoben.",
+      "en": "I withdrew 500 euros from my account for the trip.",
+      "glosses": {
+       "Für": "for",
+       "die": "the",
+       "Reise": "trip",
+       "habe": "have",
+       "ich": "I",
+       "Euro": "euros",
+       "von": "from",
+       "meinem": "my",
+       "Konto": "account",
+       "abgehoben": "withdrawn"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "hebt ab, hob ab, hat abgehoben"
+ },
+ {
+  "word": "Abitur",
+  "pos": "noun",
+  "frequency": 1147,
+  "meanings": [
+   {
+    "english": "Abitur (German school-leaving exam)",
+    "examples": [
+     {
+      "de": "Meine Tochter hat gerade Abitur gemacht.",
+      "en": "My daughter has just taken her Abitur.",
+      "glosses": {
+       "Meine": "my",
+       "Tochter": "daughter",
+       "hat": "has",
+       "gerade": "just",
+       "Abitur": "Abitur",
+       "gemacht": "done"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "das"
+ },
+ {
+  "word": "ablehnen",
+  "pos": "verb",
+  "frequency": 1148,
+  "meanings": [
+   {
+    "english": "to decline, to reject",
+    "examples": [
+     {
+      "de": "Er hat mein Angebot, ihm zu helfen, abgelehnt.",
+      "en": "He declined my offer to help him.",
+      "glosses": {
+       "Er": "he",
+       "hat": "has",
+       "mein": "my",
+       "Angebot": "offer",
+       "ihm": "him",
+       "zu": "to",
+       "helfen": "help",
+       "abgelehnt": "declined"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "lehnt ab, lehnte ab, hat abgelehnt"
+ },
+ {
+  "word": "abmachen",
+  "pos": "verb",
+  "frequency": 1149,
+  "meanings": [
+   {
+    "english": "to arrange, to agree",
+    "examples": [
+     {
+      "de": "Wir hatten doch abgemacht, dass du die Getränke besorgst.",
+      "en": "We had agreed that you would get the drinks.",
+      "glosses": {
+       "Wir": "we",
+       "hatten": "had",
+       "doch": "surely",
+       "abgemacht": "agreed",
+       "dass": "that",
+       "du": "you",
+       "die": "the",
+       "Getränke": "drinks",
+       "besorgst": "get"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "macht ab, machte ab, hat abgemacht"
+ },
+ {
+  "word": "abnehmen",
+  "pos": "verb",
+  "frequency": 1150,
+  "meanings": [
+   {
+    "english": "to take off, to remove",
+    "examples": [
+     {
+      "de": "Morgen können wir den Verband abnehmen.",
+      "en": "We can take off the bandage tomorrow.",
+      "glosses": {
+       "Morgen": "tomorrow",
+       "können": "can",
+       "wir": "we",
+       "den": "the",
+       "Verband": "bandage",
+       "abnehmen": "take off"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to lose (weight)",
+    "examples": [
+     {
+      "de": "Ich habe zehn Kilo abgenommen.",
+      "en": "I've lost ten kilos.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "zehn": "ten",
+       "Kilo": "kilos",
+       "abgenommen": "lost"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "nimmt ab, nahm ab, hat abgenommen"
+ },
+ {
+  "word": "abonnieren",
+  "pos": "verb",
+  "frequency": 1151,
+  "meanings": [
+   {
+    "english": "to subscribe to",
+    "examples": [
+     {
+      "de": "Diese Zeitschrift würde ich gerne abonnieren.",
+      "en": "I would like to subscribe to this magazine.",
+      "glosses": {
+       "Diese": "this",
+       "Zeitschrift": "magazine",
+       "würde": "would",
+       "ich": "I",
+       "gerne": "gladly",
+       "abonnieren": "subscribe"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "abonniert, abonnierte, hat abonniert"
+ },
+ {
+  "word": "absagen",
+  "pos": "verb",
+  "frequency": 1152,
+  "meanings": [
+   {
+    "english": "to cancel, to call off",
+    "examples": [
+     {
+      "de": "Ich muss unser Treffen leider absagen, weil ich krank geworden bin.",
+      "en": "Unfortunately I have to cancel our meeting because I've fallen ill.",
+      "glosses": {
+       "Ich": "I",
+       "muss": "must",
+       "unser": "our",
+       "Treffen": "meeting",
+       "leider": "unfortunately",
+       "absagen": "cancel",
+       "weil": "because",
+       "ich": "I",
+       "krank": "ill",
+       "geworden": "become",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "sagt ab, sagte ab, hat abgesagt"
+ },
+ {
+  "word": "abschreiben",
+  "pos": "verb",
+  "frequency": 1153,
+  "meanings": [
+   {
+    "english": "to copy (from someone)",
+    "examples": [
+     {
+      "de": "Er hat die Hausaufgaben von mir abgeschrieben.",
+      "en": "He copied the homework from me.",
+      "glosses": {
+       "Er": "he",
+       "hat": "has",
+       "die": "the",
+       "Hausaufgaben": "homework",
+       "von": "from",
+       "mir": "me",
+       "abgeschrieben": "copied"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "schreibt ab, schrieb ab, hat abgeschrieben"
+ },
+ {
+  "word": "absolut",
+  "pos": "adjective",
+  "frequency": 1154,
+  "meanings": [
+   {
+    "english": "absolute, absolutely",
+    "examples": [
+     {
+      "de": "Was Sie da sagen, ist absolut falsch.",
+      "en": "What you're saying is absolutely wrong.",
+      "glosses": {
+       "Was": "what",
+       "Sie": "you",
+       "da": "there",
+       "sagen": "say",
+       "ist": "is",
+       "absolut": "absolutely",
+       "falsch": "wrong"
+      }
+     },
+     {
+      "de": "Ich habe absolutes Vertrauen zu dir.",
+      "en": "I have absolute trust in you.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "absolutes": "absolute",
+       "Vertrauen": "trust",
+       "zu": "in",
+       "dir": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "abstimmen",
+  "pos": "verb",
+  "frequency": 1155,
+  "meanings": [
+   {
+    "english": "to vote",
+    "examples": [
+     {
+      "de": "Lasst uns über diesen Punkt abstimmen.",
+      "en": "Let's vote on this point.",
+      "glosses": {
+       "Lasst": "let",
+       "uns": "us",
+       "über": "on",
+       "diesen": "this",
+       "Punkt": "point",
+       "abstimmen": "vote"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "stimmt ab, stimmte ab, hat abgestimmt"
+ },
+ {
+  "word": "abwärts",
+  "pos": "adverb",
+  "frequency": 1156,
+  "meanings": [
+   {
+    "english": "downward",
+    "examples": [
+     {
+      "de": "Von dort führt der Weg abwärts ins Tal.",
+      "en": "From there the path leads down into the valley.",
+      "glosses": {
+       "Von": "from",
+       "dort": "there",
+       "führt": "leads",
+       "der": "the",
+       "Weg": "path",
+       "abwärts": "downward",
+       "ins": "into the",
+       "Tal": "valley"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "abwaschen",
+  "pos": "verb",
+  "frequency": 1157,
+  "meanings": [
+   {
+    "english": "to wash up",
+    "examples": [
+     {
+      "de": "Ich muss noch das Geschirr abwaschen.",
+      "en": "I still have to wash the dishes.",
+      "glosses": {
+       "Ich": "I",
+       "muss": "must",
+       "noch": "still",
+       "das": "the",
+       "Geschirr": "dishes",
+       "abwaschen": "wash up"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "wäscht ab, wusch ab, hat abgewaschen"
+ },
+ {
+  "word": "abwesend",
+  "pos": "adjective",
+  "frequency": 1158,
+  "meanings": [
+   {
+    "english": "absent",
+    "examples": [
+     {
+      "de": "Herr Huber ist bis zum 25. April abwesend.",
+      "en": "Mr. Huber is absent until April 25.",
+      "glosses": {
+       "Herr": "Mr.",
+       "Huber": "Huber",
+       "ist": "is",
+       "bis": "until",
+       "zum": "the",
+       "April": "April",
+       "abwesend": "absent"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "achten",
+  "pos": "verb",
+  "frequency": 1159,
+  "meanings": [
+   {
+    "english": "to pay attention (to)",
+    "examples": [
+     {
+      "de": "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen.",
+      "en": "Please make sure that you lock up when you leave.",
+      "glosses": {
+       "Achten": "pay attention",
+       "Sie": "you",
+       "bitte": "please",
+       "darauf": "to it",
+       "dass": "that",
+       "abschließen": "lock",
+       "wenn": "when",
+       "gehen": "go"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "achtet, achtete, hat geachtet (auf)"
+ },
+ {
+  "word": "ähnlich",
+  "pos": "adjective",
+  "frequency": 1160,
+  "meanings": [
+   {
+    "english": "similar",
+    "examples": [
+     {
+      "de": "Emilia ist in einer ganz ähnlichen Situation wie ich.",
+      "en": "Emilia is in a very similar situation to mine.",
+      "glosses": {
+       "Emilia": "Emilia",
+       "ist": "is",
+       "in": "in",
+       "einer": "a",
+       "ganz": "quite",
+       "ähnlichen": "similar",
+       "Situation": "situation",
+       "wie": "as",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Oleg sieht seinem Bruder sehr ähnlich.",
+      "en": "Oleg looks very much like his brother.",
+      "glosses": {
+       "Oleg": "Oleg",
+       "sieht": "looks",
+       "seinem": "his",
+       "Bruder": "brother",
+       "sehr": "very",
+       "ähnlich": "similar"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "allerdings",
+  "pos": "adverb",
+  "frequency": 1161,
+  "meanings": [
+   {
+    "english": "however, though",
+    "examples": [
+     {
+      "de": "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit.",
+      "en": "We can meet tomorrow, though I only have time from noon.",
+      "glosses": {
+       "Wir": "we",
+       "können": "can",
+       "uns": "each other",
+       "morgen": "tomorrow",
+       "treffen": "meet",
+       "allerdings": "however",
+       "habe": "have",
+       "ich": "I",
+       "erst": "only",
+       "ab": "from",
+       "Mittag": "noon",
+       "Zeit": "time"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "allgemein",
+  "pos": "adjective",
+  "frequency": 1162,
+  "meanings": [
+   {
+    "english": "general",
+    "examples": [
+     {
+      "de": "Wir haben nur über allgemeine Probleme gesprochen.",
+      "en": "We only talked about general problems.",
+      "glosses": {
+       "Wir": "we",
+       "haben": "have",
+       "nur": "only",
+       "über": "about",
+       "allgemeine": "general",
+       "Probleme": "problems",
+       "gesprochen": "talked"
+      }
+     }
+    ]
+   },
+   {
+    "english": "generally",
+    "examples": [
+     {
+      "de": "Es ist allgemein bekannt, dass man hier gut essen kann.",
+      "en": "It's generally known that you can eat well here.",
+      "glosses": {
+       "Es": "it",
+       "ist": "is",
+       "allgemein": "generally",
+       "bekannt": "known",
+       "dass": "that",
+       "man": "one",
+       "hier": "here",
+       "gut": "well",
+       "essen": "eat",
+       "kann": "can"
+      }
+     },
+     {
+      "de": "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden.",
+      "en": "On the whole I'm very satisfied with my work.",
+      "glosses": {
+       "Im": "in the",
+       "Allgemeinen": "general",
+       "bin": "am",
+       "ich": "I",
+       "mit": "with",
+       "meiner": "my",
+       "Arbeit": "work",
+       "sehr": "very",
+       "zufrieden": "satisfied"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "alltäglich",
+  "pos": "adjective",
+  "frequency": 1163,
+  "meanings": [
+   {
+    "english": "everyday, ordinary",
+    "examples": [
+     {
+      "de": "Das alltägliche Leben ist manchmal langweilig.",
+      "en": "Everyday life is sometimes boring.",
+      "glosses": {
+       "Das": "the",
+       "alltägliche": "everyday",
+       "Leben": "life",
+       "ist": "is",
+       "manchmal": "sometimes",
+       "langweilig": "boring"
+      }
+     },
+     {
+      "de": "Der Roman erzählt eine ganz alltägliche Geschichte.",
+      "en": "The novel tells a quite ordinary story.",
+      "glosses": {
+       "Der": "the",
+       "Roman": "novel",
+       "erzählt": "tells",
+       "eine": "a",
+       "ganz": "quite",
+       "alltägliche": "ordinary",
+       "Geschichte": "story"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "als ob",
+  "pos": "conjunction",
+  "frequency": 1164,
+  "meanings": [
+   {
+    "english": "as if",
+    "examples": [
+     {
+      "de": "Er tut so, als ob wir nie darüber gesprochen hätten.",
+      "en": "He acts as if we had never talked about it.",
+      "glosses": {
+       "Er": "he",
+       "tut": "does",
+       "so": "so",
+       "als": "as",
+       "ob": "if",
+       "wir": "we",
+       "nie": "never",
+       "darüber": "about it",
+       "gesprochen": "talked",
+       "hätten": "had"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "am",
+  "pos": "preposition",
+  "frequency": 1165,
+  "meanings": [
+   {
+    "english": "at the, on the, in the (an + dem)",
+    "examples": [
+     {
+      "de": "Am Anfang war alles sehr schwierig.",
+      "en": "In the beginning everything was very difficult.",
+      "glosses": {
+       "Am": "in the",
+       "Anfang": "beginning",
+       "war": "was",
+       "alles": "everything",
+       "sehr": "very",
+       "schwierig": "difficult"
+      }
+     },
+     {
+      "de": "Dann sehen wir uns also am Dienstag.",
+      "en": "Then we'll see each other on Tuesday.",
+      "glosses": {
+       "Dann": "then",
+       "sehen": "see",
+       "wir": "we",
+       "uns": "each other",
+       "also": "so",
+       "am": "on",
+       "Dienstag": "Tuesday"
+      }
+     },
+     {
+      "de": "Ich warte am Bahnhof auf dich.",
+      "en": "I'll wait for you at the station.",
+      "glosses": {
+       "Ich": "I",
+       "warte": "wait",
+       "am": "at the",
+       "Bahnhof": "station",
+       "auf": "for",
+       "dich": "you"
+      }
+     },
+     {
+      "de": "Am besten, du gehst zur Information und fragst da.",
+      "en": "It's best if you go to the information desk and ask there.",
+      "glosses": {
+       "Am": "at the",
+       "besten": "best",
+       "du": "you",
+       "gehst": "go",
+       "zur": "to the",
+       "Information": "information desk",
+       "und": "and",
+       "fragst": "ask",
+       "da": "there"
+      }
+     },
+     {
+      "de": "Das Licht war die ganze Nacht an.",
+      "en": "The light was on all night.",
+      "glosses": {
+       "Das": "the",
+       "Licht": "light",
+       "war": "was",
+       "die": "the",
+       "ganze": "whole",
+       "Nacht": "night",
+       "an": "on"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "analysieren",
+  "pos": "verb",
+  "frequency": 1166,
+  "meanings": [
+   {
+    "english": "to analyze",
+    "examples": [
+     {
+      "de": "Die Politiker analysieren die Situation auf dem Arbeitsmarkt.",
+      "en": "The politicians are analyzing the situation on the job market.",
+      "glosses": {
+       "Die": "the",
+       "Politiker": "politicians",
+       "analysieren": "analyze",
+       "die": "the",
+       "Situation": "situation",
+       "auf": "on",
+       "dem": "the",
+       "Arbeitsmarkt": "job market"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "analysiert, analysierte, hat analysiert"
+ },
+ {
+  "word": "Anbieter",
+  "pos": "noun",
+  "frequency": 1167,
+  "meanings": [
+   {
+    "english": "provider, supplier",
+    "examples": [
+     {
+      "de": "Ist das ein privater Telefonanbieter?",
+      "en": "Is that a private telephone provider?",
+      "glosses": {
+       "Ist": "is",
+       "das": "that",
+       "ein": "a",
+       "privater": "private",
+       "Telefonanbieter": "telephone provider"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Anbieter"
+ },
+ {
+  "word": "andererseits",
+  "pos": "adverb",
+  "frequency": 1168,
+  "meanings": [
+   {
+    "english": "on the other hand",
+    "examples": [
+     {
+      "de": "Tarek möchte zwar studieren, aber andererseits möchte er auch gleich Geld verdienen.",
+      "en": "Tarek wants to study, but on the other hand he'd also like to earn money right away.",
+      "glosses": {
+       "Tarek": "Tarek",
+       "möchte": "would like",
+       "zwar": "indeed",
+       "studieren": "study",
+       "aber": "but",
+       "andererseits": "on the other hand",
+       "er": "he",
+       "auch": "also",
+       "gleich": "right away",
+       "Geld": "money",
+       "verdienen": "earn"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "anerkennen",
+  "pos": "verb",
+  "frequency": 1169,
+  "meanings": [
+   {
+    "english": "to recognize, to accept (a qualification)",
+    "examples": [
+     {
+      "de": "Meine Ausbildung wird hier nicht anerkannt.",
+      "en": "My qualification is not recognized here.",
+      "glosses": {
+       "Meine": "my",
+       "Ausbildung": "qualification",
+       "wird": "is",
+       "hier": "here",
+       "nicht": "not",
+       "anerkannt": "recognized"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "erkennt an, erkannte an, hat anerkannt"
+ },
+ {
+  "word": "Angabe",
+  "pos": "noun",
+  "frequency": 1170,
+  "meanings": [
+   {
+    "english": "information, details",
+    "examples": [
+     {
+      "de": "Wir brauchen von Ihnen folgende Angaben: Name, Adresse, Geburtsdatum.",
+      "en": "We need the following details from you: name, address, date of birth.",
+      "glosses": {
+       "Wir": "we",
+       "brauchen": "need",
+       "von": "from",
+       "Ihnen": "you",
+       "folgende": "following",
+       "Angaben": "details",
+       "Name": "name",
+       "Adresse": "address",
+       "Geburtsdatum": "date of birth"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Angaben"
+ },
+ {
+  "word": "angeben",
+  "pos": "verb",
+  "frequency": 1171,
+  "meanings": [
+   {
+    "english": "to state, to indicate",
+    "examples": [
+     {
+      "de": "Bitte geben Sie Ihre genaue Adresse an.",
+      "en": "Please state your exact address.",
+      "glosses": {
+       "Bitte": "please",
+       "geben": "give",
+       "Sie": "you",
+       "Ihre": "your",
+       "genaue": "exact",
+       "Adresse": "address",
+       "an": "(part of angeben)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "gibt an, gab an, hat angegeben"
+ },
+ {
+  "word": "Angehörige",
+  "pos": "noun",
+  "frequency": 1172,
+  "meanings": [
+   {
+    "english": "relative, family member",
+    "examples": [
+     {
+      "de": "Der Arzt darf nur Familienangehörigen Auskunft geben.",
+      "en": "The doctor may only give information to family members.",
+      "glosses": {
+       "Der": "the",
+       "Arzt": "doctor",
+       "darf": "may",
+       "nur": "only",
+       "Familienangehörigen": "family members",
+       "Auskunft": "information",
+       "geben": "give"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Angehörigen"
+ },
+ {
+  "word": "angenehm",
+  "pos": "adjective",
+  "frequency": 1173,
+  "meanings": [
+   {
+    "english": "pleasant",
+    "examples": [
+     {
+      "de": "Wir wünschen Ihnen eine angenehme Reise.",
+      "en": "We wish you a pleasant journey.",
+      "glosses": {
+       "Wir": "we",
+       "wünschen": "wish",
+       "Ihnen": "you",
+       "eine": "a",
+       "angenehme": "pleasant",
+       "Reise": "journey"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Angestellte",
+  "pos": "noun",
+  "frequency": 1174,
+  "meanings": [
+   {
+    "english": "employee",
+    "examples": [
+     {
+      "de": "Björn ist Angestellter in einem Reisebüro.",
+      "en": "Björn is an employee at a travel agency.",
+      "glosses": {
+       "Björn": "Björn",
+       "ist": "is",
+       "Angestellter": "employee",
+       "in": "at",
+       "einem": "a",
+       "Reisebüro": "travel agency"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Angestellten"
+ },
+ {
+  "word": "ängstlich",
+  "pos": "adjective",
+  "frequency": 1175,
+  "meanings": [
+   {
+    "english": "anxious, fearful",
+    "examples": [
+     {
+      "de": "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße.",
+      "en": "My mother is somewhat anxious. She doesn't like going out alone.",
+      "glosses": {
+       "Meine": "my",
+       "Mutter": "mother",
+       "ist": "is",
+       "etwas": "somewhat",
+       "ängstlich": "anxious",
+       "Sie": "she",
+       "geht": "goes",
+       "nicht": "not",
+       "gern": "gladly",
+       "allein": "alone",
+       "auf": "onto",
+       "die": "the",
+       "Straße": "street"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "anhaben",
+  "pos": "verb",
+  "frequency": 1176,
+  "meanings": [
+   {
+    "english": "to be wearing",
+    "examples": [
+     {
+      "de": "Gestern hatte Julia ein rotes Kleid an.",
+      "en": "Yesterday Julia was wearing a red dress.",
+      "glosses": {
+       "Gestern": "yesterday",
+       "hatte": "had",
+       "Julia": "Julia",
+       "ein": "a",
+       "rotes": "red",
+       "Kleid": "dress",
+       "an": "on"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "hat an, hatte an, hat angehabt"
+ },
+ {
+  "word": "ankündigen",
+  "pos": "verb",
+  "frequency": 1177,
+  "meanings": [
+   {
+    "english": "to announce",
+    "examples": [
+     {
+      "de": "Wir sollten unseren Besuch ankündigen.",
+      "en": "We should announce our visit.",
+      "glosses": {
+       "Wir": "we",
+       "sollten": "should",
+       "unseren": "our",
+       "Besuch": "visit",
+       "ankündigen": "announce"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "kündigt an, kündigte an, hat angekündigt"
+ },
+ {
+  "word": "Anlage",
+  "pos": "noun",
+  "frequency": 1178,
+  "meanings": [
+   {
+    "english": "system, equipment",
+    "examples": [
+     {
+      "de": "Meine Musikanlage ist kaputt.",
+      "en": "My stereo system is broken.",
+      "glosses": {
+       "Meine": "my",
+       "Musikanlage": "stereo system",
+       "ist": "is",
+       "kaputt": "broken"
+      }
+     }
+    ]
+   },
+   {
+    "english": "attachment",
+    "examples": [
+     {
+      "de": "In der Anlage der E-Mail finden Sie meinen Lebenslauf.",
+      "en": "You'll find my résumé in the attachment to the email.",
+      "glosses": {
+       "In": "in",
+       "der": "of the",
+       "Anlage": "attachment",
+       "E-Mail": "email",
+       "finden": "find",
+       "Sie": "you",
+       "meinen": "my",
+       "Lebenslauf": "résumé"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Anlagen"
+ },
+ {
+  "word": "Anleitung",
+  "pos": "noun",
+  "frequency": 1179,
+  "meanings": [
+   {
+    "english": "instructions, manual",
+    "examples": [
+     {
+      "de": "In der Anleitung steht, dass bei diesem Spiel der Älteste beginnt.",
+      "en": "The instructions say that in this game the oldest player starts.",
+      "glosses": {
+       "In": "in",
+       "der": "the",
+       "Anleitung": "instructions",
+       "steht": "says",
+       "dass": "that",
+       "bei": "in",
+       "diesem": "this",
+       "Spiel": "game",
+       "Älteste": "oldest",
+       "beginnt": "begins"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Anleitungen"
+ },
+ {
+  "word": "annehmen",
+  "pos": "verb",
+  "frequency": 1180,
+  "meanings": [
+   {
+    "english": "to accept",
+    "examples": [
+     {
+      "de": "Ich nehme Ihre Einladung gern an.",
+      "en": "I gladly accept your invitation.",
+      "glosses": {
+       "Ich": "I",
+       "nehme": "take",
+       "Ihre": "your",
+       "Einladung": "invitation",
+       "gern": "gladly",
+       "an": "(part of annehmen)"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to assume",
+    "examples": [
+     {
+      "de": "Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind.",
+      "en": "I assume that you agree with the proposal.",
+      "glosses": {
+       "Ich": "I",
+       "nehme": "assume",
+       "an": "(part of annehmen)",
+       "dass": "that",
+       "Sie": "you",
+       "mit": "with",
+       "dem": "the",
+       "Vorschlag": "proposal",
+       "einverstanden": "agreed",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "nimmt an, nahm an, hat angenommen"
+ },
+ {
+  "word": "Annonce",
+  "pos": "noun",
+  "frequency": 1181,
+  "meanings": [
+   {
+    "english": "advertisement, classified ad",
+    "examples": [
+     {
+      "de": "Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer.",
+      "en": "I've read all the ads, but the apartments are too expensive.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "alle": "all",
+       "Annoncen": "ads",
+       "gelesen": "read",
+       "aber": "but",
+       "die": "the",
+       "Wohnungen": "apartments",
+       "sind": "are",
+       "zu": "too",
+       "teuer": "expensive"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Annoncen"
+ },
+ {
+  "word": "anschaffen",
+  "pos": "verb",
+  "frequency": 1182,
+  "meanings": [
+   {
+    "english": "to acquire, to buy (for oneself)",
+    "examples": [
+     {
+      "de": "Wir haben uns neue Möbel angeschafft.",
+      "en": "We've bought some new furniture.",
+      "glosses": {
+       "Wir": "we",
+       "haben": "have",
+       "uns": "ourselves",
+       "neue": "new",
+       "Möbel": "furniture",
+       "angeschafft": "bought"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "schafft an, schaffte an, hat angeschafft"
+ },
+ {
+  "word": "anschließen",
+  "pos": "verb",
+  "frequency": 1183,
+  "meanings": [
+   {
+    "english": "to connect, to plug in",
+    "examples": [
+     {
+      "de": "Wo kann ich den Computer anschließen?",
+      "en": "Where can I plug in the computer?",
+      "glosses": {
+       "Wo": "where",
+       "kann": "can",
+       "ich": "I",
+       "den": "the",
+       "Computer": "computer",
+       "anschließen": "connect"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "schließt an, schloss an, hat angeschlossen"
+ },
+ {
+  "word": "anschnallen",
+  "pos": "verb",
+  "frequency": 1184,
+  "meanings": [
+   {
+    "english": "to fasten one's seat belt",
+    "examples": [
+     {
+      "de": "Vergiss nicht, dich anzuschnallen.",
+      "en": "Don't forget to fasten your seat belt.",
+      "glosses": {
+       "Vergiss": "forget",
+       "nicht": "not",
+       "dich": "yourself",
+       "anzuschnallen": "to fasten the seat belt"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "schnallt an, schnallte an, hat angeschnallt"
+ },
+ {
+  "word": "ansprechen",
+  "pos": "verb",
+  "frequency": 1185,
+  "meanings": [
+   {
+    "english": "to speak to, to approach",
+    "examples": [
+     {
+      "de": "Gestern hat mich unsere neue Nachbarin im Treppenhaus angesprochen.",
+      "en": "Yesterday our new neighbor spoke to me in the stairwell.",
+      "glosses": {
+       "Gestern": "yesterday",
+       "hat": "has",
+       "mich": "me",
+       "unsere": "our",
+       "neue": "new",
+       "Nachbarin": "female neighbor",
+       "im": "in the",
+       "Treppenhaus": "stairwell",
+       "angesprochen": "spoken to"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "spricht an, sprach an, hat angesprochen"
+ },
+ {
+  "word": "Anspruch",
+  "pos": "noun",
+  "frequency": 1186,
+  "meanings": [
+   {
+    "english": "claim, entitlement",
+    "examples": [
+     {
+      "de": "Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld.",
+      "en": "You live in the city center. Therefore you have no claim to travel expenses.",
+      "glosses": {
+       "Sie": "you",
+       "wohnen": "live",
+       "im": "in the",
+       "Stadtzentrum": "city center",
+       "Deshalb": "therefore",
+       "haben": "have",
+       "keinen": "no",
+       "Anspruch": "claim",
+       "auf": "to",
+       "Fahrgeld": "travel expenses"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Ansprüche"
+ },
+ {
+  "word": "anstellen",
+  "pos": "verb",
+  "frequency": 1187,
+  "meanings": [
+   {
+    "english": "to turn on",
+    "examples": [
+     {
+      "de": "Können Sie bitte die Heizung anstellen?",
+      "en": "Could you please turn on the heating?",
+      "glosses": {
+       "Können": "can",
+       "Sie": "you",
+       "bitte": "please",
+       "die": "the",
+       "Heizung": "heating",
+       "anstellen": "turn on"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to employ",
+    "examples": [
+     {
+      "de": "Mein Schwager ist bei einer Möbelfirma angestellt.",
+      "en": "My brother-in-law is employed by a furniture company.",
+      "glosses": {
+       "Mein": "my",
+       "Schwager": "brother-in-law",
+       "ist": "is",
+       "bei": "at",
+       "einer": "a",
+       "Möbelfirma": "furniture company",
+       "angestellt": "employed"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to queue up",
+    "examples": [
+     {
+      "de": "Da vorne ist die Kasse. Du musst dich anstellen.",
+      "en": "The checkout is up ahead. You have to queue up.",
+      "glosses": {
+       "Da": "there",
+       "vorne": "ahead",
+       "ist": "is",
+       "die": "the",
+       "Kasse": "checkout",
+       "Du": "you",
+       "musst": "must",
+       "dich": "yourself",
+       "anstellen": "queue up"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "stellt an, stellte an, hat angestellt"
+ },
+ {
+  "word": "anstrengen",
+  "pos": "verb",
+  "frequency": 1188,
+  "meanings": [
+   {
+    "english": "to tire out, to strain",
+    "examples": [
+     {
+      "de": "Diese Arbeit strengt mich sehr an.",
+      "en": "This work wears me out a lot.",
+      "glosses": {
+       "Diese": "this",
+       "Arbeit": "work",
+       "strengt": "strains",
+       "mich": "me",
+       "sehr": "very",
+       "an": "(part of anstrengen)"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to make an effort",
+    "examples": [
+     {
+      "de": "Wenn du die Prüfung schaffen willst, musst du dich mehr anstrengen.",
+      "en": "If you want to pass the exam, you have to make more effort.",
+      "glosses": {
+       "Wenn": "if",
+       "du": "you",
+       "die": "the",
+       "Prüfung": "exam",
+       "schaffen": "pass",
+       "willst": "want",
+       "musst": "must",
+       "dich": "yourself",
+       "mehr": "more",
+       "anstrengen": "make an effort"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "strengt an, strengte an, hat angestrengt"
+ },
+ {
+  "word": "anstrengend",
+  "pos": "adjective",
+  "frequency": 1189,
+  "meanings": [
+   {
+    "english": "tiring, strenuous",
+    "examples": [
+     {
+      "de": "Ich finde diese Arbeit sehr anstrengend.",
+      "en": "I find this work very tiring.",
+      "glosses": {
+       "Ich": "I",
+       "finde": "find",
+       "diese": "this",
+       "Arbeit": "work",
+       "sehr": "very",
+       "anstrengend": "tiring"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Antrag",
+  "pos": "noun",
+  "frequency": 1190,
+  "meanings": [
+   {
+    "english": "application, request",
+    "examples": [
+     {
+      "de": "Haben Sie schon einen Antrag für das Wohngeld ausgefüllt?",
+      "en": "Have you already filled out an application for housing benefit?",
+      "glosses": {
+       "Haben": "have",
+       "Sie": "you",
+       "schon": "already",
+       "einen": "an",
+       "Antrag": "application",
+       "für": "for",
+       "das": "the",
+       "Wohngeld": "housing benefit",
+       "ausgefüllt": "filled out"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Anträge"
+ },
+ {
+  "word": "Anwalt",
+  "pos": "noun",
+  "frequency": 1191,
+  "meanings": [
+   {
+    "english": "lawyer",
+    "examples": [
+     {
+      "de": "Ich werde das nicht bezahlen. Ich möchte zuerst mit meinem Anwalt sprechen.",
+      "en": "I won't pay that. I'd like to speak to my lawyer first.",
+      "glosses": {
+       "Ich": "I",
+       "werde": "will",
+       "das": "that",
+       "nicht": "not",
+       "bezahlen": "pay",
+       "möchte": "would like",
+       "zuerst": "first",
+       "mit": "with",
+       "meinem": "my",
+       "Anwalt": "lawyer",
+       "sprechen": "speak"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Anwälte"
+ },
+ {
+  "word": "anwenden",
+  "pos": "verb",
+  "frequency": 1192,
+  "meanings": [
+   {
+    "english": "to apply, to use",
+    "examples": [
+     {
+      "de": "Diese Salbe muss man dreimal am Tag anwenden.",
+      "en": "This ointment must be applied three times a day.",
+      "glosses": {
+       "Diese": "this",
+       "Salbe": "ointment",
+       "muss": "must",
+       "man": "one",
+       "dreimal": "three times",
+       "am": "a",
+       "Tag": "day",
+       "anwenden": "apply"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "wendet an, wandte an / wendete an, hat angewandt / angewendet"
+ },
+ {
+  "word": "anwesend",
+  "pos": "adjective",
+  "frequency": 1193,
+  "meanings": [
+   {
+    "english": "present, attending",
+    "examples": [
+     {
+      "de": "Bei dem Treffen waren alle Mitglieder anwesend.",
+      "en": "All members were present at the meeting.",
+      "glosses": {
+       "Bei": "at",
+       "dem": "the",
+       "Treffen": "meeting",
+       "waren": "were",
+       "alle": "all",
+       "Mitglieder": "members",
+       "anwesend": "present"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "anzeigen",
+  "pos": "verb",
+  "frequency": 1194,
+  "meanings": [
+   {
+    "english": "to report (to the police)",
+    "examples": [
+     {
+      "de": "Wenn Sie hier parken, zeige ich Sie an.",
+      "en": "If you park here, I'll report you.",
+      "glosses": {
+       "Wenn": "if",
+       "Sie": "you",
+       "hier": "here",
+       "parken": "park",
+       "zeige": "show",
+       "ich": "I",
+       "an": "(part of anzeigen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "zeigt an, zeigte an, hat angezeigt"
+ },
+ {
+  "word": "Aprikose",
+  "pos": "noun",
+  "frequency": 1195,
+  "meanings": [
+   {
+    "english": "apricot",
+    "examples": [
+     {
+      "de": "Schmecken dir die Aprikosen?",
+      "en": "Do you like the apricots?",
+      "glosses": {
+       "Schmecken": "taste",
+       "dir": "you",
+       "die": "the",
+       "Aprikosen": "apricots"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Aprikosen"
+ },
+ {
+  "word": "Arbeiter",
+  "pos": "noun",
+  "frequency": 1196,
+  "meanings": [
+   {
+    "english": "worker",
+    "examples": [
+     {
+      "de": "Maria ist seit zwei Jahren Arbeiterin bei Siemens.",
+      "en": "Maria has been a worker at Siemens for two years.",
+      "glosses": {
+       "Maria": "Maria",
+       "ist": "is",
+       "seit": "for",
+       "zwei": "two",
+       "Jahren": "years",
+       "Arbeiterin": "female worker",
+       "bei": "at",
+       "Siemens": "Siemens"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Arbeiter"
+ },
+ {
+  "word": "Arbeitserlaubnis",
+  "pos": "noun",
+  "frequency": 1197,
+  "meanings": [
+   {
+    "english": "work permit",
+    "examples": [
+     {
+      "de": "Haben Sie eine Arbeitserlaubnis?",
+      "en": "Do you have a work permit?",
+      "glosses": {
+       "Haben": "have",
+       "Sie": "you",
+       "eine": "a",
+       "Arbeitserlaubnis": "work permit"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Arbeitserlaubnisse"
+ },
+ {
+  "word": "Arbeitslosigkeit",
+  "pos": "noun",
+  "frequency": 1198,
+  "meanings": [
+   {
+    "english": "unemployment",
+    "examples": [
+     {
+      "de": "Die Arbeitslosigkeit ist gesunken.",
+      "en": "Unemployment has fallen.",
+      "glosses": {
+       "Die": "the",
+       "Arbeitslosigkeit": "unemployment",
+       "ist": "is",
+       "gesunken": "fallen"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die"
+ },
+ {
+  "word": "Arbeitsstelle",
+  "pos": "noun",
+  "frequency": 1199,
+  "meanings": [
+   {
+    "english": "job, position",
+    "examples": [
+     {
+      "de": "Meine Frau hat eine neue Arbeitsstelle gefunden.",
+      "en": "My wife has found a new job.",
+      "glosses": {
+       "Meine": "my",
+       "Frau": "wife",
+       "hat": "has",
+       "eine": "a",
+       "neue": "new",
+       "Arbeitsstelle": "job",
+       "gefunden": "found"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Arbeitsstellen"
+ },
+ {
+  "word": "Architekt",
+  "pos": "noun",
+  "frequency": 1200,
+  "meanings": [
+   {
+    "english": "architect",
+    "examples": [
+     {
+      "de": "Dieses Haus hat eine berühmte Architektin gebaut.",
+      "en": "A famous (female) architect built this house.",
+      "glosses": {
+       "Dieses": "this",
+       "Haus": "house",
+       "hat": "has",
+       "eine": "a",
+       "berühmte": "famous",
+       "Architektin": "female architect",
+       "gebaut": "built"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Architekten"
+ },
+ {
+  "word": "Ärger",
+  "pos": "noun",
+  "frequency": 1201,
+  "meanings": [
+   {
+    "english": "trouble, annoyance",
+    "examples": [
+     {
+      "de": "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten.",
+      "en": "I had trouble at the office today. I argued with a colleague.",
+      "glosses": {
+       "Ich": "I",
+       "hatte": "had",
+       "heute": "today",
+       "Ärger": "trouble",
+       "im": "in the",
+       "Büro": "office",
+       "habe": "have",
+       "mich": "myself",
+       "mit": "with",
+       "einem": "a",
+       "Kollegen": "colleague",
+       "gestritten": "argued"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der"
+ },
+ {
+  "word": "ärgerlich",
+  "pos": "adjective",
+  "frequency": 1202,
+  "meanings": [
+   {
+    "english": "annoying",
+    "examples": [
+     {
+      "de": "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich.",
+      "en": "The train is delayed again. That's really annoying.",
+      "glosses": {
+       "Der": "the",
+       "Zug": "train",
+       "hat": "has",
+       "schon": "already",
+       "wieder": "again",
+       "Verspätung": "delay",
+       "Das": "that",
+       "ist": "is",
+       "wirklich": "really",
+       "ärgerlich": "annoying"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Art",
+  "pos": "noun",
+  "frequency": 1203,
+  "meanings": [
+   {
+    "english": "kind, type",
+    "examples": [
+     {
+      "de": "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
+      "en": "The zoo has 34 different kinds of birds.",
+      "glosses": {
+       "Im": "in the",
+       "Zoo": "zoo",
+       "haben": "have",
+       "sie": "they",
+       "verschiedene": "different",
+       "Arten": "kinds",
+       "von": "of",
+       "Vögeln": "birds"
+      }
+     }
+    ]
+   },
+   {
+    "english": "manner, way, personality",
+    "examples": [
+     {
+      "de": "Seine Art gefällt mir nicht.",
+      "en": "I don't like his manner.",
+      "glosses": {
+       "Seine": "his",
+       "Art": "manner",
+       "gefällt": "pleases",
+       "mir": "me",
+       "nicht": "not"
+      }
+     },
+     {
+      "de": "Man kann auf unterschiedliche Art und Weise ein Fest feiern.",
+      "en": "You can celebrate a party in different ways.",
+      "glosses": {
+       "Man": "one",
+       "kann": "can",
+       "auf": "in",
+       "unterschiedliche": "different",
+       "Art": "manner",
+       "und": "and",
+       "Weise": "way",
+       "ein": "a",
+       "Fest": "celebration",
+       "feiern": "celebrate"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Arten"
+ },
+ {
+  "word": "Asyl",
+  "pos": "noun",
+  "frequency": 1204,
+  "meanings": [
+   {
+    "english": "asylum",
+    "examples": [
+     {
+      "de": "Die Menschen sind auf der Flucht und bitten um Asyl.",
+      "en": "The people are fleeing and are asking for asylum.",
+      "glosses": {
+       "Die": "the",
+       "Menschen": "people",
+       "sind": "are",
+       "auf": "on",
+       "der": "the",
+       "Flucht": "flight",
+       "und": "and",
+       "bitten": "ask",
+       "um": "for",
+       "Asyl": "asylum"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "das"
+ },
+ {
+  "word": "Atem",
+  "pos": "noun",
+  "frequency": 1205,
+  "meanings": [
+   {
+    "english": "breath",
+    "examples": [
+     {
+      "de": "Bitte den Atem anhalten.",
+      "en": "Please hold your breath.",
+      "glosses": {
+       "Bitte": "please",
+       "den": "the",
+       "Atem": "breath",
+       "anhalten": "hold"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der"
+ },
+ {
+  "word": "atmen",
+  "pos": "verb",
+  "frequency": 1206,
+  "meanings": [
+   {
+    "english": "to breathe",
+    "examples": [
+     {
+      "de": "Er hat eine Erkältung und kann nicht durch die Nase atmen.",
+      "en": "He has a cold and can't breathe through his nose.",
+      "glosses": {
+       "Er": "he",
+       "hat": "has",
+       "eine": "a",
+       "Erkältung": "cold",
+       "und": "and",
+       "kann": "can",
+       "nicht": "not",
+       "durch": "through",
+       "die": "the",
+       "Nase": "nose",
+       "atmen": "breathe"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "atmet, atmete, hat geatmet"
+ },
+ {
+  "word": "Aufenthalt",
+  "pos": "noun",
+  "frequency": 1207,
+  "meanings": [
+   {
+    "english": "stop, stay",
+    "examples": [
+     {
+      "de": "Der Zug hat in München nur 20 Minuten Aufenthalt.",
+      "en": "The train only has a 20-minute stop in Munich.",
+      "glosses": {
+       "Der": "the",
+       "Zug": "train",
+       "hat": "has",
+       "in": "in",
+       "München": "Munich",
+       "nur": "only",
+       "Minuten": "minutes",
+       "Aufenthalt": "stop"
+      }
+     },
+     {
+      "de": "Wir wünschen Ihnen einen angenehmen Aufenthalt.",
+      "en": "We wish you a pleasant stay.",
+      "glosses": {
+       "Wir": "we",
+       "wünschen": "wish",
+       "Ihnen": "you",
+       "einen": "a",
+       "angenehmen": "pleasant",
+       "Aufenthalt": "stay"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Aufenthalte"
+ },
+ {
+  "word": "auffallen",
+  "pos": "verb",
+  "frequency": 1208,
+  "meanings": [
+   {
+    "english": "to notice, to stand out",
+    "examples": [
+     {
+      "de": "Mir ist aufgefallen, dass Harriett ganz blass ist.",
+      "en": "I noticed that Harriett is quite pale.",
+      "glosses": {
+       "Mir": "me",
+       "ist": "is",
+       "aufgefallen": "noticed",
+       "dass": "that",
+       "Harriett": "Harriett",
+       "ganz": "quite",
+       "blass": "pale"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "fällt auf, fiel auf, ist aufgefallen"
+ },
+ {
+  "word": "auffordern",
+  "pos": "verb",
+  "frequency": 1209,
+  "meanings": [
+   {
+    "english": "to ask, to urge",
+    "examples": [
+     {
+      "de": "Sie forderte mich auf, meine Meinung zu sagen.",
+      "en": "She asked me to give my opinion.",
+      "glosses": {
+       "Sie": "she",
+       "forderte": "asked",
+       "mich": "me",
+       "auf": "(part of auffordern)",
+       "meine": "my",
+       "Meinung": "opinion",
+       "zu": "to",
+       "sagen": "say"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to ask (to dance)",
+    "examples": [
+     {
+      "de": "Er fordert sie zum Tanz auf.",
+      "en": "He asks her to dance.",
+      "glosses": {
+       "Er": "he",
+       "fordert": "asks",
+       "sie": "her",
+       "zum": "to the",
+       "Tanz": "dance",
+       "auf": "(part of auffordern)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "fordert auf, forderte auf, hat aufgefordert"
+ },
+ {
+  "word": "Aufforderung",
+  "pos": "noun",
+  "frequency": 1210,
+  "meanings": [
+   {
+    "english": "request, demand, notice",
+    "examples": [
+     {
+      "de": "Sie erhalten eine Aufforderung, den Betrag bis Juni zu zahlen.",
+      "en": "You will receive a notice to pay the amount by June.",
+      "glosses": {
+       "Sie": "you",
+       "erhalten": "receive",
+       "eine": "a",
+       "Aufforderung": "notice",
+       "den": "the",
+       "Betrag": "amount",
+       "bis": "by",
+       "Juni": "June",
+       "zu": "to",
+       "zahlen": "pay"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Aufforderungen"
+ },
+ {
+  "word": "aufführen",
+  "pos": "verb",
+  "frequency": 1211,
+  "meanings": [
+   {
+    "english": "to perform",
+    "examples": [
+     {
+      "de": "Die Kinder führen zu Weihnachten ein Theaterstück auf.",
+      "en": "The children are performing a play at Christmas.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "führen": "perform",
+       "zu": "at",
+       "Weihnachten": "Christmas",
+       "ein": "a",
+       "Theaterstück": "play",
+       "auf": "(part of aufführen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "führt auf, führte auf, hat aufgeführt"
+ },
+ {
+  "word": "aufgeben",
+  "pos": "verb",
+  "frequency": 1212,
+  "meanings": [
+   {
+    "english": "to post, to hand in (a parcel)",
+    "examples": [
+     {
+      "de": "Ich habe auf der Post ein Paket aufgegeben.",
+      "en": "I sent a parcel at the post office.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "auf": "at",
+       "der": "the",
+       "Post": "post office",
+       "ein": "a",
+       "Paket": "parcel",
+       "aufgegeben": "sent"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to give up",
+    "examples": [
+     {
+      "de": "Man darf nie aufgeben. Es gibt immer eine Hoffnung.",
+      "en": "You should never give up. There's always hope.",
+      "glosses": {
+       "Man": "one",
+       "darf": "may",
+       "nie": "never",
+       "aufgeben": "give up",
+       "Es": "it",
+       "gibt": "gives",
+       "immer": "always",
+       "eine": "a",
+       "Hoffnung": "hope"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "gibt auf, gab auf, hat aufgegeben"
+ },
+ {
+  "word": "aufhalten",
+  "pos": "verb",
+  "frequency": 1213,
+  "meanings": [
+   {
+    "english": "to stay, to be (somewhere)",
+    "examples": [
+     {
+      "de": "Wo hält er sich gerade auf? - In München.",
+      "en": "Where is he at the moment? – In Munich.",
+      "glosses": {
+       "Wo": "where",
+       "hält": "keeps",
+       "er": "he",
+       "sich": "himself",
+       "gerade": "currently",
+       "auf": "(part of aufhalten)",
+       "In": "in",
+       "München": "Munich"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to hold open",
+    "examples": [
+     {
+      "de": "Darf ich Ihnen die Tür aufhalten?",
+      "en": "May I hold the door open for you?",
+      "glosses": {
+       "Darf": "may",
+       "ich": "I",
+       "Ihnen": "you",
+       "die": "the",
+       "Tür": "door",
+       "aufhalten": "hold open"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to hold up, to delay",
+    "examples": [
+     {
+      "de": "Entschuldigen Sie die Verspätung, ich wurde aufgehalten.",
+      "en": "Sorry for being late, I was held up.",
+      "glosses": {
+       "Entschuldigen": "excuse",
+       "Sie": "you",
+       "die": "the",
+       "Verspätung": "delay",
+       "ich": "I",
+       "wurde": "was",
+       "aufgehalten": "held up"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "hält auf, hielt auf, hat aufgehalten"
+ },
+ {
+  "word": "aufheben",
+  "pos": "verb",
+  "frequency": 1214,
+  "meanings": [
+   {
+    "english": "to pick up",
+    "examples": [
+     {
+      "de": "Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.",
+      "en": "Just leave the papers on the floor, I'll pick them up.",
+      "glosses": {
+       "Lassen": "leave",
+       "Sie": "you",
+       "die": "the",
+       "Papiere": "papers",
+       "nur": "just",
+       "auf": "(part of aufheben)",
+       "dem": "the",
+       "Boden": "floor",
+       "liegen": "lying",
+       "ich": "I",
+       "hebe": "pick",
+       "sie": "them",
+       "schon": "already"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to keep, to save",
+    "examples": [
+     {
+      "de": "Die Quittung müssen Sie gut aufheben.",
+      "en": "You must keep the receipt safe.",
+      "glosses": {
+       "Die": "the",
+       "Quittung": "receipt",
+       "müssen": "must",
+       "Sie": "you",
+       "gut": "well",
+       "aufheben": "keep"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "hebt auf, hob auf, hat aufgehoben"
+ },
+ {
+  "word": "aufladen",
+  "pos": "verb",
+  "frequency": 1215,
+  "meanings": [
+   {
+    "english": "to charge (a battery)",
+    "examples": [
+     {
+      "de": "Ich muss mein Telefon aufladen. Die Batterie ist leer.",
+      "en": "I have to charge my phone. The battery is empty.",
+      "glosses": {
+       "Ich": "I",
+       "muss": "must",
+       "mein": "my",
+       "Telefon": "phone",
+       "aufladen": "charge",
+       "Die": "the",
+       "Batterie": "battery",
+       "ist": "is",
+       "leer": "empty"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "lädt auf, lud auf, hat aufgeladen"
+ },
+ {
+  "word": "auflösen",
+  "pos": "verb",
+  "frequency": 1216,
+  "meanings": [
+   {
+    "english": "to dissolve",
+    "examples": [
+     {
+      "de": "Die Tablette bitte in Wasser auflösen.",
+      "en": "Please dissolve the tablet in water.",
+      "glosses": {
+       "Die": "the",
+       "Tablette": "tablet",
+       "bitte": "please",
+       "in": "in",
+       "Wasser": "water",
+       "auflösen": "dissolve"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "löst auf, löste auf, hat aufgelöst"
+ },
+ {
+  "word": "aufmerksam",
+  "pos": "adjective",
+  "frequency": 1217,
+  "meanings": [
+   {
+    "english": "attentive",
+    "examples": [
+     {
+      "de": "Die Schülerin hörte aufmerksam zu.",
+      "en": "The pupil listened attentively.",
+      "glosses": {
+       "Die": "the",
+       "Schülerin": "female pupil",
+       "hörte": "listened",
+       "aufmerksam": "attentively",
+       "zu": "(part of zuhören)"
+      }
+     }
+    ]
+   },
+   {
+    "english": "(aufmerksam machen auf) to point out",
+    "examples": [
+     {
+      "de": "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen.",
+      "en": "I'd like to point out that we're closing in half an hour.",
+      "glosses": {
+       "Ich": "I",
+       "mache": "make",
+       "Sie": "you",
+       "darauf": "to it",
+       "aufmerksam": "attentive",
+       "dass": "that",
+       "wir": "we",
+       "in": "in",
+       "einer": "a",
+       "halben": "half",
+       "Stunde": "hour",
+       "schließen": "close"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Aufnahme",
+  "pos": "noun",
+  "frequency": 1218,
+  "meanings": [
+   {
+    "english": "recording",
+    "examples": [
+     {
+      "de": "Bitte seid leise! Ich starte die Aufnahme.",
+      "en": "Please be quiet! I'm starting the recording.",
+      "glosses": {
+       "Bitte": "please",
+       "seid": "be",
+       "leise": "quiet",
+       "Ich": "I",
+       "starte": "start",
+       "die": "the",
+       "Aufnahme": "recording"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Aufnahmen"
+ },
+ {
+  "word": "aufnehmen",
+  "pos": "verb",
+  "frequency": 1219,
+  "meanings": [
+   {
+    "english": "to take in, to admit",
+    "examples": [
+     {
+      "de": "Wir haben Aneta in unseren Verein aufgenommen.",
+      "en": "We've admitted Aneta to our club.",
+      "glosses": {
+       "Wir": "we",
+       "haben": "have",
+       "Aneta": "Aneta",
+       "in": "into",
+       "unseren": "our",
+       "Verein": "club",
+       "aufgenommen": "admitted"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to record",
+    "examples": [
+     {
+      "de": "Ich habe den Film im Urlaub aufgenommen.",
+      "en": "I recorded the film on vacation.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "den": "the",
+       "Film": "film",
+       "im": "on",
+       "Urlaub": "vacation",
+       "aufgenommen": "recorded"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "nimmt auf, nahm auf, hat aufgenommen"
+ },
+ {
+  "word": "aufregen",
+  "pos": "verb",
+  "frequency": 1220,
+  "meanings": [
+   {
+    "english": "to upset, to get upset",
+    "examples": [
+     {
+      "de": "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+      "en": "It annoys me that I have to work overtime yet again.",
+      "glosses": {
+       "Es": "it",
+       "regt": "upsets",
+       "mich": "me",
+       "auf": "(part of aufregen)",
+       "dass": "that",
+       "ich": "I",
+       "schon": "already",
+       "wieder": "again",
+       "Überstunden": "overtime",
+       "machen": "do",
+       "muss": "must"
+      }
+     },
+     {
+      "de": "Ganz ruhig! Bitte regen Sie sich nicht auf.",
+      "en": "Calm down! Please don't get upset.",
+      "glosses": {
+       "Ganz": "quite",
+       "ruhig": "calm",
+       "Bitte": "please",
+       "regen": "upset",
+       "Sie": "you",
+       "sich": "yourself",
+       "nicht": "not",
+       "auf": "(part of aufregen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "regt auf, regte auf, hat aufgeregt"
+ },
+ {
+  "word": "aufregend",
+  "pos": "adjective",
+  "frequency": 1221,
+  "meanings": [
+   {
+    "english": "exciting",
+    "examples": [
+     {
+      "de": "Die Musikgruppe zu erleben war sehr aufregend.",
+      "en": "Seeing the band live was very exciting.",
+      "glosses": {
+       "Die": "the",
+       "Musikgruppe": "band",
+       "zu": "to",
+       "erleben": "experience",
+       "war": "was",
+       "sehr": "very",
+       "aufregend": "exciting"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "auftreten",
+  "pos": "verb",
+  "frequency": 1222,
+  "meanings": [
+   {
+    "english": "to appear, to perform",
+    "examples": [
+     {
+      "de": "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf.",
+      "en": "A famous band is performing at the town hall next week.",
+      "glosses": {
+       "Nächste": "next",
+       "Woche": "week",
+       "tritt": "performs",
+       "in": "in",
+       "der": "the",
+       "Stadthalle": "town hall",
+       "eine": "a",
+       "berühmte": "famous",
+       "Musikgruppe": "band",
+       "auf": "(part of auftreten)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "tritt auf, trat auf, ist aufgetreten"
+ },
+ {
+  "word": "aufwachen",
+  "pos": "verb",
+  "frequency": 1223,
+  "meanings": [
+   {
+    "english": "to wake up",
+    "examples": [
+     {
+      "de": "Von dem Lärm bin ich aufgewacht.",
+      "en": "I woke up from the noise.",
+      "glosses": {
+       "Von": "from",
+       "dem": "the",
+       "Lärm": "noise",
+       "bin": "am",
+       "ich": "I",
+       "aufgewacht": "woken up"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "wacht auf, wachte auf, ist aufgewacht"
+ },
+ {
+  "word": "aufwärts",
+  "pos": "adverb",
+  "frequency": 1224,
+  "meanings": [
+   {
+    "english": "upward, uphill",
+    "examples": [
+     {
+      "de": "Sie müssen gute Schuhe anziehen. Der Weg geht immer aufwärts.",
+      "en": "You have to wear good shoes. The path goes uphill all the time.",
+      "glosses": {
+       "Sie": "you",
+       "müssen": "must",
+       "gute": "good",
+       "Schuhe": "shoes",
+       "anziehen": "put on",
+       "Der": "the",
+       "Weg": "path",
+       "geht": "goes",
+       "immer": "always",
+       "aufwärts": "uphill"
+      }
+     }
+    ]
+   },
+   {
+    "english": "improving",
+    "examples": [
+     {
+      "de": "In letzter Zeit geht es wieder aufwärts mit der Wirtschaft.",
+      "en": "Lately the economy has been improving again.",
+      "glosses": {
+       "In": "in",
+       "letzter": "last",
+       "Zeit": "time",
+       "geht": "goes",
+       "es": "it",
+       "wieder": "again",
+       "aufwärts": "upward",
+       "mit": "with",
+       "der": "the",
+       "Wirtschaft": "economy"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Ausdruck",
+  "pos": "noun",
+  "frequency": 1225,
+  "meanings": [
+   {
+    "english": "expression, phrase",
+    "examples": [
+     {
+      "de": "Diesen Ausdruck habe ich noch nie gehört.",
+      "en": "I've never heard this expression before.",
+      "glosses": {
+       "Diesen": "this",
+       "Ausdruck": "expression",
+       "habe": "have",
+       "ich": "I",
+       "noch": "yet",
+       "nie": "never",
+       "gehört": "heard"
+      }
+     }
+    ]
+   },
+   {
+    "english": "printout",
+    "examples": [
+     {
+      "de": "Machen Sie doch bitte einen Ausdruck von der E-Mail.",
+      "en": "Please make a printout of the email.",
+      "glosses": {
+       "Machen": "make",
+       "Sie": "you",
+       "doch": "please",
+       "bitte": "please",
+       "einen": "a",
+       "Ausdruck": "printout",
+       "von": "of",
+       "der": "the",
+       "E-Mail": "email"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Ausdrücke"
+ },
+ {
+  "word": "ausdrucken",
+  "pos": "verb",
+  "frequency": 1226,
+  "meanings": [
+   {
+    "english": "to print out",
+    "examples": [
+     {
+      "de": "Kann ich das auf deinem Drucker ausdrucken?",
+      "en": "Can I print that on your printer?",
+      "glosses": {
+       "Kann": "can",
+       "ich": "I",
+       "das": "that",
+       "auf": "on",
+       "deinem": "your",
+       "Drucker": "printer",
+       "ausdrucken": "print out"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "druckt aus, druckte aus, hat ausgedruckt"
+ },
+ {
+  "word": "Ausfahrt",
+  "pos": "noun",
+  "frequency": 1227,
+  "meanings": [
+   {
+    "english": "exit, driveway",
+    "examples": [
+     {
+      "de": "Hier ist eine Ausfahrt, da dürfen Sie nicht parken.",
+      "en": "This is an exit, you may not park here.",
+      "glosses": {
+       "Hier": "here",
+       "ist": "is",
+       "eine": "an",
+       "Ausfahrt": "exit",
+       "da": "there",
+       "dürfen": "may",
+       "Sie": "you",
+       "nicht": "not",
+       "parken": "park"
+      }
+     },
+     {
+      "de": "Wie weit ist es noch bis zur Ausfahrt Freiburg?",
+      "en": "How far is it to the Freiburg exit?",
+      "glosses": {
+       "Wie": "how",
+       "weit": "far",
+       "ist": "is",
+       "es": "it",
+       "noch": "still",
+       "bis": "to",
+       "zur": "the",
+       "Ausfahrt": "exit",
+       "Freiburg": "Freiburg"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Ausfahrten"
+ },
+ {
+  "word": "ausfallen",
+  "pos": "verb",
+  "frequency": 1228,
+  "meanings": [
+   {
+    "english": "to be cancelled",
+    "examples": [
+     {
+      "de": "Nächste Woche fällt der Kurs aus.",
+      "en": "The course is cancelled next week.",
+      "glosses": {
+       "Nächste": "next",
+       "Woche": "week",
+       "fällt": "falls",
+       "der": "the",
+       "Kurs": "course",
+       "aus": "out"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "fällt aus, fiel aus, ist ausgefallen"
+ },
+ {
+  "word": "Ausgabe",
+  "pos": "noun",
+  "frequency": 1229,
+  "meanings": [
+   {
+    "english": "expense, expenditure",
+    "examples": [
+     {
+      "de": "Wie hoch sind Ihre Ausgaben in einem Monat?",
+      "en": "How high are your expenses in a month?",
+      "glosses": {
+       "Wie": "how",
+       "hoch": "high",
+       "sind": "are",
+       "Ihre": "your",
+       "Ausgaben": "expenses",
+       "in": "in",
+       "einem": "a",
+       "Monat": "month"
+      }
+     }
+    ]
+   },
+   {
+    "english": "serving (of food)",
+    "examples": [
+     {
+      "de": "Wo ist die Essensausgabe?",
+      "en": "Where is the food counter?",
+      "glosses": {
+       "Wo": "where",
+       "ist": "is",
+       "die": "the",
+       "Essensausgabe": "food counter"
+      }
+     }
+    ]
+   },
+   {
+    "english": "edition, issue",
+    "examples": [
+     {
+      "de": "In welchem Buch hast du das gelesen? In welcher Ausgabe?",
+      "en": "Which book did you read that in? Which edition?",
+      "glosses": {
+       "In": "in",
+       "welchem": "which",
+       "Buch": "book",
+       "hast": "have",
+       "du": "you",
+       "das": "that",
+       "gelesen": "read",
+       "welcher": "which",
+       "Ausgabe": "edition"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Ausgaben"
+ },
+ {
+  "word": "ausgebildet",
+  "pos": "adjective",
+  "frequency": 1230,
+  "meanings": [
+   {
+    "english": "trained, qualified",
+    "examples": [
+     {
+      "de": "Für diesen Beruf müssen Sie gut ausgebildet sein.",
+      "en": "For this profession you have to be well trained.",
+      "glosses": {
+       "Für": "for",
+       "diesen": "this",
+       "Beruf": "profession",
+       "müssen": "must",
+       "Sie": "you",
+       "gut": "well",
+       "ausgebildet": "trained",
+       "sein": "be"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ausgezeichnet",
+  "pos": "adjective",
+  "frequency": 1231,
+  "meanings": [
+   {
+    "english": "excellent",
+    "examples": [
+     {
+      "de": "Essen und Unterkunft waren ausgezeichnet.",
+      "en": "The food and accommodation were excellent.",
+      "glosses": {
+       "Essen": "food",
+       "und": "and",
+       "Unterkunft": "accommodation",
+       "waren": "were",
+       "ausgezeichnet": "excellent"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Aushilfe",
+  "pos": "noun",
+  "frequency": 1232,
+  "meanings": [
+   {
+    "english": "temporary help, part-time worker",
+    "examples": [
+     {
+      "de": "Wir suchen eine freundliche Aushilfe für unser Geschäft.",
+      "en": "We're looking for a friendly part-time worker for our shop.",
+      "glosses": {
+       "Wir": "we",
+       "suchen": "look for",
+       "eine": "a",
+       "freundliche": "friendly",
+       "Aushilfe": "part-time worker",
+       "für": "for",
+       "unser": "our",
+       "Geschäft": "shop"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Aushilfen"
+ },
+ {
+  "word": "Ausnahme",
+  "pos": "noun",
+  "frequency": 1233,
+  "meanings": [
+   {
+    "english": "exception",
+    "examples": [
+     {
+      "de": "Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme.",
+      "en": "Normally I have to work at the weekend. But today is an exception.",
+      "glosses": {
+       "Normalerweise": "normally",
+       "muss": "must",
+       "ich": "I",
+       "am": "at the",
+       "Wochenende": "weekend",
+       "arbeiten": "work",
+       "Aber": "but",
+       "heute": "today",
+       "ist": "is",
+       "eine": "an",
+       "Ausnahme": "exception"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Ausnahmen"
+ },
+ {
+  "word": "ausreichen",
+  "pos": "verb",
+  "frequency": 1234,
+  "meanings": [
+   {
+    "english": "to be enough, to suffice",
+    "examples": [
+     {
+      "de": "Das Geld muss bis März ausreichen.",
+      "en": "The money has to last until March.",
+      "glosses": {
+       "Das": "the",
+       "Geld": "money",
+       "muss": "must",
+       "bis": "until",
+       "März": "March",
+       "ausreichen": "suffice"
+      }
+     },
+     {
+      "de": "Seine Kenntnisse reichen für diese Arbeit aus.",
+      "en": "His knowledge is sufficient for this job.",
+      "glosses": {
+       "Seine": "his",
+       "Kenntnisse": "knowledge",
+       "reichen": "suffice",
+       "für": "for",
+       "diese": "this",
+       "Arbeit": "job",
+       "aus": "(part of ausreichen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "reicht aus, reichte aus, hat ausgereicht"
+ },
+ {
+  "word": "ausrichten",
+  "pos": "verb",
+  "frequency": 1235,
+  "meanings": [
+   {
+    "english": "to pass on (a message)",
+    "examples": [
+     {
+      "de": "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?",
+      "en": "My husband isn't here. Shall I pass on a message to him?",
+      "glosses": {
+       "Mein": "my",
+       "Mann": "husband",
+       "ist": "is",
+       "nicht": "not",
+       "da": "here",
+       "Soll": "shall",
+       "ich": "I",
+       "ihm": "him",
+       "etwas": "something",
+       "ausrichten": "pass on"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "richtet aus, richtete aus, hat ausgerichtet"
+ },
+ {
+  "word": "ausschließen",
+  "pos": "verb",
+  "frequency": 1236,
+  "meanings": [
+   {
+    "english": "to rule out, to exclude",
+    "examples": [
+     {
+      "de": "Das kann man nicht ganz ausschließen.",
+      "en": "You can't rule that out completely.",
+      "glosses": {
+       "Das": "that",
+       "kann": "can",
+       "man": "one",
+       "nicht": "not",
+       "ganz": "completely",
+       "ausschließen": "rule out"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "schließt aus, schloss aus, hat ausgeschlossen"
+ },
+ {
+  "word": "ausschließlich",
+  "pos": "adverb",
+  "frequency": 1237,
+  "meanings": [
+   {
+    "english": "exclusively, only",
+    "examples": [
+     {
+      "de": "Tut mir leid. Wir haben ausschließlich Nichtraucherzimmer.",
+      "en": "I'm sorry. We only have non-smoking rooms.",
+      "glosses": {
+       "Tut": "does",
+       "mir": "me",
+       "leid": "sorry",
+       "Wir": "we",
+       "haben": "have",
+       "ausschließlich": "exclusively",
+       "Nichtraucherzimmer": "non-smoking rooms"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "außen",
+  "pos": "adverb",
+  "frequency": 1238,
+  "meanings": [
+   {
+    "english": "outside, on the outside",
+    "examples": [
+     {
+      "de": "Wir haben das Schloss nur von außen gesehen.",
+      "en": "We only saw the castle from the outside.",
+      "glosses": {
+       "Wir": "we",
+       "haben": "have",
+       "das": "the",
+       "Schloss": "castle",
+       "nur": "only",
+       "von": "from",
+       "außen": "outside",
+       "gesehen": "seen"
+      }
+     },
+     {
+      "de": "Außen ist das Haus nicht sehr schön.",
+      "en": "On the outside the house is not very nice.",
+      "glosses": {
+       "Außen": "on the outside",
+       "ist": "is",
+       "das": "the",
+       "Haus": "house",
+       "nicht": "not",
+       "sehr": "very",
+       "schön": "nice"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "außerdem",
+  "pos": "adverb",
+  "frequency": 1239,
+  "meanings": [
+   {
+    "english": "besides, in addition",
+    "examples": [
+     {
+      "de": "Möchten Sie außerdem noch etwas?",
+      "en": "Would you like anything else?",
+      "glosses": {
+       "Möchten": "would like",
+       "Sie": "you",
+       "außerdem": "in addition",
+       "noch": "still",
+       "etwas": "something"
+      }
+     },
+     {
+      "de": "Der Film war langweilig, und außerdem haben die Schauspieler schlecht gespielt.",
+      "en": "The film was boring, and besides, the actors acted badly.",
+      "glosses": {
+       "Der": "the",
+       "Film": "film",
+       "war": "was",
+       "langweilig": "boring",
+       "und": "and",
+       "außerdem": "besides",
+       "haben": "have",
+       "die": "the",
+       "Schauspieler": "actors",
+       "schlecht": "badly",
+       "gespielt": "acted"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "äußerlich",
+  "pos": "adjective",
+  "frequency": 1240,
+  "meanings": [
+   {
+    "english": "external, for external use",
+    "examples": [
+     {
+      "de": "Das Medikament dürfen Sie nur äußerlich anwenden.",
+      "en": "This medication may only be applied externally.",
+      "glosses": {
+       "Das": "the",
+       "Medikament": "medication",
+       "dürfen": "may",
+       "Sie": "you",
+       "nur": "only",
+       "äußerlich": "externally",
+       "anwenden": "apply"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "Aussicht",
+  "pos": "noun",
+  "frequency": 1241,
+  "meanings": [
+   {
+    "english": "view",
+    "examples": [
+     {
+      "de": "Von diesem Turm hat man eine tolle Aussicht.",
+      "en": "There's a great view from this tower.",
+      "glosses": {
+       "Von": "from",
+       "diesem": "this",
+       "Turm": "tower",
+       "hat": "has",
+       "man": "one",
+       "eine": "a",
+       "tolle": "great",
+       "Aussicht": "view"
+      }
+     }
+    ]
+   },
+   {
+    "english": "prospect, outlook",
+    "examples": [
+     {
+      "de": "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf.",
+      "en": "With several foreign languages you have good prospects in your career.",
+      "glosses": {
+       "Mit": "with",
+       "mehreren": "several",
+       "Fremdsprachen": "foreign languages",
+       "hat": "has",
+       "man": "one",
+       "gute": "good",
+       "Aussichten": "prospects",
+       "im": "in",
+       "Beruf": "career"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Aussichten"
+ },
+ {
+  "word": "Aussprache",
+  "pos": "noun",
+  "frequency": 1242,
+  "meanings": [
+   {
+    "english": "pronunciation",
+    "examples": [
+     {
+      "de": "Ali hat eine gute Aussprache.",
+      "en": "Ali has good pronunciation.",
+      "glosses": {
+       "Ali": "Ali",
+       "hat": "has",
+       "eine": "a",
+       "gute": "good",
+       "Aussprache": "pronunciation"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die"
+ },
+ {
+  "word": "ausstellen",
+  "pos": "verb",
+  "frequency": 1243,
+  "meanings": [
+   {
+    "english": "to display, to exhibit",
+    "examples": [
+     {
+      "de": "Im Schaufenster sind Winterschuhe ausgestellt.",
+      "en": "Winter shoes are on display in the shop window.",
+      "glosses": {
+       "Im": "in the",
+       "Schaufenster": "shop window",
+       "sind": "are",
+       "Winterschuhe": "winter shoes",
+       "ausgestellt": "displayed"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to issue (a document)",
+    "examples": [
+     {
+      "de": "Das Zeugnis wird bis nächste Woche ausgestellt.",
+      "en": "The certificate will be issued by next week.",
+      "glosses": {
+       "Das": "the",
+       "Zeugnis": "certificate",
+       "wird": "will be",
+       "bis": "by",
+       "nächste": "next",
+       "Woche": "week",
+       "ausgestellt": "issued"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "stellt aus, stellte aus, hat ausgestellt"
+ },
+ {
+  "word": "aussuchen",
+  "pos": "verb",
+  "frequency": 1244,
+  "meanings": [
+   {
+    "english": "to choose, to pick out",
+    "examples": [
+     {
+      "de": "Such dir etwas Schönes aus! Ich lade dich ein.",
+      "en": "Choose something nice! My treat.",
+      "glosses": {
+       "Such": "choose",
+       "dir": "yourself",
+       "etwas": "something",
+       "Schönes": "nice",
+       "aus": "out",
+       "Ich": "I",
+       "lade": "invite",
+       "dich": "you",
+       "ein": "(part of einladen)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "sucht aus, suchte aus, hat ausgesucht"
+ },
+ {
+  "word": "Auswahl",
+  "pos": "noun",
+  "frequency": 1245,
+  "meanings": [
+   {
+    "english": "selection, choice",
+    "examples": [
+     {
+      "de": "Wir müssen eine Auswahl aus den Büchern treffen.",
+      "en": "We have to make a selection from the books.",
+      "glosses": {
+       "Wir": "we",
+       "müssen": "must",
+       "eine": "a",
+       "Auswahl": "selection",
+       "aus": "from",
+       "den": "the",
+       "Büchern": "books",
+       "treffen": "make"
+      }
+     },
+     {
+      "de": "Das Geschäft hat eine große Auswahl.",
+      "en": "The shop has a large selection.",
+      "glosses": {
+       "Das": "the",
+       "Geschäft": "shop",
+       "hat": "has",
+       "eine": "a",
+       "große": "large",
+       "Auswahl": "selection"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "die",
+  "notes": "Plural: die Auswahlen"
+ },
+ {
+  "word": "auswählen",
+  "pos": "verb",
+  "frequency": 1246,
+  "meanings": [
+   {
+    "english": "to choose, to select",
+    "examples": [
+     {
+      "de": "Für die Aufgabe können Sie aus drei Themen auswählen.",
+      "en": "For the task you can choose from three topics.",
+      "glosses": {
+       "Für": "for",
+       "die": "the",
+       "Aufgabe": "task",
+       "können": "can",
+       "Sie": "you",
+       "aus": "from",
+       "drei": "three",
+       "Themen": "topics",
+       "auswählen": "choose"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "wählt aus, wählte aus, hat ausgewählt"
+ },
+ {
+  "word": "Autor",
+  "pos": "noun",
+  "frequency": 1247,
+  "meanings": [
+   {
+    "english": "author",
+    "examples": [
+     {
+      "de": "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben.",
+      "en": "This (female) author has already written two books this year.",
+      "glosses": {
+       "Diese": "this",
+       "Autorin": "female author",
+       "hat": "has",
+       "in": "in",
+       "diesem": "this",
+       "Jahr": "year",
+       "schon": "already",
+       "zwei": "two",
+       "Bücher": "books",
+       "geschrieben": "written"
+      }
+     }
+    ]
+   }
+  ],
+  "article": "der",
+  "notes": "Plural: die Autoren"
+ }
+]

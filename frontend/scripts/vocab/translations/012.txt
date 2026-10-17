@@ -1,0 +1,496 @@
+#1013
+p adjective | 
+m active ; 0
+s Peter is very active and does a lot of sport. ## Peter=Peter|ist=is|sehr=very|aktiv=active|und=and|macht=does|viel=a lot of|Sport=sport
+
+#1014
+p adjective | 
+m current, up to date ; 0
+s This is the current cinema program. ## Das=this|ist=is|das=the|aktuelle=current|Kinoprogramm=cinema program
+
+#1015
+p adverb | 
+m differently, otherwise ; 0
+s It can't be done any other way, unfortunately. Oliver is different from his friends. ## Anders=differently|geht=goes|das=that|leider=unfortunately|nicht=not|Oliver=Oliver|ist=is|anders=different|als=than|seine=his|Freunde=friends
+
+#1016
+p adjective | 
+m poor ; 0
+s They don't have much money, they are poor. ## Sie=they|haben=have|nicht=not|viel=much|Geld=money|sind=are|arm=poor
+
+#1017
+p adjective | 
+m exciting, excited ; 0
+s Last week was very exciting. ## Die=the|letzte=last|Woche=week|war=was|sehr=very|aufregend=exciting
+
+#1018
+p adverb | 
+m automatically ; 0
+s Attention, the doors close automatically! ## Achtung=attention|die=the|Türen=doors|schließen=close|automatisch=automatically
+
+#1019
+p adjective | 
+m popular, well-liked ; 0
+s Soccer is popular with many people. ## Fußball=soccer|ist=is|bei=with|vielen=many|Menschen=people|beliebt=popular
+
+#1020
+p adjective | 
+m comfortable ; 0
+s The sofa is very comfortable. ## Das=the|Sofa=sofa|ist=is|sehr=very|bequem=comfortable
+
+#1021
+p adjective | 
+m famous ; 0
+s Thomas Müller is a famous soccer player. ## Thomas=Thomas|Müller=Müller|ist=is|ein=a|berühmter=famous|Fußballspieler=soccer player
+
+#1022
+p adverb | 
+m especially, particularly ; 0
+s This offer is especially good value. ## Dieses=this|Angebot=offer|ist=is|besonders=especially|günstig=good value
+
+#1023
+p adjective | 
+m cloudy ; 0
+s It's cloudy today. ## Heute=today|ist=is|es=it|bewölkt=cloudy
+
+#1024
+p adjective | 
+m stupid, silly (informal) ; 0
+s I think it's stupid that you have to leave tomorrow. ## Ich=I|finde=find|es=it|blöd=stupid|dass=that|du=you|morgen=tomorrow|gehen=go|musst=must
+
+#1025
+p adjective | 
+m blond ; 0
+s Lisa has blond hair. ## Lisa=Lisa|hat=has|blonde=blond|Haare=hair
+
+#1026
+p adjective | 
+m colorful ; 0
+s Anna likes wearing colorful dresses. ## Anna=Anna|trägt=wears|gern=gladly|bunte=colorful|Kleider=dresses
+
+#1027
+p adverb | 
+m back then, at that time ; 0
+s But back then I had no money. ## Aber=but|damals=back then|hatte=had|ich=I|kein=no|Geld=money
+
+#1028
+p adjective | 
+m clear, distinct ; 0
+s Please speak clearly! ## Sprechen=speak|Sie=you|bitte=please|deutlich=clearly
+
+#1029
+p adjective | 
+m fat, thick ; 0
+s I'm too fat. I have to eat less. ## Ich=I|bin=am|zu=too|dick=fat|muss=must|weniger=less|essen=eat
+
+#1030
+p adjective | 
+m direct, directly ; 0
+s We live directly above the café. ## Wir=we|wohnen=live|direkt=directly|über=above|dem=the|Café=café
+
+#1031
+p adjective | 
+m urgent ; 0
+s Please come quickly. It's urgent. ## Bitte=please|kommen=come|Sie=you|schnell=quickly|Es=it|ist=is|dringend=urgent
+
+#1032
+p adverb | 
+m inside, indoors ; 0
+s Would you like to sit inside or outside? ## Wollen=want|Sie=you|drinnen=inside|oder=or|draußen=outside|sitzen=sit
+
+#1033
+p adverb | 
+m over there ; 0
+s The stop is over there. ## Da=there|drüben=over there|ist=is|die=the|Haltestelle=stop
+
+#1034
+p adjective | 
+m stupid, dumb ; 0
+s I think the film is stupid. ## Ich=I|finde=find|den=the|Film=film|dumm=stupid
+
+#1035
+p adjective | 
+m dark ; 0
+s It's already dark at six o'clock. ## Um=at|sechs=six|Uhr=o'clock|ist=is|es=it|schon=already|dunkel=dark
+
+#1036
+p adjective | 
+m thin ; 0
+s The book is very thin. ## Das=the|Buch=book|ist=is|sehr=very|dünn=thin
+
+#1037
+p adjective | 
+m real, genuine ; 0
+s Is the painting a real Picasso? The film is really good. ## Ist=is|das=the|Bild=painting|ein=a|echter=genuine|Picasso=Picasso|Der=the|Film=film|echt=really|gut=good
+
+#1038
+p adjective | 
+m all the same, doesn't matter ; 0
+s It's all the same to me. ## Das=that|ist=is|mir=me|egal=all the same
+
+#1039
+p adjective | 
+m own ; 0
+s Not all children have their own room. ## Nicht=not|alle=all|Kinder=children|haben=have|ein=a|eigenes=own|Zimmer=room
+
+#1040
+p adverb | 
+m actually, really ; 0
+s We actually wanted to visit friends... ## Wir=we|wollten=wanted|eigentlich=actually|Freunde=friends|besuchen=visit
+
+#1041
+p adjective | 
+m some, a few ; 0
+s There are some mistakes in this text. ## In=in|diesem=this|Text=text|sind=are|einige=some|Fehler=mistakes
+
+#1042
+p adjective | 
+m individual, one by one ; 0
+s Could you please speak one at a time? ## Könnt=can|ihr=you (pl.)|bitte=please|einzeln=one at a time|sprechen=speak
+
+#1043
+p adverb | 
+m finally ; 0
+s When are you finally coming? ## Wann=when|kommst=come|du=you|endlich=finally
+
+#1044
+p adjective | 
+m narrow, tight ; 0
+s These trousers are too tight. ## Diese=these|Hose=trousers|ist=is|zu=too|eng=tight
+
+#1045
+p adverb | 
+m only, not until ; 0
+s Dina isn't 18, she's only 16 years old. ## Dina=Dina|ist=is|keine=no|sie=she|erst=only|Jahre=years|alt=old
+
+#1046
+p adjective | 
+m fantastic ; 0
+s Your new dress looks fantastic! ## Dein=your|neues=new|Kleid=dress|sieht=looks|fantastisch=fantastic|aus=(part of aussehen)
+
+#1047
+p adverb | 
+m almost ; 0
+s The film is almost over. ## Der=the|Film=film|ist=is|fast=almost|zu=to|Ende=end
+
+#1048
+p adjective | 
+m lazy ; 0
+s We're lazy today. ## Heute=today|sind=are|wir=we|faul=lazy
+
+#1049
+p adjective | 
+m fatty, greasy ; 0
+s The sausage is too fatty for me. ## Die=the|Wurst=sausage|ist=is|mir=me|zu=too|fett=fatty
+
+#1050
+p adjective | 
+m fit ; 0
+s Tom wants to be fit. ## Tom=Tom|will=wants|fit=fit|sein=be
+
+#1051
+p adjective | 
+m hard-working, diligent ; 0
+s Ibrahim is very hard-working. ## Ibrahim=Ibrahim|ist=is|sehr=very|fleißig=hard-working
+
+#1052
+p adjective | 
+m voluntary, voluntarily ; 0
+s Sometimes I voluntarily stay longer at the office. ## Manchmal=sometimes|bleibe=stay|ich=I|freiwillig=voluntarily|länger=longer|im=at the|Büro=office
+
+#1053
+p adjective | 
+m friendly, kind ; 0
+s He is always very friendly to me. ## Er=he|ist=is|immer=always|sehr=very|freundlich=friendly|zu=to|mir=me
+
+#1054
+p adjective | 
+m fresh ; 0
+s The bread is still very fresh. ## Das=the|Brot=bread|ist=is|noch=still|ganz=quite|frisch=fresh
+
+#1055
+p adjective | 
+m glad, happy ; 0
+s I'm glad that you can come. ## Ich=I|bin=am|froh=glad|dass=that|du=you|kommen=come|kannst=can
+
+#1056
+p adverb | 
+m early ; 0
+m formerly, earlier ;
+s I have to get up very early tomorrow. I used to live in Berlin. ## Ich=I|muss=must|morgen=tomorrow|sehr=very|früh=early|aufstehen=get up|Früher=formerly|habe=have|in=in|Berlin=Berlin|gewohnt=lived
+
+#1057
+p adjective | 
+m terrible, awful ; 0
+s He is in terrible pain. ## Er=he|hat=has|furchtbare=terrible|Schmerzen=pain
+
+#1058
+p adverb | 
+m quite, completely ; 0
+s I'm quite sure that your appointment is on Monday. ## Ich=I|bin=am|ganz=quite|sicher=sure|dass=that|dein=your|Termin=appointment|am=on|Montag=Monday|ist=is
+
+#1059
+p adjective | 
+m dangerous ; 0
+s You must not cross the street on red. That's dangerous. ## Du=you|darfst=may|nicht=not|bei=at|Rot=red|über=across|die=the|Straße=street|gehen=go|Das=that|ist=is|gefährlich=dangerous
+
+#1060
+p adjective | 
+m exact, precise ; 0
+s Yes, I know that for sure. It's exactly eight o'clock. ## Ja=yes|das=that|weiß=know|ich=I|genau=exactly|Es=it|ist=is|acht=eight|Uhr=o'clock
+
+#1061
+p adverb | 
+m enough ; 0
+s There's still enough pizza. ## Es=it|ist=is|noch=still|genug=enough|Pizza=pizza|da=here
+
+#1062
+p adverb | 
+m gladly, preferably, most of all ; 0
+s I'm happy to help you. Most of all I like drinking coffee. ## Ich=I|helfe=help|Ihnen=you|gern=gladly|Am=at the|liebsten=most|trinke=drink|ich=I|Kaffee=coffee
+
+#1063
+p adjective | 
+m healthy, well ; 0
+s I had the flu. Now I'm well again. ## Ich=I|hatte=had|Grippe=flu|Jetzt=now|bin=am|ich=I|wieder=again|gesund=well
+
+#1064
+p adjective | 
+m good, better, best ; 0
+s I think that's good. Which picture do you like better? ## Das=that|finde=find|ich=I|gut=good|Welches=which|Bild=picture|gefällt=pleases|dir=you|besser=better
+
+#1065
+p adjective | 
+m hard ; 0
+s I think the bed is too hard. ## Ich=I|finde=find|das=the|Bett=bed|zu=too|hart=hard
+
+#1066
+p adjective | 
+m ugly ; 0
+s I think the dress is ugly. ## Ich=I|finde=find|das=the|Kleid=dress|hässlich=ugly
+
+#1067
+p adjective | 
+m hot ; 0
+s Careful, the tea is hot! ## Vorsicht=careful|der=the|Tee=tea|ist=is|heiß=hot
+
+#1068
+p adverb | 
+m here, out, in (toward the speaker) ; 0
+s Come here please! Come in! The door is open. ## Komm=come|bitte=please|mal=just|her=here|Herein=come in|Die=the|Tür=door|ist=is|offen=open
+
+#1069
+p adverb | 
+m there, out, in (away from the speaker) ; 0
+s Where are you going? ## Wo=where|gehst=go|du=you|hin=to
+
+#1070
+p adverb | 
+m hopefully ; 0
+s Hopefully our train isn't late. ## Hoffentlich=hopefully|hat=has|unser=our|Zug=train|keine=no|Verspätung=delay
+
+#1071
+p adverb | 
+m always ; 0
+s Ms. Bast is always late. ## Frau=Ms.|Bast=Bast|kommt=comes|immer=always|zu=too|spät=late
+
+#1072
+p adjective | 
+m intelligent ; 0
+s Einstein was very intelligent. ## Einstein=Einstein|war=was|sehr=very|intelligent=intelligent
+
+#1073
+p adjective | 
+m interesting ; 0
+s I'm currently reading an interesting book. ## Ich=I|lese=read|gerade=currently|ein=an|interessantes=interesting|Buch=book
+
+#1074
+p adjective | 
+m cold ; 0
+s It's very cold today. ## Heute=today|ist=is|es=it|sehr=very|kalt=cold
+
+#1075
+p adjective | 
+m clever, smart ; 0
+s Molly is a clever girl. ## Molly=Molly|ist=is|ein=a|kluges=clever|Mädchen=girl
+
+#1076
+p adjective | 
+m funny, strange ; 0
+s The film was very funny. ## Der=the|Film=film|war=was|sehr=very|komisch=funny
+
+#1077
+p adjective | 
+m free of charge ; 0
+s This magazine costs nothing. It's free. ## Diese=this|Zeitschrift=magazine|kostet=costs|nichts=nothing|Sie=it|ist=is|kostenlos=free
+
+#1078
+p adjective | 
+m cool ; 0
+s It's cool outside. ## Es=it|ist=is|kühl=cool|draußen=outside
+
+#1079
+p adjective | 
+m long ; 0
+s The trousers are too long. How long does the train take? ## Die=the|Hose=trousers|ist=is|zu=too|lang=long|Wie=how|lange=long|fährt=travels|der=the|Zug=train
+
+#1080
+p adjective | 
+m boring ; 0
+s She finds soccer very boring. ## Sie=she|findet=finds|Fußball=soccer|sehr=very|langweilig=boring
+
+#1081
+p adjective | 
+m empty ; 0
+s The jug is almost empty. ## Die=the|Kanne=jug|ist=is|fast=almost|leer=empty
+
+#1082
+p adverb | 
+m sometimes ; 0
+s Sometimes we eat at a restaurant. ## Manchmal=sometimes|essen=eat|wir=we|im=in the|Restaurant=restaurant
+
+#1083
+p adverb | 
+m most, mostly ; 0
+s I don't know most of the neighbors yet. I mostly drink coffee. ## Die=the|meisten=most|Nachbarn=neighbors|kenne=know|ich=I|noch=yet|nicht=not|Meistens=mostly|trinke=drink|Kaffee=coffee
+
+#1084
+p adverb | 
+m at least ; 0
+s Write at least seven sentences! ## Schreiben=write|Sie=you|mindestens=at least|sieben=seven|Sätze=sentences
+
+#1085
+p adjective | 
+m wet ; 0
+s Don't go into the living room with wet shoes! ## Geh=go|nicht=not|mit=with|den=the|nassen=wet|Schuhen=shoes|ins=into the|Wohnzimmer=living room
+
+#1086
+p adverb | 
+m of course, naturally ; 0
+s Of course we'll help you. ## Natürlich=of course|helfen=help|wir=we|dir=you
+
+#1087
+p adverb | 
+m next door ; 0
+s This is José. He lives next door. ## Das=this|ist=is|José=José|Er=he|wohnt=lives|nebenan=next door
+
+#1088
+p adjective | 
+m foggy ; 0
+s Drive carefully! It's foggy. ## Fahr=drive|vorsichtig=carefully|Es=it|ist=is|neblig=foggy
+
+#1089
+p adjective | 
+m nervous ; 0
+s I'm always very nervous before exams. ## Bei=at|Prüfungen=exams|bin=am|ich=I|immer=always|sehr=very|nervös=nervous
+
+#1090
+p adjective | 
+m nice, kind ; 0
+s Thank you very much! That's very kind of you. ## Vielen=many|Dank=thanks|Das=that|ist=is|sehr=very|nett=kind|von=of|dir=you
+
+#1091
+p adjective | 
+m necessary ; 0
+s No, that's not necessary. ## Nein=no|das=that|ist=is|nicht=not|notwendig=necessary
+
+#1092
+p adjective | 
+m useful ; 0
+s Thanks for the tip. It was very useful. ## Danke=thanks|für=for|den=the|Tipp=tip|Er=it|war=was|sehr=very|nützlich=useful
+
+#1093
+p adjective | 
+m open ; 0
+s Is the bathroom window still open? ## Ist=is|das=the|Fenster=window|im=in the|Bad=bathroom|noch=still|offen=open
+
+#1094
+p adjective | 
+m online ; 0
+s When will you be online again? ## Wann=when|bist=are|du=you|wieder=again|online=online
+
+#1095
+p adjective | 
+m practical ; 0
+s I think that's very practical. ## Das=that|finde=find|ich=I|sehr=very|praktisch=practical
+
+#1096
+p adjective | 
+m inexpensive, good value ; 0
+s The jacket is very inexpensive. ## Die=the|Jacke=jacket|ist=is|sehr=very|preiswert=inexpensive
+
+#1097
+p adjective | 
+m private ; 0
+s This is my private mobile number. ## Das=this|ist=is|meine=my|private=private|Handynummer=mobile number
+
+#1098
+p adjective | 
+m rich ; 0
+s Lotte is rich. She has a lot of money. ## Lotte=Lotte|ist=is|reich=rich|Sie=she|hat=has|sehr=very|viel=much|Geld=money
+
+#1099
+p adjective | 
+m romantic ; 0
+s This film is very romantic. ## Dieser=this|Film=film|ist=is|sehr=very|romantisch=romantic
+
+#1100
+p adjective | 
+m round ; 0
+s Our living room table is round. ## Unser=our|Wohnzimmertisch=living room table|ist=is|rund=round
+
+#1101
+p adjective | 
+m clean ; 0
+s Please bring me a clean glass! ## Bringen=bring|Sie=you|mir=me|bitte=please|ein=a|sauberes=clean|Glas=glass
+
+#1102
+p adjective | 
+m sour ; 0
+m angry, annoyed (informal) ;
+s Lemons are too sour for me. I'm annoyed. ## Zitronen=lemons|sind=are|mir=me|zu=too|sauer=sour|Ich=I|bin=am
+
+#1103
+p adjective | 
+m harmful ; 0
+s Smoking is harmful to your health. ## Rauchen=smoking|ist=is|schädlich=harmful|für=for|die=the|Gesundheit=health
+
+#1104
+p adjective | 
+m spicy, sharp ; 0
+s The soup is too spicy for me. ## Die=the|Suppe=soup|ist=is|mir=me|zu=too|scharf=spicy
+
+#1105
+p adjective | 
+m bad, serious ; 0
+s No problem, it's not that bad. ## Kein=no|Problem=problem|das=that|ist=is|nicht=not|so=so|schlimm=bad
+
+#1106
+p adjective | 
+m dirty ; 0
+s The towel is dirty. ## Das=the|Handtuch=towel|ist=is|schmutzig=dirty
+
+#1107
+p adjective | 
+m terrible, awful ; 0
+s I think her skirt is terrible. ## Ich=I|finde=find|ihren=her|Rock=skirt|schrecklich=terrible
+
+#1108
+p adjective | 
+m written, in writing ; 0
+s You have to register in writing. ## Sie=you|müssen=must|sich=yourself|schriftlich=in writing|anmelden=register
+
+#1109
+p adjective | 
+m weak ; 0
+s He is sick and weak. ## Er=he|ist=is|krank=sick|und=and|schwach=weak
+
+#1110
+p adjective | 
+m pregnant ; 0
+s Lena is pregnant. ## Lena=Lena|ist=is|schwanger=pregnant
+
+#1111
+p adjective | 
+m difficult ; 0
+s The exam wasn't difficult. ## Die=the|Prüfung=exam|war=was|nicht=not|schwierig=difficult

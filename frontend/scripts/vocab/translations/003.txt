@@ -1,0 +1,461 @@
+#230
+p noun | Namen
+m name ; 0
+s My name is Thomas Schmidt. ## Mein=my|Name=name|ist=is|Thomas=Thomas|Schmidt=Schmidt
+
+#231
+p noun | Vornamen
+m first name ; 0
+s My first name is Thomas; Schmidt is the surname. ## Mein=my|Vorname=first name|ist=is|Thomas=Thomas|Schmidt=Schmidt|der=the|Familienname=surname
+
+#232
+p noun | Nummern
+m number ; 0,1,2
+s You have room number twelve. ## Sie=you|haben=have|Zimmer=room|Nummer=number|zwölf=twelve
+s What is your house number? ## Welche=which|Hausnummer=house number|haben=have|Sie=you
+s Can you give me your number? ## Können=can|Sie=you|mir=me|Ihre=your|Nummer=number|geben=give
+
+#233
+p noun | 
+m fruit ; 0
+s Fruit is cheap in summer. ## Im=in|Sommer=summer|ist=is|das=the|Obst=fruit|billig=cheap
+
+#234
+p noun | Omas
+m grandma ; 0
+s My grandma is already dead. ## Meine=my|Oma=grandma|ist=is|schon=already|tot=dead
+
+#235
+p noun | Opas
+m grandpa ; 0
+s My grandpa is called Hans. ## Mein=my|Opa=grandpa|heißt=is called|Hans=Hans
+
+#236
+p noun | 
+m order, tidiness ; 0
+s That's fine / all right. ## Das=that|ist=is|in=in|Ordnung=order
+
+#237
+p noun | Orte
+m place, town ; 0
+s The town is by the sea. ## Der=the|Ort=town|liegt=lies|am=at the|Meer=sea
+
+#238
+p noun | Papiere
+m paper ; 0
+s Here are paper and a pencil. ## Hier=here|sind=are|Papier=paper|und=and|Bleistift=pencil
+
+#239
+p noun | 
+m papers, ID documents ; 0
+s Do you have your papers with you? ## Haben=have|Sie=you|Ihre=your|Papiere=papers|dabei=with you
+
+#240
+p noun | Partner
+m partner ; 0
+s She is my partner. ## Sie=she|ist=is|meine=my|Partnerin=partner
+
+#241
+p noun | Partnerinnen
+m partner (female) ; 0
+s She is my partner. ## Sie=she|ist=is|meine=my|Partnerin=partner
+
+#242
+p noun | Partys
+m party ; 0
+s Tonight we're having a party. ## Heute=today|Abend=evening|machen=make|wir=we|eine=a|Party=party
+
+#243
+p noun | Pässe
+m passport ; 0
+s You need your passport at the hotel. ## Im=at the|Hotel=hotel|brauchst=need|du=you|deinen=your|Pass=passport
+
+#244
+p noun | Pausen
+m break, pause ; 0
+s From 12:00 to 12:30 we have a lunch break. ## Von=from|bis=to|Uhr=o'clock|haben=have|wir=we|Mittagspause=lunch break
+
+#245
+p noun | Pläne
+m plan, map ; 0
+s I'm buying myself a city map. ## Ich=I|kaufe=buy|mir=myself|einen=a|Stadtplan=city map
+
+#246
+p noun | Plätze
+m seat, place ; 0
+m take a seat (Platz nehmen) ; 1
+m square, place (in a name) ; 2
+s Sorry, the seat is taken. ## Tut=does|mir=me|leid=sorry|der=the|Platz=seat|ist=is|besetzt=taken
+s Please have a seat! ## Bitte=please|nehmen=take|Sie=you|Platz=seat
+s I live at Messeplatz 5. ## Ich=I|wohne=live|Messeplatz=Messeplatz
+
+#247
+p noun | 
+m police ; 0
+s Call the police! ## Holen=fetch|Sie=you|die=the|Polizei=police
+
+#248
+p noun | 
+m French fries ; 0
+s The children eat chicken with French fries. ## Die=the|Kinder=children|essen=eat|Hähnchen=chicken|mit=with|Pommes=fries|frites=fries
+
+#249
+p noun | 
+m post office ; 0
+m mail ; 1
+s Where is the post office, please? ## Wo=where|ist=is|die=the|Post=post office|bitte=please
+s Is there any mail? ## Ist=is|Post=mail|da=there
+
+#250
+p noun | Postleitzahlen
+m postal code, zip code ; 0
+s What is your postal code? ## Wie=what|ist=is|Ihre=your|Postleitzahl=postal code
+
+#251
+p noun | Praktika
+m internship ; 0
+s I'm doing an internship at Siemens. ## Ich=I|mache=do|ein=an|Praktikum=internship|bei=at|Siemens=Siemens
+
+#252
+p noun | Praxen
+m (doctor's) practice, surgery ; 0
+s The practice is open from eight o'clock. ## Die=the|Praxis=practice|ist=is|ab=from|acht=eight|Uhr=o'clock|geöffnet=open
+
+#253
+p noun | Preise
+m price ; 0
+s The prices are high. ## Die=the|Preise=prices|sind=are|hoch=high
+
+#254
+p noun | Probleme
+m problem ; 0
+s My problem is the language. ## Mein=my|Problem=problem|ist=is|die=the|Sprache=language
+
+#255
+p noun | Prospekte
+m brochure, leaflet ; 0
+s Please send me a brochure for your hotel. ## Bitte=please|schicken=send|Sie=you|mir=me|einen=a|Prospekt=brochure|von=of|Ihrem=your|Hotel=hotel
+
+#256
+p noun | Prüfungen
+m exam, test ; 0
+s The exam is on Monday at 8:00. ## Die=the|Prüfung=exam|ist=is|am=on|Montag=Monday|um=at|Uhr=o'clock
+
+#257
+p noun | Räume
+m room, space ; 0
+s The class is in room 332. ## Der=the|Unterricht=class|ist=is|in=in|Raum=room
+
+#258
+p noun | Rechnungen
+m bill, invoice ; 0
+s The bill, please. ## Die=the|Rechnung=bill|bitte=please
+
+#259
+p noun | 
+m rain ; 0
+s I'm not going out in this rain. ## Bei=in|diesem=this|Regen=rain|gehe=go|ich=I|nicht=not|raus=out
+
+#260
+p noun | 
+m rice ; 0
+s I like eating rice. ## Ich=I|esse=eat|gern=gladly|Reis=rice
+
+#261
+p noun | Reisen
+m trip, journey ; 0
+s We are taking a trip to Austria. ## Wir=we|machen=make|eine=a|Reise=trip|nach=to|Österreich=Austria
+
+#262
+p noun | Reisebüros
+m travel agency ; 0
+s My husband works at a travel agency. ## Mein=my|Mann=husband|arbeitet=works|im=at the|Reisebüro=travel agency
+
+#263
+p noun | Reiseführer
+m guidebook ; 0
+m tour guide ; 1
+s I'm buying a guidebook of Berlin. ## Ich=I|kaufe=buy|mir=myself|einen=a|Reiseführer=guidebook|von=of|Berlin=Berlin
+s Our tour guide is called Peter. ## Unser=our|Reiseführer=tour guide|heißt=is called|Peter=Peter
+
+#264
+p noun | Reparaturen
+m repair ; 0
+s The repair is very expensive. ## Die=the|Reparatur=repair|ist=is|sehr=very|teuer=expensive
+
+#265
+p noun | Restaurants
+m restaurant ; 0
+s We're eating in a restaurant today. ## Wir=we|essen=eat|heute=today|in=in|einem=a|Restaurant=restaurant
+
+#266
+p noun | Rezeptionen
+m reception desk ; 0
+s Please ask at the hotel reception. ## Fragen=ask|Sie=you|bitte=please|im=in the|Hotel=hotel|an=at|der=the|Rezeption=reception
+
+#267
+p noun | Säfte
+m juice ; 0
+s Would you like an apple juice? ## Möchtest=would like|du=you|einen=an|Apfelsaft=apple juice
+
+#268
+p noun | Salate
+m salad ; 0
+s How do you like the salad? ## Wie=how|schmeckt=tastes|dir=you|der=the|Salat=salad
+
+#269
+p noun | 
+m salt ; 0
+s Waiter, may I have some salt, please? ## Herr=Mr.|Ober=waiter|kann=can|ich=I|bitte=please|Salz=salt|haben=have
+
+#270
+p noun | Sätze
+m sentence ; 0
+s This sentence is very simple. ## Dieser=this|Satz=sentence|ist=is|sehr=very|einfach=simple
+
+#271
+p noun | S-Bahnen
+m suburban train, commuter rail ; 0
+s I prefer to take the suburban train. ## Ich=I|nehme=take|lieber=rather|die=the|S-Bahn=suburban train
+
+#272
+p noun | Schalter
+m counter, ticket window ; 0
+s Please go to counter three! ## Gehen=go|Sie=you|bitte=please|zum=to the|Schalter=counter|drei=three
+
+#273
+p noun | Schilder
+m sign ; 0
+s Didn't you see the sign? ## Haben=have|Sie=you|nicht=not|das=the|Schild=sign|gesehen=seen
+
+#274
+p noun | Schinken
+m ham ; 0
+s I would like a ham sandwich. ## Ich=I|möchte=would like|gern=gladly|ein=a|Schinkenbrot=ham sandwich
+
+#275
+p noun | 
+m end, finish ; 0,1
+s I have to stop now. ## Ich=I|muss=must|jetzt=now|Schluss=end|machen=make
+s In the end he shakes everyone's hand. ## Zum=at the|Schluss=end|gibt=gives|er=he|uns=us|allen=all|die=the|Hand=hand
+
+#276
+p noun | Schlüssel
+m key ; 0
+s I'll also give you the room key. ## Ich=I|gebe=give|Ihnen=you|noch=also|den=the|Zimmerschlüssel=room key
+
+#277
+p noun | Schränke
+m cupboard, wardrobe ; 0
+s The glasses are in the cupboard. ## Die=the|Gläser=glasses|stehen=stand|im=in the|Schrank=cupboard
+
+#278
+p noun | Schuhe
+m shoe ; 0
+s Take your shoes off! ## Zieh=pull|die=the|Schuhe=shoes|aus=off
+
+#279
+p noun | Schulen
+m school ; 0,1
+s My daughter already goes to school. ## Meine=my|Tochter=daughter|geht=goes|schon=already|in=to|die=the|Schule=school
+s The school is just around the corner. ## Die=the|Schule=school|ist=is|gleich=right|hier=here|um=around|die=the|Ecke=corner
+
+#280
+p noun | Schüler
+m pupil, student (school) ; 0
+s There are eight female and five male students in my course. ## In=in|meinem=my|Kurs=course|sind=are|acht=eight|Schülerinnen=female students|und=and|fünf=five|Schüler=male students
+
+#281
+p noun | Schwestern
+m sister ; 0
+s My sister is coming on Tuesday. ## Meine=my|Schwester=sister|kommt=comes|am=on|Dienstag=Tuesday
+
+#282
+p noun | Schwimmbäder
+m swimming pool ; 0
+s Are you coming to the swimming pool? ## Kommst=come|du=you|mit=along|ins=to the|Schwimmbad=swimming pool
+
+#283
+p noun | Seen
+m lake ; 0
+s Come on, let's go to Lake Starnberg. ## Komm=come|wir=we|fahren=drive|zum=to the|Starnberger=Starnberg|See=lake
+
+#284
+p noun | Sehenswürdigkeiten
+m sight, tourist attraction ; 0
+s What sights are there in Frankfurt? ## Welche=which|Sehenswürdigkeiten=sights|gibt=gives|es=it|in=in|Frankfurt=Frankfurt
+
+#285
+p noun | Sofas
+m sofa ; 0
+s The sofa is new. ## Das=the|Sofa=sofa|ist=is|neu=new
+
+#286
+p noun | Söhne
+m son ; 0
+s This is Hans, my son. ## Das=this|ist=is|Hans=Hans|mein=my|Sohn=son
+
+#287
+p noun | Sonnen
+m sun ; 0
+s The sun is shining. ## Die=the|Sonne=sun|scheint=shines
+
+#288
+p noun | Speisekarten
+m menu ; 0
+s Bring me the menu, please. ## Bringen=bring|Sie=you|mir=me|die=the|Speisekarte=menu|bitte=please
+
+#289
+p noun | 
+m sport, exercise ; 0
+s I do a lot of sport. ## Ich=I|mache=do|viel=much|Sport=sport
+
+#290
+p noun | Sprachen
+m language ; 0
+s Which languages do you speak? ## Welche=which|Sprachen=languages|sprichst=speak|du=you
+
+#291
+p noun | Städte
+m city, town ; 0
+s Heidelberg is an old city. ## Heidelberg=Heidelberg|ist=is|eine=an|alte=old|Stadt=city
+
+#292
+p noun | Stellen
+m job, position ; 0
+s I have a new job. ## Ich=I|habe=have|eine=a|neue=new|Stelle=job
+
+#293
+p noun | Stöcke
+m floor, storey ; 0
+s Our apartment is on the first floor. ## Unsere=our|Wohnung=apartment|liegt=lies|im=on the|ersten=first|Stock=floor
+
+#294
+p noun | Straßen
+m street, road ; 0
+s Which street do you live on? ## In=on|welcher=which|Straße=street|wohnen=live|Sie=you
+
+#295
+p noun | Straßenbahnen
+m tram, streetcar ; 0
+s Where does the tram leave from? ## Wo=where|fährt=goes|die=the|Straßenbahn=tram|ab=(part of abfahren)
+
+#296
+p noun | Studien
+m studies, university course ; 0
+s The course of study starts in October. ## Das=the|Studium=studies|beginnt=begins|im=in|Oktober=October
+
+#297
+p noun | Studenten
+m student (university) ; 0
+s I am a (female) student. ## Ich=I|bin=am|Studentin=female student
+
+#298
+p noun | Stunden
+m hour ; 0
+s I'll be back in an hour. ## Ich=I|bin=am|in=in|einer=an|Stunde=hour|zurück=back
+
+#299
+p noun | Sekunden
+m second ;
+x Warte eine Sekunde! ## Wait a second! ## Warte=wait|eine=a|Sekunde=second
+
+#300
+p noun | Minuten
+m minute ;
+x Der Zug kommt in fünf Minuten. ## The train arrives in five minutes. ## Der=the|Zug=train|kommt=comes|in=in|fünf=five|Minuten=minutes
+
+#301
+p noun | Tage
+m day ;
+x Heute ist ein schöner Tag. ## Today is a nice day. ## Heute=today|ist=is|ein=a|schöner=nice|Tag=day
+
+#302
+p noun | Wochen
+m week ;
+x Ich habe eine Woche Urlaub. ## I have a week of vacation. ## Ich=I|habe=have|eine=a|Woche=week|Urlaub=vacation
+
+#303
+p noun | Jahre
+m year ;
+x Ich lerne seit einem Jahr Deutsch. ## I have been learning German for a year. ## Ich=I|lerne=learn|seit=for|einem=a|Jahr=year|Deutsch=German
+
+#304
+p noun | Wochentage
+m day of the week, weekday ;
+x Montag ist ein Wochentag. ## Monday is a weekday. ## Montag=Monday|ist=is|ein=a|Wochentag=weekday
+
+#305
+p noun | Wochenenden
+m weekend ;
+x Am Wochenende schlafe ich lange. ## At the weekend I sleep in. ## Am=at the|Wochenende=weekend|schlafe=sleep|ich=I|lange=long
+
+#306
+p noun | Taschen
+m bag, pocket ; 0
+s I have the keys in my bag. ## Ich=I|habe=have|die=the|Schlüssel=keys|in=in|der=the|Tasche=bag
+
+#307
+p noun | Taxis
+m taxi ; 0
+s There are no more buses today. He's taking a taxi. ## Es=it|gibt=gives|heute=today|keinen=no|Bus=bus|mehr=more|Er=he|fährt=goes|mit=with|dem=the|Taxi=taxi
+
+#308
+p noun | 
+m tea ; 0
+s I always drink tea in the morning. ## Ich=I|trinke=drink|morgens=in the mornings|immer=always|Tee=tea
+
+#309
+p noun | Teile
+m part ; 0
+s Please read the second part as well. ## Lies=read|bitte=please|auch=also|den=the|zweiten=second|Teil=part
+
+#310
+p noun | Telefone
+m telephone ; 0
+s Do you have a telephone? ## Haben=have|Sie=you|Telefon=telephone
+
+#311
+p noun | Termine
+m appointment ; 0
+s It's best if we make an appointment right away. ## Am=at the|besten=best|machen=make|wir=we|sofort=immediately|einen=an|Termin=appointment
+
+#312
+p noun | Tests
+m test ; 0
+s The test was easy. ## Der=the|Test=test|war=was|einfach=easy
+
+#313
+p noun | Texte
+m text ; 0
+s Please read this text. ## Lesen=read|Sie=you|bitte=please|diesen=this|Text=text
+
+#314
+p noun | Themen
+m topic, subject ; 0
+s Today we are talking about the topic "Eating and Drinking". ## Wir=we|sprechen=talk|heute=today|über=about|das=the|Thema=topic|Essen=eating|und=and|Trinken=drinking
+
+#315
+p noun | Tickets
+m ticket ; 0
+s How much does the ticket cost? ## Wie=how|viel=much|kostet=costs|das=the|Ticket=ticket
+
+#316
+p noun | Tische
+m table ; 0
+s The photos are on the table. ## Die=the|Fotos=photos|liegen=lie|auf=on|dem=the|Tisch=table
+
+#317
+p noun | Töchter
+m daughter ; 0
+s This is my daughter Katharina. ## Das=this|ist=is|meine=my|Tochter=daughter|Katharina=Katharina
+
+#318
+p noun | Toiletten
+m toilet, restroom ; 0
+s Where is the toilet, please? ## Wo=where|ist=is|die=the|Toilette=toilet|bitte=please
+
+#319
+p noun | Tomaten
+m tomato ; 0
+s The tomato is still green. ## Die=the|Tomate=tomato|ist=is|noch=still|grün=green

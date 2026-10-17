@@ -1,0 +1,405 @@
+#70
+p noun | Chefs
+m boss, manager ; 0
+s We have a new (female) boss. ## Wir=we|haben=have|eine=a|neue=new|Chefin=female boss
+
+#71
+p noun | Computer
+m computer ; 0
+s When are you getting your new computer? ## Wann=when|bekommst=get|du=you|deinen=your|neuen=new|Computer=computer
+
+#72
+p noun | Damen
+m lady ; 0
+s Dear Sir or Madam! (lit. Dear ladies and gentlemen) ## Sehr=very|geehrte=esteemed|Damen=ladies|und=and|Herren=gentlemen
+
+#73
+p noun | Daten
+m date ; 0
+s Please also write the date on the form. ## Bitte=please|schreiben=write|Sie=you|noch=also|das=the|Datum=date|auf=on|das=the|Formular=form
+
+#74
+p noun | Discos
+m disco, club ; 0
+s Tonight we are going dancing at the disco. ## Heute=today|abend=evening|gehen=go|wir=we|in=to|die=the|Disco=disco|tanzen=dance
+
+#75
+p noun | Doktoren
+m doctor ; 0
+s My daughter is sick. We are going to the doctor. ## Meine=my|Tochter=daughter|ist=is|krank=sick|Wir=we|gehen=go|zum=to the|Doktor=doctor
+
+#76
+p noun | Doppelzimmer
+m double room ; 0
+s Would you like a double room or a single room? ## Wollen=want|Sie=you|ein=a|Doppelzimmer=double room|oder=or|Einzelzimmer=single room
+
+#77
+p noun | Dörfer
+m village ; 0
+s My family lives in a village. ## Meine=my|Familie=family|lebt=lives|in=in|einem=a|Dorf=village
+
+#78
+p noun | Drucker
+m printer ; 0
+s My printer is broken. ## Mein=my|Drucker=printer|ist=is|kaputt=broken
+
+#79
+p noun | Durchsagen
+m announcement (over a speaker) ; 0
+s I didn't understand the announcement. ## Ich=I|habe=have|die=the|Durchsage=announcement|nicht=not|verstanden=understood
+
+#80
+p noun | 
+m thirst ; 0
+s Do you have something to drink? I'm very thirsty. ## Hast=have|du=you|etwas=something|zu=to|trinken=drink|Ich=I|habe=have|großen=great|Durst=thirst
+
+#81
+p noun | Duschen
+m shower ; 0
+s Our apartment only has a shower. ## Unsere=our|Wohnung=apartment|hat=has|nur=only|eine=a|Dusche=shower
+
+#82
+p noun | Ecken
+m corner ; 0
+s At the next corner, left. ## An=at|der=the|nächsten=next|Ecke=corner|links=left
+
+#83
+p noun | Ehefrauen
+m wife ; 0
+s That is my wife. ## Das=that|ist=is|meine=my|Ehe-=wedding|Frau=wife
+
+#84
+p noun | Ehemänner
+m husband ; 0
+s That is my husband. ## Das=that|ist=is|mein=my|Ehe-=wedding|Mann=husband
+
+#85
+p noun | Eier
+m egg ; 0
+s Would you like an egg for breakfast? ## Möchtest=would like|du=you|ein=an|Ei=egg|zum=for|Frühstück=breakfast
+
+#86
+p noun | Eingänge
+m entrance ; 0
+s The entrance is around the corner. ## Der=the|Eingang=entrance|ist=is|um=around|die=the|Ecke=corner
+
+#87
+p noun | Einladungen
+m invitation ; 0
+s Thanks for the invitation! ## Danke=thanks|für=for|die=the|Einladung=invitation
+
+#88
+p noun | 
+m admission, entrance fee ; 0
+s The admission price is 5 euros. ## Der=the|Preis=price|für=for|den=the|Eintritt=admission|ist=is|Euro=euros
+
+#89
+p noun | Einzelzimmer
+m single room ; 0
+s Do you still have a single room? ## Haben=have|Sie=you|noch=still|ein=a|Einzelzimmer=single room
+
+#90
+p noun | 
+m parents ; 0
+s My parents live in Spain. ## Meine=my|Eltern=parents|leben=live|in=in|Spanien=Spain
+
+#91
+p noun | E-Mails
+m email ; 0
+s I haven't received your email. ## Ich=I|habe=have|Ihre=your|E-Mail=email|nicht=not|bekommen=received
+
+#92
+p noun | Empfänger
+m recipient ; 0
+s Your name is on the letter, so you are the recipient. ## Auf=on|dem=the|Brief=letter|steht=stands|dein=your|Name=name|also=so|bist=are|du=you|der=the|Empfänger=recipient
+
+#93
+p noun | Enden
+m end ; 0,1
+s She lives at the end of the street. ## Sie=she|wohnt=lives|am=at the|Ende=end|der=of the|Straße=street
+s He gets his money at the end of the month. ## Er=he|bekommt=gets|sein=his|Geld=money|am=at the|Ende=end|des=of the|Monats=month
+
+#94
+p noun | Entschuldigungen
+m apology, excuse (also: "excuse me") ; 0
+s Excuse me! – You're welcome. ## Entschuldigung=excuse me|Bitte=you're welcome
+
+#95
+p noun | Ergebnisse
+m result ; 0
+s You will receive the test result in two weeks. ## Das=the|Ergebnis=result|des=of the|Tests=test|bekommen=receive|Sie=you|in=in|zwei=two|Wochen=weeks
+
+#96
+p noun | Erwachsenen
+m adult ; 0
+s This film is only for adults. ## Dieser=this|Film=film|ist=is|nur=only|für=for|Erwachsene=adults
+
+#97
+p noun | 
+m food, meal ; 0
+s The food is very good today. ## Das=the|Essen=food|ist=is|heute=today|sehr=very|gut=good
+
+#98
+p noun | Fahrer
+m driver ; 0
+s Please do not talk to the driver! ## Bitte=please|nicht=not|mit=with|dem=the|Fahrer=driver|sprechen=talk
+
+#99
+p noun | Fahrkarten
+m ticket (transport) ; 0
+s Do you already have a ticket? ## Hast=have|du=you|schon=already|eine=a|Fahrkarte=ticket
+
+#100
+p noun | Fahrräder
+m bicycle ; 0
+s Are you going by bicycle or by car? ## Fährst=travel|du=you|mit=with|dem=the|Fahrrad=bicycle|oder=or|Auto=car
+
+#101
+p noun | Familien
+m family ; 0
+s My family lives in Spain. ## Meine=my|Familie=family|lebt=lives|in=in|Spanien=Spain
+
+#102
+p noun | Familiennamen
+m surname, family name ; 0
+s My surnames are García González. ## Meine=my|Familiennamen=surnames|sind=are|García=García|González=González
+
+#103
+p noun | 
+m marital status ; 0
+s For "marital status" you have to tick "single". ## Bei=at|Familienstand=marital status|musst=must|du=you|ledig=single|ankreuzen=tick
+
+#104
+p noun | Farben
+m color ; 0
+s I like the color. ## Die=the|Farbe=color|gefällt=pleases|mir=me|gut=well
+
+#105
+p noun | Faxe
+m fax ; 0
+s Just send us a fax! ## Schicken=send|Sie=you|uns=us|einfach=simply|ein=a|Fax=fax
+
+#106
+p noun | 
+m end of the working day, "quitting time" ;
+x Nach dem Feierabend gehe ich nach Hause. ## After work I go home. ## Nach=after|dem=the|Feierabend=end of work|gehe=go|ich=I|nach=to|Hause=home
+
+#107
+p noun | Feiertage
+m public holiday ; 0
+s Monday is a public holiday. ## Am=on|Montag=Monday|ist=is|Feiertag=public holiday
+
+#108
+p noun | Fehler
+m mistake, error ; 0
+s I always make this mistake. ## Diesen=this|Fehler=mistake|mache=make|ich=I|immer=always
+
+#109
+p noun | 
+m fire, light (for a cigarette) ; 0
+s Do you have a light? ## Haben=have|Sie=you|Feuer=fire
+
+#110
+p noun | 
+m fever ; 0
+s My husband still has a fever. ## Mein=my|Mann=husband|hat=has|noch=still|immer=always|Fieber=fever
+
+#111
+p noun | Filme
+m film, movie ; 0
+s I would like to see this film. ## Ich=I|möchte=would like|gern=gladly|diesen=this|Film=film|sehen=see
+
+#112
+p noun | Firmen
+m company, firm ; 0
+s He now works at a different company. ## Er=he|arbeitet=works|jetzt=now|bei=at|einer=a|anderen=different|Firma=company
+
+#113
+p noun | Fische
+m fish ; 0
+s I like eating fish. I don't like meat. ## Ich=I|esse=eat|gern=gladly|Fisch=fish|Fleisch=meat|mag=like|ich=I|nicht=not
+
+#114
+p noun | Flaschen
+m bottle ; 0
+s A bottle of beer, please. ## Eine=a|Flasche=bottle|Bier=beer|bitte=please
+
+#115
+p noun | 
+m meat ; 0
+s I don't like meat. ## Fleisch=meat|mag=like|ich=I|nicht=not
+
+#116
+p noun | Abflüge
+m departure (flight) ; 0
+s The departure is at 11:20. ## Der=the|Abflug=departure|ist=is|um=at|Uhr=o'clock
+
+#117
+p noun | Flughäfen
+m airport ; 0
+s Can you take me to the airport? ## Kannst=can|du=you|mich=me|zum=to the|Flughafen=airport|bringen=take
+
+#118
+p noun | Flugzeuge
+m airplane ; 0
+s The plane from Berlin arrives later today. ## Das=the|Flugzeug=plane|aus=from|Berlin=Berlin|kommt=comes|heute=today|später=later|an=(part of ankommen)
+
+#119
+p noun | Formulare
+m form ; 0
+s You have to fill out this form. ## Sie=you|müssen=must|dieses=this|Formular=form|ausfüllen=fill out
+
+#120
+p noun | Fotos
+m photo ; 0
+s May I take a photo? ## Darf=may|ich=I|ein=a|Foto=photo|machen=take
+
+#121
+p noun | Fragen
+m question ; 0
+s I have a question. ## Ich=I|habe=have|eine=a|Frage=question
+
+#122
+p noun | Frauen
+m woman ; 2
+m Mrs., Ms. (title) ; 0,1
+s This is Ms. Becker. ## Das=this|ist=is|Frau=Ms.|Becker=Becker
+s Good day, Ms. Schmitt! ## Guten=good|Tag=day|Frau=Ms.|Schmitt=Schmitt
+s More women than men work here. ## Hier=here|arbeiten=work|mehr=more|Frauen=women|als=than|Männer=men
+
+#123
+p noun | 
+m free time, leisure ; 0
+s In my free time I often play soccer. ## In=in|meiner=my|Freizeit=free time|spiele=play|ich=I|oft=often|Fußball=soccer
+
+#124
+p noun | Freunde
+m friend ; 0,1
+s This is a friend of mine. ## Das=this|ist=is|ein=a|Freund=friend|von=of|mir=mine
+s This is my (female) friend. ## Das=this|ist=is|meine=my|Freundin=female friend
+
+#125
+p noun | Frühstücke
+m breakfast ; 0
+s Would you like an egg for breakfast? ## Möchtest=would like|du=you|ein=an|Ei=egg|zum=for|Frühstück=breakfast
+
+#126
+p noun | Führungen
+m guided tour ; 0
+s The tour of the house starts in 3 minutes. ## Die=the|Führung=tour|durch=through|das=the|Haus=house|beginnt=begins|in=in|Minuten=minutes
+
+#127
+p noun | Füße
+m foot ; 0
+s My left foot hurts. ## Der=the|linke=left|Fuß=foot|tut=does|mir=me|weh=hurt
+
+#128
+p noun | 
+m soccer, football ; 0
+s Do you like playing soccer? ## Spielt=play|ihr=you (pl.)|gerne=gladly|Fußball=soccer
+
+#129
+p noun | Gärten
+m garden ; 0
+s Unfortunately we don't have a garden. ## Wir=we|haben=have|leider=unfortunately|keinen=no|Garten=garden
+
+#130
+p noun | Gäste
+m guest ; 0
+s We have several guests at the weekend. ## Am=at the|Wochenende=weekend|haben=have|wir=we|mehrere=several|Gäste=guests
+
+#131
+p noun | Geburtsjahre
+m year of birth ; 0
+s Your son's year of birth, please? ## Das=the|Geburtsjahr=year of birth|Ihres=of your|Sohnes=son|bitte=please
+
+#132
+p noun | Geburtsorte
+m place of birth ; 0
+s Please write your place of birth on the form. ## Bitte=please|schreiben=write|Sie=you|Ihren=your|Geburtsort=place of birth|auf=on|das=the|Formular=form
+
+#133
+p noun | Geburtstage
+m birthday ; 0
+s Happy birthday! ## Herzlichen=heartfelt|Glückwunsch=congratulations|zum=for the|Geburtstag=birthday
+
+#134
+p noun | 
+m money ; 0
+s Do you still have money? ## Hast=have|du=you|noch=still|Geld=money
+
+#135
+p noun | 
+m vegetables ; 0
+s We also need vegetables. ## Gemüse=vegetables|brauchen=need|wir=we|auch=also|noch=still
+
+#136
+p noun | 
+m luggage, baggage ; 0
+s Do you want to take your luggage with you? ## Wollen=want|Sie=you|Ihr=your|Gepäck=luggage|mitnehmen=take along
+
+#137
+p noun | Geschäfte
+m shop, store ; 0
+s The shops close at 6:30 p.m. ## Die=the|Geschäfte=shops|schließen=close|um=at|Uhr=o'clock
+
+#138
+p noun | Geschenke
+m gift, present ; 0
+s Thank you for the lovely present. ## Danke=thanks|für=for|das=the|schöne=lovely|Geschenk=present
+
+#139
+p noun | 
+m siblings ; 0
+s Unfortunately I have no siblings. ## Ich=I|habe=have|leider=unfortunately|keine=no|Geschwister=siblings
+
+#140
+p noun | Gespräche
+m conversation, talk ; 0
+s The conversation with Ms. Kunz is at 2 p.m. ## Das=the|Gespräch=conversation|mit=with|Frau=Ms.|Kunz=Kunz|ist=is|um=at|Uhr=o'clock
+
+#141
+p noun | Getränke
+m drink, beverage ; 0
+s My favorite drink is tomato juice. ## Mein=my|Lieblingsgetränk=favorite drink|ist=is|Tomatensaft=tomato juice
+
+#142
+p noun | 
+m weight ; 0
+s Under "weight" you write: 62 kilos. ## Bei=at|Gewicht=weight|schreibst=write|du=you|Kilo=kilos
+
+#143
+p noun | Gläser
+m glass ; 0,1
+s Another glass of wine, please! ## Bitte=please|noch=another|ein=a|Glas=glass|Wein=wine
+s We need three more glasses. ## Wir=we|brauchen=need|noch=more|drei=three|Gläser=glasses
+
+#144
+p noun | Gleise
+m track, platform ; 0
+s The ICE to Berlin stops at track 12 today. ## Der=the|ICE=ICE|nach=to|Berlin=Berlin|hält=stops|heute=today|an=at|Gleis=track
+
+#145
+p noun | 
+m luck, happiness ; 0
+s Good luck! ## Viel=much|Glück=luck
+
+#146
+p noun | Glückwünsche
+m congratulations, best wishes ; 0
+s Happy birthday! ## Herzlichen=heartfelt|Glückwunsch=congratulations|zum=for the|Geburtstag=birthday
+
+#147
+p noun | Grade
+m degree (temperature) ; 0
+s It's thirty degrees today. ## Heute=today|haben=have|wir=we|dreißig=thirty|Grad=degrees
+
+#148
+p noun | Größen
+m size ; 0
+s Do you also have that in size 40? ## Haben=have|Sie=you|das=that|auch=also|in=in|Größe=size
+
+#149
+p noun | 
+m grandparents ; 0
+s My grandparents live in Japan. ## Meine=my|Großeltern=grandparents|leben=live|in=in|Japan=Japan

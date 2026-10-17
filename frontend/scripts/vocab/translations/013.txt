@@ -1,0 +1,124 @@
+#1112
+p preposition | 
+m on, onto ; 0
+s The dictionary is on the table. ## Das=the|Wörterbuch=dictionary|liegt=lies|auf=on|dem=the|Tisch=table
+
+#1113
+p preposition | 
+m except, apart from ; 0
+s Nobody wants to see the film except Lisa. ## Außer=except|Lisa=Lisa|möchte=wants|niemand=nobody|den=the|Film=film|sehen=see
+
+#1114
+p preposition | 
+m outside (of) ; 0
+s The apartment is a little outside the center. ## Die=the|Wohnung=apartment|liegt=lies|etwas=somewhat|außerhalb=outside
+
+#1115
+p preposition | 
+m opposite ; 0
+s The post office is opposite the station. ## Die=the|Post=post office|ist=is|gegenüber=opposite|vom=from the|Bahnhof=station
+
+#1116
+p preposition | 
+m behind ; 0
+s We have a garden behind the house. ## Hinter=behind|dem=the|Haus=house|haben=have|wir=we|einen=a|Garten=garden
+
+#1117
+p preposition | 
+m next to, beside ; 0
+s There's still a free seat next to me. ## Neben=next to|mir=me|ist=is|noch=still|ein=a|Platz=seat|frei=free
+
+#1118
+p preposition | 
+m per ; 0
+s Admission per person: 5 euros. ## Eintritt=admission|pro=per|Person=person|Euro=euros
+
+#1119
+p conjunction | 
+m than ; 0
+s Hector is younger than his sister. ## Hector=Hector|ist=is|jünger=younger|als=than|seine=his|Schwester=sister
+
+#1120
+p conjunction | 
+m that ; 0
+s Rico said that he is coming to the party too. ## Rico=Rico|hat=has|gesagt=said|dass=that|er=he|auch=also|zur=to the|Party=party|kommt=comes
+
+#1121
+p conjunction | 
+m therefore, that's why ; 0
+s I'm sick. That's why I'm not coming to the office today. ## Ich=I|bin=am|krank=sick|Deshalb=therefore|komme=come|heute=today|nicht=not|ins=to the|Büro=office
+
+#1122
+p pronoun | 
+m there- (prefix with prepositions: darauf, darüber) ; 0
+s I can't think of an answer to that. ## Darauf=to that|fällt=falls|mir=me|keine=no|Antwort=answer|ein=(part of einfallen)
+
+#1123
+p adverb | 
+m with (you/me), on hand ; 0
+s Do you have a pen with you? ## Hast=have|du=you|einen=a|Stift=pen|dabei=with you
+
+#1124
+p adverb | 
+m for it / against it ; 0
+s I'm for/against it. ## Ich=I|bin=am|dafür=for it|dagegen=against it
+
+#1125
+p pronoun | 
+m my ;
+x Mein Bruder wohnt in Berlin. ## My brother lives in Berlin. ## Mein=my|Bruder=brother|wohnt=lives|in=in|Berlin=Berlin
+
+#1126
+p pronoun | 
+m his, its ;
+x Sein Auto ist neu. ## His car is new. ## Sein=his|Auto=car|ist=is|neu=new
+
+#1127
+p pronoun | 
+m her, their ;
+x Ihr Hund heißt Max. ## Her dog is called Max. ## Ihr=her|Hund=dog|heißt=is called|Max=Max
+
+#1128
+p pronoun | 
+m your (plural informal) ;
+x Euer Haus ist sehr schön. ## Your house is very nice. ## Euer=your|Haus=house|ist=is|sehr=very|schön=nice
+
+#1129
+p pronoun | 
+m someone, anyone ; 0
+s Does anyone have my pen? ## Hat=has|jemand=anyone|meinen=my|Stift=pen
+
+#1130
+p pronoun | 
+m no, not any ; 0
+s Unfortunately I have no time. ## Ich=I|habe=have|leider=unfortunately|keine=no|Zeit=time
+
+#1131
+p pronoun | 
+m some, many a ; 0
+s Some neighbors are unfriendly. ## Manche=some|Nachbarn=neighbors|sind=are|unfreundlich=unfriendly
+
+#1132
+p pronoun | 
+m nobody, no one ; 0
+s Nobody is here. ## Hier=here|ist=is|niemand=nobody
+
+#1133
+p adverb | 
+m nowhere ; 0
+s I can't see him anywhere. ## Ich=I|kann=can|ihn=him|nirgends=nowhere|sehen=see
+
+#1134
+p interjection | 
+m attention!, watch out! ; 0
+s Attention! Watch out! ## Achtung=attention|Pass=watch|auf=out
+
+#1135
+p adverb | 
+m yes (contradicting a negative), but, though ; 0
+s Aren't you hungry? – Yes, I am! ## Hast=have|du=you|keinen=no|Hunger=hunger|Doch=yes I am
+
+#1136
+p adjective | 
+m too bad, a pity ; 0
+s Too bad that you can't come. ## Schade=too bad|dass=that|du=you|nicht=not|kommen=come|kannst=can

@@ -1,0 +1,476 @@
+#320
+p noun | Treppen
+m stairs, staircase ; 0
+s The toilet? Up the stairs and then left. ## Die=the|Toilette=toilet|Treppe=stairs|hoch=up|und=and|dann=then|links=left
+
+#321
+p noun | Uhren
+m clock, o'clock, watch ; 0
+s It is four o'clock. ## Es=it|ist=is|vier=four|Uhr=o'clock
+
+#322
+p noun | 
+m lesson, class, teaching ; 0
+s We have class from 8:00 to 12:00. ## Wir=we|haben=have|Unterricht=class|von=from|bis=to|Uhr=o'clock
+
+#323
+p noun | Unterschriften
+m signature ; 0
+s Your signature is still missing here. ## Hier=here|fehlt=is missing|noch=still|Ihre=your|Unterschrift=signature
+
+#324
+p noun | Urlaube
+m vacation, holiday ; 0
+s I'm taking vacation in September. ## Ich=I|nehme=take|im=in|September=September|Urlaub=vacation
+
+#325
+p noun | Väter
+m father ; 0
+s My father is a worker. ## Mein=my|Vater=father|ist=is|Arbeiter=worker
+
+#326
+p noun | Vereine
+m club, association ; 0
+s There is a new sports club in town. ## Es=it|gibt=gives|einen=a|neuen=new|Sportverein=sports club|in=in|der=the|Stadt=town
+
+#327
+p noun | Verkäufer
+m salesperson, shop assistant ; 0
+s My mother is a saleswoman in the department store. ## Meine=my|Mutter=mother|ist=is|Verkäuferin=saleswoman|im=in the|Kaufhaus=department store
+
+#328
+p noun | Vermieter
+m landlord ; 0
+s Our landlord is called Huber. He lives here too. ## Unser=our|Vermieter=landlord|heißt=is called|Huber=Huber|Er=he|wohnt=lives|auch=also|hier=here
+
+#329
+p noun | Verwandten
+m relative ; 0
+s Peter is visiting his relatives in Poland. ## Peter=Peter|besucht=visits|seine=his|Verwandten=relatives|in=in|Polen=Poland
+
+#330
+p noun | Vorwahlen
+m area code, dialing code ; 0
+s What is the area code for Munich? ## Wie=what|ist=is|die=the|Vorwahl=area code|von=of|München=Munich
+
+#331
+p noun | Wasser
+m water ; 0
+s A glass of water, please. ## Ein=a|Glas=glass|Wasser=water|bitte=please
+
+#332
+p noun | Weine
+m wine ; 0
+s No thank you, I don't want any wine. ## Nein=no|danke=thank you|ich=I|möchte=would like|keinen=no|Wein=wine
+
+#333
+p noun | Welten
+m world ; 0
+s There are many problems in the world. ## Es=it|gibt=gives|viele=many|Probleme=problems|auf=in|der=the|Welt=world
+
+#334
+p noun | 
+m weather ; 0
+s We had bad weather. ## Wir=we|hatten=had|schlechtes=bad|Wetter=weather
+
+#335
+p noun | Winde
+m wind ; 0
+s The wind is coming from the east. ## Der=the|Wind=wind|kommt=comes|aus=from|Osten=east
+
+#336
+p noun | Wohnungen
+m apartment, flat ; 0
+s Since when have you had this apartment? ## Seit=since|wann=when|haben=have|Sie=you|diese=this|Wohnung=apartment
+
+#337
+p noun | Wörter
+m word ; 0
+s I don't know the word. ## Ich=I|kenne=know|das=the|Wort=word|nicht=not
+
+#338
+p noun | Zeiten
+m time ; 0
+s I don't have time today. ## Ich=I|habe=have|heute=today|keine=no|Zeit=time
+
+#339
+p noun | Zeitungen
+m newspaper ; 0
+s I like reading the newspaper. ## Ich=I|lese=read|gern=gladly|Zeitung=newspaper
+
+#340
+p noun | Zigaretten
+m cigarette ; 0
+s How expensive are the cigarettes? ## Wie=how|teuer=expensive|sind=are|die=the|Zigaretten=cigarettes
+
+#341
+p noun | Zimmer
+m room ; 0,1,2,3
+s The room is big. ## Das=the|Zimmer=room|ist=is|groß=big
+s Open the window in the bedroom, please! ## Öffne=open|im=in the|Schlafzimmer=bedroom|das=the|Fenster=window|bitte=please
+s The apartment has three rooms. ## Die=the|Wohnung=apartment|hat=has|drei=three|Zimmer=rooms
+s I have booked a room. ## Ich=I|habe=have|ein=a|Zimmer=room|bestellt=booked
+
+#342
+p noun | Zölle
+m customs, duty ; 0
+s We still have to go through customs. ## Wir=we|müssen=must|noch=still|durch=through|den=the|Zoll=customs
+
+#343
+p noun | Züge
+m train ; 0
+s I like traveling by train. ## Ich=I|fahre=travel|gern=gladly|mit=with|dem=the|Zug=train
+
+#344
+p verb | fährt ab, fuhr ab, ist abgefahren
+m to depart, to leave (by vehicle) ; 0
+s We leave at twelve o'clock. ## Wir=we|fahren=leave|um=at|zwölf=twelve|Uhr=o'clock|ab=(part of abfahren)
+
+#345
+p verb | gibt ab, gab ab, hat abgegeben
+m to hand in, to drop off ; 0
+s I have to hand in my keys. ## Ich=I|muss=must|meine=my|Schlüssel=keys|abgeben=hand in
+
+#346
+p verb | holt ab, holte ab, hat abgeholt
+m to pick up, to collect ; 0,1
+s When can I pick up the cupboard from you? ## Wann=when|kann=can|ich=I|den=the|Schrank=cupboard|bei=from|dir=you|abholen=pick up
+s We still have to pick up my brother. ## Wir=we|müssen=must|noch=still|meinen=my|Bruder=brother|abholen=pick up
+
+#347
+p verb | bietet an, bot an, hat angeboten
+m to offer ; 0
+s What can I offer you? ## Was=what|darf=may|ich=I|dir=you|anbieten=offer
+
+#348
+p verb | fängt an, fing an, hat angefangen
+m to begin, to start ; 0,1
+s This is where Bahnhofstraße begins. ## Hier=here|fängt=begins|die=the|Bahnhofstraße=Bahnhofstraße|an=(part of anfangen)
+s Class is about to start. ## Der=the|Unterricht=class|fängt=starts|gleich=soon|an=(part of anfangen)
+
+#349
+p verb | klickt an, klickte an, hat angeklickt
+m to click (on) ; 0
+s You have to click on this word. ## Da=there|musst=must|du=you|dieses=this|Wort=word|anklicken=click on
+
+#350
+p verb | kommt an, kam an, ist angekommen
+m to arrive ; 0
+s When does this train arrive in Hamburg? ## Wann=when|kommt=arrives|dieser=this|Zug=train|in=in|Hamburg=Hamburg|an=(part of ankommen)
+
+#351
+p verb | kreuzt an, kreuzte an, hat angekreuzt
+m to tick, to mark with a cross ; 0
+s On the form you have to tick something in several places. ## Auf=on|dem=the|Formular=form|müssen=must|Sie=you|an=at|mehreren=several|Stellen=places|etwas=something|ankreuzen=tick
+
+#352
+p verb | macht an, machte an, hat angemacht
+m to switch on, to turn on ; 0
+s Please turn on the light! ## Mach=make|bitte=please|das=the|Licht=light|an=on
+
+#353
+p verb | meldet an, meldete an, hat angemeldet
+m to register, to sign up ; 0
+s Where can I register? ## Wo=where|kann=can|ich=I|mich=myself|anmelden=register
+
+#354
+p verb | ruft an, rief an, hat angerufen
+m to call, to phone ; 0,1
+s Can one call you? ## Kann=can|man=one|Sie=you|anrufen=call
+s Peter quickly calls his girlfriend. ## Peter=Peter|ruft=calls|kurz=briefly|seine=his|Freundin=girlfriend|an=(part of anrufen)
+
+#355
+p verb | antwortet, antwortete, hat geantwortet
+m to answer, to reply ; 0
+s He doesn't answer. ## Er=he|antwortet=answers|nicht=not
+
+#356
+p verb | zieht an, zog an, hat angezogen
+m to put on, to get dressed ; 0
+s I still have to get dressed. ## Ich=I|muss=must|mich=myself|noch=still|anziehen=get dressed
+
+#357
+p verb | arbeitet, arbeitete, hat gearbeitet
+m to work ; 0
+s Where do you work? ## Wo=where|arbeiten=work|Sie=you
+
+#358
+p verb | hört auf, hörte auf, hat aufgehört
+m to stop, to end ; 0,1
+s The course ends in a week. ## Der=the|Kurs=course|hört=ends|in=in|einer=a|Woche=week|auf=(part of aufhören)
+s Bahnhofstraße ends here. ## Hier=here|hört=ends|die=the|Bahnhofstraße=Bahnhofstraße|auf=(part of aufhören)
+
+#359
+p verb | steht auf, stand auf, ist aufgestanden
+m to get up, to stand up ; 0,1
+s I always have to get up at four o'clock. ## Ich=I|muss=must|immer=always|um=at|vier=four|Uhr=o'clock|aufstehen=get up
+s Should I stand up? ## Soll=should|ich=I|aufstehen=stand up
+
+#360
+p verb | füllt aus, füllte aus, hat ausgefüllt
+m to fill out ; 0
+s Please fill out this form. ## Füllen=fill|Sie=you|bitte=please|dieses=this|Formular=form|aus=(part of ausfüllen)
+
+#361
+p verb | macht aus, machte aus, hat ausgemacht
+m to switch off, to turn off ; 0
+s Please turn off the light! ## Mach=make|bitte=please|das=the|Licht=light|aus=off
+
+#362
+p verb | sieht aus, sah aus, hat ausgesehen
+m to look (like), to appear ; 0
+s That looks nice. ## Das=that|sieht=looks|schön=nice|aus=(part of aussehen)
+
+#363
+p verb | steigt aus, stieg aus, ist ausgestiegen
+m to get off, to get out ; 0
+s Where do I have to get off? ## Wo=where|muss=must|ich=I|aussteigen=get off
+
+#364
+p verb | zieht aus, zog aus, hat/ist ausgezogen
+m to take off (clothes) ; 0
+s Take your shoes off, please! ## Zieh=pull|die=the|Schuhe=shoes|aus=off|bitte=please
+
+#365
+p verb | badet, badete, hat gebadet
+m to bathe, to have a bath ; 0
+s I don't like taking baths so much, I prefer showering. ## Ich=I|bade=bathe|nicht=not|so=so|gern=gladly|ich=I|dusche=shower|lieber=rather
+
+#366
+p verb | bedeutet, bedeutete, hat bedeutet
+m to mean ; 0
+s What does the word mean? ## Was=what|bedeutet=means|das=the|Wort=word
+
+#367
+p verb | beginnt, begann, hat begonnen
+m to begin, to start ; 0
+s The game starts at 3:30 p.m. ## Das=the|Spiel=game|beginnt=starts|um=at|Uhr=o'clock
+
+#368
+p verb | bekommt, bekam, hat bekommen
+m to get, to receive ; 0,1,2
+s Did you get my letter? ## Haben=have|Sie=you|meinen=my|Brief=letter|bekommen=received
+s What would you like (to have)? ## Was=what|bekommen=get|Sie=you
+s You can get this medication at the pharmacy. ## Dieses=this|Medikament=medication|bekommen=get|Sie=you|in=in|der=the|Apotheke=pharmacy
+
+#369
+p verb | benutzt, benutzte, hat benutzt
+m to use ; 0
+s Please do not use the elevators! ## Die=the|Aufzüge=elevators|bitte=please|nicht=not|benutzen=use
+
+#370
+p verb | besichtigt, besichtigte, hat besichtigt
+m to visit, to tour (a sight) ; 0
+s I would like to visit the cathedral. ## Ich=I|möchte=would like|gern=gladly|den=the|Dom=cathedral|besichtigen=visit
+
+#371
+p verb | bestellt, bestellte, hat bestellt
+m to order ; 0,1
+s We would like to order, please. ## Wir=we|möchten=would like|bestellen=order|bitte=please
+s We don't have this book – shall we order it for you? ## Dieses=this|Buch=book|haben=have|wir=we|nicht=not|sollen=shall|es=it|für=for|Sie=you|bestellen=order
+
+#372
+p verb | besucht, besuchte, hat besucht
+m to visit ; 0
+s May I visit you? ## Darf=may|ich=I|dich=you|besuchen=visit
+
+#373
+p verb | bezahlt, bezahlte, hat bezahlt
+m to pay ; 0
+s Where do I have to pay? ## Wo=where|muss=must|ich=I|bezahlen=pay
+
+#374
+p verb | bittet, bat, hat gebeten
+m to ask, to request ; 0
+s May I ask you for something? ## Darf=may|ich=I|Sie=you|um=for|etwas=something|bitten=ask
+
+#375
+p verb | bleibt, blieb, ist geblieben
+m to stay, to remain ; 0,1
+s I'm staying at home today. ## Ich=I|bleibe=stay|heute=today|zu=at|Hause=home
+s We're only staying until tomorrow. ## Wir=we|bleiben=stay|nur=only|bis=until|morgen=tomorrow
+
+#376
+p verb | bringt, brachte, hat gebracht
+m to bring ; 0
+m to take (somebody somewhere) ; 1
+s Please bring me another coffee! ## Bringen=bring|Sie=you|mir=me|bitte=please|noch=another|einen=a|Kaffee=coffee
+s We have to take him to the doctor. ## Wir=we|müssen=must|ihn=him|zum=to the|Arzt=doctor|bringen=take
+
+#377
+p verb | buchstabiert, buchstabierte, hat buchstabiert
+m to spell ; 0
+s Please spell your name. ## Bitte=please|buchstabieren=spell|Sie=you|Ihren=your|Namen=name
+
+#378
+p verb | dankt, dankte, hat gedankt
+m to thank ; 0
+s I thank you for the invitation. ## Ich=I|danke=thank|Ihnen=you|für=for|die=the|Einladung=invitation
+
+#379
+p verb | dauert, dauerte, hat gedauert
+m to last, to take (time) ; 0
+s How long does the film last? ## Wie=how|lange=long|dauert=lasts|der=the|Film=film
+
+#380
+p verb | druckt, druckte, hat gedruckt
+m to print ; 0
+s Please print the form for me. ## Bitte=please|drucke=print|das=the|Formular=form|für=for|mich=me
+
+#381
+p verb | drückt, drückte, hat gedrückt
+m to press, to push ; 0
+s Press here, then the computer turns on. ## Drück=press|hier=here|dann=then|geht=goes|der=the|Computer=computer|an=on
+
+#382
+p verb | darf, durfte, hat gedurft
+m to be allowed to, may ; 0,1,2
+s You are not allowed to smoke here. ## Sie=you|dürfen=are allowed to|hier=here|nicht=not|rauchen=smoke
+s May I invite you for a coffee? ## Darf=may|ich=I|Sie=you|zu=to|einem=a|Kaffee=coffee|einladen=invite
+s It must not cost more than 15 euros. ## Es=it|darf=may|nicht=not|mehr=more|als=than|Euro=euros|kosten=cost
+
+#383
+p verb | duscht, duschte, hat geduscht
+m to shower, to take a shower ; 0
+s I don't like taking baths so much, I prefer showering. ## Ich=I|bade=bathe|nicht=not|so=so|gern=gladly|ich=I|dusche=shower|lieber=rather
+
+#384
+p verb | kauft ein, kaufte ein, hat eingekauft
+m to shop, to buy groceries ; 0
+s I still have to do the shopping for tomorrow. ## Ich=I|muss=must|noch=still|für=for|morgen=tomorrow|einkaufen=shop
+
+#385
+p verb | lädt ein, lud ein, hat eingeladen
+m to invite ; 0
+s May I invite you for a coffee? ## Darf=may|ich=I|Sie=you|zu=to|einem=a|Kaffee=coffee|einladen=invite
+
+#386
+p verb | steigt ein, stieg ein, ist eingestiegen
+m to get in, to board ; 0
+s Quick, get in, the train is about to leave. ## Schnell=quick|steig=get|ein=in|der=the|Zug=train|fährt=leaves|gleich=soon
+
+#387
+p verb | empfiehlt, empfahl, hat empfohlen
+m to recommend ; 0
+s Which wine can you recommend to me? ## Welchen=which|Wein=wine|können=can|Sie=you|mir=me|empfehlen=recommend
+
+#388
+p verb | endet, endete, hat geendet
+m to end ; 0
+s The road ends here. ## Die=the|Straße=road|endet=ends|hier=here
+
+#389
+p verb | entschuldigt, entschuldigte, hat entschuldigt
+m to excuse, to forgive ; 0
+s Excuse me, please! ## Entschuldigen=excuse|Sie=you|bitte=please
+
+#390
+p verb | erklärt, erklärte, hat erklärt
+m to explain ; 0
+s Can you explain that to me? ## Kannst=can|du=you|mir=me|das=that|erklären=explain
+
+#391
+p verb | erlaubt, erlaubte, hat erlaubt
+m to allow, to permit ; 0
+s Smoking is not allowed here. ## Rauchen=smoking|ist=is|hier=here|nicht=not|erlaubt=allowed
+
+#392
+p verb | erzählt, erzählte, hat erzählt
+m to tell, to narrate ; 0
+s We have to tell you something! ## Wir=we|müssen=must|euch=you (pl.)|etwas=something|erzählen=tell
+
+#393
+p verb | isst, aß, hat gegessen
+m to eat ; 0
+s What is there to eat? ## Was=what|gibt=gives|es=it|zu=to|essen=eat
+
+#394
+p verb | fährt, fuhr, ist gefahren
+m to drive, to go (by vehicle) ; 0
+s I drive to work by car. ## Ich=I|fahre=drive|mit=with|dem=the|Auto=car|zur=to|Arbeit=work
+
+#395
+p verb | fährt Rad, fuhr Rad, ist Rad gefahren
+m to ride a bicycle, to cycle ; 0
+s The child can already ride a bike. ## Das=the|Kind=child|kann=can|schon=already|Rad=bike|fahren=ride
+
+#396
+p verb | feiert, feierte, hat gefeiert
+m to celebrate ; 0
+s We are celebrating my birthday today. ## Wir=we|feiern=celebrate|heute=today|meinen=my|Geburtstag=birthday
+
+#397
+p verb | fehlt, fehlte, hat gefehlt
+m to be missing, to be absent ; 0
+m to be wrong (with someone) ; 1
+s Mr. Müller isn't here, he has been absent for three days. ## Herr=Mr.|Müller=Müller|ist=is|nicht=not|da=here|er=he|fehlt=is absent|schon=already|seit=for|drei=three|Tagen=days
+s What's the matter with you? ## Was=what|fehlt=is wrong|Ihnen=you
+
+#398
+p verb | sieht fern, sah fern, hat ferngesehen
+m to watch TV ; 0
+s Shall we watch TV tonight? ## Wollen=want|wir=we|heute=today|Abend=evening|mal=for once|fernsehen=watch TV
+
+#399
+p verb | findet, fand, hat gefunden
+m to find ; 0
+s We have to find the key. ## Wir=we|müssen=must|den=the|Schlüssel=key|finden=find
+
+#400
+p verb | fliegt, flog, ist geflogen
+m to fly ; 0
+s I don't like flying. That's why I take the train. ## Ich=I|fliege=fly|nicht=not|gern=gladly|Deshalb=therefore|fahre=travel|ich=I|mit=with|dem=the|Zug=train
+
+#401
+p verb | fliegt ab, flog ab, ist abgeflogen
+m to take off, to depart (by plane) ; 0
+s When do you fly out? ## Wann=when|fliegst=fly|du=you|ab=(part of abfliegen)
+
+#402
+p verb | fragt, fragte, hat gefragt
+m to ask ; 0
+s He would like to ask you something. When are you coming? ## Er=he|möchte=would like|Sie=you|etwas=something|fragen=ask|Wann=when|kommen=come
+
+#403
+p verb | frühstückt, frühstückte, hat gefrühstückt
+m to have breakfast ; 0
+s On Sunday I like having breakfast in bed. ## Am=on|Sonntag=Sunday|frühstücke=have breakfast|ich=I|gern=gladly|im=in|Bett=bed
+
+#404
+p verb | gibt, gab, hat gegeben
+m to give ; 0
+m (es gibt) there is / there are ; 1
+s Can you give me your pen, please? ## Kannst=can|du=you|mir=me|bitte=please|deinen=your|Kugelschreiber=pen|geben=give
+s There are no more tickets. ## Es=it|gibt=gives|keine=no|Karten=tickets|mehr=more
+
+#405
+p verb | gefällt, gefiel, hat gefallen
+m to please, to like (be pleasing to) ; 0
+s I like that. ## Das=that|gefällt=pleases|mir=me
+
+#406
+p verb | geht, ging, ist gegangen
+m to go, to walk ; 2,3
+m to work, to function ; 0,4
+m (wie geht's) to be (how are you) ; 1
+s I don't know how that works. ## Ich=I|weiß=know|nicht=not|wie=how|das=that|geht=works
+s How are you? ## Wie=how|geht's=goes it
+s Now I unfortunately have to go. ## Jetzt=now|muss=must|ich=I|aber=but|leider=unfortunately|gehen=go
+s I have to go to the doctor. ## Ich=I|muss=must|zum=to the|Arzt=doctor|gehen=go
+s That's not possible! ## Das=that|geht=goes|nicht=not
+
+#407
+p verb | gehört, gehörte, hat gehört
+m to belong to ; 0
+s Who does that belong to? ## Wem=whom|gehört=belongs|das=that
+
+#408
+p verb | gewinnt, gewann, hat gewonnen
+m to win ; 0
+s Who is winning the game? ## Wer=who|gewinnt=wins|das=the|Spiel=game
+
+#409
+p verb | glaubt, glaubte, hat geglaubt
+m to believe, to think ; 0,1
+s You can believe me, that's how it is. ## Sie=you|können=can|mir=me|glauben=believe|es=it|ist=is|so=so
+s I think he's coming soon. ## Ich=I|glaube=think|er=he|kommt=comes|gleich=soon

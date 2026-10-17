@@ -57,6 +57,8 @@ export const config = {
     "/profiles/:path*",
     "/dashboard",
     "/dashboard/:path*",
+    "/vocab",
+    "/vocab/:path*",
     "/api/:path*",
     "/",
   ],

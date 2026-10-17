@@ -1,0 +1,608 @@
+#1137
+p noun | Abenteuer
+m adventure ; 0,1
+s Our vacation was a great adventure. ## Unser=our|Urlaub=vacation|war=was|ein=a|tolles=great|Abenteuer=adventure
+s The children love adventure stories. ## Die=the|Kinder=children|lieben=love|Abenteuergeschichten=adventure stories
+
+#1138
+p noun | Abbildungen
+m illustration, figure ; 0
+s The illustration shows how to switch on the device. ## Auf=in|der=the|Abbildung=illustration|sehen=see|Sie=you|wie=how|man=one|das=the|Gerät=device|einschaltet=switches on
+
+#1139
+p noun | 
+m Abitur (German school-leaving exam) ; 0
+s My daughter has just taken her Abitur. ## Meine=my|Tochter=daughter|hat=has|gerade=just|Abitur=Abitur|gemacht=done
+
+#1140
+p noun | Abfälle
+m waste, rubbish ; 0
+s Please don't throw organic waste in with the normal trash. ## Werfen=throw|Sie=you|den=the|Bioabfall=organic waste|bitte=please|nicht=not|zum=in with the|normalen=normal|Müll=trash
+
+#1141
+p noun | Abfalleimer
+m trash can, waste bin ; 0
+s Please throw that in the trash can! ## Wirf=throw|das=that|bitte=please|in=into|den=the|Abfalleimer=trash can
+
+#1142
+p noun | 
+m exhaust fumes, emissions ; 0
+s Emissions from industry and households pollute the air. ## Abgase=emissions|aus=from|Industrie=industry|und=and|Haushalten=households|verschmutzen=pollute|die=the|Luft=air
+
+#1143
+p noun | Angaben
+m information, details ; 0
+s We need the following details from you: name, address, date of birth. ## Wir=we|brauchen=need|von=from|Ihnen=you|folgende=following|Angaben=details|Name=name|Adresse=address|Geburtsdatum=date of birth
+
+#1144
+p noun | Angehörigen
+m relative, family member ; 0
+s The doctor may only give information to family members. ## Der=the|Arzt=doctor|darf=may|nur=only|Familienangehörigen=family members|Auskunft=information|geben=give
+
+#1145
+p noun | Anbieter
+m provider, supplier ; 0
+s Is that a private telephone provider? ## Ist=is|das=that|ein=a|privater=private|Telefonanbieter=telephone provider
+
+#1146
+p noun | Anleitungen
+m instructions, manual ; 0
+s The instructions say that in this game the oldest player starts. ## In=in|der=the|Anleitung=instructions|steht=says|dass=that|bei=in|diesem=this|Spiel=game|der=the|Älteste=oldest|beginnt=begins
+
+#1147
+p noun | Anlagen
+m system, equipment ; 0
+m attachment ; 1
+s My stereo system is broken. ## Meine=my|Musikanlage=stereo system|ist=is|kaputt=broken
+s You'll find my résumé in the attachment to the email. ## In=in|der=the|Anlage=attachment|der=of the|E-Mail=email|finden=find|Sie=you|meinen=my|Lebenslauf=résumé
+
+#1148
+p noun | Annoncen
+m advertisement, classified ad ; 0
+s I've read all the ads, but the apartments are too expensive. ## Ich=I|habe=have|alle=all|Annoncen=ads|gelesen=read|aber=but|die=the|Wohnungen=apartments|sind=are|zu=too|teuer=expensive
+
+#1149
+p noun | Ansprüche
+m claim, entitlement ; 0
+s You live in the city center. Therefore you have no claim to travel expenses. ## Sie=you|wohnen=live|im=in the|Stadtzentrum=city center|Deshalb=therefore|haben=have|keinen=no|Anspruch=claim|auf=to|Fahrgeld=travel expenses
+
+#1150
+p noun | Angestellten
+m employee ; 0
+s Björn is an employee at a travel agency. ## Björn=Björn|ist=is|Angestellter=employee|in=at|einem=a|Reisebüro=travel agency
+
+#1151
+p noun | Anträge
+m application, request ; 0
+s Have you already filled out an application for housing benefit? ## Haben=have|Sie=you|schon=already|einen=an|Antrag=application|für=for|das=the|Wohngeld=housing benefit|ausgefüllt=filled out
+
+#1152
+p noun | Anwälte
+m lawyer ; 0
+s I won't pay that. I'd like to speak to my lawyer first. ## Ich=I|werde=will|das=that|nicht=not|bezahlen=pay|Ich=I|möchte=would like|zuerst=first|mit=with|meinem=my|Anwalt=lawyer|sprechen=speak
+
+#1153
+p noun | Aprikosen
+m apricot ; 0
+s Do you like the apricots? ## Schmecken=taste|dir=you|die=the|Aprikosen=apricots
+
+#1154
+p noun | Arbeiter
+m worker ; 0
+s Maria has been a worker at Siemens for two years. ## Maria=Maria|ist=is|seit=for|zwei=two|Jahren=years|Arbeiterin=female worker|bei=at|Siemens=Siemens
+
+#1155
+p noun | Arbeitserlaubnisse
+m work permit ; 0
+s Do you have a work permit? ## Haben=have|Sie=you|eine=a|Arbeitserlaubnis=work permit
+
+#1156
+p noun | 
+m unemployment ; 0
+s Unemployment has fallen. ## Die=the|Arbeitslosigkeit=unemployment|ist=is|gesunken=fallen
+
+#1157
+p noun | Arbeitsstellen
+m job, position ; 0
+s My wife has found a new job. ## Meine=my|Frau=wife|hat=has|eine=a|neue=new|Arbeitsstelle=job|gefunden=found
+
+#1158
+p noun | Architekten
+m architect ; 0
+s A famous (female) architect built this house. ## Dieses=this|Haus=house|hat=has|eine=a|berühmte=famous|Architektin=female architect|gebaut=built
+
+#1159
+p noun | 
+m trouble, annoyance ; 0
+s I had trouble at the office today. I argued with a colleague. ## Ich=I|hatte=had|heute=today|Ärger=trouble|im=in the|Büro=office|habe=have|mich=myself|mit=with|einem=a|Kollegen=colleague|gestritten=argued
+
+#1160
+p noun | Arten
+m kind, type ; 0
+m manner, way, personality ; 1,2
+s The zoo has 34 different kinds of birds. ## Im=in the|Zoo=zoo|haben=have|sie=they|verschiedene=different|Arten=kinds|von=of|Vögeln=birds
+s I don't like his manner. ## Seine=his|Art=manner|gefällt=pleases|mir=me|nicht=not
+s You can celebrate a party in different ways. ## Man=one|kann=can|auf=in|unterschiedliche=different|Art=manner|und=and|Weise=way|ein=a|Fest=celebration|feiern=celebrate
+
+#1161
+p noun | 
+m asylum ; 0
+s The people are fleeing and are asking for asylum. ## Die=the|Menschen=people|sind=are|auf=on|der=the|Flucht=flight|und=and|bitten=ask|um=for|Asyl=asylum
+
+#1162
+p noun | 
+m breath ; 0
+s Please hold your breath. ## Bitte=please|den=the|Atem=breath|anhalten=hold
+
+#1163
+p noun | Aufenthalte
+m stop, stay ; 0,1
+s The train only has a 20-minute stop in Munich. ## Der=the|Zug=train|hat=has|in=in|München=Munich|nur=only|Minuten=minutes|Aufenthalt=stop
+s We wish you a pleasant stay. ## Wir=we|wünschen=wish|Ihnen=you|einen=a|angenehmen=pleasant|Aufenthalt=stay
+
+#1164
+p noun | Aufforderungen
+m request, demand, notice ; 0
+s You will receive a notice to pay the amount by June. ## Sie=you|erhalten=receive|eine=a|Aufforderung=notice|den=the|Betrag=amount|bis=by|Juni=June|zu=to|zahlen=pay
+
+#1165
+p noun | Aufnahmen
+m recording ; 0
+s Please be quiet! I'm starting the recording. ## Bitte=please|seid=be|leise=quiet|Ich=I|starte=start|die=the|Aufnahme=recording
+
+#1166
+p noun | Ausdrücke
+m expression, phrase ; 0
+m printout ; 1
+s I've never heard this expression before. ## Diesen=this|Ausdruck=expression|habe=have|ich=I|noch=yet|nie=never|gehört=heard
+s Please make a printout of the email. ## Machen=make|Sie=you|doch=please|bitte=please|einen=a|Ausdruck=printout|von=of|der=the|E-Mail=email
+
+#1167
+p noun | Ausfahrten
+m exit, driveway ; 0,1
+s This is an exit, you may not park here. ## Hier=here|ist=is|eine=an|Ausfahrt=exit|da=there|dürfen=may|Sie=you|nicht=not|parken=park
+s How far is it to the Freiburg exit? ## Wie=how|weit=far|ist=is|es=it|noch=still|bis=to|zur=the|Ausfahrt=exit|Freiburg=Freiburg
+
+#1168
+p noun | Ausgaben
+m expense, expenditure ; 0
+m serving (of food) ; 1
+m edition, issue ; 2
+s How high are your expenses in a month? ## Wie=how|hoch=high|sind=are|Ihre=your|Ausgaben=expenses|in=in|einem=a|Monat=month
+s Where is the food counter? ## Wo=where|ist=is|die=the|Essensausgabe=food counter
+s Which book did you read that in? Which edition? ## In=in|welchem=which|Buch=book|hast=have|du=you|das=that|gelesen=read|welcher=which|Ausgabe=edition
+
+#1169
+p noun | Aushilfen
+m temporary help, part-time worker ; 0
+s We're looking for a friendly part-time worker for our shop. ## Wir=we|suchen=look for|eine=a|freundliche=friendly|Aushilfe=part-time worker|für=for|unser=our|Geschäft=shop
+
+#1170
+p noun | Ausnahmen
+m exception ; 0
+s Normally I have to work at the weekend. But today is an exception. ## Normalerweise=normally|muss=must|ich=I|am=at the|Wochenende=weekend|arbeiten=work|Aber=but|heute=today|ist=is|eine=an|Ausnahme=exception
+
+#1171
+p noun | Aussichten
+m view ; 0
+m prospect, outlook ; 1
+s There's a great view from this tower. ## Von=from|diesem=this|Turm=tower|hat=has|man=one|eine=a|tolle=great|Aussicht=view
+s With several foreign languages you have good prospects in your career. ## Mit=with|mehreren=several|Fremdsprachen=foreign languages|hat=has|man=one|gute=good|Aussichten=prospects|im=in|Beruf=career
+
+#1172
+p noun | 
+m pronunciation ; 0
+s Ali has good pronunciation. ## Ali=Ali|hat=has|eine=a|gute=good|Aussprache=pronunciation
+
+#1173
+p noun | Auswahlen
+m selection, choice ; 0,1
+s We have to make a selection from the books. ## Wir=we|müssen=must|eine=a|Auswahl=selection|aus=from|den=the|Büchern=books|treffen=make
+s The shop has a large selection. ## Das=the|Geschäft=shop|hat=has|eine=a|große=large|Auswahl=selection
+
+#1174
+p noun | Autoren
+m author ; 0
+s This (female) author has already written two books this year. ## Diese=this|Autorin=female author|hat=has|in=in|diesem=this|Jahr=year|schon=already|zwei=two|Bücher=books|geschrieben=written
+
+#1175
+p verb | 
+m to break off, to drop out of ; 0
+s He dropped out of his studies. ## Er=he|hat=has|sein=his|Studium=studies|abgebrochen=dropped
+
+#1176
+p verb | 
+m to turn (off a road) ; 0
+s You have to turn left at the next intersection. ## An=at|der=the|nächsten=next|Kreuzung=intersection|müssen=must|Sie=you|links=left|abbiegen=turn
+
+#1177
+p verb | 
+m to depend (on) ; 0
+s Maybe we'll stay a few days longer, it depends on the weather. ## Vielleicht=maybe|bleiben=stay|wir=we|ein=a|paar=few|Tage=days|länger=longer|das=that|hängt=depends|vom=on the|Wetter=weather|ab=(part of abhängen)
+
+#1178
+p verb | 
+m to withdraw (money) ; 0
+s I withdrew 500 euros from my account for the trip. ## Für=for|die=the|Reise=trip|habe=have|ich=I|Euro=euros|von=from|meinem=my|Konto=account|abgehoben=withdrawn
+
+#1179
+p verb | 
+m to decline, to reject ; 0
+s He declined my offer to help him. ## Er=he|hat=has|mein=my|Angebot=offer|ihm=him|zu=to|helfen=help|abgelehnt=declined
+
+#1180
+p verb | 
+m to arrange, to agree ; 0
+s We had agreed that you would get the drinks. ## Wir=we|hatten=had|doch=surely|abgemacht=agreed|dass=that|du=you|die=the|Getränke=drinks|besorgst=get
+
+#1181
+p verb | 
+m to take off, to remove ; 0
+m to lose (weight) ; 1
+s We can take off the bandage tomorrow. ## Morgen=tomorrow|können=can|wir=we|den=the|Verband=bandage|abnehmen=take off
+s I've lost ten kilos. ## Ich=I|habe=have|zehn=ten|Kilo=kilos|abgenommen=lost
+
+#1182
+p verb | 
+m to subscribe to ; 0
+s I would like to subscribe to this magazine. ## Diese=this|Zeitschrift=magazine|würde=would|ich=I|gerne=gladly|abonnieren=subscribe
+
+#1183
+p verb | 
+m to cancel, to call off ; 0
+s Unfortunately I have to cancel our meeting because I've fallen ill. ## Ich=I|muss=must|unser=our|Treffen=meeting|leider=unfortunately|absagen=cancel|weil=because|ich=I|krank=ill|geworden=become|bin=am
+
+#1184
+p verb | 
+m to copy (from someone) ; 0
+s He copied the homework from me. ## Er=he|hat=has|die=the|Hausaufgaben=homework|von=from|mir=me|abgeschrieben=copied
+
+#1185
+p verb | 
+m to vote ; 0
+s Let's vote on this point. ## Lasst=let|uns=us|über=on|diesen=this|Punkt=point|abstimmen=vote
+
+#1186
+p verb | 
+m to wash up ; 0
+s I still have to wash the dishes. ## Ich=I|muss=must|noch=still|das=the|Geschirr=dishes|abwaschen=wash up
+
+#1187
+p verb | 
+m to pay attention (to) ; 0
+s Please make sure that you lock up when you leave. ## Achten=pay attention|Sie=you|bitte=please|darauf=to it|dass=that|Sie=you|abschließen=lock|wenn=when|gehen=go
+
+#1188
+p verb | 
+m to analyze ; 0
+s The politicians are analyzing the situation on the job market. ## Die=the|Politiker=politicians|analysieren=analyze|die=the|Situation=situation|auf=on|dem=the|Arbeitsmarkt=job market
+
+#1189
+p verb | 
+m to recognize, to accept (a qualification) ; 0
+s My qualification is not recognized here. ## Meine=my|Ausbildung=qualification|wird=is|hier=here|nicht=not|anerkannt=recognized
+
+#1190
+p verb | 
+m to state, to indicate ; 0
+s Please state your exact address. ## Bitte=please|geben=give|Sie=you|Ihre=your|genaue=exact|Adresse=address|an=(part of angeben)
+
+#1191
+p verb | 
+m to be wearing ; 0
+s Yesterday Julia was wearing a red dress. ## Gestern=yesterday|hatte=had|Julia=Julia|ein=a|rotes=red|Kleid=dress|an=on
+
+#1192
+p verb | 
+m to announce ; 0
+s We should announce our visit. ## Wir=we|sollten=should|unseren=our|Besuch=visit|ankündigen=announce
+
+#1193
+p verb | 
+m to accept ; 0
+m to assume ; 1
+s I gladly accept your invitation. ## Ich=I|nehme=take|Ihre=your|Einladung=invitation|gern=gladly|an=(part of annehmen)
+s I assume that you agree with the proposal. ## Ich=I|nehme=assume|an=(part of annehmen)|dass=that|Sie=you|mit=with|dem=the|Vorschlag=proposal|einverstanden=agreed|sind=are
+
+#1194
+p verb | 
+m to acquire, to buy (for oneself) ; 0
+s We've bought some new furniture. ## Wir=we|haben=have|uns=ourselves|neue=new|Möbel=furniture|angeschafft=bought
+
+#1195
+p verb | 
+m to connect, to plug in ; 0
+s Where can I plug in the computer? ## Wo=where|kann=can|ich=I|den=the|Computer=computer|anschließen=connect
+
+#1196
+p verb | 
+m to fasten one's seat belt ; 0
+s Don't forget to fasten your seat belt. ## Vergiss=forget|nicht=not|dich=yourself|anzuschnallen=to fasten the seat belt
+
+#1197
+p verb | 
+m to speak to, to approach ; 0
+s Yesterday our new neighbor spoke to me in the stairwell. ## Gestern=yesterday|hat=has|mich=me|unsere=our|neue=new|Nachbarin=female neighbor|im=in the|Treppenhaus=stairwell|angesprochen=spoken to
+
+#1198
+p verb | 
+m to turn on ; 0
+m to employ ; 1
+m to queue up ; 2
+s Could you please turn on the heating? ## Können=can|Sie=you|bitte=please|die=the|Heizung=heating|anstellen=turn on
+s My brother-in-law is employed by a furniture company. ## Mein=my|Schwager=brother-in-law|ist=is|bei=at|einer=a|Möbelfirma=furniture company|angestellt=employed
+s The checkout is up ahead. You have to queue up. ## Da=there|vorne=ahead|ist=is|die=the|Kasse=checkout|Du=you|musst=must|dich=yourself|anstellen=queue up
+
+#1199
+p verb | 
+m to tire out, to strain ; 0
+m to make an effort ; 1
+s This work wears me out a lot. ## Diese=this|Arbeit=work|strengt=strains|mich=me|sehr=very|an=(part of anstrengen)
+s If you want to pass the exam, you have to make more effort. ## Wenn=if|du=you|die=the|Prüfung=exam|schaffen=pass|willst=want|musst=must|dich=yourself|mehr=more|anstrengen=make an effort
+
+#1200
+p verb | 
+m to apply, to use ; 0
+s This ointment must be applied three times a day. ## Diese=this|Salbe=ointment|muss=must|man=one|dreimal=three times|am=a|Tag=day|anwenden=apply
+
+#1201
+p verb | 
+m to report (to the police) ; 0
+s If you park here, I'll report you. ## Wenn=if|Sie=you|hier=here|parken=park|zeige=show|ich=I|Sie=you|an=(part of anzeigen)
+
+#1202
+p verb | 
+m to breathe ; 0
+s He has a cold and can't breathe through his nose. ## Er=he|hat=has|eine=a|Erkältung=cold|und=and|kann=can|nicht=not|durch=through|die=the|Nase=nose|atmen=breathe
+
+#1203
+p verb | 
+m to notice, to stand out ; 0
+s I noticed that Harriett is quite pale. ## Mir=me|ist=is|aufgefallen=noticed|dass=that|Harriett=Harriett|ganz=quite|blass=pale|ist=is
+
+#1204
+p verb | 
+m to ask, to urge ; 0
+m to ask (to dance) ; 1
+s She asked me to give my opinion. ## Sie=she|forderte=asked|mich=me|auf=(part of auffordern)|meine=my|Meinung=opinion|zu=to|sagen=say
+s He asks her to dance. ## Er=he|fordert=asks|sie=her|zum=to the|Tanz=dance|auf=(part of auffordern)
+
+#1205
+p verb | 
+m to perform ; 0
+s The children are performing a play at Christmas. ## Die=the|Kinder=children|führen=perform|zu=at|Weihnachten=Christmas|ein=a|Theaterstück=play|auf=(part of aufführen)
+
+#1206
+p verb | 
+m to post, to hand in (a parcel) ; 0
+m to give up ; 1
+s I sent a parcel at the post office. ## Ich=I|habe=have|auf=at|der=the|Post=post office|ein=a|Paket=parcel|aufgegeben=sent
+s You should never give up. There's always hope. ## Man=one|darf=may|nie=never|aufgeben=give up|Es=it|gibt=gives|immer=always|eine=a|Hoffnung=hope
+
+#1207
+p verb | 
+m to stay, to be (somewhere) ; 0
+m to hold open ; 1
+m to hold up, to delay ; 2
+s Where is he at the moment? – In Munich. ## Wo=where|hält=keeps|er=he|sich=himself|gerade=currently|auf=(part of aufhalten)|In=in|München=Munich
+s May I hold the door open for you? ## Darf=may|ich=I|Ihnen=you|die=the|Tür=door|aufhalten=hold open
+s Sorry for being late, I was held up. ## Entschuldigen=excuse|Sie=you|die=the|Verspätung=delay|ich=I|wurde=was|aufgehalten=held up
+
+#1208
+p verb | 
+m to pick up ; 0
+m to keep, to save ; 1
+s Just leave the papers on the floor, I'll pick them up. ## Lassen=leave|Sie=you|die=the|Papiere=papers|nur=just|auf=on|dem=the|Boden=floor|liegen=lying|ich=I|hebe=pick|sie=them|schon=already|auf=(part of aufheben)
+s You must keep the receipt safe. ## Die=the|Quittung=receipt|müssen=must|Sie=you|gut=well|aufheben=keep
+
+#1209
+p verb | 
+m to charge (a battery) ; 0
+s I have to charge my phone. The battery is empty. ## Ich=I|muss=must|mein=my|Telefon=phone|aufladen=charge|Die=the|Batterie=battery|ist=is|leer=empty
+
+#1210
+p verb | 
+m to dissolve ; 0
+s Please dissolve the tablet in water. ## Die=the|Tablette=tablet|bitte=please|in=in|Wasser=water|auflösen=dissolve
+
+#1211
+p verb | 
+m to take in, to admit ; 0
+m to record ; 1
+s We've admitted Aneta to our club. ## Wir=we|haben=have|Aneta=Aneta|in=into|unseren=our|Verein=club|aufgenommen=admitted
+s I recorded the film on vacation. ## Ich=I|habe=have|den=the|Film=film|im=on|Urlaub=vacation|aufgenommen=recorded
+
+#1212
+p verb | 
+m to upset, to get upset ; 0,1
+s It annoys me that I have to work overtime yet again. ## Es=it|regt=upsets|mich=me|auf=(part of aufregen)|dass=that|ich=I|schon=already|wieder=again|Überstunden=overtime|machen=do|muss=must
+s Calm down! Please don't get upset. ## Ganz=quite|ruhig=calm|Bitte=please|regen=upset|Sie=you|sich=yourself|nicht=not|auf=(part of aufregen)
+
+#1213
+p verb | 
+m to appear, to perform ; 0
+s A famous band is performing at the town hall next week. ## Nächste=next|Woche=week|tritt=performs|in=in|der=the|Stadthalle=town hall|eine=a|berühmte=famous|Musikgruppe=band|auf=(part of auftreten)
+
+#1214
+p verb | 
+m to wake up ; 0
+s I woke up from the noise. ## Von=from|dem=the|Lärm=noise|bin=am|ich=I|aufgewacht=woken up
+
+#1215
+p verb | 
+m to print out ; 0
+s Can I print that on your printer? ## Kann=can|ich=I|das=that|auf=on|deinem=your|Drucker=printer|ausdrucken=print out
+
+#1216
+p verb | 
+m to be cancelled ; 0
+s The course is cancelled next week. ## Nächste=next|Woche=week|fällt=falls|der=the|Kurs=course|aus=out
+
+#1217
+p verb | 
+m to be enough, to suffice ; 0,1
+s The money has to last until March. ## Das=the|Geld=money|muss=must|bis=until|März=March|ausreichen=suffice
+s His knowledge is sufficient for this job. ## Seine=his|Kenntnisse=knowledge|reichen=suffice|für=for|diese=this|Arbeit=job|aus=(part of ausreichen)
+
+#1218
+p verb | 
+m to pass on (a message) ; 0
+s My husband isn't here. Shall I pass on a message to him? ## Mein=my|Mann=husband|ist=is|nicht=not|da=here|Soll=shall|ich=I|ihm=him|etwas=something|ausrichten=pass on
+
+#1219
+p verb | 
+m to rule out, to exclude ; 0
+s You can't rule that out completely. ## Das=that|kann=can|man=one|nicht=not|ganz=completely|ausschließen=rule out
+
+#1220
+p verb | 
+m to display, to exhibit ; 0
+m to issue (a document) ; 1
+s Winter shoes are on display in the shop window. ## Im=in the|Schaufenster=shop window|sind=are|Winterschuhe=winter shoes|ausgestellt=displayed
+s The certificate will be issued by next week. ## Das=the|Zeugnis=certificate|wird=will be|bis=by|nächste=next|Woche=week|ausgestellt=issued
+
+#1221
+p verb | 
+m to choose, to pick out ; 0
+s Choose something nice! My treat. ## Such=choose|dir=yourself|etwas=something|Schönes=nice|aus=out|Ich=I|lade=invite|dich=you|ein=(part of einladen)
+
+#1222
+p verb | 
+m to choose, to select ; 0
+s For the task you can choose from three topics. ## Für=for|die=the|Aufgabe=task|können=can|Sie=you|aus=from|drei=three|Themen=topics|auswählen=choose
+
+#1223
+p adjective | 
+m absolute, absolutely ; 0,1
+s What you're saying is absolutely wrong. ## Was=what|Sie=you|da=there|sagen=say|ist=is|absolut=absolutely|falsch=wrong
+s I have absolute trust in you. ## Ich=I|habe=have|absolutes=absolute|Vertrauen=trust|zu=in|dir=you
+
+#1224
+p adverb | 
+m downward ; 0
+s From there the path leads down into the valley. ## Von=from|dort=there|führt=leads|der=the|Weg=path|abwärts=downward|ins=into the|Tal=valley
+
+#1225
+p adjective | 
+m absent ; 0
+s Mr. Huber is absent until April 25. ## Herr=Mr.|Huber=Huber|ist=is|bis=until|zum=the|April=April|abwesend=absent
+
+#1226
+p adjective | 
+m similar ; 0,1
+s Emilia is in a very similar situation to mine. ## Emilia=Emilia|ist=is|in=in|einer=a|ganz=quite|ähnlichen=similar|Situation=situation|wie=as|ich=I
+s Oleg looks very much like his brother. ## Oleg=Oleg|sieht=looks|seinem=his|Bruder=brother|sehr=very|ähnlich=similar
+
+#1227
+p adjective | 
+m everyday, ordinary ; 0,1
+s Everyday life is sometimes boring. ## Das=the|alltägliche=everyday|Leben=life|ist=is|manchmal=sometimes|langweilig=boring
+s The novel tells a quite ordinary story. ## Der=the|Roman=novel|erzählt=tells|eine=a|ganz=quite|alltägliche=ordinary|Geschichte=story
+
+#1228
+p adverb | 
+m however, though ; 0
+s We can meet tomorrow, though I only have time from noon. ## Wir=we|können=can|uns=each other|morgen=tomorrow|treffen=meet|allerdings=however|habe=have|ich=I|erst=only|ab=from|Mittag=noon|Zeit=time
+
+#1229
+p adjective | 
+m general ; 0
+m generally ; 1,2
+s We only talked about general problems. ## Wir=we|haben=have|nur=only|über=about|allgemeine=general|Probleme=problems|gesprochen=talked
+s It's generally known that you can eat well here. ## Es=it|ist=is|allgemein=generally|bekannt=known|dass=that|man=one|hier=here|gut=well|essen=eat|kann=can
+s On the whole I'm very satisfied with my work. ## Im=in the|Allgemeinen=general|bin=am|ich=I|mit=with|meiner=my|Arbeit=work|sehr=very|zufrieden=satisfied
+
+#1230
+p adverb | 
+m on the other hand ; 0
+s Tarek wants to study, but on the other hand he'd also like to earn money right away. ## Tarek=Tarek|möchte=would like|zwar=indeed|studieren=study|aber=but|andererseits=on the other hand|möchte=would like|er=he|auch=also|gleich=right away|Geld=money|verdienen=earn
+
+#1231
+p adjective | 
+m pleasant ; 0
+s We wish you a pleasant journey. ## Wir=we|wünschen=wish|Ihnen=you|eine=a|angenehme=pleasant|Reise=journey
+
+#1232
+p adjective | 
+m anxious, fearful ; 0
+s My mother is somewhat anxious. She doesn't like going out alone. ## Meine=my|Mutter=mother|ist=is|etwas=somewhat|ängstlich=anxious|Sie=she|geht=goes|nicht=not|gern=gladly|allein=alone|auf=onto|die=the|Straße=street
+
+#1233
+p adjective | 
+m tiring, strenuous ; 0
+s I find this work very tiring. ## Ich=I|finde=find|diese=this|Arbeit=work|sehr=very|anstrengend=tiring
+
+#1234
+p adjective | 
+m present, attending ; 0
+s All members were present at the meeting. ## Bei=at|dem=the|Treffen=meeting|waren=were|alle=all|Mitglieder=members|anwesend=present
+
+#1235
+p adjective | 
+m annoying ; 0
+s The train is delayed again. That's really annoying. ## Der=the|Zug=train|hat=has|schon=already|wieder=again|Verspätung=delay|Das=that|ist=is|wirklich=really|ärgerlich=annoying
+
+#1236
+p adjective | 
+m attentive ; 0
+m (aufmerksam machen auf) to point out ; 1
+s The pupil listened attentively. ## Die=the|Schülerin=female pupil|hörte=listened|aufmerksam=attentively|zu=(part of zuhören)
+s I'd like to point out that we're closing in half an hour. ## Ich=I|mache=make|Sie=you|darauf=to it|aufmerksam=attentive|dass=that|wir=we|in=in|einer=a|halben=half|Stunde=hour|schließen=close
+
+#1237
+p adjective | 
+m exciting ; 0
+s Seeing the band live was very exciting. ## Die=the|Musikgruppe=band|zu=to|erleben=experience|war=was|sehr=very|aufregend=exciting
+
+#1238
+p adverb | 
+m upward, uphill ; 0
+m improving ; 1
+s You have to wear good shoes. The path goes uphill all the time. ## Sie=you|müssen=must|gute=good|Schuhe=shoes|anziehen=put on|Der=the|Weg=path|geht=goes|immer=always|aufwärts=uphill
+s Lately the economy has been improving again. ## In=in|letzter=last|Zeit=time|geht=goes|es=it|wieder=again|aufwärts=upward|mit=with|der=the|Wirtschaft=economy
+
+#1239
+p adjective | 
+m trained, qualified ; 0
+s For this profession you have to be well trained. ## Für=for|diesen=this|Beruf=profession|müssen=must|Sie=you|gut=well|ausgebildet=trained|sein=be
+
+#1240
+p adjective | 
+m excellent ; 0
+s The food and accommodation were excellent. ## Essen=food|und=and|Unterkunft=accommodation|waren=were|ausgezeichnet=excellent
+
+#1241
+p adverb | 
+m exclusively, only ; 0
+s I'm sorry. We only have non-smoking rooms. ## Tut=does|mir=me|leid=sorry|Wir=we|haben=have|ausschließlich=exclusively|Nichtraucherzimmer=non-smoking rooms
+
+#1242
+p adverb | 
+m outside, on the outside ; 0,1
+s We only saw the castle from the outside. ## Wir=we|haben=have|das=the|Schloss=castle|nur=only|von=from|außen=outside|gesehen=seen
+s On the outside the house is not very nice. ## Außen=on the outside|ist=is|das=the|Haus=house|nicht=not|sehr=very|schön=nice
+
+#1243
+p adjective | 
+m external, for external use ; 0
+s This medication may only be applied externally. ## Das=the|Medikament=medication|dürfen=may|Sie=you|nur=only|äußerlich=externally|anwenden=apply
+
+#1244
+p adverb | 
+m besides, in addition ; 0,1
+s Would you like anything else? ## Möchten=would like|Sie=you|außerdem=in addition|noch=still|etwas=something
+s The film was boring, and besides, the actors acted badly. ## Der=the|Film=film|war=was|langweilig=boring|und=and|außerdem=besides|haben=have|die=the|Schauspieler=actors|schlecht=badly|gespielt=acted
+
+#1245
+p conjunction | 
+m as if ; 0
+s He acts as if we had never talked about it. ## Er=he|tut=does|so=so|als=as|ob=if|wir=we|nie=never|darüber=about it|gesprochen=talked|hätten=had
+
+#1246
+p preposition | 
+m at the, on the, in the (an + dem) ; 0,1,2,3,4
+s In the beginning everything was very difficult. ## Am=in the|Anfang=beginning|war=was|alles=everything|sehr=very|schwierig=difficult
+s Then we'll see each other on Tuesday. ## Dann=then|sehen=see|wir=we|uns=each other|also=so|am=on|Dienstag=Tuesday
+s I'll wait for you at the station. ## Ich=I|warte=wait|am=at the|Bahnhof=station|auf=for|dich=you
+s It's best if you go to the information desk and ask there. ## Am=at the|besten=best|du=you|gehst=go|zur=to the|Information=information desk|und=and|fragst=ask|da=there
+s The light was on all night. ## Das=the|Licht=light|war=was|die=the|ganze=whole|Nacht=night|an=on

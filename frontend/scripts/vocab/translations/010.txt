@@ -1,0 +1,579 @@
+#834
+p noun | Kulturen
+m culture ; 0
+s I find foreign countries and cultures very interesting. ## Ich=I|finde=find|fremde=foreign|Länder=countries|und=and|Kulturen=cultures|sehr=very|interessant=interesting
+
+#835
+p noun | Künste
+m art ; 0
+s I don't understand anything about modern art. ## Ich=I|verstehe=understand|nichts=nothing|von=about|moderner=modern|Kunst=art
+
+#836
+p noun | Lampen
+m lamp ; 0
+s Please turn on the lamp. It's so dark. ## Mach=make|bitte=please|die=the|Lampe=lamp|an=on|Es=it|ist=is|so=so|dunkel=dark
+
+#837
+p noun | Landschaften
+m landscape, scenery ; 0
+s The landscape is very beautiful. ## Die=the|Landschaft=landscape|ist=is|sehr=very|schön=beautiful
+
+#838
+p noun | Laptops
+m laptop ; 0
+s I need a new laptop. ## Ich=I|brauche=need|einen=a|neuen=new|Laptop=laptop
+
+#839
+p noun | Links
+m link ; 0
+s I'll send you a link to German exercises. ## Ich=I|schicke=send|dir=you|einen=a|Link=link|zu=to|Deutschübungen=German exercises
+
+#840
+p noun | Löffel
+m spoon ; 0
+s Please bring me a spoon. ## Bitte=please|bringen=bring|Sie=you|mir=me|einen=a|Löffel=spoon
+
+#841
+p noun | Lügen
+m lie ; 0
+s That's not true! That's a lie! ## Das=that|stimmt=is true|nicht=not|ist=is|eine=a|Lüge=lie
+
+#842
+p noun | Lüste
+m desire, feeling like (doing something) ; 0,1
+s Shall we go to the cinema tonight? No, I don't feel like it. ## Gehen=go|wir=we|heute=today|Abend=evening|ins=to the|Kino=cinema|Nein=no|ich=I|habe=have|keine=no|Lust=desire
+s I feel like some chocolate. ## Ich=I|habe=have|Lust=desire|auf=for|Schokolade=chocolate
+
+#843
+p noun | Mägen
+m stomach ; 0
+s My stomach hurts. ## Mein=my|Magen=stomach|tut=does|weh=hurt
+
+#844
+p noun | Mailboxen
+m voicemail, mailbox ; 0
+s This is Susanne König's voicemail. ## Hier=here|ist=is|die=the|Mailbox=voicemail|von=of|Susanne=Susanne|König=König
+
+#845
+p noun | Male
+m time, occasion ; 0,1
+s The first time I was in England was five years ago. ## Das=the|erste=first|Mal=time|war=was|ich=I|vor=ago|fünf=five|Jahren=years|in=in|England=England
+s Bye, until next time! ## Tschüss=bye|bis=until|zum=to the|nächsten=next|Mal=time
+
+#846
+p noun | Mannschaften
+m team ; 0
+s My favorite team lost 1–0. ## Meine=my|Lieblingsmannschaft=favorite team|hat=has|verloren=lost
+
+#847
+p noun | Mäntel
+m coat ; 0
+s It's cold. Put your coat on! ## Es=it|ist=is|kalt=cold|Zieh=put|deinen=your|Mantel=coat|an=on
+
+#848
+p noun | Märkte
+m market ; 0,1
+s I'm going to the market today. ## Ich=I|gehe=go|heute=today|auf=to|den=the|Markt=market
+s There's a market here on Saturdays. ## Samstags=on Saturdays|ist=is|hier=here|Markt=market
+
+#849
+p noun | Medikamente
+m medication, medicine ; 0
+s Take this medication three times a day! ## Nehmen=take|Sie=you|dieses=this|Medikament=medication|dreimal=three times|pro=per|Tag=day
+
+#850
+p noun | Meinungen
+m opinion ; 0,1
+s My opinion on the subject is ... ## Meine=my|Meinung=opinion|zu=on|dem=the|Thema=subject|ist=is
+s What's your opinion on that? ## Was=what|ist=is|deine=your|Meinung=opinion|dazu=on that
+
+#851
+p noun | Mengen
+m amount, lot ; 0,1
+s We still have a lot of time. ## Wir=we|haben=have|noch=still|eine=a|Menge=lot|Zeit=time
+s I know a lot of people in this city. ## Ich=I|kenne=know|eine=a|Menge=lot|Leute=people|in=in|dieser=this|Stadt=city
+
+#852
+p noun | Messen
+m trade fair ; 0
+s Are you coming to the book fair in Frankfurt? ## Kommst=come|du=you|mit=along|zur=to the|Buchmesse=book fair|nach=to|Frankfurt=Frankfurt
+
+#853
+p noun | Messer
+m knife ; 0
+s The knife doesn't cut well. ## Das=the|Messer=knife|schneidet=cuts|nicht=not|gut=well
+
+#854
+p noun | 
+m mineral water ; 0
+s A glass of mineral water, please. ## Ein=a|Glas=glass|Mineralwasser=mineral water|bitte=please
+
+#855
+p noun | Mitarbeiter
+m employee, colleague ; 0
+s Our company has seven employees. ## Unsere=our|Firma=company|hat=has|sieben=seven|Mitarbeiter=employees
+
+#856
+p noun | 
+m lunch ; 0
+s Lunch is at twelve o'clock. ## Um=at|zwölf=twelve|Uhr=o'clock|gibt=gives|es=it|Mittagessen=lunch
+
+#857
+p noun | Mittel
+m remedy, means ; 0
+s Do you have a remedy for stomach aches? ## Haben=have|Sie=you|ein=a|Mittel=remedy|gegen=for|Magenschmerzen=stomach aches
+
+#858
+p noun | Mobiltelefone
+m mobile phone ; 0
+s How can I reach you? Do you have a mobile phone? ## Wie=how|kann=can|ich=I|Sie=you|erreichen=reach|Haben=have|ein=a|Mobiltelefon=mobile phone
+
+#859
+p noun | Moden
+m fashion ; 0
+s What do you think of the new fashion? ## Wie=how|findest=find|du=you|die=the|neue=new|Mode=fashion
+
+#860
+p noun | Motoren
+m engine, motor ; 0
+s The engine is broken. The car won't run anymore. ## Der=the|Motor=engine|ist=is|kaputt=broken|Das=the|Auto=car|fährt=runs|nicht=not|mehr=any more
+
+#861
+p noun | Motorroller
+m scooter, moped ; 0
+s Oskar rides his scooter to work. ## Oskar=Oskar|fährt=rides|mit=with|dem=the|Motorroller=scooter|zur=to|Arbeit=work
+
+#862
+p noun | 
+m garbage, trash ; 0
+s Could you take out the trash, please? ## Bringst=bring|du=you|bitte=please|den=the|Müll=trash|raus=out
+
+#863
+p noun | Museen
+m museum ; 0
+s There's a new exhibition at the art museum. ## Im=in the|Kunstmuseum=art museum|gibt=gives|es=it|eine=a|neue=new|Ausstellung=exhibition
+
+#864
+p noun | 
+m music ; 0
+s I like Spanish music. ## Spanische=Spanish|Musik=music|gefällt=pleases|mir=me|gut=well
+
+#865
+p noun | Mützen
+m cap, hat ; 0
+s Do you have red caps? ## Haben=have|Sie=you|rote=red|Mützen=caps
+
+#866
+p noun | Nachbarn
+m neighbor ; 0
+s My neighbor comes from Brazil and my (female) neighbor is Italian. ## Mein=my|Nachbar=neighbor|kommt=comes|aus=from|Brasilien=Brazil|und=and|meine=my|Nachbarin=female neighbor|ist=is|Italienerin=Italian woman
+
+#867
+p noun | Nachrichten
+m news ; 0
+m message ; 1
+s I always watch the news on TV in the evening. ## Ich=I|sehe=watch|abends=in the evening|immer=always|die=the|Nachrichten=news|im=on|Fernsehen=TV
+s I'll write you a message later. ## Ich=I|schreibe=write|dir=you|später=later|eine=a|Nachricht=message
+
+#868
+p noun | 
+m vicinity, proximity ; 0
+s The post office is near the station. ## Die=the|Post=post office|ist=is|in=in|der=the|Nähe=vicinity|vom=of the|Bahnhof=station
+
+#869
+p noun | 
+m nature ; 0
+s I like being outside in nature. ## Ich=I|bin=am|gern=gladly|draußen=outside|in=in|der=the|Natur=nature
+
+#870
+p noun | Noten
+m grade, mark ; 0
+s Eva always gets very good grades in German. ## Eva=Eva|hat=has|immer=always|sehr=very|gute=good|Noten=grades|in=in|Deutsch=German
+
+#871
+p noun | Notizen
+m note ; 0
+s Please write me a note. ## Schreib=write|mir=me|bitte=please|eine=a|Notiz=note
+
+#872
+p noun | Nudeln
+m noodle, pasta ; 0
+s Would you prefer rice or pasta? ## Möchten=would like|Sie=you|lieber=rather|Reis=rice|oder=or|Nudeln=pasta
+
+#873
+p noun | Ohren
+m ear ; 0
+s I have an earache. ## Ich=I|habe=have|Ohrenschmerzen=earache
+
+#874
+p noun | Öle
+m oil ; 0
+s Shall we make the salad with oil? ## Machen=make|wir=we|den=the|Salat=salad|mit=with|Öl=oil
+
+#875
+p noun | Orangen
+m orange ; 0
+s I like eating oranges. ## Ich=I|esse=eat|gern=gladly|Orangen=oranges
+
+#876
+p noun | Paare
+m couple, pair ; 0,1
+s Romeo and Juliet are a couple. ## Romeo=Romeo|und=and|Julia=Juliet|sind=are|ein=a|Paar=couple
+s I need a pair of shoes. ## Ich=I|brauche=need|ein=a|Paar=pair|Schuhe=shoes
+
+#877
+p noun | Pakete
+m parcel, package ; 0
+s Could you take the parcel to the post office? ## Bringst=bring|du=you|bitte=please|das=the|Paket=parcel|zur=to the|Post=post office
+
+#878
+p noun | Parfüms
+m perfume ; 0
+s I'm looking for a perfume as a gift for my wife. ## Ich=I|suche=look for|ein=a|Parfüm=perfume|als=as|Geschenk=gift|für=for|meine=my|Frau=wife
+
+#879
+p noun | Parks
+m park ; 0
+s I like walking in the park. ## Ich=I|gehe=go|gern=gladly|im=in the|Park=park|spazieren=for a walk
+
+#880
+p noun | Passwörter
+m password ; 0
+s Please write your password. ## Bitte=please|schreiben=write|Sie=you|Ihr=your|Passwort=password
+
+#881
+p noun | Personen
+m person ; 0
+s Admission per person: 5 euros. ## Eintritt=admission|pro=per|Person=person|Euro=euros
+
+#882
+p noun | Pferde
+m horse ; 0
+s Amira loves horses. ## Amira=Amira|liebt=loves|Pferde=horses
+
+#883
+p noun | Pflanzen
+m plant ; 0
+s Could you please take care of our plants? ## Können=can|Sie=you|sich=yourself|bitte=please|um=about|unsere=our|Pflanzen=plants|kümmern=take care
+
+#884
+p noun | Pizzen
+m pizza ; 0
+s My favorite food is pizza. ## Mein=my|Lieblingsessen=favorite food|ist=is|Pizza=pizza
+
+#885
+p noun | Plakate
+m poster ; 0
+s In class we're making a poster on the topic "Eating and Drinking". ## Wir=we|machen=make|im=in|Unterricht=class|ein=a|Plakat=poster|zum=on the|Thema=topic|Essen=eating|und=and|Trinken=drinking
+
+#886
+p noun | Portionen
+m portion, serving ; 0
+s I'll have a small portion of ice cream. ## Ich=I|nehme=take|eine=a|kleine=small|Portion=portion|Eis=ice cream
+
+#887
+p noun | Poster
+m poster (picture) ; 0
+s The poster hangs above the bed. ## Das=the|Poster=poster|hängt=hangs|über=above|dem=the|Bett=bed
+
+#888
+p noun | Postkarten
+m postcard ; 0
+s Will you write me a postcard from Canada? ## Schreibst=write|du=you|mir=me|eine=a|Postkarte=postcard|aus=from|Kanada=Canada
+
+#889
+p noun | Produkte
+m product ; 0
+s Our products are of very high quality. ## Unsere=our|Produkte=products|haben=have|eine=a|sehr=very|hohe=high|Qualität=quality
+
+#890
+p noun | Programme
+m program ; 0
+s I'm not interested in this radio program. ## Dieses=this|Programm=program|im=on the|Radio=radio|interessiert=interests|mich=me|nicht=not
+
+#891
+p noun | Projekte
+m project ; 0
+s We're doing a project about sights in our city. ## Wir=we|machen=do|ein=a|Projekt=project|über=about|Sehenswürdigkeiten=sights|in=in|unserer=our|Stadt=city
+
+#892
+p noun | Pullover
+m sweater, pullover ; 0
+s I need to buy a sweater. ## Ich=I|muss=must|mir=myself|einen=a|Pullover=sweater|kaufen=buy
+
+#893
+p noun | Qualitäten
+m quality ; 0
+s This TV is of good quality. ## Dieser=this|Fernseher=TV|hat=has|eine=a|gute=good|Qualität=quality
+
+#894
+p noun | Quiz
+m quiz ; 0
+s He likes watching quiz shows. ## Er=he|schaut=watches|gern=gladly|Quizsendungen=quiz shows|an=(part of anschauen)
+
+#895
+p noun | Radios
+m radio ; 0
+s I like listening to the radio in the car. ## Ich=I|höre=listen|im=in the|Auto=car|gern=gladly|Radio=radio
+
+#896
+p noun | Rathäuser
+m town hall ; 0
+s You can get the form at the town hall. ## Das=the|Formular=form|bekommen=get|Sie=you|im=at the|Rathaus=town hall
+
+#897
+p noun | Rätsel
+m puzzle, riddle ; 0
+s The puzzle is difficult! ## Das=the|Rätsel=puzzle|ist=is|schwierig=difficult
+
+#898
+p noun | Reifen
+m tire ; 0
+s I need new tires for my car. ## Ich=I|brauche=need|neue=new|Reifen=tires|für=for|mein=my|Auto=car
+
+#899
+p noun | Reihen
+m row ; 0
+m turn (an der Reihe sein) ; 1
+s We're sitting in the third row. ## Wir=we|sitzen=sit|in=in|der=the|dritten=third|Reihe=row
+s Whose turn is it now? ## Wer=who|ist=is|jetzt=now|an=at|der=the|Reihe=turn
+
+#900
+p noun | Reinigungen
+m dry cleaner's ; 0
+s Could you take the blouse to the dry cleaner's? ## Bringst=bring|du=you|bitte=please|die=the|Bluse=blouse|in=to|die=the|Reinigung=dry cleaner's
+
+#901
+p noun | Rentner
+m pensioner, retiree ; 0
+s My uncle doesn't work any more. He is retired. ## Mein=my|Onkel=uncle|arbeitet=works|nicht=not|mehr=any more|Er=he|ist=is|Rentner=retiree
+
+#902
+p noun | Reste
+m rest, remainder ; 0
+s Here are 50 euros. I'll give you the rest later. ## Hier=here|sind=are|Euro=euros|Den=the|Rest=rest|gebe=give|ich=I|dir=you|später=later
+
+#903
+p noun | Rezepte
+m recipe ; 0
+m prescription ; 1
+s Could you give me the recipe, please? ## Kannst=can|du=you|mir=me|bitte=please|das=the|Rezept=recipe|geben=give
+s This medication is only available on prescription. ## Dieses=this|Medikament=medication|gibt=gives|es=it|nur=only|auf=on|Rezept=prescription
+
+#904
+p noun | Rinder
+m cattle, beef ; 0
+s I only eat beef. ## Ich=I|esse=eat|nur=only|Fleisch=meat|vom=from the|Rind=cattle
+
+#905
+p noun | Ringe
+m ring ; 0
+s I lost my ring. ## Ich=I|habe=have|meinen=my|Ring=ring|verloren=lost
+
+#906
+p noun | Röcke
+m skirt ; 0
+s The skirt is too tight. ## Der=the|Rock=skirt|ist=is|zu=too|eng=tight
+
+#907
+p noun | Rosen
+m rose ; 0
+s He gives his girlfriend red roses for her birthday. ## Er=he|schenkt=gives|seiner=his|Freundin=girlfriend|rote=red|Rosen=roses|zum=for|Geburtstag=birthday
+
+#908
+p noun | Rücken
+m back (body) ; 0
+s My back hurts. ## Mein=my|Rücken=back|tut=does|mir=me|weh=hurt
+
+#909
+p noun | Rucksäcke
+m backpack ; 0
+s I'd rather take a backpack than a suitcase. ## Ich=I|nehme=take|lieber=rather|einen=a|Rucksack=backpack|als=than|einen=a|Koffer=suitcase|mit=along
+
+#910
+p noun | 
+m quiet, peace ; 0,1
+s Quiet, please! ## Ruhe=quiet|bitte=please
+s My grandmother is ill. She needs a lot of rest. ## Meine=my|Großmutter=grandmother|ist=is|krank=ill|Sie=she|braucht=needs|viel=much|Ruhe=rest
+
+#911
+p noun | Rundgänge
+m tour, walk around ; 0
+s The tour of the castle starts in a few minutes. ## Der=the|Rundgang=tour|durch=through|das=the|Schloss=castle|beginnt=begins|in=in|wenigen=few|Minuten=minutes
+
+#912
+p noun | Sachen
+m thing, belongings ; 0
+m matter, business ; 1
+s You can leave your things at the hotel. ## Ihr=you (pl.)|könnt=can|eure=your|Sachen=things|im=at the|Hotel=hotel|lassen=leave
+s That's my business. ## Das=that|ist=is|meine=my|Sache=business
+
+#913
+p noun | Scheren
+m scissors ; 0
+s The scissors don't cut well. ## Die=the|Schere=scissors|schneidet=cuts|nicht=not|gut=well
+
+#914
+p noun | Schiffe
+m ship, boat ; 0
+s We're traveling by ship from Basel to Cologne. ## Wir=we|fahren=travel|mit=with|dem=the|Schiff=ship|von=from|Basel=Basel|nach=to|Köln=Cologne
+
+#915
+p noun | Schirme
+m umbrella ; 0
+s Take the umbrella with you, it's raining. ## Nimm=take|den=the|Schirm=umbrella|mit=along|es=it|regnet=rains
+
+#916
+p noun | Schlafzimmer
+m bedroom ; 0
+s Here is the bedroom. ## Hier=here|ist=is|das=the|Schlafzimmer=bedroom
+
+#917
+p noun | Schlösser
+m castle, palace ; 0
+m lock ; 1
+s At the weekend we're visiting Neuschwanstein Castle. ## Am=at the|Wochenende=weekend|besichtigen=visit|wir=we|Schloss=castle|Neuschwanstein=Neuschwanstein
+s The lock on our door is broken. ## An=on|unserer=our|Tür=door|ist=is|das=the|Schloss=lock|kaputt=broken
+
+#918
+p noun | Schmerzen
+m pain ; 0
+s Are you in pain? I have a stomach ache. ## Haben=have|Sie=you|Schmerzen=pain|Ich=I|habe=have|Bauchschmerzen=stomach ache
+
+#919
+p noun | 
+m snow ; 0
+s There's a lot of snow in the mountains. ## In=in|den=the|Bergen=mountains|liegt=lies|viel=much|Schnee=snow
+
+#920
+p noun | Schokoladen
+m chocolate ; 0
+s Julia loves chocolate. ## Julia=Julia|liebt=loves|Schokolade=chocolate
+
+#921
+p noun | Schweine
+m pig ; 0
+s I don't eat pork. ## Ich=I|esse=eat|kein=no|Schweinefleisch=pork
+
+#922
+p noun | 
+m sea ; 0
+s The sea is calm today. We're vacationing at the North Sea. ## Die=the|See=sea|ist=is|heute=today|ruhig=calm|Wir=we|machen=make|Urlaub=vacation|an=at|der=the|Nordsee=North Sea
+
+#923
+p noun | Seifen
+m soap ; 0
+s There's no soap here. ## Hier=here|gibt=gives|es=it|keine=no|Seife=soap
+
+#924
+p noun | Sendungen
+m (TV/radio) show, broadcast ; 0
+s Which shows do you like watching? ## Welche=which|Sendungen=shows|schaust=watch|du=you|gern=gladly|an=(part of anschauen)
+
+#925
+p noun | 
+m service ;
+x Der Service im Restaurant ist sehr gut. ## The service in the restaurant is very good. ## Der=the|Service=service|im=in the|Restaurant=restaurant|ist=is|sehr=very|gut=good
+
+#926
+p verb | 
+m to change, to alter ; 0,1
+s The weather has changed. ## Das=the|Wetter=weather|hat=has|sich=itself|geändert=changed
+s How can I change my password? ## Wie=how|kann=can|ich=I|mein=my|Passwort=password|ändern=change
+
+#927
+p verb | 
+m to lock ; 0
+m to complete, to finish ; 1
+s Did you lock the door? ## Hast=have|du=you|die=the|Tür=door|abgeschlossen=locked
+s I'm finishing my studies / training this year. ## Ich=I|schließe=close|dieses=this|Jahr=year|mein=my|Studium=studies|meine=my|Ausbildung=training|ab=(part of abschließen)
+
+#928
+p verb | 
+m to look at ; 0
+m to watch ; 1
+s May I look at your vacation photos? ## Darf=may|ich=I|eure=your (pl.)|Urlaubsfotos=vacation photos|ansehen=look at
+s I watch this show every day. ## Ich=I|sehe=watch|mir=myself|diese=this|Sendung=show|jeden=every|Tag=day|an=(part of ansehen)
+
+#929
+p verb | 
+m to be annoyed, to get annoyed ; 0
+s Why are you annoyed? – I'm annoyed because the weather is bad. ## Warum=why|ärgerst=annoy|du=you|dich=yourself|Ich=I|ärgere=annoy|mich=myself|weil=because|das=the|Wetter=weather|schlecht=bad|ist=is
+
+#930
+p verb | 
+m to open ; 0
+s Could you please open the door? ## Kannst=can|du=you|bitte=please|die=the|Tür=door|aufmachen=open
+
+#931
+p verb | 
+m to pay attention, watch out ; 0,2
+m to look after ; 1
+s Watch out, the plate is about to fall on the floor! ## Pass=watch|auf=out|der=the|Teller=plate|fällt=falls|gleich=soon|auf=onto|den=the|Boden=floor
+s The babysitter is looking after the children tonight. ## Der=the|Babysitter=babysitter|passt=looks|heute=today|Abend=evening|auf=after|die=the|Kinder=children|auf=(part of aufpassen)
+s He doesn't pay attention in class. ## Er=he|passt=pays|im=in|Unterricht=class|nicht=not|auf=attention
+
+#932
+p verb | 
+m to tidy up ; 0
+s The children have to tidy up their room. ## Die=the|Kinder=children|müssen=must|ihr=their|Zimmer=room|aufräumen=tidy up
+
+#933
+p verb | 
+m to spend (money) ; 0,1
+s Agata spends a lot of money on books. ## Agata=Agata|gibt=spends|viel=much|Geld=money|für=on|Bücher=books|aus=(part of ausgeben)
+s I don't want to spend so much money. ## Ich=I|möchte=would like|nicht=not|so=so|viel=much|Geld=money|ausgeben=spend
+
+#934
+p verb | 
+m to go out ; 0
+m to go out (light) ; 1
+s Shall we go out together on Friday? ## Gehen=go|wir=we|am=on|Freitag=Friday|zusammen=together|aus=out
+s Suddenly the light went out. ## Plötzlich=suddenly|ist=is|das=the|Licht=light|ausgegangen=gone out
+
+#935
+p verb | 
+m to unpack ; 0
+s Could you unpack the suitcase? ## Packst=pack|du=you|bitte=please|den=the|Koffer=suitcase|aus=out
+
+#936
+p verb | 
+m to rest, to relax ; 0,1
+s Rest first! You must be tired. ## Ruh=rest|dich=yourself|erst=first|mal=once|aus=(part of ausruhen)|Du=you|bist=are|sicher=surely|müde=tired
+s He always rests after work. ## Er=he|ruht=rests|sich=himself|nach=after|der=the|Arbeit=work|immer=always|aus=(part of ausruhen)
+
+#937
+p verb | 
+m to pronounce ; 0
+s How do you pronounce the word? ## Wie=how|spricht=pronounces|man=one|das=the|Wort=word|aus=(part of aussprechen)
+
+#938
+p verb | 
+m to deliver (newspapers) ; 0
+s He delivers the newspaper every morning. ## Er=he|trägt=carries|jeden=every|Morgen=morning|die=the|Zeitung=newspaper|aus=(part of austragen)
+
+#939
+p verb | 
+m to bake ; 0
+s When you come, I'll bake a cake. ## Wenn=when|du=you|kommst=come|backe=bake|ich=I|einen=a|Kuchen=cake
+
+#940
+p verb | 
+m to do crafts, to make things by hand ; 0
+s The children made something (crafts). ## Die=the|Kinder=children|haben=have|etwas=something|gebastelt=made by hand
+
+#941
+p verb | 
+m to build ; 0
+s Our neighbors are building a new house. ## Unsere=our|Nachbarn=neighbors|bauen=build|ein=a|neues=new|Haus=house
+
+#942
+p verb | 
+m to answer ; 0,1
+s Could you please answer my question? ## Können=can|Sie=you|meine=my|Frage=question|bitte=please|beantworten=answer
+s Have you already answered the email? ## Hast=have|du=you|die=the|Mail=email|schon=already|beantwortet=answered
+
+#943
+p verb | 
+m to thank, to say thanks ; 0
+s I would like to thank you once again very much for your help. ## Ich=I|möchte=would like|mich=myself|noch=still|einmal=once|sehr=very|herzlich=warmly|für=for|Ihre=your|Hilfe=help|bedanken=thank

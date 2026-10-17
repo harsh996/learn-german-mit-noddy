@@ -2,6 +2,7 @@
 
 import { FormEvent, useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
+import { AppHeader } from "@/components/AppHeader";
 import styles from "./profiles.module.css";
 
 type Memory = {
@@ -62,11 +63,6 @@ export default function ProfilesPage() {
     load();
   }, [load]);
 
-  async function logout() {
-    await fetch("/api/auth/logout", { method: "POST" });
-    router.push("/login");
-  }
-
   async function createProfile(e: FormEvent) {
     e.preventDefault();
     setSaving(true);
@@ -106,14 +102,11 @@ export default function ProfilesPage() {
 
   return (
     <div className="app-shell">
-      <header className="topbar">
-        <div className="brand">
-          Sprach<span>Raum</span>
-        </div>
-        <button className="btn btn-ghost" onClick={logout} type="button">
-          Log out
+      <AppHeader>
+        <button className="btn btn-ghost" onClick={() => router.push("/vocab")} type="button">
+          Vocabulary
         </button>
-      </header>
+      </AppHeader>
 
       <main className={styles.main}>
         <div className={`${styles.header} animate-rise`}>

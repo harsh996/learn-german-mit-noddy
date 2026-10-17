@@ -1,0 +1,380 @@
+#944
+p verb | 
+m to hurry ; 0
+s Could you please hurry? The bus leaves soon! ## Kannst=can|du=you|dich=yourself|bitte=please|beeilen=hurry|Der=the|Bus=bus|fährt=leaves|gleich=soon|ab=(part of abfahren)
+
+#945
+p verb | 
+m to finish, to end ; 0
+s You must definitely finish your training. ## Du=you|musst=must|deine=your|Ausbildung=training|auf=in|jeden=every|Fall=case|beenden=finish
+
+#946
+p verb | 
+m to justify, to give reasons for ; 0
+s Please give reasons for your opinion. ## Bitte=please|begründen=justify|Sie=you|Ihre=your|Meinung=opinion
+
+#947
+p verb | 
+m to advise ; 0
+s Our secretary will be happy to advise you if you have questions. ## Unsere=our|Sekretärin=secretary|berät=advises|Sie=you|gern=gladly|wenn=if|Fragen=questions|haben=have
+
+#948
+p verb | 
+m to report ; 0
+s All newspapers report on the accident. ## Alle=all|Zeitungen=newspapers|berichten=report|von=on|dem=the|Unfall=accident
+
+#949
+p verb | 
+m to describe ; 0
+s Can you describe the way to the station for me? ## Kannst=can|du=you|mir=me|den=the|Weg=way|zum=to the|Bahnhof=station|beschreiben=describe
+
+#950
+p verb | 
+m to complain ; 0,1
+s It's too loud here. Where can we complain? ## Hier=here|ist=is|es=it|zu=too|laut=loud|Wo=where|können=can|wir=we|uns=ourselves|beschweren=complain
+s My neighbor is always complaining about our children. ## Mein=my|Nachbar=neighbor|beschwert=complains|sich=himself|immer=always|über=about|unsere=our|Kinder=children
+
+#951
+p verb | 
+m to confirm ; 0
+s I can confirm that he was here. ## Ich=I|kann=can|bestätigen=confirm|dass=that|er=he|hier=here|war=was
+
+#952
+p verb | 
+m to pass (an exam) ; 0
+m to consist (of) ; 1
+s I passed the exam! ## Ich=I|habe=have|die=the|Prüfung=exam|bestanden=passed
+s The exam consists of four parts: listening, reading, writing and speaking. ## Die=the|Prüfung=exam|besteht=consists|aus=of|vier=four|Teilen=parts|Hören=listening|Lesen=reading|Schreiben=writing|und=and|Sprechen=speaking
+
+#953
+p verb | 
+m to apply (for a job) ; 0
+s I would like to apply for this position. ## Ich=I|möchte=would like|mich=myself|um=for|diese=this|Stelle=position|bewerben=apply
+
+#954
+p verb | 
+m to fry, to roast ; 0,1
+s Fry the meat in a little oil! ## Braten=fry|Sie=you|das=the|Fleisch=meat|in=in|etwas=some|Öl=oil
+s The fish is frying in the pan. ## Der=the|Fisch=fish|brät=fries|in=in|der=the|Pfanne=pan
+
+#955
+p verb | 
+m to need ; 0,1,2
+s I need a new car. ## Ich=I|brauche=need|ein=a|neues=new|Auto=car
+s Do you still need the newspaper? ## Brauchst=need|du=you|die=the|Zeitung=newspaper|noch=still
+s My grandmother needs a lot of rest. ## Meine=my|Großmutter=grandmother|braucht=needs|viel=much|Ruhe=rest
+
+#956
+p verb | 
+m to book, to reserve ; 0
+s Tomorrow I'll book our vacation trip. ## Morgen=tomorrow|buche=book|ich=I|unsere=our|Urlaubsreise=vacation trip
+
+#957
+p verb | 
+m to chat (online) ; 0
+s Luis likes chatting with his friends on the internet. ## Luis=Luis|chattet=chats|gern=gladly|mit=with|seinen=his|Freunden=friends|im=on the|Internet=internet
+
+#958
+p verb | 
+m to think ; 0,1,2
+s I think you're right. ## Ich=I|denke=think|du=you|hast=have|recht=right
+s I often think of my girlfriend. ## Ich=I|denke=think|oft=often|an=of|meine=my|Freundin=girlfriend
+s What do you think? Shall we go to the cinema tonight? ## Was=what|denkst=think|du=you|Sollen=shall|wir=we|heute=today|Abend=evening|ins=to the|Kino=cinema|gehen=go
+
+#959
+p verb | 
+m to discuss ; 0
+s I would like to discuss this with my colleagues. ## Ich=I|möchte=would like|das=that|mit=with|meinen=my|Kollegen=colleagues|diskutieren=discuss
+
+#960
+p verb | 
+m to pack (up), to wrap ; 0,1
+s Please pack the towels! ## Pack=pack|bitte=please|die=the|Handtücher=towels|ein=(part of einpacken)
+s Shall I wrap that as a gift for you? ## Soll=shall|ich=I|Ihnen=you|das=that|als=as|Geschenk=gift|einpacken=wrap
+
+#961
+p verb | 
+m to register, to sign in ; 0
+m to enter, to write in ; 1
+s Please sign your name on this list! ## Tragen=enter|Sie=you|sich=yourself|bitte=please|in=in|diese=this|Liste=list|ein=(part of eintragen)
+s You have to enter your name and address. ## Sie=you|müssen=must|Ihren=your|Namen=name|und=and|Ihre=your|Adresse=address|eintragen=enter
+
+#962
+p verb | 
+m to move in ; 0,1
+s Our new neighbors are moving in in June. ## Im=in|Juni=June|ziehen=move|unsere=our|neuen=new|Nachbarn=neighbors|ein=in
+s When can we move into the apartment? ## Wann=when|können=can|wir=we|in=into|die=the|Wohnung=apartment|einziehen=move in
+
+#963
+p verb | 
+m to remember ; 0
+m to remind ; 1
+s Do you remember José? No, I don't remember him. ## Erinnerst=remember|du=you|dich=yourself|an=of|José=José|Nein=no|ich=I|erinnere=remember|mich=myself|nicht=not|ihn=him
+s Can you remind me of my doctor's appointment tomorrow? ## Kannst=can|du=you|mich=me|morgen=tomorrow|bitte=please|an=of|meinen=my|Arzttermin=doctor's appointment|erinnern=remind
+
+#964
+p verb | 
+m to reach, to catch ; 0
+m to reach (by contact) ; 1
+s If we hurry, we'll still catch the eight o'clock train. ## Wenn=if|wir=we|uns=ourselves|beeilen=hurry|erreichen=reach|noch=still|den=the|Zug=train|um=at|acht=eight|Uhr=o'clock
+s You can reach me at the office until 6 p.m. ## Bis=until|Uhr=o'clock|können=can|Sie=you|mich=me|im=in the|Büro=office|erreichen=reach
+
+#965
+p verb | 
+m to fall ; 0
+s Watch out, the glass is about to fall off the table. ## Pass=watch|auf=out|das=the|Glas=glass|fällt=falls|gleich=soon|vom=from the|Tisch=table
+
+#966
+p verb | 
+m to photograph, to take pictures ; 0
+s I like taking photographs. ## Ich=I|fotografiere=photograph|gern=gladly
+
+#967
+p verb | 
+m to be happy, to be glad ; 0,2
+m to look forward to ; 1
+s I'm very happy about the present. ## Ich=I|freue=am happy|mich=myself|sehr=very|über=about|das=the|Geschenk=present
+s The children are already looking forward to the holidays. ## Die=the|Kinder=children|freuen=look forward|sich=themselves|schon=already|auf=to|die=the|Ferien=holidays
+s Nice to meet you! (lit. It pleases me) ## Es=it|Das=that|freut=pleases|mich=me
+
+#968
+p verb | 
+m to feel ; 0
+s How do you feel? – I don't feel well today. ## Wie=how|fühlen=feel|Sie=you|sich=yourself|Ich=I|fühle=feel|mich=myself|heute=today|nicht=not|gut=well
+
+#969
+p verb | 
+m to hang (be hanging) ; 0
+m to hang (something) up ; 1
+s Modern paintings hang in the museum. ## Im=in the|Museum=museum|hängen=hang|moderne=modern|Bilder=paintings
+s Why haven't you hung the picture on the wall yet? ## Warum=why|hast=have|du=you|das=the|Bild=picture|noch=yet|nicht=not|an=on|die=the|Wand=wall|gehängt=hung
+
+#970
+p verb | 
+m to produce, to manufacture ; 0
+s Our company manufactures furniture. ## In=in|unserer=our|Firma=company|stellen=produce|wir=we|Möbel=furniture|her=(part of herstellen)
+
+#971
+p verb | 
+m to download ; 0
+s He downloads the music from the internet. ## Er=he|lädt=loads|die=the|Musik=music|aus=from|dem=the|Internet=internet|herunter=down
+
+#972
+p verb | 
+m to hope ; 0
+s I hope you're doing well. ## Ich=I|hoffe=hope|dass=that|es=it|dir=you|gut=well|geht=goes
+
+#973
+p verb | 
+m to cough ; 0
+s She has been coughing for two days. She's sick. ## Sie=she|hustet=coughs|seit=for|zwei=two|Tagen=days|ist=is|krank=sick
+
+#974
+p verb | 
+m to inform (oneself), to find out ; 0,1
+s I want to find out about the country before the trip. ## Ich=I|möchte=would like|mich=myself|vor=before|der=the|Reise=trip|über=about|das=the|Land=country|informieren=inform
+s Have you found out about the exam? ## Hast=have|du=you|dich=yourself|über=about|die=the|Prüfung=exam|informiert=informed
+
+#975
+p verb | 
+m to be interested ; 0
+s I'm interested in soccer. ## Ich=I|interessiere=interest|mich=myself|für=in|Fußball=soccer
+
+#976
+p verb | 
+m to jog ; 0
+s I like jogging in the park. ## Ich=I|jogge=jog|gern=gladly|im=in the|Park=park
+
+#977
+p verb | 
+m to work out, to succeed ; 0,1
+s Can we meet at noon today? – Yes, that works. ## Können=can|wir=we|uns=each other|heute=today|Mittag=noon|treffen=meet|Ja=yes|das=that|klappt=works
+s How was the trip? Good, everything worked out great. ## Wie=how|war=was|die=the|Reise=trip|Gut=good|es=it|hat=has|alles=everything|super=great|geklappt=worked out
+
+#978
+p verb | 
+m to check, to inspect ; 0,1
+s Could you please check the oil in my car? ## Können=can|Sie=you|bei=at|meinem=my|Auto=car|bitte=please|das=the|Öl=oil|kontrollieren=check
+s Please open your suitcase, we have to check your luggage. ## Bitte=please|öffnen=open|Sie=you|Ihren=your|Koffer=suitcase|wir=we|müssen=must|Ihr=your|Gepäck=luggage|kontrollieren=check
+
+#979
+p verb | 
+m to quit, to give notice ; 0
+s I don't like my job any more. I handed in my notice today. ## Meine=my|Arbeit=work|gefällt=pleases|mir=me|nicht=not|mehr=any more|Ich=I|habe=have|heute=today|gekündigt=given notice
+
+#980
+p verb | 
+m to let, to leave ; 0,1
+s Leave me alone! ## Lass=let|mich=me|in=in|Ruhe=peace
+s Can I leave my car here? ## Kann=can|ich=I|mein=my|Auto=car|hier=here|stehen=standing|lassen=leave
+
+#981
+p verb | 
+m to be sorry ; 0
+s I'm sorry that I can't come. ## Es=it|tut=does|mir=me|leid=sorry|dass=that|ich=I|nicht=not|kommen=come|kann=can
+
+#982
+p verb | 
+m to lend, to borrow ; 0
+s Can you lend me five euros? ## Kannst=can|du=you|mir=me|fünf=five|Euro=euros|leihen=lend
+
+#983
+p verb | 
+m to deliver ; 0
+s We'll deliver the cupboard to your home. ## Wir=we|liefern=deliver|Ihnen=you|den=the|Schrank=cupboard|nach=to|Hause=home
+
+#984
+p verb | 
+m to lie, to tell a lie ; 0
+s You shouldn't lie. Don't believe him, he's lying. ## Du=you|sollst=should|nicht=not|lügen=lie|Glaub=believe|ihm=him|er=he|lügt=lies
+
+#985
+p verb | 
+m to paint, to draw ; 0
+s My son is good at painting. ## Mein=my|Sohn=son|kann=can|gut=well|malen=paint
+
+#986
+p verb | 
+m to mean ; 0
+m to think, to be of the opinion ; 1
+s What do you mean? Please explain it to me more precisely! ## Wie=how|meinst=mean|du=you|das=that|Erklär=explain|mir=me|bitte=please|genauer=more precisely
+s The film is good. What do you think? ## Der=the|Film=film|ist=is|gut=good|Was=what|meinst=think|du=you
+
+#987
+p verb | 
+m to remember, to memorize ; 0
+m to notice ; 1
+s I can't remember numbers. ## Ich=I|kann=can|mir=myself|keine=no|Zahlen=numbers|merken=remember
+s Do you notice that it's getting warmer? ## Merkst=notice|du=you|dass=that|es=it|wärmer=warmer|wird=becomes
+
+#988
+p verb | 
+m to join in, to play along ; 0
+s Why aren't you joining in? ## Warum=why|spielt=plays|ihr=you (pl.)|nicht=not|mit=along
+
+#989
+p verb | 
+m to call, to name ; 0
+s My friend is called Alexander, but everyone calls him Alex. ## Mein=my|Freund=friend|heißt=is called|Alexander=Alexander|aber=but|alle=everyone|nennen=call|ihn=him|Alex=Alex
+
+#990
+p verb | 
+m to note down ; 0
+s Please note down all the important information. ## Notieren=note down|Sie=you|bitte=please|alle=all|wichtigen=important|Informationen=information
+
+#991
+p verb | 
+m to organize ; 0
+s Ms. Gomez is organizing our outing. ## Frau=Ms.|Gomez=Gomez|organisiert=organizes|unseren=our|Ausflug=outing
+
+#992
+p verb | 
+m to pack ; 0
+s I still have to pack my suitcase. ## Ich=I|muss=must|noch=still|meinen=my|Koffer=suitcase|packen=pack
+
+#993
+p verb | 
+m to park ; 0
+s May I park here? ## Darf=may|ich=I|hier=here|parken=park
+
+#994
+p verb | 
+m to fit, to suit ; 0,1
+s The blouse doesn't fit me. ## Die=the|Bluse=blouse|passt=fits|mir=me|nicht=not
+s Which word fits? Choose. ## Welches=which|Wort=word|passt=fits|Wählen=choose|Sie=you
+
+#995
+p verb | 
+m to happen ; 0
+s How did the accident happen? What happened? ## Wie=how|ist=is|der=the|Unfall=accident|passiert=happened|Was=what
+
+#996
+p verb | 
+m to plan ; 0
+s We're supposed to plan a class party together. ## Wir=we|sollen=should|zusammen=together|eine=a|Klassenparty=class party|planen=plan
+
+#997
+p verb | 
+m to try, to taste ; 0,1
+s Would you like to try the cheese? ## Möchten=would like|Sie=you|den=the|Käse=cheese|probieren=try
+s The door opens with difficulty. Try it! ## Die=the|Tür=door|geht=goes|schwer=hard|auf=open|Probier=try|mal=just
+
+#998
+p verb | 
+m to check, to examine ; 0
+s Please check the bill immediately. ## Bitte=please|prüfen=check|Sie=you|die=the|Rechnung=bill|sofort=immediately
+
+#999
+p verb | 
+m to clean ; 0
+s I still have to clean the bathroom today. ## Ich=I|muss=must|heute=today|noch=still|das=the|Bad=bathroom|putzen=clean
+
+#1000
+p verb | 
+m to advise ; 0
+m to guess ; 1
+s What do you advise me to do? ## Was=what|raten=advise|Sie=you|mir=me
+s Guess who I saw today! ## Rate=guess|mal=just|wen=whom|ich=I|heute=today|gesehen=seen|habe=have
+
+#1001
+p verb | 
+m to calculate, to do math ; 0
+s Sarah is good at math. ## Sarah=Sarah|kann=can|gut=well|rechnen=do math
+
+#1002
+p verb | 
+m to talk ; 0
+s I can talk to my girlfriend about anything. ## Mit=with|meiner=my|Freundin=girlfriend|kann=can|ich=I|über=about|alles=everything|reden=talk
+
+#1003
+p verb | 
+m to ride (a horse) ; 0
+s Would you like to learn to ride? ## Möchtest=would like|du=you|reiten=ride|lernen=learn
+
+#1004
+p verb | 
+m to renovate ; 0
+s We're renovating the whole house. ## Wir=we|renovieren=renovate|das=the|ganze=whole|Haus=house
+
+#1005
+p verb | 
+m to reserve ; 0
+s Please reserve a double room. ## Reservieren=reserve|Sie=you|bitte=please|ein=a|Doppelzimmer=double room
+
+#1006
+p verb | 
+m to call, to shout ; 0,1
+s Could you call the children? ## Rufst=call|du=you|bitte=please|die=the|Kinder=children
+s We have to call a doctor. ## Wir=we|müssen=must|einen=a|Arzt=doctor|rufen=call
+
+#1007
+p verb | 
+m to collect ; 0
+s Peter collects stamps. ## Peter=Peter|sammelt=collects|Briefmarken=stamps
+
+#1008
+p verb | 
+m to manage, to cope ; 0,1
+s I can't manage that on my own. ## Ich=I|schaffe=manage|das=that|nicht=not|alleine=alone
+s Done! The project is finally finished. ## Geschafft=done|Das=the|Projekt=project|ist=is|endlich=finally|fertig=finished
+
+#1009
+p verb | 
+m to give (as a gift) ; 0
+s What shall we give Michael for his birthday? ## Was=what|schenken=give|wir=we|Michael=Michael|zum=for|Geburtstag=birthday
+
+#1010
+p verb | 
+m to scold, to grumble ; 0
+s Why are you scolding so loudly? ## Warum=why|schimpfst=scold|du=you|denn=then|so=so|laut=loudly
+
+#1011
+p verb | 
+m to cut ; 0,1
+s The knife doesn't cut well. ## Das=the|Messer=knife|schneidet=cuts|nicht=not|gut=well
+s Ouch! I cut myself! ## Aua=ouch|Ich=I|habe=have|mich=myself|geschnitten=cut
+
+#1012
+p verb | 
+m to snow ; 0
+s It's going to snow tomorrow. ## Morgen=tomorrow|schneit=snows|es=it
