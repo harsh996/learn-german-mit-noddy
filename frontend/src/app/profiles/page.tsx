@@ -103,6 +103,9 @@ export default function ProfilesPage() {
   return (
     <div className="app-shell">
       <AppHeader>
+        <button className="btn btn-ghost" onClick={() => router.push("/reading")} type="button">
+          Reading
+        </button>
         <button className="btn btn-ghost" onClick={() => router.push("/vocab")} type="button">
           Vocabulary
         </button>

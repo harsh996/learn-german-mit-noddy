@@ -14,6 +14,13 @@ export function AppHeader({ children }: { children?: React.ReactNode }) {
     void refresh();
   }, [refresh]);
 
+  // Lets any page open the saved-words drawer (e.g. "View saved words" in the reader).
+  useEffect(() => {
+    const onOpen = () => setOpen(true);
+    window.addEventListener("open-saved-words", onOpen);
+    return () => window.removeEventListener("open-saved-words", onOpen);
+  }, []);
+
   useEffect(() => {
     if (!open) return;
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
@@ -68,7 +75,7 @@ export function AppHeader({ children }: { children?: React.ReactNode }) {
             </div>
             {words.length === 0 ? (
               <p className={styles.empty}>
-                No saved words yet. Hover a word in any example sentence, or use the bookmark in the vocab list.
+                No saved words yet. Tap a word in a story or hover one in the vocab examples to save it.
               </p>
             ) : (
               <ul className={styles.list}>

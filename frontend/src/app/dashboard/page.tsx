@@ -37,9 +37,9 @@ function DashboardInner() {
             <strong>Live Conversation</strong>
             <span>Video chat with your AI tutor</span>
           </button>
-          <button type="button" className={styles.option} disabled>
+          <button type="button" className={styles.option} onClick={() => router.push("/reading")}>
             <strong>Reading</strong>
-            <span>Coming soon</span>
+            <span>Short German stories by level</span>
           </button>
         </div>
         <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
