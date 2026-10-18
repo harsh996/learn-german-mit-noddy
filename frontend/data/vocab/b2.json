@@ -2,7 +2,7 @@
  {
   "word": "angesichts",
   "pos": "preposition",
-  "frequency": 1286,
+  "frequency": 1311,
   "meanings": [
    {
     "english": "in view of, considering",
@@ -40,7 +40,7 @@
  {
   "word": "anhand",
   "pos": "preposition",
-  "frequency": 1287,
+  "frequency": 1312,
   "meanings": [
    {
     "english": "on the basis of, with the aid of",
@@ -78,7 +78,7 @@
  {
   "word": "anstelle",
   "pos": "preposition",
-  "frequency": 1288,
+  "frequency": 1313,
   "meanings": [
    {
     "english": "instead of, in place of",
@@ -115,7 +115,7 @@
  {
   "word": "aufgrund",
   "pos": "preposition",
-  "frequency": 1289,
+  "frequency": 1314,
   "meanings": [
    {
     "english": "because of, on the basis of",
@@ -152,9 +152,50 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "beziehungsweise",
+  "pos": "conjunction",
+  "frequency": 1315,
+  "meanings": [
+   {
+    "english": "or rather, and … respectively",
+    "examples": [
+     {
+      "de": "Ich wohne in Berlin beziehungsweise in der Nähe von Berlin.",
+      "en": "I live in Berlin, or rather near Berlin.",
+      "glosses": {
+       "Ich": "I",
+       "wohne": "live",
+       "in": "in",
+       "Berlin": "Berlin",
+       "beziehungsweise": "or rather",
+       "der": "the",
+       "Nähe": "vicinity",
+       "von": "of"
+      }
+     },
+     {
+      "de": "Die Kinder sind sechs beziehungsweise acht Jahre alt.",
+      "en": "The children are six and eight years old respectively.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "sind": "are",
+       "sechs": "six",
+       "beziehungsweise": "respectively",
+       "acht": "eight",
+       "Jahre": "years",
+       "alt": "old"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "often abbreviated \"bzw.\""
+ },
+ {
   "word": "bezüglich",
   "pos": "preposition",
-  "frequency": 1290,
+  "frequency": 1316,
   "meanings": [
    {
     "english": "regarding, concerning, referring to",
@@ -193,7 +234,7 @@
  {
   "word": "dank",
   "pos": "preposition",
-  "frequency": 1291,
+  "frequency": 1317,
   "meanings": [
    {
     "english": "thanks to",
@@ -231,9 +272,85 @@
   "notes": "+ Genitiv or Dativ"
  },
  {
+  "word": "desto",
+  "pos": "conjunction",
+  "frequency": 1318,
+  "meanings": [
+   {
+    "english": "the more",
+    "examples": [
+     {
+      "de": "Je länger ich warte, desto nervöser werde ich.",
+      "en": "The longer I wait, the more nervous I get.",
+      "glosses": {
+       "Je": "the",
+       "länger": "longer",
+       "ich": "I",
+       "warte": "wait",
+       "desto": "the",
+       "nervöser": "more nervous",
+       "werde": "become"
+      }
+     },
+     {
+      "de": "Je mehr du übst, desto leichter wird es.",
+      "en": "The more you practise, the easier it gets.",
+      "glosses": {
+       "Je": "the",
+       "mehr": "more",
+       "du": "you",
+       "übst": "practise",
+       "desto": "the",
+       "leichter": "easier",
+       "wird": "becomes",
+       "es": "it"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "desto + comparative, after \"je\""
+ },
+ {
+  "word": "ehe",
+  "pos": "conjunction",
+  "frequency": 1319,
+  "meanings": [
+   {
+    "english": "before",
+    "examples": [
+     {
+      "de": "Ehe du gehst, iss etwas.",
+      "en": "Before you go, eat something.",
+      "glosses": {
+       "Ehe": "before",
+       "du": "you",
+       "gehst": "go",
+       "iss": "eat",
+       "etwas": "something"
+      }
+     },
+     {
+      "de": "Es dauerte lange, ehe er antwortete.",
+      "en": "It was a long time before he answered.",
+      "glosses": {
+       "Es": "it",
+       "dauerte": "lasted",
+       "lange": "long",
+       "ehe": "before",
+       "er": "he",
+       "antwortete": "answered"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "subordinating: verb at the end; literary"
+ },
+ {
   "word": "entsprechend",
   "pos": "preposition",
-  "frequency": 1292,
+  "frequency": 1320,
   "meanings": [
    {
     "english": "in accordance with, according to, corresponding to",
@@ -273,7 +390,7 @@
  {
   "word": "gemäß",
   "pos": "preposition",
-  "frequency": 1293,
+  "frequency": 1321,
   "meanings": [
    {
     "english": "in accordance with, according to",
@@ -309,7 +426,7 @@
  {
   "word": "hinsichtlich",
   "pos": "preposition",
-  "frequency": 1294,
+  "frequency": 1322,
   "meanings": [
    {
     "english": "with regard to, regarding",
@@ -348,7 +465,7 @@
  {
   "word": "infolge",
   "pos": "preposition",
-  "frequency": 1295,
+  "frequency": 1323,
   "meanings": [
    {
     "english": "as a result of",
@@ -387,7 +504,7 @@
  {
   "word": "jenseits",
   "pos": "preposition",
-  "frequency": 1296,
+  "frequency": 1324,
   "meanings": [
    {
     "english": "beyond, on the other side of",
@@ -423,7 +540,7 @@
  {
   "word": "laut",
   "pos": "preposition",
-  "frequency": 1297,
+  "frequency": 1325,
   "meanings": [
    {
     "english": "according to",
@@ -460,7 +577,7 @@
  {
   "word": "mithilfe",
   "pos": "preposition",
-  "frequency": 1298,
+  "frequency": 1326,
   "meanings": [
    {
     "english": "with the help of, by means of",
@@ -499,7 +616,7 @@
  {
   "word": "mittels",
   "pos": "preposition",
-  "frequency": 1299,
+  "frequency": 1327,
   "meanings": [
    {
     "english": "by means of",
@@ -538,7 +655,7 @@
  {
   "word": "samt",
   "pos": "preposition",
-  "frequency": 1300,
+  "frequency": 1328,
   "meanings": [
    {
     "english": "together with, along with",
@@ -575,7 +692,7 @@
  {
   "word": "seitens",
   "pos": "preposition",
-  "frequency": 1301,
+  "frequency": 1329,
   "meanings": [
    {
     "english": "on the part of",
@@ -612,9 +729,83 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "sofern",
+  "pos": "conjunction",
+  "frequency": 1330,
+  "meanings": [
+   {
+    "english": "provided that, if",
+    "examples": [
+     {
+      "de": "Wir kommen, sofern das Wetter gut ist.",
+      "en": "We will come provided the weather is good.",
+      "glosses": {
+       "Wir": "we",
+       "kommen": "come",
+       "sofern": "provided that",
+       "das": "the",
+       "Wetter": "weather",
+       "gut": "good",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Sie dürfen gehen, sofern Sie fertig sind.",
+      "en": "You may leave if you are finished.",
+      "glosses": {
+       "Sie": "you",
+       "dürfen": "may",
+       "gehen": "go",
+       "sofern": "provided",
+       "fertig": "finished",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "subordinating: verb at the end"
+ },
+ {
+  "word": "sowie",
+  "pos": "conjunction",
+  "frequency": 1331,
+  "meanings": [
+   {
+    "english": "as well as, as soon as",
+    "examples": [
+     {
+      "de": "Wir verkaufen Obst sowie Gemüse.",
+      "en": "We sell fruit as well as vegetables.",
+      "glosses": {
+       "Wir": "we",
+       "verkaufen": "sell",
+       "Obst": "fruit",
+       "sowie": "as well as",
+       "Gemüse": "vegetables"
+      }
+     },
+     {
+      "de": "Sowie er ankommt, sage ich Bescheid.",
+      "en": "As soon as he arrives, I will let you know.",
+      "glosses": {
+       "Sowie": "as soon as",
+       "er": "he",
+       "ankommt": "arrives",
+       "sage": "say",
+       "ich": "I",
+       "Bescheid": "notice"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "position 0"
+ },
+ {
   "word": "zufolge",
   "pos": "preposition",
-  "frequency": 1302,
+  "frequency": 1332,
   "meanings": [
    {
     "english": "according to",
@@ -651,7 +842,7 @@
  {
   "word": "zugunsten",
   "pos": "preposition",
-  "frequency": 1303,
+  "frequency": 1333,
   "meanings": [
    {
     "english": "in favour of",
@@ -686,5 +877,45 @@
    }
   ],
   "notes": "+ Genitiv"
+ },
+ {
+  "word": "zumal",
+  "pos": "conjunction",
+  "frequency": 1334,
+  "meanings": [
+   {
+    "english": "particularly as, especially since",
+    "examples": [
+     {
+      "de": "Ich bleibe zu Hause, zumal es regnet.",
+      "en": "I'm staying at home, especially since it's raining.",
+      "glosses": {
+       "Ich": "I",
+       "bleibe": "stay",
+       "zu": "at",
+       "Hause": "home",
+       "zumal": "especially since",
+       "es": "it",
+       "regnet": "rains"
+      }
+     },
+     {
+      "de": "Das war schwierig, zumal wir wenig Zeit hatten.",
+      "en": "That was difficult, particularly as we had little time.",
+      "glosses": {
+       "Das": "that",
+       "war": "was",
+       "schwierig": "difficult",
+       "zumal": "particularly as",
+       "wir": "we",
+       "wenig": "little",
+       "Zeit": "time",
+       "hatten": "had"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "subordinating: verb at the end"
  }
 ]

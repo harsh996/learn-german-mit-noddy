@@ -1,0 +1,126 @@
+# Conjunctions missing from the Goethe word lists. Same block format as supplement_prepositions.txt.
+# The note gives the word-order effect: "verb at the end" = subordinating, "position 0" = no inversion.
+
+A1 | zu | introduces an infinitive: "zu" + verb | to (before an infinitive)
+x Es ist schön, dich zu sehen. ## It is nice to see you. ## Es=it|ist=is|schön=nice|dich=you|zu=to|sehen=see
+x Ich habe keine Zeit, ins Kino zu gehen. ## I have no time to go to the cinema. ## Ich=I|habe=have|keine=no|Zeit=time|ins=to the|Kino=cinema|zu=to|gehen=go
+
+A1 | um … zu | + infinitive at the end | in order to
+x Ich lerne Deutsch, um in Berlin zu arbeiten. ## I am learning German in order to work in Berlin. ## Ich=I|lerne=learn|Deutsch=German|um=in order|in=in|Berlin=Berlin|zu=to|arbeiten=work
+x Er geht früh ins Bett, um fit zu sein. ## He goes to bed early in order to be fit. ## Er=he|geht=goes|früh=early|ins=to|Bett=bed|um=in order|fit=fit|zu=to|sein=be
+
+A1 | da | subordinating: verb at the end | because, since, as
+x Da es regnet, bleiben wir zu Hause. ## Since it is raining, we are staying at home. ## Da=since|es=it|regnet=rains|bleiben=stay|wir=we|zu=at|Hause=home
+x Ich nehme den Bus, da mein Auto kaputt ist. ## I take the bus because my car is broken. ## Ich=I|nehme=take|den=the|Bus=bus|da=because|mein=my|Auto=car|kaputt=broken|ist=is
+
+A1 | ohne | ohne dass + verb at the end, or ohne … zu + infinitive | without (doing)
+x Er ging, ohne sich zu verabschieden. ## He left without saying goodbye. ## Er=he|ging=went|ohne=without|sich=himself|zu=to|verabschieden=say goodbye
+x Sie hat bezahlt, ohne dass ich es gemerkt habe. ## She paid without me noticing. ## Sie=she|hat=has|bezahlt=paid|ohne=without|dass=that|ich=I|es=it|gemerkt=noticed|habe=have
+
+A2 | wenn | subordinating: verb at the end | if, when, whenever
+x Wenn es regnet, nehme ich einen Schirm. ## If it rains, I take an umbrella. ## Wenn=if|es=it|regnet=rains|nehme=take|ich=I|einen=an|Schirm=umbrella
+x Ruf mich an, wenn du Hilfe brauchst. ## Call me when you need help. ## Ruf=call|mich=me|an=up|wenn=when|du=you|Hilfe=help|brauchst=need
+
+A2 | weil | subordinating: verb at the end | because
+x Ich bleibe heute zu Hause, weil ich krank bin. ## I am staying at home today because I am ill. ## Ich=I|bleibe=stay|heute=today|zu=at|Hause=home|weil=because|krank=ill|bin=am
+x Er ist müde, weil er schlecht geschlafen hat. ## He is tired because he slept badly. ## Er=he|ist=is|müde=tired|weil=because|schlecht=badly|geschlafen=slept|hat=has
+
+B1 | damit | subordinating: verb at the end | so that, in order that
+x Ich erkläre es noch einmal, damit alle es verstehen. ## I will explain it once more so that everyone understands. ## Ich=I|erkläre=explain|es=it|noch=still|einmal=once|damit=so that|alle=everyone|verstehen=understand
+x Sie spart Geld, damit sie reisen kann. ## She saves money so that she can travel. ## Sie=she|spart=saves|Geld=money|damit=so that|reisen=travel|kann=can
+
+B1 | ob | subordinating: verb at the end | whether, if
+x Ich weiß nicht, ob er kommt. ## I don't know whether he is coming. ## Ich=I|weiß=know|nicht=not|ob=whether|er=he|kommt=comes
+x Kannst du mir sagen, ob der Zug pünktlich ist? ## Can you tell me whether the train is on time? ## Kannst=can|du=you|mir=me|sagen=tell|ob=whether|der=the|Zug=train|pünktlich=on time|ist=is
+
+B1 | sondern | position 0; follows a negation | but (rather), instead
+x Ich trinke keinen Kaffee, sondern Tee. ## I don't drink coffee but tea. ## Ich=I|trinke=drink|keinen=no|Kaffee=coffee|sondern=but|Tee=tea
+x Das ist nicht teuer, sondern billig. ## That is not expensive but cheap. ## Das=that|ist=is|nicht=not|teuer=expensive|sondern=but|billig=cheap
+
+B1 | während | subordinating: verb at the end | while, whereas
+x Während ich koche, sieht er fern. ## While I cook, he watches TV. ## Während=while|ich=I|koche=cook|sieht=watches|er=he|fern=TV
+x Sie liest, während er Musik hört. ## She reads while he listens to music. ## Sie=she|liest=reads|während=while|er=he|Musik=music|hört=listens
+
+B1 | je … desto/umso | je + comparative, verb at the end; desto/umso + comparative | the more … the more
+x Je mehr ich lerne, desto besser verstehe ich. ## The more I study, the better I understand. ## Je=the|mehr=more|ich=I|lerne=study|desto=the|besser=better|verstehe=understand
+x Je älter er wird, umso ruhiger wird er. ## The older he gets, the calmer he becomes. ## Je=the|älter=older|er=he|wird=becomes|umso=the|ruhiger=calmer
+
+B1 | obwohl | subordinating: verb at the end | although, even though
+x Obwohl es kalt ist, gehen wir spazieren. ## Although it is cold, we are going for a walk. ## Obwohl=although|es=it|kalt=cold|ist=is|gehen=go|wir=we|spazieren=for a walk
+x Er arbeitet, obwohl er krank ist. ## He is working even though he is ill. ## Er=he|arbeitet=works|obwohl=even though|krank=ill|ist=is
+
+B1 | nachdem | subordinating; usually Plusquamperfekt/Perfekt in the clause | after
+x Nachdem er gegessen hatte, ging er spazieren. ## After he had eaten, he went for a walk. ## Nachdem=after|er=he|gegessen=eaten|hatte=had|ging=went|spazieren=for a walk
+x Nachdem wir angekommen waren, riefen wir an. ## After we had arrived, we phoned. ## Nachdem=after|wir=we|angekommen=arrived|waren=were|riefen=called|an=up
+
+B1 | bevor | subordinating: verb at the end | before
+x Bevor du gehst, mach das Licht aus. ## Before you go, turn off the light. ## Bevor=before|du=you|gehst=go|mach=make|das=the|Licht=light|aus=off
+x Ich dusche, bevor ich frühstücke. ## I shower before I have breakfast. ## Ich=I|dusche=shower|bevor=before|frühstücke=have breakfast
+
+B1 | sowohl … als auch | two-part conjunction, no inversion | both … and, as well as
+x Sie spricht sowohl Deutsch als auch Englisch. ## She speaks both German and English. ## Sie=she|spricht=speaks|sowohl=both|Deutsch=German|als=and|auch=also|Englisch=English
+x Sowohl mein Bruder als auch meine Schwester wohnen hier. ## Both my brother and my sister live here. ## Sowohl=both|mein=my|Bruder=brother|als=and|auch=also|meine=my|Schwester=sister|wohnen=live|hier=here
+
+B1 | weder … noch | two-part conjunction | neither … nor
+x Ich habe weder Zeit noch Lust. ## I have neither time nor desire. ## Ich=I|habe=have|weder=neither|Zeit=time|noch=nor|Lust=desire
+x Er isst weder Fleisch noch Fisch. ## He eats neither meat nor fish. ## Er=he|isst=eats|weder=neither|Fleisch=meat|noch=nor|Fisch=fish
+
+B1 | sodass | subordinating: verb at the end (also "so dass") | so that, with the result that
+x Es regnete stark, sodass die Straße überflutet war. ## It rained heavily, so that the street was flooded. ## Es=it|regnete=rained|stark=heavily|sodass=so that|die=the|Straße=street|überflutet=flooded|war=was
+x Er sprach leise, sodass niemand ihn hörte. ## He spoke quietly, so that nobody heard him. ## Er=he|sprach=spoke|leise=quietly|sodass=so that|niemand=nobody|ihn=him|hörte=heard
+
+B1 | indem | subordinating: verb at the end | by (doing), while
+x Man lernt eine Sprache, indem man sie spricht. ## You learn a language by speaking it. ## Man=one|lernt=learns|eine=a|Sprache=language|indem=by|sie=it|spricht=speaks
+x Sie sparte Geld, indem sie weniger ausgab. ## She saved money by spending less. ## Sie=she|sparte=saved|Geld=money|indem=by|weniger=less|ausgab=spent
+
+B1 | entweder … oder | two-part conjunction | either … or
+x Wir fahren entweder mit dem Zug oder mit dem Bus. ## We travel either by train or by bus. ## Wir=we|fahren=travel|entweder=either|mit=with|dem=the|Zug=train|oder=or|Bus=bus
+x Entweder du kommst mit, oder du bleibst hier. ## Either you come along or you stay here. ## Entweder=either|du=you|kommst=come|mit=along|oder=or|bleibst=stay|hier=here
+
+B1 | solange | subordinating: verb at the end; also "solang" | as long as, while
+x Du kannst bleiben, solange du willst. ## You can stay as long as you want. ## Du=you|kannst=can|bleiben=stay|solange=as long as|willst=want
+x Solange es regnet, bleiben wir drinnen. ## As long as it rains, we are staying inside. ## Solange=as long as|es=it|regnet=rains|bleiben=stay|wir=we|drinnen=inside
+
+B1 | falls | subordinating: verb at the end | in case, if
+x Nimm einen Schirm mit, falls es regnet. ## Take an umbrella in case it rains. ## Nimm=take|einen=an|Schirm=umbrella|mit=along|falls=in case|es=it|regnet=rains
+x Falls du Fragen hast, ruf mich an. ## If you have questions, call me. ## Falls=if|du=you|Fragen=questions|hast=have|ruf=call|mich=me|an=up
+
+B1 | sobald | subordinating: verb at the end | as soon as
+x Ich rufe dich an, sobald ich zu Hause bin. ## I will call you as soon as I am home. ## Ich=I|rufe=call|dich=you|an=up|sobald=as soon as|zu=at|Hause=home|bin=am
+x Sobald der Bus kommt, steigen wir ein. ## As soon as the bus comes, we will get on. ## Sobald=as soon as|der=the|Bus=bus|kommt=comes|steigen=get|wir=we|ein=in
+
+B1 | seitdem | subordinating: verb at the end (also "seit") | since (a point in time)
+x Seitdem er in Berlin wohnt, spricht er besser Deutsch. ## Since he has lived in Berlin, he speaks German better. ## Seitdem=since|er=he|in=in|Berlin=Berlin|wohnt=lives|spricht=speaks|besser=better|Deutsch=German
+x Ich bin müde, seitdem das Baby da ist. ## I have been tired since the baby arrived. ## Ich=I|bin=am|müde=tired|seitdem=since|das=the|Baby=baby|da=here|ist=is
+
+B1 | umso | umso + comparative, often after "je" | the more, all the more
+x Je früher du kommst, umso besser. ## The earlier you come, the better. ## Je=the|früher=earlier|du=you|kommst=come|umso=the|besser=better
+x Das macht es umso schwieriger. ## That makes it all the more difficult. ## Das=that|macht=makes|es=it|umso=all the more|schwieriger=more difficult
+
+B1 | soviel | subordinating: verb at the end; "so viel" = so much | as much as, as far as
+x Soviel ich weiß, kommt er morgen. ## As far as I know, he is coming tomorrow. ## Soviel=as far as|ich=I|weiß=know|kommt=comes|er=he|morgen=tomorrow
+x Iss, soviel du möchtest. ## Eat as much as you like. ## Iss=eat|soviel=as much as|du=you|möchtest=like
+
+B2 | sowie | position 0 | as well as, as soon as
+x Wir verkaufen Obst sowie Gemüse. ## We sell fruit as well as vegetables. ## Wir=we|verkaufen=sell|Obst=fruit|sowie=as well as|Gemüse=vegetables
+x Sowie er ankommt, sage ich Bescheid. ## As soon as he arrives, I will let you know. ## Sowie=as soon as|er=he|ankommt=arrives|sage=say|ich=I|Bescheid=notice
+
+B2 | beziehungsweise | often abbreviated "bzw." | or rather, and … respectively
+x Ich wohne in Berlin beziehungsweise in der Nähe von Berlin. ## I live in Berlin, or rather near Berlin. ## Ich=I|wohne=live|in=in|Berlin=Berlin|beziehungsweise=or rather|der=the|Nähe=vicinity|von=of
+x Die Kinder sind sechs beziehungsweise acht Jahre alt. ## The children are six and eight years old respectively. ## Die=the|Kinder=children|sind=are|sechs=six|beziehungsweise=respectively|acht=eight|Jahre=years|alt=old
+
+B2 | zumal | subordinating: verb at the end | particularly as, especially since
+x Ich bleibe zu Hause, zumal es regnet. ## I'm staying at home, especially since it's raining. ## Ich=I|bleibe=stay|zu=at|Hause=home|zumal=especially since|es=it|regnet=rains
+x Das war schwierig, zumal wir wenig Zeit hatten. ## That was difficult, particularly as we had little time. ## Das=that|war=was|schwierig=difficult|zumal=particularly as|wir=we|wenig=little|Zeit=time|hatten=had
+
+B2 | desto | desto + comparative, after "je" | the more
+x Je länger ich warte, desto nervöser werde ich. ## The longer I wait, the more nervous I get. ## Je=the|länger=longer|ich=I|warte=wait|desto=the|nervöser=more nervous|werde=become
+x Je mehr du übst, desto leichter wird es. ## The more you practise, the easier it gets. ## Je=the|mehr=more|du=you|übst=practise|desto=the|leichter=easier|wird=becomes|es=it
+
+B2 | sofern | subordinating: verb at the end | provided that, if
+x Wir kommen, sofern das Wetter gut ist. ## We will come provided the weather is good. ## Wir=we|kommen=come|sofern=provided that|das=the|Wetter=weather|gut=good|ist=is
+x Sie dürfen gehen, sofern Sie fertig sind. ## You may leave if you are finished. ## Sie=you|dürfen=may|gehen=go|sofern=provided|fertig=finished|sind=are
+
+B2 | ehe | subordinating: verb at the end; literary | before
+x Ehe du gehst, iss etwas. ## Before you go, eat something. ## Ehe=before|du=you|gehst=go|iss=eat|etwas=something
+x Es dauerte lange, ehe er antwortete. ## It was a long time before he answered. ## Es=it|dauerte=lasted|lange=long|ehe=before|er=he|antwortete=answered
