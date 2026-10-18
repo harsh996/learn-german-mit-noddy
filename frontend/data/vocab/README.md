@@ -1,12 +1,16 @@
-# Vocabulary word lists (A1 · A2 · B1)
+# Vocabulary word lists (A1 · A2 · B1 · B2)
 
-`a1.json`, `a2.json`, `b1.json` are **generated** from the Goethe-Zertifikat word lists in
+`a1.json`, `a2.json`, `b1.json`, `b2.json` are **generated** from the Goethe-Zertifikat word lists in
 `knowledge_base/vocab_docs/`. Don't edit them by hand — change the source and rebuild:
 
 ```bash
 python3 frontend/scripts/vocab/parse_wordlists.py   # markdown lists -> scripts/vocab/parsed.json
 python3 frontend/scripts/vocab/build_data.py        # parsed.json + scripts/vocab/translations/*.txt -> these files
 ```
+
+`scripts/vocab/supplement_*.txt` add words the Goethe lists lack (currently prepositions such as `im`, `wegen`,
+`aufgrund`, with their case in `notes`); `build_data.py` merges them in and skips any word already present with the
+same part of speech. `b2.json` exists only for such supplements.
 
 `parse_wordlists.py` extracts headword, article, notes and cleaned example sentences, and drops words that
 repeat at a higher level (a word is shown at the first level it appears). `translations/*.txt` hold the English

@@ -49,7 +49,7 @@ def valid(res, e):
 
 def build(entries, cache):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    files = {"A1": [], "A2": [], "B1": []}
+    files = {"A1": [], "A2": [], "B1": [], "B2": []}
     skipped = 0
     for i, e in enumerate(entries):
         r = cache.get(entry_id(e))
@@ -79,6 +79,8 @@ def build(entries, cache):
         if notes:
             out["notes"] = " · ".join(notes)
         files[e["level"]].append(out)
+    add_supplements(files)
+
     def collate(w):
         return w.casefold().translate(str.maketrans("äöüß", "aous"))
 
@@ -88,10 +90,42 @@ def build(entries, cache):
         for it in items:  # "frequency" doubles as list order: A1 -> A2 -> B1, alphabetical within a level
             n += 1
             it["frequency"] = n
+        if not items:
+            continue
         (OUT_DIR / f"{lvl.lower()}.json").write_text(json.dumps(items, ensure_ascii=False, indent=1))
         print(f"{lvl}: {len(items)} entries written")
     print(f"{skipped} entries not yet enriched (omitted)")
 
+
+
+def add_supplements(files):
+    """Merge scripts/vocab/supplement_*.txt (words missing from the Goethe lists) into the level files.
+
+    Block format is documented at the top of each supplement file. A word is skipped if the same
+    word + part of speech already exists at any level, so the supplements never shadow the lists.
+    """
+    have = {(it["word"].lower(), it["pos"]) for items in files.values() for it in items}
+    for f in sorted(HERE.glob("supplement_*.txt")):
+        pos = f.stem.removeprefix("supplement_").rstrip("s")  # supplement_prepositions.txt -> preposition
+        for block in re.split(r"\n\s*\n", f.read_text()):
+            lines = [l for l in block.strip().splitlines() if l.strip() and not l.startswith("#")]
+            if not lines:
+                continue
+            level, word, notes, english = [p.strip() for p in lines[0].split("|")]
+            if (word.lower(), pos) in have:
+                continue
+            exs = []
+            for l in lines[1:]:
+                de, en, g = [p.strip() for p in l[2:].split("##")]
+                missing = [t for t in TOKEN.findall(de) if t.lower() not in {k.lower() for k in gl(g)}]
+                if missing:
+                    print(f"WARN {f.name} {word}: no gloss for {missing}")
+                exs.append({"de": de, "en": en, "glosses": gl(g)})
+            item = {"word": word, "pos": pos, "frequency": 0, "meanings": [{"english": english, "examples": exs}]}
+            if notes:
+                item["notes"] = notes
+            files[level].append(item)
+            have.add((word.lower(), pos))
 
 
 def gl(s):

@@ -18,7 +18,7 @@ function slug(s: string) {
 function load(): VocabEntry[] {
   const d = dir();
   if (!fs.existsSync(d)) return [];
-  const files = fs.readdirSync(d).filter((f) => /^(a1|a2|b1)\.json$/i.test(f));
+  const files = fs.readdirSync(d).filter((f) => /^(a1|a2|b1|b2)\.json$/i.test(f));
   const mtime = Math.max(0, ...files.map((f) => fs.statSync(path.join(d, f)).mtimeMs));
   if (cache && cache.mtime === mtime) return cache.entries;
 

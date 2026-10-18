@@ -1,4 +1,4 @@
-export const VOCAB_LEVELS = ["A1", "A2", "B1"] as const;
+export const VOCAB_LEVELS = ["A1", "A2", "B1", "B2"] as const;
 export const VOCAB_POS = [
   "adjective",
   "adverb",

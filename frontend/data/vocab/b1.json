@@ -2,7 +2,7 @@
  {
   "word": "abbiegen",
   "pos": "verb",
-  "frequency": 1138,
+  "frequency": 1143,
   "meanings": [
    {
     "english": "to turn (off a road)",
@@ -29,7 +29,7 @@
  {
   "word": "Abbildung",
   "pos": "noun",
-  "frequency": 1139,
+  "frequency": 1144,
   "meanings": [
    {
     "english": "illustration, figure",
@@ -59,7 +59,7 @@
  {
   "word": "abbrechen",
   "pos": "verb",
-  "frequency": 1140,
+  "frequency": 1145,
   "meanings": [
    {
     "english": "to break off, to drop out of",
@@ -83,7 +83,7 @@
  {
   "word": "Abenteuer",
   "pos": "noun",
-  "frequency": 1141,
+  "frequency": 1146,
   "meanings": [
    {
     "english": "adventure",
@@ -119,7 +119,7 @@
  {
   "word": "Abfall",
   "pos": "noun",
-  "frequency": 1142,
+  "frequency": 1147,
   "meanings": [
    {
     "english": "waste, rubbish",
@@ -148,7 +148,7 @@
  {
   "word": "Abfalleimer",
   "pos": "noun",
-  "frequency": 1143,
+  "frequency": 1148,
   "meanings": [
    {
     "english": "trash can, waste bin",
@@ -174,7 +174,7 @@
  {
   "word": "Abgase",
   "pos": "noun",
-  "frequency": 1144,
+  "frequency": 1149,
   "meanings": [
    {
     "english": "exhaust fumes, emissions",
@@ -202,7 +202,7 @@
  {
   "word": "abhängen",
   "pos": "verb",
-  "frequency": 1145,
+  "frequency": 1150,
   "meanings": [
    {
     "english": "to depend (on)",
@@ -233,7 +233,7 @@
  {
   "word": "abheben",
   "pos": "verb",
-  "frequency": 1146,
+  "frequency": 1151,
   "meanings": [
    {
     "english": "to withdraw (money)",
@@ -262,7 +262,7 @@
  {
   "word": "Abitur",
   "pos": "noun",
-  "frequency": 1147,
+  "frequency": 1152,
   "meanings": [
    {
     "english": "Abitur (German school-leaving exam)",
@@ -287,7 +287,7 @@
  {
   "word": "ablehnen",
   "pos": "verb",
-  "frequency": 1148,
+  "frequency": 1153,
   "meanings": [
    {
     "english": "to decline, to reject",
@@ -314,7 +314,7 @@
  {
   "word": "abmachen",
   "pos": "verb",
-  "frequency": 1149,
+  "frequency": 1154,
   "meanings": [
    {
     "english": "to arrange, to agree",
@@ -342,7 +342,7 @@
  {
   "word": "abnehmen",
   "pos": "verb",
-  "frequency": 1150,
+  "frequency": 1155,
   "meanings": [
    {
     "english": "to take off, to remove",
@@ -383,7 +383,7 @@
  {
   "word": "abonnieren",
   "pos": "verb",
-  "frequency": 1151,
+  "frequency": 1156,
   "meanings": [
    {
     "english": "to subscribe to",
@@ -408,7 +408,7 @@
  {
   "word": "absagen",
   "pos": "verb",
-  "frequency": 1152,
+  "frequency": 1157,
   "meanings": [
    {
     "english": "to cancel, to call off",
@@ -438,7 +438,7 @@
  {
   "word": "abschreiben",
   "pos": "verb",
-  "frequency": 1153,
+  "frequency": 1158,
   "meanings": [
    {
     "english": "to copy (from someone)",
@@ -464,7 +464,7 @@
  {
   "word": "absolut",
   "pos": "adjective",
-  "frequency": 1154,
+  "frequency": 1159,
   "meanings": [
    {
     "english": "absolute, absolutely",
@@ -501,7 +501,7 @@
  {
   "word": "abstimmen",
   "pos": "verb",
-  "frequency": 1155,
+  "frequency": 1160,
   "meanings": [
    {
     "english": "to vote",
@@ -526,7 +526,7 @@
  {
   "word": "abwärts",
   "pos": "adverb",
-  "frequency": 1156,
+  "frequency": 1161,
   "meanings": [
    {
     "english": "downward",
@@ -552,7 +552,7 @@
  {
   "word": "abwaschen",
   "pos": "verb",
-  "frequency": 1157,
+  "frequency": 1162,
   "meanings": [
    {
     "english": "to wash up",
@@ -577,7 +577,7 @@
  {
   "word": "abwesend",
   "pos": "adjective",
-  "frequency": 1158,
+  "frequency": 1163,
   "meanings": [
    {
     "english": "absent",
@@ -602,7 +602,7 @@
  {
   "word": "achten",
   "pos": "verb",
-  "frequency": 1159,
+  "frequency": 1164,
   "meanings": [
    {
     "english": "to pay attention (to)",
@@ -629,7 +629,7 @@
  {
   "word": "ähnlich",
   "pos": "adjective",
-  "frequency": 1160,
+  "frequency": 1165,
   "meanings": [
    {
     "english": "similar",
@@ -668,7 +668,7 @@
  {
   "word": "allerdings",
   "pos": "adverb",
-  "frequency": 1161,
+  "frequency": 1166,
   "meanings": [
    {
     "english": "however, though",
@@ -698,7 +698,7 @@
  {
   "word": "allgemein",
   "pos": "adjective",
-  "frequency": 1162,
+  "frequency": 1167,
   "meanings": [
    {
     "english": "general",
@@ -759,7 +759,7 @@
  {
   "word": "alltäglich",
   "pos": "adjective",
-  "frequency": 1163,
+  "frequency": 1168,
   "meanings": [
    {
     "english": "everyday, ordinary",
@@ -796,7 +796,7 @@
  {
   "word": "als ob",
   "pos": "conjunction",
-  "frequency": 1164,
+  "frequency": 1169,
   "meanings": [
    {
     "english": "as if",
@@ -824,7 +824,7 @@
  {
   "word": "am",
   "pos": "preposition",
-  "frequency": 1165,
+  "frequency": 1170,
   "meanings": [
    {
     "english": "at the, on the, in the (an + dem)",
@@ -901,7 +901,7 @@
  {
   "word": "analysieren",
   "pos": "verb",
-  "frequency": 1166,
+  "frequency": 1171,
   "meanings": [
    {
     "english": "to analyze",
@@ -928,7 +928,7 @@
  {
   "word": "Anbieter",
   "pos": "noun",
-  "frequency": 1167,
+  "frequency": 1172,
   "meanings": [
    {
     "english": "provider, supplier",
@@ -953,7 +953,7 @@
  {
   "word": "andererseits",
   "pos": "adverb",
-  "frequency": 1168,
+  "frequency": 1173,
   "meanings": [
    {
     "english": "on the other hand",
@@ -982,7 +982,7 @@
  {
   "word": "anerkennen",
   "pos": "verb",
-  "frequency": 1169,
+  "frequency": 1174,
   "meanings": [
    {
     "english": "to recognize, to accept (a qualification)",
@@ -1007,7 +1007,7 @@
  {
   "word": "Angabe",
   "pos": "noun",
-  "frequency": 1170,
+  "frequency": 1175,
   "meanings": [
    {
     "english": "information, details",
@@ -1036,7 +1036,7 @@
  {
   "word": "angeben",
   "pos": "verb",
-  "frequency": 1171,
+  "frequency": 1176,
   "meanings": [
    {
     "english": "to state, to indicate",
@@ -1062,7 +1062,7 @@
  {
   "word": "Angehörige",
   "pos": "noun",
-  "frequency": 1172,
+  "frequency": 1177,
   "meanings": [
    {
     "english": "relative, family member",
@@ -1089,7 +1089,7 @@
  {
   "word": "angenehm",
   "pos": "adjective",
-  "frequency": 1173,
+  "frequency": 1178,
   "meanings": [
    {
     "english": "pleasant",
@@ -1113,7 +1113,7 @@
  {
   "word": "Angestellte",
   "pos": "noun",
-  "frequency": 1174,
+  "frequency": 1179,
   "meanings": [
    {
     "english": "employee",
@@ -1139,7 +1139,7 @@
  {
   "word": "ängstlich",
   "pos": "adjective",
-  "frequency": 1175,
+  "frequency": 1180,
   "meanings": [
    {
     "english": "anxious, fearful",
@@ -1170,7 +1170,7 @@
  {
   "word": "anhaben",
   "pos": "verb",
-  "frequency": 1176,
+  "frequency": 1181,
   "meanings": [
    {
     "english": "to be wearing",
@@ -1196,7 +1196,7 @@
  {
   "word": "ankündigen",
   "pos": "verb",
-  "frequency": 1177,
+  "frequency": 1182,
   "meanings": [
    {
     "english": "to announce",
@@ -1220,7 +1220,7 @@
  {
   "word": "Anlage",
   "pos": "noun",
-  "frequency": 1178,
+  "frequency": 1183,
   "meanings": [
    {
     "english": "system, equipment",
@@ -1263,7 +1263,7 @@
  {
   "word": "Anleitung",
   "pos": "noun",
-  "frequency": 1179,
+  "frequency": 1184,
   "meanings": [
    {
     "english": "instructions, manual",
@@ -1293,7 +1293,7 @@
  {
   "word": "annehmen",
   "pos": "verb",
-  "frequency": 1180,
+  "frequency": 1185,
   "meanings": [
    {
     "english": "to accept",
@@ -1339,7 +1339,7 @@
  {
   "word": "Annonce",
   "pos": "noun",
-  "frequency": 1181,
+  "frequency": 1186,
   "meanings": [
    {
     "english": "advertisement, classified ad",
@@ -1370,7 +1370,7 @@
  {
   "word": "anschaffen",
   "pos": "verb",
-  "frequency": 1182,
+  "frequency": 1187,
   "meanings": [
    {
     "english": "to acquire, to buy (for oneself)",
@@ -1395,7 +1395,7 @@
  {
   "word": "anschließen",
   "pos": "verb",
-  "frequency": 1183,
+  "frequency": 1188,
   "meanings": [
    {
     "english": "to connect, to plug in",
@@ -1420,7 +1420,7 @@
  {
   "word": "anschnallen",
   "pos": "verb",
-  "frequency": 1184,
+  "frequency": 1189,
   "meanings": [
    {
     "english": "to fasten one's seat belt",
@@ -1443,7 +1443,7 @@
  {
   "word": "ansprechen",
   "pos": "verb",
-  "frequency": 1185,
+  "frequency": 1190,
   "meanings": [
    {
     "english": "to speak to, to approach",
@@ -1471,7 +1471,7 @@
  {
   "word": "Anspruch",
   "pos": "noun",
-  "frequency": 1186,
+  "frequency": 1191,
   "meanings": [
    {
     "english": "claim, entitlement",
@@ -1501,7 +1501,7 @@
  {
   "word": "anstellen",
   "pos": "verb",
-  "frequency": 1187,
+  "frequency": 1192,
   "meanings": [
    {
     "english": "to turn on",
@@ -1564,7 +1564,7 @@
  {
   "word": "anstrengen",
   "pos": "verb",
-  "frequency": 1188,
+  "frequency": 1193,
   "meanings": [
    {
     "english": "to tire out, to strain",
@@ -1610,7 +1610,7 @@
  {
   "word": "anstrengend",
   "pos": "adjective",
-  "frequency": 1189,
+  "frequency": 1194,
   "meanings": [
    {
     "english": "tiring, strenuous",
@@ -1634,7 +1634,7 @@
  {
   "word": "Antrag",
   "pos": "noun",
-  "frequency": 1190,
+  "frequency": 1195,
   "meanings": [
    {
     "english": "application, request",
@@ -1663,7 +1663,7 @@
  {
   "word": "Anwalt",
   "pos": "noun",
-  "frequency": 1191,
+  "frequency": 1196,
   "meanings": [
    {
     "english": "lawyer",
@@ -1694,7 +1694,7 @@
  {
   "word": "anwenden",
   "pos": "verb",
-  "frequency": 1192,
+  "frequency": 1197,
   "meanings": [
    {
     "english": "to apply, to use",
@@ -1721,7 +1721,7 @@
  {
   "word": "anwesend",
   "pos": "adjective",
-  "frequency": 1193,
+  "frequency": 1198,
   "meanings": [
    {
     "english": "present, attending",
@@ -1746,7 +1746,7 @@
  {
   "word": "anzeigen",
   "pos": "verb",
-  "frequency": 1194,
+  "frequency": 1199,
   "meanings": [
    {
     "english": "to report (to the police)",
@@ -1772,7 +1772,7 @@
  {
   "word": "Aprikose",
   "pos": "noun",
-  "frequency": 1195,
+  "frequency": 1200,
   "meanings": [
    {
     "english": "apricot",
@@ -1796,7 +1796,7 @@
  {
   "word": "Arbeiter",
   "pos": "noun",
-  "frequency": 1196,
+  "frequency": 1201,
   "meanings": [
    {
     "english": "worker",
@@ -1824,7 +1824,7 @@
  {
   "word": "Arbeitserlaubnis",
   "pos": "noun",
-  "frequency": 1197,
+  "frequency": 1202,
   "meanings": [
    {
     "english": "work permit",
@@ -1848,7 +1848,7 @@
  {
   "word": "Arbeitslosigkeit",
   "pos": "noun",
-  "frequency": 1198,
+  "frequency": 1203,
   "meanings": [
    {
     "english": "unemployment",
@@ -1871,7 +1871,7 @@
  {
   "word": "Arbeitsstelle",
   "pos": "noun",
-  "frequency": 1199,
+  "frequency": 1204,
   "meanings": [
    {
     "english": "job, position",
@@ -1898,7 +1898,7 @@
  {
   "word": "Architekt",
   "pos": "noun",
-  "frequency": 1200,
+  "frequency": 1205,
   "meanings": [
    {
     "english": "architect",
@@ -1925,7 +1925,7 @@
  {
   "word": "Ärger",
   "pos": "noun",
-  "frequency": 1201,
+  "frequency": 1206,
   "meanings": [
    {
     "english": "trouble, annoyance",
@@ -1956,7 +1956,7 @@
  {
   "word": "ärgerlich",
   "pos": "adjective",
-  "frequency": 1202,
+  "frequency": 1207,
   "meanings": [
    {
     "english": "annoying",
@@ -1984,7 +1984,7 @@
  {
   "word": "Art",
   "pos": "noun",
-  "frequency": 1203,
+  "frequency": 1208,
   "meanings": [
    {
     "english": "kind, type",
@@ -2044,7 +2044,7 @@
  {
   "word": "Asyl",
   "pos": "noun",
-  "frequency": 1204,
+  "frequency": 1209,
   "meanings": [
    {
     "english": "asylum",
@@ -2073,7 +2073,7 @@
  {
   "word": "Atem",
   "pos": "noun",
-  "frequency": 1205,
+  "frequency": 1210,
   "meanings": [
    {
     "english": "breath",
@@ -2096,7 +2096,7 @@
  {
   "word": "atmen",
   "pos": "verb",
-  "frequency": 1206,
+  "frequency": 1211,
   "meanings": [
    {
     "english": "to breathe",
@@ -2126,7 +2126,7 @@
  {
   "word": "Aufenthalt",
   "pos": "noun",
-  "frequency": 1207,
+  "frequency": 1212,
   "meanings": [
    {
     "english": "stop, stay",
@@ -2166,7 +2166,7 @@
  {
   "word": "auffallen",
   "pos": "verb",
-  "frequency": 1208,
+  "frequency": 1213,
   "meanings": [
    {
     "english": "to notice, to stand out",
@@ -2192,7 +2192,7 @@
  {
   "word": "auffordern",
   "pos": "verb",
-  "frequency": 1209,
+  "frequency": 1214,
   "meanings": [
    {
     "english": "to ask, to urge",
@@ -2236,7 +2236,7 @@
  {
   "word": "Aufforderung",
   "pos": "noun",
-  "frequency": 1210,
+  "frequency": 1215,
   "meanings": [
    {
     "english": "request, demand, notice",
@@ -2266,7 +2266,7 @@
  {
   "word": "aufführen",
   "pos": "verb",
-  "frequency": 1211,
+  "frequency": 1216,
   "meanings": [
    {
     "english": "to perform",
@@ -2293,7 +2293,7 @@
  {
   "word": "aufgeben",
   "pos": "verb",
-  "frequency": 1212,
+  "frequency": 1217,
   "meanings": [
    {
     "english": "to post, to hand in (a parcel)",
@@ -2340,7 +2340,7 @@
  {
   "word": "aufhalten",
   "pos": "verb",
-  "frequency": 1213,
+  "frequency": 1218,
   "meanings": [
    {
     "english": "to stay, to be (somewhere)",
@@ -2402,7 +2402,7 @@
  {
   "word": "aufheben",
   "pos": "verb",
-  "frequency": 1214,
+  "frequency": 1219,
   "meanings": [
    {
     "english": "to pick up",
@@ -2451,7 +2451,7 @@
  {
   "word": "aufladen",
   "pos": "verb",
-  "frequency": 1215,
+  "frequency": 1220,
   "meanings": [
    {
     "english": "to charge (a battery)",
@@ -2479,7 +2479,7 @@
  {
   "word": "auflösen",
   "pos": "verb",
-  "frequency": 1216,
+  "frequency": 1221,
   "meanings": [
    {
     "english": "to dissolve",
@@ -2504,7 +2504,7 @@
  {
   "word": "aufmerksam",
   "pos": "adjective",
-  "frequency": 1217,
+  "frequency": 1222,
   "meanings": [
    {
     "english": "attentive",
@@ -2550,7 +2550,7 @@
  {
   "word": "Aufnahme",
   "pos": "noun",
-  "frequency": 1218,
+  "frequency": 1223,
   "meanings": [
    {
     "english": "recording",
@@ -2577,7 +2577,7 @@
  {
   "word": "aufnehmen",
   "pos": "verb",
-  "frequency": 1219,
+  "frequency": 1224,
   "meanings": [
    {
     "english": "to take in, to admit",
@@ -2621,7 +2621,7 @@
  {
   "word": "aufregen",
   "pos": "verb",
-  "frequency": 1220,
+  "frequency": 1225,
   "meanings": [
    {
     "english": "to upset, to get upset",
@@ -2665,7 +2665,7 @@
  {
   "word": "aufregend",
   "pos": "adjective",
-  "frequency": 1221,
+  "frequency": 1226,
   "meanings": [
    {
     "english": "exciting",
@@ -2690,7 +2690,7 @@
  {
   "word": "auftreten",
   "pos": "verb",
-  "frequency": 1222,
+  "frequency": 1227,
   "meanings": [
    {
     "english": "to appear, to perform",
@@ -2719,7 +2719,7 @@
  {
   "word": "aufwachen",
   "pos": "verb",
-  "frequency": 1223,
+  "frequency": 1228,
   "meanings": [
    {
     "english": "to wake up",
@@ -2744,7 +2744,7 @@
  {
   "word": "aufwärts",
   "pos": "adverb",
-  "frequency": 1224,
+  "frequency": 1229,
   "meanings": [
    {
     "english": "upward, uphill",
@@ -2793,7 +2793,7 @@
  {
   "word": "Ausdruck",
   "pos": "noun",
-  "frequency": 1225,
+  "frequency": 1230,
   "meanings": [
    {
     "english": "expression, phrase",
@@ -2840,7 +2840,7 @@
  {
   "word": "ausdrucken",
   "pos": "verb",
-  "frequency": 1226,
+  "frequency": 1231,
   "meanings": [
    {
     "english": "to print out",
@@ -2866,7 +2866,7 @@
  {
   "word": "Ausfahrt",
   "pos": "noun",
-  "frequency": 1227,
+  "frequency": 1232,
   "meanings": [
    {
     "english": "exit, driveway",
@@ -2910,7 +2910,7 @@
  {
   "word": "ausfallen",
   "pos": "verb",
-  "frequency": 1228,
+  "frequency": 1233,
   "meanings": [
    {
     "english": "to be cancelled",
@@ -2935,7 +2935,7 @@
  {
   "word": "Ausgabe",
   "pos": "noun",
-  "frequency": 1229,
+  "frequency": 1234,
   "meanings": [
    {
     "english": "expense, expenditure",
@@ -2998,7 +2998,7 @@
  {
   "word": "ausgebildet",
   "pos": "adjective",
-  "frequency": 1230,
+  "frequency": 1235,
   "meanings": [
    {
     "english": "trained, qualified",
@@ -3024,7 +3024,7 @@
  {
   "word": "ausgezeichnet",
   "pos": "adjective",
-  "frequency": 1231,
+  "frequency": 1236,
   "meanings": [
    {
     "english": "excellent",
@@ -3047,7 +3047,7 @@
  {
   "word": "Aushilfe",
   "pos": "noun",
-  "frequency": 1232,
+  "frequency": 1237,
   "meanings": [
    {
     "english": "temporary help, part-time worker",
@@ -3075,7 +3075,7 @@
  {
   "word": "Ausnahme",
   "pos": "noun",
-  "frequency": 1233,
+  "frequency": 1238,
   "meanings": [
    {
     "english": "exception",
@@ -3106,7 +3106,7 @@
  {
   "word": "ausreichen",
   "pos": "verb",
-  "frequency": 1234,
+  "frequency": 1239,
   "meanings": [
    {
     "english": "to be enough, to suffice",
@@ -3144,7 +3144,7 @@
  {
   "word": "ausrichten",
   "pos": "verb",
-  "frequency": 1235,
+  "frequency": 1240,
   "meanings": [
    {
     "english": "to pass on (a message)",
@@ -3173,7 +3173,7 @@
  {
   "word": "ausschließen",
   "pos": "verb",
-  "frequency": 1236,
+  "frequency": 1241,
   "meanings": [
    {
     "english": "to rule out, to exclude",
@@ -3198,7 +3198,7 @@
  {
   "word": "ausschließlich",
   "pos": "adverb",
-  "frequency": 1237,
+  "frequency": 1242,
   "meanings": [
    {
     "english": "exclusively, only",
@@ -3223,7 +3223,7 @@
  {
   "word": "außen",
   "pos": "adverb",
-  "frequency": 1238,
+  "frequency": 1243,
   "meanings": [
    {
     "english": "outside, on the outside",
@@ -3262,7 +3262,7 @@
  {
   "word": "außerdem",
   "pos": "adverb",
-  "frequency": 1239,
+  "frequency": 1244,
   "meanings": [
    {
     "english": "besides, in addition",
@@ -3302,7 +3302,7 @@
  {
   "word": "äußerlich",
   "pos": "adjective",
-  "frequency": 1240,
+  "frequency": 1245,
   "meanings": [
    {
     "english": "external, for external use",
@@ -3327,7 +3327,7 @@
  {
   "word": "Aussicht",
   "pos": "noun",
-  "frequency": 1241,
+  "frequency": 1246,
   "meanings": [
    {
     "english": "view",
@@ -3375,7 +3375,7 @@
  {
   "word": "Aussprache",
   "pos": "noun",
-  "frequency": 1242,
+  "frequency": 1247,
   "meanings": [
    {
     "english": "pronunciation",
@@ -3399,7 +3399,7 @@
  {
   "word": "ausstellen",
   "pos": "verb",
-  "frequency": 1243,
+  "frequency": 1248,
   "meanings": [
    {
     "english": "to display, to exhibit",
@@ -3441,7 +3441,7 @@
  {
   "word": "aussuchen",
   "pos": "verb",
-  "frequency": 1244,
+  "frequency": 1249,
   "meanings": [
    {
     "english": "to choose, to pick out",
@@ -3469,7 +3469,7 @@
  {
   "word": "Auswahl",
   "pos": "noun",
-  "frequency": 1245,
+  "frequency": 1250,
   "meanings": [
    {
     "english": "selection, choice",
@@ -3509,7 +3509,7 @@
  {
   "word": "auswählen",
   "pos": "verb",
-  "frequency": 1246,
+  "frequency": 1251,
   "meanings": [
    {
     "english": "to choose, to select",
@@ -3537,7 +3537,7 @@
  {
   "word": "Autor",
   "pos": "noun",
-  "frequency": 1247,
+  "frequency": 1252,
   "meanings": [
    {
     "english": "author",
@@ -3563,5 +3563,342 @@
   ],
   "article": "der",
   "notes": "Plural: die Autoren"
+ },
+ {
+  "word": "einschließlich",
+  "pos": "preposition",
+  "frequency": 1253,
+  "meanings": [
+   {
+    "english": "including, inclusive of",
+    "examples": [
+     {
+      "de": "Alle Gäste, einschließlich der Kinder, bekommen ein Geschenk.",
+      "en": "All guests, including the children, get a present.",
+      "glosses": {
+       "Alle": "all",
+       "Gäste": "guests",
+       "einschließlich": "including",
+       "der": "the",
+       "Kinder": "children",
+       "bekommen": "get",
+       "ein": "a",
+       "Geschenk": "present"
+      }
+     },
+     {
+      "de": "Das Zimmer kostet achtzig Euro einschließlich Frühstück.",
+      "en": "The room costs eighty euros including breakfast.",
+      "glosses": {
+       "Das": "the",
+       "Zimmer": "room",
+       "kostet": "costs",
+       "achtzig": "eighty",
+       "Euro": "euros",
+       "einschließlich": "including",
+       "Frühstück": "breakfast"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "entlang",
+  "pos": "preposition",
+  "frequency": 1254,
+  "meanings": [
+   {
+    "english": "along",
+    "examples": [
+     {
+      "de": "Wir gehen den Fluss entlang.",
+      "en": "We walk along the river.",
+      "glosses": {
+       "Wir": "we",
+       "gehen": "walk",
+       "den": "the",
+       "Fluss": "river",
+       "entlang": "along"
+      }
+     },
+     {
+      "de": "Die Straße entlang stehen alte Bäume.",
+      "en": "Old trees stand along the street.",
+      "glosses": {
+       "Die": "the",
+       "Straße": "street",
+       "entlang": "along",
+       "stehen": "stand",
+       "alte": "old",
+       "Bäume": "trees"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Akkusativ (after the noun)"
+ },
+ {
+  "word": "inklusive",
+  "pos": "preposition",
+  "frequency": 1255,
+  "meanings": [
+   {
+    "english": "including, inclusive of",
+    "examples": [
+     {
+      "de": "Der Preis gilt inklusive Frühstück.",
+      "en": "The price includes breakfast.",
+      "glosses": {
+       "Der": "the",
+       "Preis": "price",
+       "gilt": "applies",
+       "inklusive": "including",
+       "Frühstück": "breakfast"
+      }
+     },
+     {
+      "de": "Die Miete beträgt sechshundert Euro inklusive Nebenkosten.",
+      "en": "The rent is six hundred euros including utilities.",
+      "glosses": {
+       "Die": "the",
+       "Miete": "rent",
+       "beträgt": "is",
+       "sechshundert": "six hundred",
+       "Euro": "euros",
+       "inklusive": "including",
+       "Nebenkosten": "utilities"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "innerhalb",
+  "pos": "preposition",
+  "frequency": 1256,
+  "meanings": [
+   {
+    "english": "within, inside",
+    "examples": [
+     {
+      "de": "Innerhalb einer Woche bekommen Sie eine Antwort.",
+      "en": "Within a week you will get an answer.",
+      "glosses": {
+       "Innerhalb": "within",
+       "einer": "a",
+       "Woche": "week",
+       "bekommen": "get",
+       "Sie": "you",
+       "eine": "an",
+       "Antwort": "answer"
+      }
+     },
+     {
+      "de": "Innerhalb der Stadt gilt Tempo fünfzig.",
+      "en": "Within the city a speed limit of fifty applies.",
+      "glosses": {
+       "Innerhalb": "within",
+       "der": "the",
+       "Stadt": "city",
+       "gilt": "applies",
+       "Tempo": "speed",
+       "fünfzig": "fifty"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "nahe",
+  "pos": "preposition",
+  "frequency": 1257,
+  "meanings": [
+   {
+    "english": "near, close to",
+    "examples": [
+     {
+      "de": "Das Hotel liegt nahe dem Bahnhof.",
+      "en": "The hotel is near the station.",
+      "glosses": {
+       "Das": "the",
+       "Hotel": "hotel",
+       "liegt": "is located",
+       "nahe": "near",
+       "dem": "the",
+       "Bahnhof": "station"
+      }
+     },
+     {
+      "de": "Sie wohnt nahe der Universität.",
+      "en": "She lives near the university.",
+      "glosses": {
+       "Sie": "she",
+       "wohnt": "lives",
+       "nahe": "near",
+       "der": "the",
+       "Universität": "university"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Dativ"
+ },
+ {
+  "word": "per",
+  "pos": "preposition",
+  "frequency": 1258,
+  "meanings": [
+   {
+    "english": "by (means of), per",
+    "examples": [
+     {
+      "de": "Ich schicke dir die Datei per E-Mail.",
+      "en": "I will send you the file by email.",
+      "glosses": {
+       "Ich": "I",
+       "schicke": "send",
+       "dir": "you",
+       "die": "the",
+       "Datei": "file",
+       "per": "by",
+       "E-Mail": "email"
+      }
+     },
+     {
+      "de": "Sie bezahlt per Karte.",
+      "en": "She pays by card.",
+      "glosses": {
+       "Sie": "she",
+       "bezahlt": "pays",
+       "per": "by",
+       "Karte": "card"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Akkusativ"
+ },
+ {
+  "word": "statt",
+  "pos": "preposition",
+  "frequency": 1259,
+  "meanings": [
+   {
+    "english": "instead of",
+    "examples": [
+     {
+      "de": "Statt eines Autos kaufte er ein Fahrrad.",
+      "en": "Instead of a car he bought a bicycle.",
+      "glosses": {
+       "Statt": "instead of",
+       "eines": "a",
+       "Autos": "car",
+       "kaufte": "bought",
+       "er": "he",
+       "ein": "a",
+       "Fahrrad": "bicycle"
+      }
+     },
+     {
+      "de": "Statt des Kaffees trinke ich Tee.",
+      "en": "Instead of coffee I drink tea.",
+      "glosses": {
+       "Statt": "instead of",
+       "des": "the",
+       "Kaffees": "coffee",
+       "trinke": "drink",
+       "ich": "I",
+       "Tee": "tea"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "trotz",
+  "pos": "preposition",
+  "frequency": 1260,
+  "meanings": [
+   {
+    "english": "despite, in spite of",
+    "examples": [
+     {
+      "de": "Trotz des Wetters gehen wir spazieren.",
+      "en": "Despite the weather we are going for a walk.",
+      "glosses": {
+       "Trotz": "despite",
+       "des": "the",
+       "Wetters": "weather",
+       "gehen": "go",
+       "wir": "we",
+       "spazieren": "for a walk"
+      }
+     },
+     {
+      "de": "Trotz der Kälte trug sie keine Jacke.",
+      "en": "Despite the cold she wore no jacket.",
+      "glosses": {
+       "Trotz": "despite",
+       "der": "the",
+       "Kälte": "cold",
+       "trug": "wore",
+       "sie": "she",
+       "keine": "no",
+       "Jacke": "jacket"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "während",
+  "pos": "preposition",
+  "frequency": 1261,
+  "meanings": [
+   {
+    "english": "during",
+    "examples": [
+     {
+      "de": "Während des Films hat er geschlafen.",
+      "en": "He slept during the film.",
+      "glosses": {
+       "Während": "during",
+       "des": "the",
+       "Films": "film",
+       "hat": "has",
+       "er": "he",
+       "geschlafen": "slept"
+      }
+     },
+     {
+      "de": "Während der Ferien arbeitet sie im Café.",
+      "en": "During the holidays she works in a café.",
+      "glosses": {
+       "Während": "during",
+       "der": "the",
+       "Ferien": "holidays",
+       "arbeitet": "works",
+       "sie": "she",
+       "im": "in the",
+       "Café": "café"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
  }
 ]

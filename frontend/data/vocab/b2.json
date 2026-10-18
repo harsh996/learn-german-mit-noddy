@@ -1,0 +1,690 @@
+[
+ {
+  "word": "angesichts",
+  "pos": "preposition",
+  "frequency": 1262,
+  "meanings": [
+   {
+    "english": "in view of, considering",
+    "examples": [
+     {
+      "de": "Angesichts der Lage müssen wir handeln.",
+      "en": "In view of the situation we have to act.",
+      "glosses": {
+       "Angesichts": "in view of",
+       "der": "the",
+       "Lage": "situation",
+       "müssen": "must",
+       "wir": "we",
+       "handeln": "act"
+      }
+     },
+     {
+      "de": "Angesichts der hohen Preise sparen viele Menschen.",
+      "en": "Given the high prices, many people save.",
+      "glosses": {
+       "Angesichts": "given",
+       "der": "the",
+       "hohen": "high",
+       "Preise": "prices",
+       "sparen": "save",
+       "viele": "many",
+       "Menschen": "people"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "anhand",
+  "pos": "preposition",
+  "frequency": 1263,
+  "meanings": [
+   {
+    "english": "on the basis of, with the aid of",
+    "examples": [
+     {
+      "de": "Anhand der Fotos erkannte er den Dieb.",
+      "en": "On the basis of the photos he recognised the thief.",
+      "glosses": {
+       "Anhand": "on the basis of",
+       "der": "the",
+       "Fotos": "photos",
+       "erkannte": "recognised",
+       "er": "he",
+       "den": "the",
+       "Dieb": "thief"
+      }
+     },
+     {
+      "de": "Ich erkläre das anhand eines Beispiels.",
+      "en": "I explain this using an example.",
+      "glosses": {
+       "Ich": "I",
+       "erkläre": "explain",
+       "das": "this",
+       "anhand": "using",
+       "eines": "an",
+       "Beispiels": "example"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "anstelle",
+  "pos": "preposition",
+  "frequency": 1264,
+  "meanings": [
+   {
+    "english": "instead of, in place of",
+    "examples": [
+     {
+      "de": "Anstelle des Chefs kam seine Assistentin.",
+      "en": "Instead of the boss his assistant came.",
+      "glosses": {
+       "Anstelle": "instead of",
+       "des": "the",
+       "Chefs": "boss",
+       "kam": "came",
+       "seine": "his",
+       "Assistentin": "assistant"
+      }
+     },
+     {
+      "de": "Anstelle von Butter nehme ich Öl.",
+      "en": "Instead of butter I use oil.",
+      "glosses": {
+       "Anstelle": "instead of",
+       "von": "of",
+       "Butter": "butter",
+       "nehme": "take",
+       "ich": "I",
+       "Öl": "oil"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv (or anstelle von)"
+ },
+ {
+  "word": "aufgrund",
+  "pos": "preposition",
+  "frequency": 1265,
+  "meanings": [
+   {
+    "english": "because of, on the basis of",
+    "examples": [
+     {
+      "de": "Aufgrund des Staus kam er zu spät.",
+      "en": "Because of the traffic jam he arrived late.",
+      "glosses": {
+       "Aufgrund": "because of",
+       "des": "the",
+       "Staus": "traffic jam",
+       "kam": "came",
+       "er": "he",
+       "zu": "too",
+       "spät": "late"
+      }
+     },
+     {
+      "de": "Aufgrund der Krankheit bleibt sie zu Hause.",
+      "en": "Because of the illness she is staying at home.",
+      "glosses": {
+       "Aufgrund": "because of",
+       "der": "the",
+       "Krankheit": "illness",
+       "bleibt": "stays",
+       "sie": "she",
+       "zu": "at",
+       "Hause": "home"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "bezüglich",
+  "pos": "preposition",
+  "frequency": 1266,
+  "meanings": [
+   {
+    "english": "regarding, concerning, referring to",
+    "examples": [
+     {
+      "de": "Bezüglich Ihrer Anfrage melden wir uns morgen.",
+      "en": "Regarding your inquiry we will get back to you tomorrow.",
+      "glosses": {
+       "Bezüglich": "regarding",
+       "Ihrer": "your",
+       "Anfrage": "inquiry",
+       "melden": "get in touch",
+       "wir": "we",
+       "uns": "ourselves",
+       "morgen": "tomorrow"
+      }
+     },
+     {
+      "de": "Ich habe eine Frage bezüglich der Rechnung.",
+      "en": "I have a question concerning the invoice.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "eine": "a",
+       "Frage": "question",
+       "bezüglich": "concerning",
+       "der": "the",
+       "Rechnung": "invoice"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "dank",
+  "pos": "preposition",
+  "frequency": 1267,
+  "meanings": [
+   {
+    "english": "thanks to",
+    "examples": [
+     {
+      "de": "Dank deiner Hilfe habe ich es geschafft.",
+      "en": "Thanks to your help I made it.",
+      "glosses": {
+       "Dank": "thanks to",
+       "deiner": "your",
+       "Hilfe": "help",
+       "habe": "have",
+       "ich": "I",
+       "es": "it",
+       "geschafft": "managed"
+      }
+     },
+     {
+      "de": "Dank des guten Wetters konnten wir draußen essen.",
+      "en": "Thanks to the good weather we could eat outside.",
+      "glosses": {
+       "Dank": "thanks to",
+       "des": "the",
+       "guten": "good",
+       "Wetters": "weather",
+       "konnten": "could",
+       "wir": "we",
+       "draußen": "outside",
+       "essen": "eat"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv or Dativ"
+ },
+ {
+  "word": "entsprechend",
+  "pos": "preposition",
+  "frequency": 1268,
+  "meanings": [
+   {
+    "english": "in accordance with, according to, corresponding to",
+    "examples": [
+     {
+      "de": "Entsprechend den Anweisungen füllte er das Formular aus.",
+      "en": "In accordance with the instructions he filled out the form.",
+      "glosses": {
+       "Entsprechend": "in accordance with",
+       "den": "the",
+       "Anweisungen": "instructions",
+       "füllte": "filled",
+       "er": "he",
+       "das": "the",
+       "Formular": "form",
+       "aus": "out"
+      }
+     },
+     {
+      "de": "Das Gehalt wird der Erfahrung entsprechend gezahlt.",
+      "en": "The salary is paid according to experience.",
+      "glosses": {
+       "Das": "the",
+       "Gehalt": "salary",
+       "wird": "is",
+       "der": "the",
+       "Erfahrung": "experience",
+       "entsprechend": "according to",
+       "gezahlt": "paid"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Dativ"
+ },
+ {
+  "word": "gemäß",
+  "pos": "preposition",
+  "frequency": 1269,
+  "meanings": [
+   {
+    "english": "in accordance with, according to",
+    "examples": [
+     {
+      "de": "Gemäß dem Vertrag müssen Sie zahlen.",
+      "en": "According to the contract you have to pay.",
+      "glosses": {
+       "Gemäß": "according to",
+       "dem": "the",
+       "Vertrag": "contract",
+       "müssen": "must",
+       "Sie": "you",
+       "zahlen": "pay"
+      }
+     },
+     {
+      "de": "Wir handeln gemäß den Regeln.",
+      "en": "We act in accordance with the rules.",
+      "glosses": {
+       "Wir": "we",
+       "handeln": "act",
+       "gemäß": "in accordance with",
+       "den": "the",
+       "Regeln": "rules"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Dativ"
+ },
+ {
+  "word": "hinsichtlich",
+  "pos": "preposition",
+  "frequency": 1270,
+  "meanings": [
+   {
+    "english": "with regard to, regarding",
+    "examples": [
+     {
+      "de": "Hinsichtlich der Kosten gibt es noch Fragen.",
+      "en": "With regard to the costs there are still questions.",
+      "glosses": {
+       "Hinsichtlich": "regarding",
+       "der": "the",
+       "Kosten": "costs",
+       "gibt": "gives",
+       "es": "it",
+       "noch": "still",
+       "Fragen": "questions"
+      }
+     },
+     {
+      "de": "Wir sind uns hinsichtlich des Ziels einig.",
+      "en": "We agree regarding the goal.",
+      "glosses": {
+       "Wir": "we",
+       "sind": "are",
+       "uns": "ourselves",
+       "hinsichtlich": "regarding",
+       "des": "the",
+       "Ziels": "goal",
+       "einig": "in agreement"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "infolge",
+  "pos": "preposition",
+  "frequency": 1271,
+  "meanings": [
+   {
+    "english": "as a result of",
+    "examples": [
+     {
+      "de": "Infolge des Sturms fielen viele Züge aus.",
+      "en": "As a result of the storm many trains were cancelled.",
+      "glosses": {
+       "Infolge": "as a result of",
+       "des": "the",
+       "Sturms": "storm",
+       "fielen": "fell",
+       "viele": "many",
+       "Züge": "trains",
+       "aus": "out"
+      }
+     },
+     {
+      "de": "Infolge eines Fehlers wurde das Spiel abgebrochen.",
+      "en": "As a result of a mistake the game was stopped.",
+      "glosses": {
+       "Infolge": "as a result of",
+       "eines": "a",
+       "Fehlers": "mistake",
+       "wurde": "was",
+       "das": "the",
+       "Spiel": "game",
+       "abgebrochen": "stopped"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "jenseits",
+  "pos": "preposition",
+  "frequency": 1272,
+  "meanings": [
+   {
+    "english": "beyond, on the other side of",
+    "examples": [
+     {
+      "de": "Jenseits des Flusses beginnt der Wald.",
+      "en": "Beyond the river the forest begins.",
+      "glosses": {
+       "Jenseits": "beyond",
+       "des": "the",
+       "Flusses": "river",
+       "beginnt": "begins",
+       "der": "the",
+       "Wald": "forest"
+      }
+     },
+     {
+      "de": "Das liegt jenseits meiner Vorstellung.",
+      "en": "That is beyond my imagination.",
+      "glosses": {
+       "Das": "that",
+       "liegt": "lies",
+       "jenseits": "beyond",
+       "meiner": "my",
+       "Vorstellung": "imagination"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "laut",
+  "pos": "preposition",
+  "frequency": 1273,
+  "meanings": [
+   {
+    "english": "according to",
+    "examples": [
+     {
+      "de": "Laut dem Wetterbericht regnet es morgen.",
+      "en": "According to the weather forecast it will rain tomorrow.",
+      "glosses": {
+       "Laut": "according to",
+       "dem": "the",
+       "Wetterbericht": "weather forecast",
+       "regnet": "rains",
+       "es": "it",
+       "morgen": "tomorrow"
+      }
+     },
+     {
+      "de": "Laut Zeitung ist der Minister zurückgetreten.",
+      "en": "According to the newspaper the minister has resigned.",
+      "glosses": {
+       "Laut": "according to",
+       "Zeitung": "newspaper",
+       "ist": "is",
+       "der": "the",
+       "Minister": "minister",
+       "zurückgetreten": "resigned"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv or Dativ"
+ },
+ {
+  "word": "mithilfe",
+  "pos": "preposition",
+  "frequency": 1274,
+  "meanings": [
+   {
+    "english": "with the help of, by means of",
+    "examples": [
+     {
+      "de": "Mithilfe eines Wörterbuchs verstehe ich den Text.",
+      "en": "With the help of a dictionary I understand the text.",
+      "glosses": {
+       "Mithilfe": "with the help of",
+       "eines": "a",
+       "Wörterbuchs": "dictionary",
+       "verstehe": "understand",
+       "ich": "I",
+       "den": "the",
+       "Text": "text"
+      }
+     },
+     {
+      "de": "Mithilfe der Karte fanden wir den Weg.",
+      "en": "With the help of the map we found the way.",
+      "glosses": {
+       "Mithilfe": "with the help of",
+       "der": "the",
+       "Karte": "map",
+       "fanden": "found",
+       "wir": "we",
+       "den": "the",
+       "Weg": "way"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "mittels",
+  "pos": "preposition",
+  "frequency": 1275,
+  "meanings": [
+   {
+    "english": "by means of",
+    "examples": [
+     {
+      "de": "Das Tor öffnet sich mittels einer Fernbedienung.",
+      "en": "The gate opens by means of a remote control.",
+      "glosses": {
+       "Das": "the",
+       "Tor": "gate",
+       "öffnet": "opens",
+       "sich": "itself",
+       "mittels": "by means of",
+       "einer": "a",
+       "Fernbedienung": "remote control"
+      }
+     },
+     {
+      "de": "Mittels eines Tests prüft man die Sprachkenntnisse.",
+      "en": "Language skills are checked by means of a test.",
+      "glosses": {
+       "Mittels": "by means of",
+       "eines": "a",
+       "Tests": "test",
+       "prüft": "checks",
+       "man": "one",
+       "die": "the",
+       "Sprachkenntnisse": "language skills"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "samt",
+  "pos": "preposition",
+  "frequency": 1276,
+  "meanings": [
+   {
+    "english": "together with, along with",
+    "examples": [
+     {
+      "de": "Sie verkauften das Haus samt Garten.",
+      "en": "They sold the house together with the garden.",
+      "glosses": {
+       "Sie": "they",
+       "verkauften": "sold",
+       "das": "the",
+       "Haus": "house",
+       "samt": "together with",
+       "Garten": "garden"
+      }
+     },
+     {
+      "de": "Er kam samt Familie zur Feier.",
+      "en": "He came to the party with his whole family.",
+      "glosses": {
+       "Er": "he",
+       "kam": "came",
+       "samt": "together with",
+       "Familie": "family",
+       "zur": "to the",
+       "Feier": "party"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Dativ"
+ },
+ {
+  "word": "seitens",
+  "pos": "preposition",
+  "frequency": 1277,
+  "meanings": [
+   {
+    "english": "on the part of",
+    "examples": [
+     {
+      "de": "Seitens der Firma gibt es keine Einwände.",
+      "en": "On the part of the company there are no objections.",
+      "glosses": {
+       "Seitens": "on the part of",
+       "der": "the",
+       "Firma": "company",
+       "gibt": "gives",
+       "es": "it",
+       "keine": "no",
+       "Einwände": "objections"
+      }
+     },
+     {
+      "de": "Seitens der Schule wurde das Projekt gefördert.",
+      "en": "The project was supported by the school.",
+      "glosses": {
+       "Seitens": "on the part of",
+       "der": "the",
+       "Schule": "school",
+       "wurde": "was",
+       "das": "the",
+       "Projekt": "project",
+       "gefördert": "supported"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ },
+ {
+  "word": "zufolge",
+  "pos": "preposition",
+  "frequency": 1278,
+  "meanings": [
+   {
+    "english": "according to",
+    "examples": [
+     {
+      "de": "Dem Bericht zufolge steigen die Preise.",
+      "en": "According to the report prices are rising.",
+      "glosses": {
+       "Dem": "the",
+       "Bericht": "report",
+       "zufolge": "according to",
+       "steigen": "rise",
+       "die": "the",
+       "Preise": "prices"
+      }
+     },
+     {
+      "de": "Experten zufolge wird es bald wärmer.",
+      "en": "According to experts it will soon get warmer.",
+      "glosses": {
+       "Experten": "experts",
+       "zufolge": "according to",
+       "wird": "becomes",
+       "es": "it",
+       "bald": "soon",
+       "wärmer": "warmer"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Dativ (after the noun)"
+ },
+ {
+  "word": "zugunsten",
+  "pos": "preposition",
+  "frequency": 1279,
+  "meanings": [
+   {
+    "english": "in favour of",
+    "examples": [
+     {
+      "de": "Er verzichtet zugunsten seiner Schwester auf das Erbe.",
+      "en": "He gives up the inheritance in favour of his sister.",
+      "glosses": {
+       "Er": "he",
+       "verzichtet": "gives up",
+       "zugunsten": "in favour of",
+       "seiner": "his",
+       "Schwester": "sister",
+       "auf": "on",
+       "das": "the",
+       "Erbe": "inheritance"
+      }
+     },
+     {
+      "de": "Das Gericht entschied zugunsten des Kunden.",
+      "en": "The court ruled in favour of the customer.",
+      "glosses": {
+       "Das": "the",
+       "Gericht": "court",
+       "entschied": "decided",
+       "zugunsten": "in favour of",
+       "des": "the",
+       "Kunden": "customer"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "+ Genitiv"
+ }
+]
