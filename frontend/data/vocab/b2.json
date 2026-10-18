@@ -2,7 +2,7 @@
  {
   "word": "angesichts",
   "pos": "preposition",
-  "frequency": 1262,
+  "frequency": 1286,
   "meanings": [
    {
     "english": "in view of, considering",
@@ -40,7 +40,7 @@
  {
   "word": "anhand",
   "pos": "preposition",
-  "frequency": 1263,
+  "frequency": 1287,
   "meanings": [
    {
     "english": "on the basis of, with the aid of",
@@ -78,7 +78,7 @@
  {
   "word": "anstelle",
   "pos": "preposition",
-  "frequency": 1264,
+  "frequency": 1288,
   "meanings": [
    {
     "english": "instead of, in place of",
@@ -115,7 +115,7 @@
  {
   "word": "aufgrund",
   "pos": "preposition",
-  "frequency": 1265,
+  "frequency": 1289,
   "meanings": [
    {
     "english": "because of, on the basis of",
@@ -154,7 +154,7 @@
  {
   "word": "bezüglich",
   "pos": "preposition",
-  "frequency": 1266,
+  "frequency": 1290,
   "meanings": [
    {
     "english": "regarding, concerning, referring to",
@@ -193,7 +193,7 @@
  {
   "word": "dank",
   "pos": "preposition",
-  "frequency": 1267,
+  "frequency": 1291,
   "meanings": [
    {
     "english": "thanks to",
@@ -233,7 +233,7 @@
  {
   "word": "entsprechend",
   "pos": "preposition",
-  "frequency": 1268,
+  "frequency": 1292,
   "meanings": [
    {
     "english": "in accordance with, according to, corresponding to",
@@ -273,7 +273,7 @@
  {
   "word": "gemäß",
   "pos": "preposition",
-  "frequency": 1269,
+  "frequency": 1293,
   "meanings": [
    {
     "english": "in accordance with, according to",
@@ -309,7 +309,7 @@
  {
   "word": "hinsichtlich",
   "pos": "preposition",
-  "frequency": 1270,
+  "frequency": 1294,
   "meanings": [
    {
     "english": "with regard to, regarding",
@@ -348,7 +348,7 @@
  {
   "word": "infolge",
   "pos": "preposition",
-  "frequency": 1271,
+  "frequency": 1295,
   "meanings": [
    {
     "english": "as a result of",
@@ -387,7 +387,7 @@
  {
   "word": "jenseits",
   "pos": "preposition",
-  "frequency": 1272,
+  "frequency": 1296,
   "meanings": [
    {
     "english": "beyond, on the other side of",
@@ -423,7 +423,7 @@
  {
   "word": "laut",
   "pos": "preposition",
-  "frequency": 1273,
+  "frequency": 1297,
   "meanings": [
    {
     "english": "according to",
@@ -460,7 +460,7 @@
  {
   "word": "mithilfe",
   "pos": "preposition",
-  "frequency": 1274,
+  "frequency": 1298,
   "meanings": [
    {
     "english": "with the help of, by means of",
@@ -499,7 +499,7 @@
  {
   "word": "mittels",
   "pos": "preposition",
-  "frequency": 1275,
+  "frequency": 1299,
   "meanings": [
    {
     "english": "by means of",
@@ -538,7 +538,7 @@
  {
   "word": "samt",
   "pos": "preposition",
-  "frequency": 1276,
+  "frequency": 1300,
   "meanings": [
    {
     "english": "together with, along with",
@@ -575,7 +575,7 @@
  {
   "word": "seitens",
   "pos": "preposition",
-  "frequency": 1277,
+  "frequency": 1301,
   "meanings": [
    {
     "english": "on the part of",
@@ -614,7 +614,7 @@
  {
   "word": "zufolge",
   "pos": "preposition",
-  "frequency": 1278,
+  "frequency": 1302,
   "meanings": [
    {
     "english": "according to",
@@ -651,7 +651,7 @@
  {
   "word": "zugunsten",
   "pos": "preposition",
-  "frequency": 1279,
+  "frequency": 1303,
   "meanings": [
    {
     "english": "in favour of",

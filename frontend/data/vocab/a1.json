@@ -5821,9 +5821,44 @@
   "notes": "Plural: die Entschuldigungen"
  },
  {
+  "word": "Entschuldigung",
+  "pos": "interjection",
+  "frequency": 209,
+  "meanings": [
+   {
+    "english": "excuse me, sorry",
+    "examples": [
+     {
+      "de": "Entschuldigung, wo ist der Bahnhof?",
+      "en": "Excuse me, where is the station?",
+      "glosses": {
+       "Entschuldigung": "excuse me",
+       "wo": "where",
+       "ist": "is",
+       "der": "the",
+       "Bahnhof": "station"
+      }
+     },
+     {
+      "de": "Entschuldigung, ich bin zu spät.",
+      "en": "Sorry, I am late.",
+      "glosses": {
+       "Entschuldigung": "sorry",
+       "ich": "I",
+       "bin": "am",
+       "zu": "too",
+       "spät": "late"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "used to get attention or apologise"
+ },
+ {
   "word": "er",
   "pos": "pronoun",
-  "frequency": 209,
+  "frequency": 210,
   "meanings": [
    {
     "english": "he, it",
@@ -5845,7 +5880,7 @@
  {
   "word": "Ergebnis",
   "pos": "noun",
-  "frequency": 210,
+  "frequency": 211,
   "meanings": [
    {
     "english": "result",
@@ -5874,7 +5909,7 @@
  {
   "word": "erklären",
   "pos": "verb",
-  "frequency": 211,
+  "frequency": 212,
   "meanings": [
    {
     "english": "to explain",
@@ -5898,7 +5933,7 @@
  {
   "word": "erlauben",
   "pos": "verb",
-  "frequency": 212,
+  "frequency": 213,
   "meanings": [
    {
     "english": "to allow, to permit",
@@ -5922,7 +5957,7 @@
  {
   "word": "erste, zweite, dritte, vierte usw.",
   "pos": "number",
-  "frequency": 213,
+  "frequency": 214,
   "meanings": [
    {
     "english": "first, second, third, fourth (ordinals)",
@@ -5946,7 +5981,7 @@
  {
   "word": "Erwachsene",
   "pos": "noun",
-  "frequency": 214,
+  "frequency": 215,
   "meanings": [
    {
     "english": "adult",
@@ -5972,7 +6007,7 @@
  {
   "word": "erzählen",
   "pos": "verb",
-  "frequency": 215,
+  "frequency": 216,
   "meanings": [
    {
     "english": "to tell, to narrate",
@@ -5996,7 +6031,7 @@
  {
   "word": "es",
   "pos": "pronoun",
-  "frequency": 216,
+  "frequency": 217,
   "meanings": [
    {
     "english": "it",
@@ -6017,7 +6052,7 @@
  {
   "word": "Essen",
   "pos": "noun",
-  "frequency": 217,
+  "frequency": 218,
   "meanings": [
    {
     "english": "food, meal",
@@ -6042,7 +6077,7 @@
  {
   "word": "essen",
   "pos": "verb",
-  "frequency": 218,
+  "frequency": 219,
   "meanings": [
    {
     "english": "to eat",
@@ -6066,7 +6101,7 @@
  {
   "word": "euer",
   "pos": "pronoun",
-  "frequency": 219,
+  "frequency": 220,
   "meanings": [
    {
     "english": "your (informal, plural)",
@@ -6089,7 +6124,7 @@
  {
   "word": "europäisch",
   "pos": "adjective",
-  "frequency": 220,
+  "frequency": 221,
   "meanings": [
    {
     "english": "European",
@@ -6112,7 +6147,7 @@
  {
   "word": "fahren",
   "pos": "verb",
-  "frequency": 221,
+  "frequency": 222,
   "meanings": [
    {
     "english": "to drive, to go (by vehicle)",
@@ -6138,7 +6173,7 @@
  {
   "word": "Fahrer",
   "pos": "noun",
-  "frequency": 222,
+  "frequency": 223,
   "meanings": [
    {
     "english": "driver",
@@ -6164,7 +6199,7 @@
  {
   "word": "Fahrkarte",
   "pos": "noun",
-  "frequency": 223,
+  "frequency": 224,
   "meanings": [
    {
     "english": "ticket (transport)",
@@ -6189,7 +6224,7 @@
  {
   "word": "Fahrrad",
   "pos": "noun",
-  "frequency": 224,
+  "frequency": 225,
   "meanings": [
    {
     "english": "bicycle",
@@ -6216,7 +6251,7 @@
  {
   "word": "falsch",
   "pos": "adjective",
-  "frequency": 225,
+  "frequency": 226,
   "meanings": [
    {
     "english": "wrong, false",
@@ -6237,7 +6272,7 @@
  {
   "word": "Familie",
   "pos": "noun",
-  "frequency": 226,
+  "frequency": 227,
   "meanings": [
    {
     "english": "family",
@@ -6262,7 +6297,7 @@
  {
   "word": "Familienname",
   "pos": "noun",
-  "frequency": 227,
+  "frequency": 228,
   "meanings": [
    {
     "english": "surname, family name",
@@ -6287,7 +6322,7 @@
  {
   "word": "Familienstand",
   "pos": "noun",
-  "frequency": 228,
+  "frequency": 229,
   "meanings": [
    {
     "english": "marital status",
@@ -6312,7 +6347,7 @@
  {
   "word": "Farbe",
   "pos": "noun",
-  "frequency": 229,
+  "frequency": 230,
   "meanings": [
    {
     "english": "color",
@@ -6337,7 +6372,7 @@
  {
   "word": "Fax",
   "pos": "noun",
-  "frequency": 230,
+  "frequency": 231,
   "meanings": [
    {
     "english": "fax",
@@ -6363,7 +6398,7 @@
  {
   "word": "fehlen",
   "pos": "verb",
-  "frequency": 231,
+  "frequency": 232,
   "meanings": [
    {
     "english": "to be missing, to be absent",
@@ -6407,7 +6442,7 @@
  {
   "word": "Fehler",
   "pos": "noun",
-  "frequency": 232,
+  "frequency": 233,
   "meanings": [
    {
     "english": "mistake, error",
@@ -6432,7 +6467,7 @@
  {
   "word": "Feierabend",
   "pos": "noun",
-  "frequency": 233,
+  "frequency": 234,
   "meanings": [
    {
     "english": "end of the working day, \"quitting time\"",
@@ -6458,7 +6493,7 @@
  {
   "word": "feiern",
   "pos": "verb",
-  "frequency": 234,
+  "frequency": 235,
   "meanings": [
    {
     "english": "to celebrate",
@@ -6482,7 +6517,7 @@
  {
   "word": "Feiertag",
   "pos": "noun",
-  "frequency": 235,
+  "frequency": 236,
   "meanings": [
    {
     "english": "public holiday",
@@ -6506,7 +6541,7 @@
  {
   "word": "fernsehen",
   "pos": "verb",
-  "frequency": 236,
+  "frequency": 237,
   "meanings": [
    {
     "english": "to watch TV",
@@ -6531,7 +6566,7 @@
  {
   "word": "fertig",
   "pos": "adjective",
-  "frequency": 237,
+  "frequency": 238,
   "meanings": [
    {
     "english": "finished, ready",
@@ -6563,7 +6598,7 @@
  {
   "word": "Feuer",
   "pos": "noun",
-  "frequency": 238,
+  "frequency": 239,
   "meanings": [
    {
     "english": "fire, light (for a cigarette)",
@@ -6585,7 +6620,7 @@
  {
   "word": "Fieber",
   "pos": "noun",
-  "frequency": 239,
+  "frequency": 240,
   "meanings": [
    {
     "english": "fever",
@@ -6610,7 +6645,7 @@
  {
   "word": "Film",
   "pos": "noun",
-  "frequency": 240,
+  "frequency": 241,
   "meanings": [
    {
     "english": "film, movie",
@@ -6636,7 +6671,7 @@
  {
   "word": "finden",
   "pos": "verb",
-  "frequency": 241,
+  "frequency": 242,
   "meanings": [
    {
     "english": "to find",
@@ -6660,7 +6695,7 @@
  {
   "word": "Firma",
   "pos": "noun",
-  "frequency": 242,
+  "frequency": 243,
   "meanings": [
    {
     "english": "company, firm",
@@ -6687,7 +6722,7 @@
  {
   "word": "Fisch",
   "pos": "noun",
-  "frequency": 243,
+  "frequency": 244,
   "meanings": [
    {
     "english": "fish",
@@ -6715,7 +6750,7 @@
  {
   "word": "Flasche",
   "pos": "noun",
-  "frequency": 244,
+  "frequency": 245,
   "meanings": [
    {
     "english": "bottle",
@@ -6739,7 +6774,7 @@
  {
   "word": "Fleisch",
   "pos": "noun",
-  "frequency": 245,
+  "frequency": 246,
   "meanings": [
    {
     "english": "meat",
@@ -6762,7 +6797,7 @@
  {
   "word": "fliegen",
   "pos": "verb",
-  "frequency": 246,
+  "frequency": 247,
   "meanings": [
    {
     "english": "to fly",
@@ -6791,7 +6826,7 @@
  {
   "word": "Flughafen",
   "pos": "noun",
-  "frequency": 247,
+  "frequency": 248,
   "meanings": [
    {
     "english": "airport",
@@ -6817,7 +6852,7 @@
  {
   "word": "Flugzeug",
   "pos": "noun",
-  "frequency": 248,
+  "frequency": 249,
   "meanings": [
    {
     "english": "airplane",
@@ -6845,7 +6880,7 @@
  {
   "word": "Formular",
   "pos": "noun",
-  "frequency": 249,
+  "frequency": 250,
   "meanings": [
    {
     "english": "form",
@@ -6870,7 +6905,7 @@
  {
   "word": "Foto",
   "pos": "noun",
-  "frequency": 250,
+  "frequency": 251,
   "meanings": [
    {
     "english": "photo",
@@ -6895,7 +6930,7 @@
  {
   "word": "Frage",
   "pos": "noun",
-  "frequency": 251,
+  "frequency": 252,
   "meanings": [
    {
     "english": "question",
@@ -6919,7 +6954,7 @@
  {
   "word": "fragen",
   "pos": "verb",
-  "frequency": 252,
+  "frequency": 253,
   "meanings": [
    {
     "english": "to ask",
@@ -6945,7 +6980,7 @@
  {
   "word": "Frau",
   "pos": "noun",
-  "frequency": 253,
+  "frequency": 254,
   "meanings": [
    {
     "english": "woman",
@@ -6996,7 +7031,7 @@
  {
   "word": "frei",
   "pos": "adjective",
-  "frequency": 254,
+  "frequency": 255,
   "meanings": [
    {
     "english": "free, vacant",
@@ -7019,7 +7054,7 @@
  {
   "word": "Freizeit",
   "pos": "noun",
-  "frequency": 255,
+  "frequency": 256,
   "meanings": [
    {
     "english": "free time, leisure",
@@ -7045,7 +7080,7 @@
  {
   "word": "fremd",
   "pos": "adjective",
-  "frequency": 256,
+  "frequency": 257,
   "meanings": [
    {
     "english": "unfamiliar, foreign",
@@ -7070,7 +7105,7 @@
  {
   "word": "Freund",
   "pos": "noun",
-  "frequency": 257,
+  "frequency": 258,
   "meanings": [
    {
     "english": "friend",
@@ -7106,7 +7141,7 @@
  {
   "word": "Frühstück",
   "pos": "noun",
-  "frequency": 258,
+  "frequency": 259,
   "meanings": [
    {
     "english": "breakfast",
@@ -7132,7 +7167,7 @@
  {
   "word": "frühstücken",
   "pos": "verb",
-  "frequency": 259,
+  "frequency": 260,
   "meanings": [
    {
     "english": "to have breakfast",
@@ -7158,7 +7193,7 @@
  {
   "word": "Führung",
   "pos": "noun",
-  "frequency": 260,
+  "frequency": 261,
   "meanings": [
    {
     "english": "guided tour",
@@ -7186,7 +7221,7 @@
  {
   "word": "fünf",
   "pos": "number",
-  "frequency": 261,
+  "frequency": 262,
   "meanings": [
    {
     "english": "five",
@@ -7209,7 +7244,7 @@
  {
   "word": "fünfzehn",
   "pos": "number",
-  "frequency": 262,
+  "frequency": 263,
   "meanings": [
    {
     "english": "fifteen",
@@ -7233,7 +7268,7 @@
  {
   "word": "fünfzig",
   "pos": "number",
-  "frequency": 263,
+  "frequency": 264,
   "meanings": [
    {
     "english": "fifty",
@@ -7257,7 +7292,7 @@
  {
   "word": "für",
   "pos": "preposition",
-  "frequency": 264,
+  "frequency": 265,
   "meanings": [
    {
     "english": "for",
@@ -7304,7 +7339,7 @@
  {
   "word": "Fuß",
   "pos": "noun",
-  "frequency": 265,
+  "frequency": 266,
   "meanings": [
    {
     "english": "foot",
@@ -7330,7 +7365,7 @@
  {
   "word": "Fußball",
   "pos": "noun",
-  "frequency": 266,
+  "frequency": 267,
   "meanings": [
    {
     "english": "soccer, football",
@@ -7353,7 +7388,7 @@
  {
   "word": "Garten",
   "pos": "noun",
-  "frequency": 267,
+  "frequency": 268,
   "meanings": [
    {
     "english": "garden",
@@ -7378,7 +7413,7 @@
  {
   "word": "Gast",
   "pos": "noun",
-  "frequency": 268,
+  "frequency": 269,
   "meanings": [
    {
     "english": "guest",
@@ -7404,7 +7439,7 @@
  {
   "word": "geben",
   "pos": "verb",
-  "frequency": 269,
+  "frequency": 270,
   "meanings": [
    {
     "english": "to give",
@@ -7446,7 +7481,7 @@
  {
   "word": "geboren",
   "pos": "adjective",
-  "frequency": 270,
+  "frequency": 271,
   "meanings": [
    {
     "english": "born",
@@ -7469,7 +7504,7 @@
  {
   "word": "Geburtsjahr",
   "pos": "noun",
-  "frequency": 271,
+  "frequency": 272,
   "meanings": [
    {
     "english": "year of birth",
@@ -7494,7 +7529,7 @@
  {
   "word": "Geburtsort",
   "pos": "noun",
-  "frequency": 272,
+  "frequency": 273,
   "meanings": [
    {
     "english": "place of birth",
@@ -7522,7 +7557,7 @@
  {
   "word": "Geburtstag",
   "pos": "noun",
-  "frequency": 273,
+  "frequency": 274,
   "meanings": [
    {
     "english": "birthday",
@@ -7546,7 +7581,7 @@
  {
   "word": "gefallen",
   "pos": "verb",
-  "frequency": 274,
+  "frequency": 275,
   "meanings": [
    {
     "english": "to please, to like (be pleasing to)",
@@ -7568,7 +7603,7 @@
  {
   "word": "gegen",
   "pos": "preposition",
-  "frequency": 275,
+  "frequency": 276,
   "meanings": [
    {
     "english": "against, into (collide)",
@@ -7612,7 +7647,7 @@
  {
   "word": "gehen",
   "pos": "verb",
-  "frequency": 276,
+  "frequency": 277,
   "meanings": [
    {
     "english": "to go, to walk",
@@ -7687,7 +7722,7 @@
  {
   "word": "gehören",
   "pos": "verb",
-  "frequency": 277,
+  "frequency": 278,
   "meanings": [
    {
     "english": "to belong to",
@@ -7709,7 +7744,7 @@
  {
   "word": "gelb",
   "pos": "adjective",
-  "frequency": 278,
+  "frequency": 279,
   "meanings": [
    {
     "english": "yellow",
@@ -7731,7 +7766,7 @@
  {
   "word": "Geld",
   "pos": "noun",
-  "frequency": 279,
+  "frequency": 280,
   "meanings": [
    {
     "english": "money",
@@ -7754,7 +7789,7 @@
  {
   "word": "Gemüse",
   "pos": "noun",
-  "frequency": 280,
+  "frequency": 281,
   "meanings": [
    {
     "english": "vegetables",
@@ -7778,7 +7813,7 @@
  {
   "word": "Gepäck",
   "pos": "noun",
-  "frequency": 281,
+  "frequency": 282,
   "meanings": [
    {
     "english": "luggage, baggage",
@@ -7802,7 +7837,7 @@
  {
   "word": "gerade",
   "pos": "adverb",
-  "frequency": 282,
+  "frequency": 283,
   "meanings": [
    {
     "english": "just, at the moment",
@@ -7825,7 +7860,7 @@
  {
   "word": "geradeaus",
   "pos": "adverb",
-  "frequency": 283,
+  "frequency": 284,
   "meanings": [
    {
     "english": "straight ahead",
@@ -7847,7 +7882,7 @@
  {
   "word": "gern",
   "pos": "adverb",
-  "frequency": 284,
+  "frequency": 285,
   "meanings": [
    {
     "english": "gladly, with pleasure",
@@ -7869,7 +7904,7 @@
  {
   "word": "Geschäft",
   "pos": "noun",
-  "frequency": 285,
+  "frequency": 286,
   "meanings": [
    {
     "english": "shop, store",
@@ -7894,7 +7929,7 @@
  {
   "word": "Geschenk",
   "pos": "noun",
-  "frequency": 286,
+  "frequency": 287,
   "meanings": [
    {
     "english": "gift, present",
@@ -7919,7 +7954,7 @@
  {
   "word": "Geschwister",
   "pos": "noun",
-  "frequency": 287,
+  "frequency": 288,
   "meanings": [
    {
     "english": "siblings",
@@ -7943,7 +7978,7 @@
  {
   "word": "Gespräch",
   "pos": "noun",
-  "frequency": 288,
+  "frequency": 289,
   "meanings": [
    {
     "english": "conversation, talk",
@@ -7971,7 +8006,7 @@
  {
   "word": "gestern",
   "pos": "adverb",
-  "frequency": 289,
+  "frequency": 290,
   "meanings": [
    {
     "english": "yesterday",
@@ -7993,7 +8028,7 @@
  {
   "word": "gestorben",
   "pos": "adjective",
-  "frequency": 290,
+  "frequency": 291,
   "meanings": [
    {
     "english": "dead, deceased",
@@ -8016,7 +8051,7 @@
  {
   "word": "Getränk",
   "pos": "noun",
-  "frequency": 291,
+  "frequency": 292,
   "meanings": [
    {
     "english": "drink, beverage",
@@ -8040,7 +8075,7 @@
  {
   "word": "Gewicht",
   "pos": "noun",
-  "frequency": 292,
+  "frequency": 293,
   "meanings": [
    {
     "english": "weight",
@@ -8064,7 +8099,7 @@
  {
   "word": "gewinnen",
   "pos": "verb",
-  "frequency": 293,
+  "frequency": 294,
   "meanings": [
    {
     "english": "to win",
@@ -8087,7 +8122,7 @@
  {
   "word": "Glas",
   "pos": "noun",
-  "frequency": 294,
+  "frequency": 295,
   "meanings": [
    {
     "english": "glass",
@@ -8123,7 +8158,7 @@
  {
   "word": "glauben",
   "pos": "verb",
-  "frequency": 295,
+  "frequency": 296,
   "meanings": [
    {
     "english": "to believe, to think",
@@ -8160,7 +8195,7 @@
  {
   "word": "gleich",
   "pos": "adverb",
-  "frequency": 296,
+  "frequency": 297,
   "meanings": [
    {
     "english": "soon, right away",
@@ -8218,7 +8253,7 @@
  {
   "word": "Gleis",
   "pos": "noun",
-  "frequency": 297,
+  "frequency": 298,
   "meanings": [
    {
     "english": "track, platform",
@@ -8246,7 +8281,7 @@
  {
   "word": "Glück",
   "pos": "noun",
-  "frequency": 298,
+  "frequency": 299,
   "meanings": [
    {
     "english": "luck, happiness",
@@ -8267,7 +8302,7 @@
  {
   "word": "glücklich",
   "pos": "adjective",
-  "frequency": 299,
+  "frequency": 300,
   "meanings": [
    {
     "english": "happy",
@@ -8290,7 +8325,7 @@
  {
   "word": "Glückwunsch",
   "pos": "noun",
-  "frequency": 300,
+  "frequency": 301,
   "meanings": [
    {
     "english": "congratulations, best wishes",
@@ -8314,7 +8349,7 @@
  {
   "word": "Grad",
   "pos": "noun",
-  "frequency": 301,
+  "frequency": 302,
   "meanings": [
    {
     "english": "degree (temperature)",
@@ -8339,7 +8374,7 @@
  {
   "word": "gratulieren",
   "pos": "verb",
-  "frequency": 302,
+  "frequency": 303,
   "meanings": [
    {
     "english": "to congratulate",
@@ -8361,7 +8396,7 @@
  {
   "word": "grau",
   "pos": "adjective",
-  "frequency": 303,
+  "frequency": 304,
   "meanings": [
    {
     "english": "gray",
@@ -8384,7 +8419,7 @@
  {
   "word": "grillen",
   "pos": "verb",
-  "frequency": 304,
+  "frequency": 305,
   "meanings": [
    {
     "english": "to grill, to barbecue",
@@ -8408,7 +8443,7 @@
  {
   "word": "groß",
   "pos": "adjective",
-  "frequency": 305,
+  "frequency": 306,
   "meanings": [
    {
     "english": "big, tall, large",
@@ -8444,7 +8479,7 @@
  {
   "word": "Größe",
   "pos": "noun",
-  "frequency": 306,
+  "frequency": 307,
   "meanings": [
    {
     "english": "size",
@@ -8470,7 +8505,7 @@
  {
   "word": "Großeltern",
   "pos": "noun",
-  "frequency": 307,
+  "frequency": 308,
   "meanings": [
    {
     "english": "grandparents",
@@ -8494,7 +8529,7 @@
  {
   "word": "Großmutter",
   "pos": "noun",
-  "frequency": 308,
+  "frequency": 309,
   "meanings": [
    {
     "english": "grandmother",
@@ -8518,7 +8553,7 @@
  {
   "word": "Großvater",
   "pos": "noun",
-  "frequency": 309,
+  "frequency": 310,
   "meanings": [
    {
     "english": "grandfather",
@@ -8542,7 +8577,7 @@
  {
   "word": "grün",
   "pos": "adjective",
-  "frequency": 310,
+  "frequency": 311,
   "meanings": [
    {
     "english": "green",
@@ -8565,7 +8600,7 @@
  {
   "word": "Gruppe",
   "pos": "noun",
-  "frequency": 311,
+  "frequency": 312,
   "meanings": [
    {
     "english": "group",
@@ -8591,7 +8626,7 @@
  {
   "word": "Gruß",
   "pos": "noun",
-  "frequency": 312,
+  "frequency": 313,
   "meanings": [
    {
     "english": "greeting, regards",
@@ -8616,7 +8651,7 @@
  {
   "word": "gültig",
   "pos": "adjective",
-  "frequency": 313,
+  "frequency": 314,
   "meanings": [
    {
     "english": "valid",
@@ -8640,7 +8675,7 @@
  {
   "word": "günstig",
   "pos": "adjective",
-  "frequency": 314,
+  "frequency": 315,
   "meanings": [
    {
     "english": "favorable, good value",
@@ -8663,7 +8698,7 @@
  {
   "word": "gut",
   "pos": "adjective",
-  "frequency": 315,
+  "frequency": 316,
   "meanings": [
    {
     "english": "good",
@@ -8750,7 +8785,7 @@
  {
   "word": "Haar",
   "pos": "noun",
-  "frequency": 316,
+  "frequency": 317,
   "meanings": [
    {
     "english": "hair",
@@ -8774,7 +8809,7 @@
  {
   "word": "haben",
   "pos": "verb",
-  "frequency": 317,
+  "frequency": 318,
   "meanings": [
    {
     "english": "to have",
@@ -8798,7 +8833,7 @@
  {
   "word": "Hähnchen",
   "pos": "noun",
-  "frequency": 318,
+  "frequency": 319,
   "meanings": [
    {
     "english": "chicken",
@@ -8823,7 +8858,7 @@
  {
   "word": "Halbpension",
   "pos": "noun",
-  "frequency": 319,
+  "frequency": 320,
   "meanings": [
    {
     "english": "half board",
@@ -8847,7 +8882,7 @@
  {
   "word": "Halle",
   "pos": "noun",
-  "frequency": 320,
+  "frequency": 321,
   "meanings": [
    {
     "english": "hall",
@@ -8873,7 +8908,7 @@
  {
   "word": "Hallo",
   "pos": "interjection",
-  "frequency": 321,
+  "frequency": 322,
   "meanings": [
    {
     "english": "hello",
@@ -8895,7 +8930,7 @@
  {
   "word": "halten",
   "pos": "verb",
-  "frequency": 322,
+  "frequency": 323,
   "meanings": [
    {
     "english": "to stop, to hold",
@@ -8920,7 +8955,7 @@
  {
   "word": "Haltestelle",
   "pos": "noun",
-  "frequency": 323,
+  "frequency": 324,
   "meanings": [
    {
     "english": "stop (bus, tram)",
@@ -8947,7 +8982,7 @@
  {
   "word": "Hand",
   "pos": "noun",
-  "frequency": 324,
+  "frequency": 325,
   "meanings": [
    {
     "english": "hand",
@@ -8972,7 +9007,7 @@
  {
   "word": "Handy",
   "pos": "noun",
-  "frequency": 325,
+  "frequency": 326,
   "meanings": [
    {
     "english": "mobile phone, cell phone",
@@ -8999,7 +9034,7 @@
  {
   "word": "Haus",
   "pos": "noun",
-  "frequency": 326,
+  "frequency": 327,
   "meanings": [
    {
     "english": "house, building",
@@ -9024,7 +9059,7 @@
  {
   "word": "Hausaufgabe",
   "pos": "noun",
-  "frequency": 327,
+  "frequency": 328,
   "meanings": [
    {
     "english": "homework assignment",
@@ -9051,7 +9086,7 @@
  {
   "word": "Hausfrau",
   "pos": "noun",
-  "frequency": 328,
+  "frequency": 329,
   "meanings": [
    {
     "english": "housewife",
@@ -9078,7 +9113,7 @@
  {
   "word": "Hausmann",
   "pos": "noun",
-  "frequency": 329,
+  "frequency": 330,
   "meanings": [
    {
     "english": "househusband",
@@ -9105,7 +9140,7 @@
  {
   "word": "Heimat",
   "pos": "noun",
-  "frequency": 330,
+  "frequency": 331,
   "meanings": [
    {
     "english": "homeland, home country",
@@ -9133,7 +9168,7 @@
  {
   "word": "heiraten",
   "pos": "verb",
-  "frequency": 331,
+  "frequency": 332,
   "meanings": [
    {
     "english": "to marry, to get married",
@@ -9157,7 +9192,7 @@
  {
   "word": "heißen",
   "pos": "verb",
-  "frequency": 332,
+  "frequency": 333,
   "meanings": [
    {
     "english": "to be called, to be named",
@@ -9196,7 +9231,7 @@
  {
   "word": "helfen",
   "pos": "verb",
-  "frequency": 333,
+  "frequency": 334,
   "meanings": [
    {
     "english": "to help",
@@ -9220,7 +9255,7 @@
  {
   "word": "hell",
   "pos": "adjective",
-  "frequency": 334,
+  "frequency": 335,
   "meanings": [
    {
     "english": "bright, light",
@@ -9245,7 +9280,7 @@
  {
   "word": "her",
   "pos": "adverb",
-  "frequency": 335,
+  "frequency": 336,
   "meanings": [
    {
     "english": "here (toward the speaker)",
@@ -9265,7 +9300,7 @@
  {
   "word": "Herd",
   "pos": "noun",
-  "frequency": 336,
+  "frequency": 337,
   "meanings": [
    {
     "english": "stove, cooker",
@@ -9292,7 +9327,7 @@
  {
   "word": "Herr",
   "pos": "noun",
-  "frequency": 337,
+  "frequency": 338,
   "meanings": [
    {
     "english": "gentleman, Mr.",
@@ -9316,7 +9351,7 @@
  {
   "word": "herzlich",
   "pos": "adjective",
-  "frequency": 338,
+  "frequency": 339,
   "meanings": [
    {
     "english": "warm, cordial, heartfelt",
@@ -9336,7 +9371,7 @@
  {
   "word": "heute",
   "pos": "adverb",
-  "frequency": 339,
+  "frequency": 340,
   "meanings": [
    {
     "english": "today",
@@ -9359,7 +9394,7 @@
  {
   "word": "hier",
   "pos": "adverb",
-  "frequency": 340,
+  "frequency": 341,
   "meanings": [
    {
     "english": "here",
@@ -9390,7 +9425,7 @@
  {
   "word": "Hilfe",
   "pos": "noun",
-  "frequency": 341,
+  "frequency": 342,
   "meanings": [
    {
     "english": "help",
@@ -9424,7 +9459,7 @@
  {
   "word": "hin",
   "pos": "adverb",
-  "frequency": 342,
+  "frequency": 343,
   "meanings": [
    {
     "english": "there (away from the speaker)",
@@ -9446,7 +9481,7 @@
  {
   "word": "hinten",
   "pos": "adverb",
-  "frequency": 343,
+  "frequency": 344,
   "meanings": [
    {
     "english": "at the back",
@@ -9470,7 +9505,7 @@
  {
   "word": "Hobby",
   "pos": "noun",
-  "frequency": 344,
+  "frequency": 345,
   "meanings": [
    {
     "english": "hobby",
@@ -9496,7 +9531,7 @@
  {
   "word": "hoch",
   "pos": "adjective",
-  "frequency": 345,
+  "frequency": 346,
   "meanings": [
    {
     "english": "high, tall",
@@ -9520,7 +9555,7 @@
  {
   "word": "Hochzeit",
   "pos": "noun",
-  "frequency": 346,
+  "frequency": 347,
   "meanings": [
    {
     "english": "wedding",
@@ -9548,7 +9583,7 @@
  {
   "word": "holen",
   "pos": "verb",
-  "frequency": 347,
+  "frequency": 348,
   "meanings": [
    {
     "english": "to fetch, to get",
@@ -9575,7 +9610,7 @@
  {
   "word": "hören",
   "pos": "verb",
-  "frequency": 348,
+  "frequency": 349,
   "meanings": [
    {
     "english": "to hear, to listen",
@@ -9612,7 +9647,7 @@
  {
   "word": "Hotel",
   "pos": "noun",
-  "frequency": 349,
+  "frequency": 350,
   "meanings": [
    {
     "english": "hotel",
@@ -9641,7 +9676,7 @@
  {
   "word": "Hund",
   "pos": "noun",
-  "frequency": 350,
+  "frequency": 351,
   "meanings": [
    {
     "english": "dog",
@@ -9666,7 +9701,7 @@
  {
   "word": "hunderteins",
   "pos": "number",
-  "frequency": 351,
+  "frequency": 352,
   "meanings": [
    {
     "english": "one hundred and one",
@@ -9691,7 +9726,7 @@
  {
   "word": "Hunger",
   "pos": "noun",
-  "frequency": 352,
+  "frequency": 353,
   "meanings": [
    {
     "english": "hunger",
@@ -9718,7 +9753,7 @@
  {
   "word": "ich",
   "pos": "pronoun",
-  "frequency": 353,
+  "frequency": 354,
   "meanings": [
    {
     "english": "I",
@@ -9740,7 +9775,7 @@
  {
   "word": "ihm",
   "pos": "pronoun",
-  "frequency": 354,
+  "frequency": 355,
   "meanings": [
    {
     "english": "him, to him (dative)",
@@ -9775,7 +9810,7 @@
  {
   "word": "ihn",
   "pos": "pronoun",
-  "frequency": 355,
+  "frequency": 356,
   "meanings": [
    {
     "english": "him (accusative)",
@@ -9810,7 +9845,7 @@
  {
   "word": "ihr",
   "pos": "pronoun",
-  "frequency": 356,
+  "frequency": 357,
   "meanings": [
    {
     "english": "her, to her (dative)",
@@ -9845,7 +9880,7 @@
  {
   "word": "im",
   "pos": "preposition",
-  "frequency": 357,
+  "frequency": 358,
   "meanings": [
    {
     "english": "in the, at the, on the",
@@ -9881,7 +9916,7 @@
  {
   "word": "in",
   "pos": "preposition",
-  "frequency": 358,
+  "frequency": 359,
   "meanings": [
    {
     "english": "in, into",
@@ -9943,7 +9978,7 @@
  {
   "word": "Information",
   "pos": "noun",
-  "frequency": 359,
+  "frequency": 360,
   "meanings": [
    {
     "english": "information desk",
@@ -9988,7 +10023,7 @@
  {
   "word": "ins",
   "pos": "preposition",
-  "frequency": 360,
+  "frequency": 361,
   "meanings": [
    {
     "english": "into the, to the",
@@ -10023,7 +10058,7 @@
  {
   "word": "international",
   "pos": "adjective",
-  "frequency": 361,
+  "frequency": 362,
   "meanings": [
    {
     "english": "international",
@@ -10049,7 +10084,7 @@
  {
   "word": "Internet",
   "pos": "noun",
-  "frequency": 362,
+  "frequency": 363,
   "meanings": [
    {
     "english": "internet",
@@ -10073,7 +10108,7 @@
  {
   "word": "Ja",
   "pos": "interjection",
-  "frequency": 363,
+  "frequency": 364,
   "meanings": [
    {
     "english": "yes",
@@ -10096,7 +10131,7 @@
  {
   "word": "Jacke",
   "pos": "noun",
-  "frequency": 364,
+  "frequency": 365,
   "meanings": [
    {
     "english": "jacket",
@@ -10124,7 +10159,7 @@
  {
   "word": "Jahr",
   "pos": "noun",
-  "frequency": 365,
+  "frequency": 366,
   "meanings": [
    {
     "english": "year",
@@ -10150,7 +10185,7 @@
  {
   "word": "jed-",
   "pos": "pronoun",
-  "frequency": 366,
+  "frequency": 367,
   "meanings": [
    {
     "english": "every, each",
@@ -10176,7 +10211,7 @@
  {
   "word": "jetzt",
   "pos": "adverb",
-  "frequency": 367,
+  "frequency": 368,
   "meanings": [
    {
     "english": "now",
@@ -10199,7 +10234,7 @@
  {
   "word": "Job",
   "pos": "noun",
-  "frequency": 368,
+  "frequency": 369,
   "meanings": [
    {
     "english": "job",
@@ -10227,7 +10262,7 @@
  {
   "word": "Jugendliche",
   "pos": "noun",
-  "frequency": 369,
+  "frequency": 370,
   "meanings": [
    {
     "english": "teenager, young person",
@@ -10252,7 +10287,7 @@
  {
   "word": "jung",
   "pos": "adjective",
-  "frequency": 370,
+  "frequency": 371,
   "meanings": [
    {
     "english": "young",
@@ -10276,7 +10311,7 @@
  {
   "word": "Junge",
   "pos": "noun",
-  "frequency": 371,
+  "frequency": 372,
   "meanings": [
    {
     "english": "boy",
@@ -10305,7 +10340,7 @@
  {
   "word": "Kaffee",
   "pos": "noun",
-  "frequency": 372,
+  "frequency": 373,
   "meanings": [
    {
     "english": "coffee",
@@ -10330,7 +10365,7 @@
  {
   "word": "kaputt",
   "pos": "adjective",
-  "frequency": 373,
+  "frequency": 374,
   "meanings": [
    {
     "english": "broken",
@@ -10357,7 +10392,7 @@
  {
   "word": "Karte",
   "pos": "noun",
-  "frequency": 374,
+  "frequency": 375,
   "meanings": [
    {
     "english": "card, postcard",
@@ -10418,7 +10453,7 @@
  {
   "word": "Kartoffel",
   "pos": "noun",
-  "frequency": 375,
+  "frequency": 376,
   "meanings": [
    {
     "english": "potato",
@@ -10444,7 +10479,7 @@
  {
   "word": "Kasse",
   "pos": "noun",
-  "frequency": 376,
+  "frequency": 377,
   "meanings": [
    {
     "english": "cash register, checkout",
@@ -10470,7 +10505,7 @@
  {
   "word": "kaufen",
   "pos": "verb",
-  "frequency": 377,
+  "frequency": 378,
   "meanings": [
    {
     "english": "to buy",
@@ -10495,7 +10530,7 @@
  {
   "word": "kennen",
   "pos": "verb",
-  "frequency": 378,
+  "frequency": 379,
   "meanings": [
    {
     "english": "to know (a person/place)",
@@ -10521,7 +10556,7 @@
  {
   "word": "kennenlernen",
   "pos": "verb",
-  "frequency": 379,
+  "frequency": 380,
   "meanings": [
    {
     "english": "to get to know, to meet",
@@ -10547,7 +10582,7 @@
  {
   "word": "Kind",
   "pos": "noun",
-  "frequency": 380,
+  "frequency": 381,
   "meanings": [
    {
     "english": "child",
@@ -10572,7 +10607,7 @@
  {
   "word": "Kindergarten",
   "pos": "noun",
-  "frequency": 381,
+  "frequency": 382,
   "meanings": [
    {
     "english": "kindergarten, nursery school",
@@ -10600,7 +10635,7 @@
  {
   "word": "Kino",
   "pos": "noun",
-  "frequency": 382,
+  "frequency": 383,
   "meanings": [
    {
     "english": "cinema, movie theater",
@@ -10629,7 +10664,7 @@
  {
   "word": "Kiosk",
   "pos": "noun",
-  "frequency": 383,
+  "frequency": 384,
   "meanings": [
    {
     "english": "kiosk, newsstand",
@@ -10657,7 +10692,7 @@
  {
   "word": "klar",
   "pos": "adjective",
-  "frequency": 384,
+  "frequency": 385,
   "meanings": [
    {
     "english": "clear, of course",
@@ -10679,7 +10714,7 @@
  {
   "word": "Klasse",
   "pos": "noun",
-  "frequency": 385,
+  "frequency": 386,
   "meanings": [
    {
     "english": "class (school)",
@@ -10722,7 +10757,7 @@
  {
   "word": "Kleidung",
   "pos": "noun",
-  "frequency": 386,
+  "frequency": 387,
   "meanings": [
    {
     "english": "clothing, clothes",
@@ -10751,7 +10786,7 @@
  {
   "word": "klein",
   "pos": "adjective",
-  "frequency": 387,
+  "frequency": 388,
   "meanings": [
    {
     "english": "small, little",
@@ -10776,7 +10811,7 @@
  {
   "word": "kochen",
   "pos": "verb",
-  "frequency": 388,
+  "frequency": 389,
   "meanings": [
    {
     "english": "to cook",
@@ -10800,7 +10835,7 @@
  {
   "word": "Koffer",
   "pos": "noun",
-  "frequency": 389,
+  "frequency": 390,
   "meanings": [
    {
     "english": "suitcase",
@@ -10824,7 +10859,7 @@
  {
   "word": "Kollege",
   "pos": "noun",
-  "frequency": 390,
+  "frequency": 391,
   "meanings": [
    {
     "english": "colleague, coworker",
@@ -10849,7 +10884,7 @@
  {
   "word": "kommen",
   "pos": "verb",
-  "frequency": 391,
+  "frequency": 392,
   "meanings": [
    {
     "english": "to come",
@@ -10884,7 +10919,7 @@
  {
   "word": "können",
   "pos": "verb",
-  "frequency": 392,
+  "frequency": 393,
   "meanings": [
    {
     "english": "can, to be able to",
@@ -10918,7 +10953,7 @@
  {
   "word": "Konto",
   "pos": "noun",
-  "frequency": 393,
+  "frequency": 394,
   "meanings": [
    {
     "english": "(bank) account",
@@ -10948,7 +10983,7 @@
  {
   "word": "Kopf",
   "pos": "noun",
-  "frequency": 394,
+  "frequency": 395,
   "meanings": [
    {
     "english": "head",
@@ -10972,7 +11007,7 @@
  {
   "word": "kosten",
   "pos": "verb",
-  "frequency": 395,
+  "frequency": 396,
   "meanings": [
    {
     "english": "to cost",
@@ -10996,7 +11031,7 @@
  {
   "word": "krank",
   "pos": "adjective",
-  "frequency": 396,
+  "frequency": 397,
   "meanings": [
    {
     "english": "sick, ill",
@@ -11027,7 +11062,7 @@
  {
   "word": "Kreditkarte",
   "pos": "noun",
-  "frequency": 397,
+  "frequency": 398,
   "meanings": [
    {
     "english": "credit card",
@@ -11054,7 +11089,7 @@
  {
   "word": "kriegen",
   "pos": "verb",
-  "frequency": 398,
+  "frequency": 399,
   "meanings": [
    {
     "english": "to get, to receive (informal)",
@@ -11082,7 +11117,7 @@
  {
   "word": "Küche",
   "pos": "noun",
-  "frequency": 399,
+  "frequency": 400,
   "meanings": [
    {
     "english": "kitchen",
@@ -11109,7 +11144,7 @@
  {
   "word": "Kuchen",
   "pos": "noun",
-  "frequency": 400,
+  "frequency": 401,
   "meanings": [
    {
     "english": "cake",
@@ -11134,7 +11169,7 @@
  {
   "word": "Kugelschreiber",
   "pos": "noun",
-  "frequency": 401,
+  "frequency": 402,
   "meanings": [
    {
     "english": "ballpoint pen",
@@ -11160,7 +11195,7 @@
  {
   "word": "Kühlschrank",
   "pos": "noun",
-  "frequency": 402,
+  "frequency": 403,
   "meanings": [
    {
     "english": "refrigerator, fridge",
@@ -11187,7 +11222,7 @@
  {
   "word": "kulturell",
   "pos": "adjective",
-  "frequency": 403,
+  "frequency": 404,
   "meanings": [
    {
     "english": "cultural",
@@ -11213,7 +11248,7 @@
  {
   "word": "kümmern",
   "pos": "verb",
-  "frequency": 404,
+  "frequency": 405,
   "meanings": [
    {
     "english": "to take care of, to look after",
@@ -11240,7 +11275,7 @@
  {
   "word": "Kunde",
   "pos": "noun",
-  "frequency": 405,
+  "frequency": 406,
   "meanings": [
    {
     "english": "customer",
@@ -11267,7 +11302,7 @@
  {
   "word": "Kurs",
   "pos": "noun",
-  "frequency": 406,
+  "frequency": 407,
   "meanings": [
    {
     "english": "course, class",
@@ -11293,7 +11328,7 @@
  {
   "word": "kurz",
   "pos": "adjective",
-  "frequency": 407,
+  "frequency": 408,
   "meanings": [
    {
     "english": "short",
@@ -11315,7 +11350,7 @@
  {
   "word": "lachen",
   "pos": "verb",
-  "frequency": 408,
+  "frequency": 409,
   "meanings": [
    {
     "english": "to laugh",
@@ -11338,7 +11373,7 @@
  {
   "word": "Laden",
   "pos": "noun",
-  "frequency": 409,
+  "frequency": 410,
   "meanings": [
    {
     "english": "shop, store",
@@ -11364,7 +11399,7 @@
  {
   "word": "Land",
   "pos": "noun",
-  "frequency": 410,
+  "frequency": 411,
   "meanings": [
    {
     "english": "country",
@@ -11389,7 +11424,7 @@
  {
   "word": "lang",
   "pos": "adjective",
-  "frequency": 411,
+  "frequency": 412,
   "meanings": [
    {
     "english": "long",
@@ -11412,7 +11447,7 @@
  {
   "word": "lange",
   "pos": "adverb",
-  "frequency": 412,
+  "frequency": 413,
   "meanings": [
    {
     "english": "long (duration)",
@@ -11439,7 +11474,7 @@
  {
   "word": "langsam",
   "pos": "adjective",
-  "frequency": 413,
+  "frequency": 414,
   "meanings": [
    {
     "english": "slow, slowly",
@@ -11463,7 +11498,7 @@
  {
   "word": "laufen",
   "pos": "verb",
-  "frequency": 414,
+  "frequency": 415,
   "meanings": [
    {
     "english": "to walk, to run",
@@ -11488,7 +11523,7 @@
  {
   "word": "laut",
   "pos": "adjective",
-  "frequency": 415,
+  "frequency": 416,
   "meanings": [
    {
     "english": "loud",
@@ -11512,7 +11547,7 @@
  {
   "word": "Leben",
   "pos": "noun",
-  "frequency": 416,
+  "frequency": 417,
   "meanings": [
    {
     "english": "life",
@@ -11538,7 +11573,7 @@
  {
   "word": "leben",
   "pos": "verb",
-  "frequency": 417,
+  "frequency": 418,
   "meanings": [
    {
     "english": "to live, to be alive",
@@ -11573,7 +11608,7 @@
  {
   "word": "Lebensmittel",
   "pos": "noun",
-  "frequency": 418,
+  "frequency": 419,
   "meanings": [
    {
     "english": "groceries, food",
@@ -11597,7 +11632,7 @@
  {
   "word": "ledig",
   "pos": "adjective",
-  "frequency": 419,
+  "frequency": 420,
   "meanings": [
    {
     "english": "single, unmarried",
@@ -11620,7 +11655,7 @@
  {
   "word": "legen",
   "pos": "verb",
-  "frequency": 420,
+  "frequency": 421,
   "meanings": [
    {
     "english": "to lay, to put (flat)",
@@ -11646,7 +11681,7 @@
  {
   "word": "Lehrer",
   "pos": "noun",
-  "frequency": 421,
+  "frequency": 422,
   "meanings": [
    {
     "english": "teacher",
@@ -11671,7 +11706,7 @@
  {
   "word": "leicht",
   "pos": "adjective",
-  "frequency": 422,
+  "frequency": 423,
   "meanings": [
    {
     "english": "light (weight)",
@@ -11708,7 +11743,7 @@
  {
   "word": "leise",
   "pos": "adjective",
-  "frequency": 423,
+  "frequency": 424,
   "meanings": [
    {
     "english": "quiet",
@@ -11732,7 +11767,7 @@
  {
   "word": "lernen",
   "pos": "verb",
-  "frequency": 424,
+  "frequency": 425,
   "meanings": [
    {
     "english": "to learn",
@@ -11757,7 +11792,7 @@
  {
   "word": "lesen",
   "pos": "verb",
-  "frequency": 425,
+  "frequency": 426,
   "meanings": [
    {
     "english": "to read",
@@ -11783,7 +11818,7 @@
  {
   "word": "letzt-",
   "pos": "adjective",
-  "frequency": 426,
+  "frequency": 427,
   "meanings": [
    {
     "english": "last",
@@ -11806,7 +11841,7 @@
  {
   "word": "Leute",
   "pos": "noun",
-  "frequency": 427,
+  "frequency": 428,
   "meanings": [
    {
     "english": "people",
@@ -11831,7 +11866,7 @@
  {
   "word": "Licht",
   "pos": "noun",
-  "frequency": 428,
+  "frequency": 429,
   "meanings": [
    {
     "english": "light",
@@ -11858,7 +11893,7 @@
  {
   "word": "lieb-",
   "pos": "adjective",
-  "frequency": 429,
+  "frequency": 430,
   "meanings": [
    {
     "english": "dear",
@@ -11882,7 +11917,7 @@
  {
   "word": "lieben",
   "pos": "verb",
-  "frequency": 430,
+  "frequency": 431,
   "meanings": [
    {
     "english": "to love",
@@ -11904,7 +11939,7 @@
  {
   "word": "lieber",
   "pos": "adverb",
-  "frequency": 431,
+  "frequency": 432,
   "meanings": [
    {
     "english": "rather, preferably",
@@ -11928,7 +11963,7 @@
  {
   "word": "Lied",
   "pos": "noun",
-  "frequency": 432,
+  "frequency": 433,
   "meanings": [
    {
     "english": "song",
@@ -11952,7 +11987,7 @@
  {
   "word": "liegen",
   "pos": "verb",
-  "frequency": 433,
+  "frequency": 434,
   "meanings": [
    {
     "english": "to lie, to be lying",
@@ -11994,7 +12029,7 @@
  {
   "word": "links",
   "pos": "adverb",
-  "frequency": 434,
+  "frequency": 435,
   "meanings": [
    {
     "english": "left, on the left",
@@ -12018,7 +12053,7 @@
  {
   "word": "Lkw",
   "pos": "noun",
-  "frequency": 435,
+  "frequency": 436,
   "meanings": [
    {
     "english": "truck, lorry",
@@ -12043,7 +12078,7 @@
  {
   "word": "Lokal",
   "pos": "noun",
-  "frequency": 436,
+  "frequency": 437,
   "meanings": [
    {
     "english": "restaurant, pub",
@@ -12071,7 +12106,7 @@
  {
   "word": "Lösung",
   "pos": "noun",
-  "frequency": 437,
+  "frequency": 438,
   "meanings": [
    {
     "english": "solution, answer",
@@ -12096,7 +12131,7 @@
  {
   "word": "lustig",
   "pos": "adjective",
-  "frequency": 438,
+  "frequency": 439,
   "meanings": [
    {
     "english": "funny, cheerful",
@@ -12121,7 +12156,7 @@
  {
   "word": "machen",
   "pos": "verb",
-  "frequency": 439,
+  "frequency": 440,
   "meanings": [
    {
     "english": "to do, to make",
@@ -12185,7 +12220,7 @@
  {
   "word": "Mädchen",
   "pos": "noun",
-  "frequency": 440,
+  "frequency": 441,
   "meanings": [
    {
     "english": "girl",
@@ -12213,7 +12248,7 @@
  {
   "word": "man",
   "pos": "pronoun",
-  "frequency": 441,
+  "frequency": 442,
   "meanings": [
    {
     "english": "one, you (generic)",
@@ -12237,7 +12272,7 @@
  {
   "word": "Mann",
   "pos": "noun",
-  "frequency": 442,
+  "frequency": 443,
   "meanings": [
    {
     "english": "man",
@@ -12267,7 +12302,7 @@
  {
   "word": "männlich",
   "pos": "adjective",
-  "frequency": 443,
+  "frequency": 444,
   "meanings": [
    {
     "english": "male",
@@ -12292,7 +12327,7 @@
  {
   "word": "Maschine",
   "pos": "noun",
-  "frequency": 444,
+  "frequency": 445,
   "meanings": [
    {
     "english": "machine",
@@ -12316,7 +12351,7 @@
  {
   "word": "Meer",
   "pos": "noun",
-  "frequency": 445,
+  "frequency": 446,
   "meanings": [
    {
     "english": "sea, ocean",
@@ -12341,7 +12376,7 @@
  {
   "word": "mehr",
   "pos": "adverb",
-  "frequency": 446,
+  "frequency": 447,
   "meanings": [
    {
     "english": "more",
@@ -12367,7 +12402,7 @@
  {
   "word": "mein",
   "pos": "pronoun",
-  "frequency": 447,
+  "frequency": 448,
   "meanings": [
    {
     "english": "my",
@@ -12390,7 +12425,7 @@
  {
   "word": "meist-",
   "pos": "adjective",
-  "frequency": 448,
+  "frequency": 449,
   "meanings": [
    {
     "english": "most",
@@ -12414,7 +12449,7 @@
  {
   "word": "Mensch",
   "pos": "noun",
-  "frequency": 449,
+  "frequency": 450,
   "meanings": [
    {
     "english": "human being, person",
@@ -12442,7 +12477,7 @@
  {
   "word": "Miete",
   "pos": "noun",
-  "frequency": 450,
+  "frequency": 451,
   "meanings": [
    {
     "english": "rent",
@@ -12469,7 +12504,7 @@
  {
   "word": "mieten",
   "pos": "verb",
-  "frequency": 451,
+  "frequency": 452,
   "meanings": [
    {
     "english": "to rent",
@@ -12493,7 +12528,7 @@
  {
   "word": "Milch",
   "pos": "noun",
-  "frequency": 452,
+  "frequency": 453,
   "meanings": [
    {
     "english": "milk",
@@ -12517,7 +12552,7 @@
  {
   "word": "Minute",
   "pos": "noun",
-  "frequency": 453,
+  "frequency": 454,
   "meanings": [
    {
     "english": "minute",
@@ -12543,7 +12578,7 @@
  {
   "word": "mit",
   "pos": "preposition",
-  "frequency": 454,
+  "frequency": 455,
   "meanings": [
    {
     "english": "with",
@@ -12567,7 +12602,7 @@
  {
   "word": "mitbringen",
   "pos": "verb",
-  "frequency": 455,
+  "frequency": 456,
   "meanings": [
    {
     "english": "to bring along",
@@ -12594,7 +12629,7 @@
  {
   "word": "mitkommen",
   "pos": "verb",
-  "frequency": 456,
+  "frequency": 457,
   "meanings": [
    {
     "english": "to come along",
@@ -12620,7 +12655,7 @@
  {
   "word": "mitmachen",
   "pos": "verb",
-  "frequency": 457,
+  "frequency": 458,
   "meanings": [
    {
     "english": "to join in, to take part",
@@ -12644,7 +12679,7 @@
  {
   "word": "mitnehmen",
   "pos": "verb",
-  "frequency": 458,
+  "frequency": 459,
   "meanings": [
    {
     "english": "to take along",
@@ -12670,7 +12705,7 @@
  {
   "word": "Mittag",
   "pos": "noun",
-  "frequency": 459,
+  "frequency": 460,
   "meanings": [
    {
     "english": "midday, noon",
@@ -12694,7 +12729,7 @@
  {
   "word": "Mitte",
   "pos": "noun",
-  "frequency": 460,
+  "frequency": 461,
   "meanings": [
    {
     "english": "middle, center",
@@ -12722,7 +12757,7 @@
  {
   "word": "Möbel",
   "pos": "noun",
-  "frequency": 461,
+  "frequency": 462,
   "meanings": [
    {
     "english": "furniture",
@@ -12745,7 +12780,7 @@
  {
   "word": "möchten",
   "pos": "verb",
-  "frequency": 462,
+  "frequency": 463,
   "meanings": [
    {
     "english": "would like (to)",
@@ -12768,7 +12803,7 @@
  {
   "word": "mögen",
   "pos": "verb",
-  "frequency": 463,
+  "frequency": 464,
   "meanings": [
    {
     "english": "to like",
@@ -12792,7 +12827,7 @@
  {
   "word": "Moment",
   "pos": "noun",
-  "frequency": 464,
+  "frequency": 465,
   "meanings": [
    {
     "english": "moment",
@@ -12824,7 +12859,7 @@
  {
   "word": "Morgen",
   "pos": "noun",
-  "frequency": 465,
+  "frequency": 466,
   "meanings": [
    {
     "english": "morning",
@@ -12848,7 +12883,7 @@
  {
   "word": "morgen",
   "pos": "adverb",
-  "frequency": 466,
+  "frequency": 467,
   "meanings": [
    {
     "english": "tomorrow",
@@ -12872,7 +12907,7 @@
  {
   "word": "müde",
   "pos": "adjective",
-  "frequency": 467,
+  "frequency": 468,
   "meanings": [
    {
     "english": "tired",
@@ -12895,7 +12930,7 @@
  {
   "word": "Mund",
   "pos": "noun",
-  "frequency": 468,
+  "frequency": 469,
   "meanings": [
    {
     "english": "mouth",
@@ -12919,7 +12954,7 @@
  {
   "word": "müssen",
   "pos": "verb",
-  "frequency": 469,
+  "frequency": 470,
   "meanings": [
    {
     "english": "must, to have to",
@@ -12946,7 +12981,7 @@
  {
   "word": "Mutter",
   "pos": "noun",
-  "frequency": 470,
+  "frequency": 471,
   "meanings": [
    {
     "english": "mother",
@@ -12973,7 +13008,7 @@
  {
   "word": "nach",
   "pos": "preposition",
-  "frequency": 471,
+  "frequency": 472,
   "meanings": [
    {
     "english": "to",
@@ -13021,7 +13056,7 @@
  {
   "word": "Nachmittag",
   "pos": "noun",
-  "frequency": 472,
+  "frequency": 473,
   "meanings": [
    {
     "english": "afternoon",
@@ -13046,7 +13081,7 @@
  {
   "word": "nächst-",
   "pos": "adjective",
-  "frequency": 473,
+  "frequency": 474,
   "meanings": [
    {
     "english": "next",
@@ -13069,7 +13104,7 @@
  {
   "word": "Nacht",
   "pos": "noun",
-  "frequency": 474,
+  "frequency": 475,
   "meanings": [
    {
     "english": "night",
@@ -13094,7 +13129,7 @@
  {
   "word": "Name",
   "pos": "noun",
-  "frequency": 475,
+  "frequency": 476,
   "meanings": [
    {
     "english": "name",
@@ -13117,9 +13152,47 @@
   "notes": "Plural: die Namen"
  },
  {
+  "word": "nee",
+  "pos": "interjection",
+  "frequency": 477,
+  "meanings": [
+   {
+    "english": "no (informal)",
+    "examples": [
+     {
+      "de": "Nee, danke, ich habe keinen Hunger.",
+      "en": "No thanks, I'm not hungry.",
+      "glosses": {
+       "Nee": "no",
+       "danke": "thanks",
+       "ich": "I",
+       "habe": "have",
+       "keinen": "no",
+       "Hunger": "hunger"
+      }
+     },
+     {
+      "de": "Kommst du mit? – Nee, ich bleibe hier.",
+      "en": "Are you coming? – Nah, I'm staying here.",
+      "glosses": {
+       "Kommst": "come",
+       "du": "you",
+       "mit": "along",
+       "Nee": "nah",
+       "ich": "I",
+       "bleibe": "stay",
+       "hier": "here"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial for \"nein\""
+ },
+ {
   "word": "nehmen",
   "pos": "verb",
-  "frequency": 476,
+  "frequency": 478,
   "meanings": [
    {
     "english": "to take",
@@ -13155,7 +13228,7 @@
  {
   "word": "Nein",
   "pos": "interjection",
-  "frequency": 477,
+  "frequency": 479,
   "meanings": [
    {
     "english": "no",
@@ -13183,7 +13256,7 @@
  {
   "word": "neu",
   "pos": "adjective",
-  "frequency": 478,
+  "frequency": 480,
   "meanings": [
    {
     "english": "new",
@@ -13217,7 +13290,7 @@
  {
   "word": "neun",
   "pos": "number",
-  "frequency": 479,
+  "frequency": 481,
   "meanings": [
    {
     "english": "nine",
@@ -13242,7 +13315,7 @@
  {
   "word": "neunzehn",
   "pos": "number",
-  "frequency": 480,
+  "frequency": 482,
   "meanings": [
    {
     "english": "nineteen",
@@ -13265,7 +13338,7 @@
  {
   "word": "neunzig",
   "pos": "number",
-  "frequency": 481,
+  "frequency": 483,
   "meanings": [
    {
     "english": "ninety",
@@ -13290,7 +13363,7 @@
  {
   "word": "nicht",
   "pos": "adverb",
-  "frequency": 482,
+  "frequency": 484,
   "meanings": [
    {
     "english": "not",
@@ -13327,7 +13400,7 @@
  {
   "word": "nichts",
   "pos": "pronoun",
-  "frequency": 483,
+  "frequency": 485,
   "meanings": [
    {
     "english": "nothing",
@@ -13359,7 +13432,7 @@
  {
   "word": "nie",
   "pos": "adverb",
-  "frequency": 484,
+  "frequency": 486,
   "meanings": [
    {
     "english": "never",
@@ -13379,9 +13452,47 @@
   ]
  },
  {
+  "word": "nö",
+  "pos": "interjection",
+  "frequency": 487,
+  "meanings": [
+   {
+    "english": "nope, nah",
+    "examples": [
+     {
+      "de": "Nö, das mache ich nicht.",
+      "en": "Nope, I'm not doing that.",
+      "glosses": {
+       "Nö": "nope",
+       "das": "that",
+       "mache": "do",
+       "ich": "I",
+       "nicht": "not"
+      }
+     },
+     {
+      "de": "Hast du Lust auf Kino? – Nö, heute nicht.",
+      "en": "Do you feel like the cinema? – Nah, not today.",
+      "glosses": {
+       "Hast": "have",
+       "du": "you",
+       "Lust": "desire",
+       "auf": "for",
+       "Kino": "cinema",
+       "Nö": "nah",
+       "heute": "today",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial for \"nein\""
+ },
+ {
   "word": "noch",
   "pos": "adverb",
-  "frequency": 485,
+  "frequency": 488,
   "meanings": [
    {
     "english": "still, yet",
@@ -13429,7 +13540,7 @@
  {
   "word": "normal",
   "pos": "adjective",
-  "frequency": 486,
+  "frequency": 489,
   "meanings": [
    {
     "english": "normal",
@@ -13452,7 +13563,7 @@
  {
   "word": "Nummer",
   "pos": "noun",
-  "frequency": 487,
+  "frequency": 490,
   "meanings": [
    {
     "english": "number",
@@ -13499,7 +13610,7 @@
  {
   "word": "nur",
   "pos": "adverb",
-  "frequency": 488,
+  "frequency": 491,
   "meanings": [
    {
     "english": "only, just",
@@ -13523,7 +13634,7 @@
  {
   "word": "oben",
   "pos": "adverb",
-  "frequency": 489,
+  "frequency": 492,
   "meanings": [
    {
     "english": "above, upstairs",
@@ -13544,7 +13655,7 @@
  {
   "word": "Obst",
   "pos": "noun",
-  "frequency": 490,
+  "frequency": 493,
   "meanings": [
    {
     "english": "fruit",
@@ -13569,7 +13680,7 @@
  {
   "word": "oder",
   "pos": "conjunction",
-  "frequency": 491,
+  "frequency": 494,
   "meanings": [
    {
     "english": "or",
@@ -13594,7 +13705,7 @@
  {
   "word": "öffnen",
   "pos": "verb",
-  "frequency": 492,
+  "frequency": 495,
   "meanings": [
    {
     "english": "to open",
@@ -13617,7 +13728,7 @@
  {
   "word": "oft",
   "pos": "adverb",
-  "frequency": 493,
+  "frequency": 496,
   "meanings": [
    {
     "english": "often",
@@ -13639,7 +13750,7 @@
  {
   "word": "ohne",
   "pos": "preposition",
-  "frequency": 494,
+  "frequency": 497,
   "meanings": [
    {
     "english": "without",
@@ -13675,7 +13786,7 @@
  {
   "word": "Oma",
   "pos": "noun",
-  "frequency": 495,
+  "frequency": 498,
   "meanings": [
    {
     "english": "grandma",
@@ -13700,7 +13811,7 @@
  {
   "word": "Opa",
   "pos": "noun",
-  "frequency": 496,
+  "frequency": 499,
   "meanings": [
    {
     "english": "grandpa",
@@ -13724,7 +13835,7 @@
  {
   "word": "Ordnung",
   "pos": "noun",
-  "frequency": 497,
+  "frequency": 500,
   "meanings": [
    {
     "english": "order, tidiness",
@@ -13747,7 +13858,7 @@
  {
   "word": "Ort",
   "pos": "noun",
-  "frequency": 498,
+  "frequency": 501,
   "meanings": [
    {
     "english": "place, town",
@@ -13772,7 +13883,7 @@
  {
   "word": "Papier",
   "pos": "noun",
-  "frequency": 499,
+  "frequency": 502,
   "meanings": [
    {
     "english": "paper",
@@ -13797,7 +13908,7 @@
  {
   "word": "Papiere",
   "pos": "noun",
-  "frequency": 500,
+  "frequency": 503,
   "meanings": [
    {
     "english": "papers, ID documents",
@@ -13821,7 +13932,7 @@
  {
   "word": "Partner",
   "pos": "noun",
-  "frequency": 501,
+  "frequency": 504,
   "meanings": [
    {
     "english": "partner",
@@ -13845,7 +13956,7 @@
  {
   "word": "Partnerin",
   "pos": "noun",
-  "frequency": 502,
+  "frequency": 505,
   "meanings": [
    {
     "english": "partner (female)",
@@ -13869,7 +13980,7 @@
  {
   "word": "Party",
   "pos": "noun",
-  "frequency": 503,
+  "frequency": 506,
   "meanings": [
    {
     "english": "party",
@@ -13895,7 +14006,7 @@
  {
   "word": "Pass",
   "pos": "noun",
-  "frequency": 504,
+  "frequency": 507,
   "meanings": [
    {
     "english": "passport",
@@ -13921,7 +14032,7 @@
  {
   "word": "Pause",
   "pos": "noun",
-  "frequency": 505,
+  "frequency": 508,
   "meanings": [
    {
     "english": "break, pause",
@@ -13947,7 +14058,7 @@
  {
   "word": "Plan",
   "pos": "noun",
-  "frequency": 506,
+  "frequency": 509,
   "meanings": [
    {
     "english": "plan, map",
@@ -13972,7 +14083,7 @@
  {
   "word": "Platz",
   "pos": "noun",
-  "frequency": 507,
+  "frequency": 510,
   "meanings": [
    {
     "english": "seat, place",
@@ -14028,7 +14139,7 @@
  {
   "word": "Polizei",
   "pos": "noun",
-  "frequency": 508,
+  "frequency": 511,
   "meanings": [
    {
     "english": "police",
@@ -14051,7 +14162,7 @@
  {
   "word": "Pommes frites",
   "pos": "noun",
-  "frequency": 509,
+  "frequency": 512,
   "meanings": [
    {
     "english": "French fries",
@@ -14077,7 +14188,7 @@
  {
   "word": "Post",
   "pos": "noun",
-  "frequency": 510,
+  "frequency": 513,
   "meanings": [
    {
     "english": "post office",
@@ -14115,7 +14226,7 @@
  {
   "word": "Postleitzahl",
   "pos": "noun",
-  "frequency": 511,
+  "frequency": 514,
   "meanings": [
    {
     "english": "postal code, zip code",
@@ -14139,7 +14250,7 @@
  {
   "word": "Praktikum",
   "pos": "noun",
-  "frequency": 512,
+  "frequency": 515,
   "meanings": [
    {
     "english": "internship",
@@ -14165,7 +14276,7 @@
  {
   "word": "Praxis",
   "pos": "noun",
-  "frequency": 513,
+  "frequency": 516,
   "meanings": [
    {
     "english": "(doctor's) practice, surgery",
@@ -14192,7 +14303,7 @@
  {
   "word": "Preis",
   "pos": "noun",
-  "frequency": 514,
+  "frequency": 517,
   "meanings": [
    {
     "english": "price",
@@ -14216,7 +14327,7 @@
  {
   "word": "Problem",
   "pos": "noun",
-  "frequency": 515,
+  "frequency": 518,
   "meanings": [
    {
     "english": "problem",
@@ -14241,7 +14352,7 @@
  {
   "word": "Prospekt",
   "pos": "noun",
-  "frequency": 516,
+  "frequency": 519,
   "meanings": [
    {
     "english": "brochure, leaflet",
@@ -14270,7 +14381,7 @@
  {
   "word": "Prüfung",
   "pos": "noun",
-  "frequency": 517,
+  "frequency": 520,
   "meanings": [
    {
     "english": "exam, test",
@@ -14297,7 +14408,7 @@
  {
   "word": "pünktlich",
   "pos": "adjective",
-  "frequency": 518,
+  "frequency": 521,
   "meanings": [
    {
     "english": "punctual, on time",
@@ -14333,7 +14444,7 @@
  {
   "word": "rad fahren",
   "pos": "verb",
-  "frequency": 519,
+  "frequency": 522,
   "meanings": [
    {
     "english": "to ride a bicycle, to cycle",
@@ -14358,7 +14469,7 @@
  {
   "word": "rauchen",
   "pos": "verb",
-  "frequency": 520,
+  "frequency": 523,
   "meanings": [
    {
     "english": "to smoke",
@@ -14380,7 +14491,7 @@
  {
   "word": "Raum",
   "pos": "noun",
-  "frequency": 521,
+  "frequency": 524,
   "meanings": [
    {
     "english": "room, space",
@@ -14405,7 +14516,7 @@
  {
   "word": "Rechnung",
   "pos": "noun",
-  "frequency": 522,
+  "frequency": 525,
   "meanings": [
    {
     "english": "bill, invoice",
@@ -14428,7 +14539,7 @@
  {
   "word": "rechts",
   "pos": "adverb",
-  "frequency": 523,
+  "frequency": 526,
   "meanings": [
    {
     "english": "right, on the right",
@@ -14451,7 +14562,7 @@
  {
   "word": "Regen",
   "pos": "noun",
-  "frequency": 524,
+  "frequency": 527,
   "meanings": [
    {
     "english": "rain",
@@ -14477,7 +14588,7 @@
  {
   "word": "regnen",
   "pos": "verb",
-  "frequency": 525,
+  "frequency": 528,
   "meanings": [
    {
     "english": "to rain",
@@ -14499,7 +14610,7 @@
  {
   "word": "Reis",
   "pos": "noun",
-  "frequency": 526,
+  "frequency": 529,
   "meanings": [
    {
     "english": "rice",
@@ -14522,7 +14633,7 @@
  {
   "word": "Reise",
   "pos": "noun",
-  "frequency": 527,
+  "frequency": 530,
   "meanings": [
    {
     "english": "trip, journey",
@@ -14548,7 +14659,7 @@
  {
   "word": "Reisebüro",
   "pos": "noun",
-  "frequency": 528,
+  "frequency": 531,
   "meanings": [
    {
     "english": "travel agency",
@@ -14573,7 +14684,7 @@
  {
   "word": "Reiseführer",
   "pos": "noun",
-  "frequency": 529,
+  "frequency": 532,
   "meanings": [
    {
     "english": "guidebook",
@@ -14615,7 +14726,7 @@
  {
   "word": "reisen",
   "pos": "verb",
-  "frequency": 530,
+  "frequency": 533,
   "meanings": [
    {
     "english": "to travel",
@@ -14637,7 +14748,7 @@
  {
   "word": "Reparatur",
   "pos": "noun",
-  "frequency": 531,
+  "frequency": 534,
   "meanings": [
    {
     "english": "repair",
@@ -14662,7 +14773,7 @@
  {
   "word": "reparieren",
   "pos": "verb",
-  "frequency": 532,
+  "frequency": 535,
   "meanings": [
    {
     "english": "to repair, to fix",
@@ -14686,7 +14797,7 @@
  {
   "word": "Restaurant",
   "pos": "noun",
-  "frequency": 533,
+  "frequency": 536,
   "meanings": [
    {
     "english": "restaurant",
@@ -14712,7 +14823,7 @@
  {
   "word": "Rezeption",
   "pos": "noun",
-  "frequency": 534,
+  "frequency": 537,
   "meanings": [
    {
     "english": "reception desk",
@@ -14740,7 +14851,7 @@
  {
   "word": "richtig",
   "pos": "adjective",
-  "frequency": 535,
+  "frequency": 538,
   "meanings": [
    {
     "english": "right, correct",
@@ -14772,7 +14883,7 @@
  {
   "word": "riechen",
   "pos": "verb",
-  "frequency": 536,
+  "frequency": 539,
   "meanings": [
    {
     "english": "to smell",
@@ -14795,7 +14906,7 @@
  {
   "word": "rot",
   "pos": "adjective",
-  "frequency": 537,
+  "frequency": 540,
   "meanings": [
    {
     "english": "red",
@@ -14817,7 +14928,7 @@
  {
   "word": "ruhig",
   "pos": "adjective",
-  "frequency": 538,
+  "frequency": 541,
   "meanings": [
    {
     "english": "quiet, calm",
@@ -14840,7 +14951,7 @@
  {
   "word": "S-Bahn",
   "pos": "noun",
-  "frequency": 539,
+  "frequency": 542,
   "meanings": [
    {
     "english": "suburban train, commuter rail",
@@ -14865,7 +14976,7 @@
  {
   "word": "Saft",
   "pos": "noun",
-  "frequency": 540,
+  "frequency": 543,
   "meanings": [
    {
     "english": "juice",
@@ -14889,7 +15000,7 @@
  {
   "word": "sagen",
   "pos": "verb",
-  "frequency": 541,
+  "frequency": 544,
   "meanings": [
    {
     "english": "to say, to tell",
@@ -14915,7 +15026,7 @@
  {
   "word": "Salat",
   "pos": "noun",
-  "frequency": 542,
+  "frequency": 545,
   "meanings": [
    {
     "english": "salad",
@@ -14940,7 +15051,7 @@
  {
   "word": "Salz",
   "pos": "noun",
-  "frequency": 543,
+  "frequency": 546,
   "meanings": [
    {
     "english": "salt",
@@ -14966,7 +15077,7 @@
  {
   "word": "Satz",
   "pos": "noun",
-  "frequency": 544,
+  "frequency": 547,
   "meanings": [
    {
     "english": "sentence",
@@ -14991,7 +15102,7 @@
  {
   "word": "Schalter",
   "pos": "noun",
-  "frequency": 545,
+  "frequency": 548,
   "meanings": [
    {
     "english": "counter, ticket window",
@@ -15017,7 +15128,7 @@
  {
   "word": "scheinen",
   "pos": "verb",
-  "frequency": 546,
+  "frequency": 549,
   "meanings": [
    {
     "english": "to shine, to seem",
@@ -15039,7 +15150,7 @@
  {
   "word": "schicken",
   "pos": "verb",
-  "frequency": 547,
+  "frequency": 550,
   "meanings": [
    {
     "english": "to send",
@@ -15064,7 +15175,7 @@
  {
   "word": "Schild",
   "pos": "noun",
-  "frequency": 548,
+  "frequency": 551,
   "meanings": [
    {
     "english": "sign",
@@ -15090,7 +15201,7 @@
  {
   "word": "Schinken",
   "pos": "noun",
-  "frequency": 549,
+  "frequency": 552,
   "meanings": [
    {
     "english": "ham",
@@ -15115,7 +15226,7 @@
  {
   "word": "schlafen",
   "pos": "verb",
-  "frequency": 550,
+  "frequency": 553,
   "meanings": [
    {
     "english": "to sleep",
@@ -15139,7 +15250,7 @@
  {
   "word": "schlecht",
   "pos": "adjective",
-  "frequency": 551,
+  "frequency": 554,
   "meanings": [
    {
     "english": "bad",
@@ -15190,7 +15301,7 @@
  {
   "word": "schließen",
   "pos": "verb",
-  "frequency": 552,
+  "frequency": 555,
   "meanings": [
    {
     "english": "to close, to shut",
@@ -15214,7 +15325,7 @@
  {
   "word": "Schluss",
   "pos": "noun",
-  "frequency": 553,
+  "frequency": 556,
   "meanings": [
    {
     "english": "end, finish",
@@ -15252,7 +15363,7 @@
  {
   "word": "Schlüssel",
   "pos": "noun",
-  "frequency": 554,
+  "frequency": 557,
   "meanings": [
    {
     "english": "key",
@@ -15278,7 +15389,7 @@
  {
   "word": "schmecken",
   "pos": "verb",
-  "frequency": 555,
+  "frequency": 558,
   "meanings": [
    {
     "english": "to taste",
@@ -15300,7 +15411,7 @@
  {
   "word": "schnell",
   "pos": "adjective",
-  "frequency": 556,
+  "frequency": 559,
   "meanings": [
    {
     "english": "fast, quick",
@@ -15321,7 +15432,7 @@
  {
   "word": "schön",
   "pos": "adjective",
-  "frequency": 557,
+  "frequency": 560,
   "meanings": [
    {
     "english": "beautiful, nice",
@@ -15351,7 +15462,7 @@
  {
   "word": "Schrank",
   "pos": "noun",
-  "frequency": 558,
+  "frequency": 561,
   "meanings": [
    {
     "english": "cupboard, wardrobe",
@@ -15376,7 +15487,7 @@
  {
   "word": "schreiben",
   "pos": "verb",
-  "frequency": 559,
+  "frequency": 562,
   "meanings": [
    {
     "english": "to write",
@@ -15401,7 +15512,7 @@
  {
   "word": "Schuh",
   "pos": "noun",
-  "frequency": 560,
+  "frequency": 563,
   "meanings": [
    {
     "english": "shoe",
@@ -15425,7 +15536,7 @@
  {
   "word": "Schule",
   "pos": "noun",
-  "frequency": 561,
+  "frequency": 564,
   "meanings": [
    {
     "english": "school",
@@ -15466,7 +15577,7 @@
  {
   "word": "Schüler",
   "pos": "noun",
-  "frequency": 562,
+  "frequency": 565,
   "meanings": [
    {
     "english": "pupil, student (school)",
@@ -15495,7 +15606,7 @@
  {
   "word": "schwarz",
   "pos": "adjective",
-  "frequency": 563,
+  "frequency": 566,
   "meanings": [
    {
     "english": "black",
@@ -15517,7 +15628,7 @@
  {
   "word": "schwer",
   "pos": "adjective",
-  "frequency": 564,
+  "frequency": 567,
   "meanings": [
    {
     "english": "heavy",
@@ -15556,7 +15667,7 @@
  {
   "word": "Schwester",
   "pos": "noun",
-  "frequency": 565,
+  "frequency": 568,
   "meanings": [
    {
     "english": "sister",
@@ -15581,7 +15692,7 @@
  {
   "word": "Schwimmbad",
   "pos": "noun",
-  "frequency": 566,
+  "frequency": 569,
   "meanings": [
    {
     "english": "swimming pool",
@@ -15606,7 +15717,7 @@
  {
   "word": "schwimmen",
   "pos": "verb",
-  "frequency": 567,
+  "frequency": 570,
   "meanings": [
    {
     "english": "to swim",
@@ -15631,7 +15742,7 @@
  {
   "word": "sechs",
   "pos": "number",
-  "frequency": 568,
+  "frequency": 571,
   "meanings": [
    {
     "english": "six",
@@ -15656,7 +15767,7 @@
  {
   "word": "sechzehn",
   "pos": "number",
-  "frequency": 569,
+  "frequency": 572,
   "meanings": [
    {
     "english": "sixteen",
@@ -15678,7 +15789,7 @@
  {
   "word": "sechzig",
   "pos": "number",
-  "frequency": 570,
+  "frequency": 573,
   "meanings": [
    {
     "english": "sixty",
@@ -15702,7 +15813,7 @@
  {
   "word": "See",
   "pos": "noun",
-  "frequency": 571,
+  "frequency": 574,
   "meanings": [
    {
     "english": "lake",
@@ -15728,7 +15839,7 @@
  {
   "word": "sehen",
   "pos": "verb",
-  "frequency": 572,
+  "frequency": 575,
   "meanings": [
    {
     "english": "to see",
@@ -15765,7 +15876,7 @@
  {
   "word": "Sehenswürdigkeit",
   "pos": "noun",
-  "frequency": 573,
+  "frequency": 576,
   "meanings": [
    {
     "english": "sight, tourist attraction",
@@ -15791,7 +15902,7 @@
  {
   "word": "sehr",
   "pos": "adverb",
-  "frequency": 574,
+  "frequency": 577,
   "meanings": [
    {
     "english": "very",
@@ -15826,7 +15937,7 @@
  {
   "word": "sein",
   "pos": "verb",
-  "frequency": 575,
+  "frequency": 578,
   "meanings": [
    {
     "english": "to be",
@@ -15869,7 +15980,7 @@
  {
   "word": "seit",
   "pos": "preposition",
-  "frequency": 576,
+  "frequency": 579,
   "meanings": [
    {
     "english": "since, for",
@@ -15894,7 +16005,7 @@
  {
   "word": "Sekunde",
   "pos": "noun",
-  "frequency": 577,
+  "frequency": 580,
   "meanings": [
    {
     "english": "second",
@@ -15917,7 +16028,7 @@
  {
   "word": "selbstständig",
   "pos": "adjective",
-  "frequency": 578,
+  "frequency": 581,
   "meanings": [
    {
     "english": "self-employed, independent",
@@ -15938,7 +16049,7 @@
  {
   "word": "sich",
   "pos": "pronoun",
-  "frequency": 579,
+  "frequency": 582,
   "meanings": [
    {
     "english": "oneself, himself, herself, themselves",
@@ -15962,7 +16073,7 @@
  {
   "word": "sie",
   "pos": "pronoun",
-  "frequency": 580,
+  "frequency": 583,
   "meanings": [
    {
     "english": "she, they",
@@ -15999,7 +16110,7 @@
  {
   "word": "sieben",
   "pos": "number",
-  "frequency": 581,
+  "frequency": 584,
   "meanings": [
    {
     "english": "seven",
@@ -16023,7 +16134,7 @@
  {
   "word": "siebzehn",
   "pos": "number",
-  "frequency": 582,
+  "frequency": 585,
   "meanings": [
    {
     "english": "seventeen",
@@ -16047,7 +16158,7 @@
  {
   "word": "siebzig",
   "pos": "number",
-  "frequency": 583,
+  "frequency": 586,
   "meanings": [
    {
     "english": "seventy",
@@ -16070,7 +16181,7 @@
  {
   "word": "sitzen",
   "pos": "verb",
-  "frequency": 584,
+  "frequency": 587,
   "meanings": [
    {
     "english": "to sit",
@@ -16092,7 +16203,7 @@
  {
   "word": "so",
   "pos": "adverb",
-  "frequency": 585,
+  "frequency": 588,
   "meanings": [
    {
     "english": "so, like this",
@@ -16154,7 +16265,7 @@
  {
   "word": "Sofa",
   "pos": "noun",
-  "frequency": 586,
+  "frequency": 589,
   "meanings": [
    {
     "english": "sofa",
@@ -16178,7 +16289,7 @@
  {
   "word": "sofort",
   "pos": "adverb",
-  "frequency": 587,
+  "frequency": 590,
   "meanings": [
    {
     "english": "immediately, at once",
@@ -16200,7 +16311,7 @@
  {
   "word": "Sohn",
   "pos": "noun",
-  "frequency": 588,
+  "frequency": 591,
   "meanings": [
    {
     "english": "son",
@@ -16225,7 +16336,7 @@
  {
   "word": "sollen",
   "pos": "verb",
-  "frequency": 589,
+  "frequency": 592,
   "meanings": [
    {
     "english": "should, to be supposed to",
@@ -16257,7 +16368,7 @@
  {
   "word": "Sonne",
   "pos": "noun",
-  "frequency": 590,
+  "frequency": 593,
   "meanings": [
    {
     "english": "sun",
@@ -16280,7 +16391,7 @@
  {
   "word": "spät",
   "pos": "adjective",
-  "frequency": 591,
+  "frequency": 594,
   "meanings": [
    {
     "english": "late",
@@ -16305,7 +16416,7 @@
  {
   "word": "später",
   "pos": "adverb",
-  "frequency": 592,
+  "frequency": 595,
   "meanings": [
    {
     "english": "later",
@@ -16328,7 +16439,7 @@
  {
   "word": "Speisekarte",
   "pos": "noun",
-  "frequency": 593,
+  "frequency": 596,
   "meanings": [
    {
     "english": "menu",
@@ -16354,7 +16465,7 @@
  {
   "word": "spielen",
   "pos": "verb",
-  "frequency": 594,
+  "frequency": 597,
   "meanings": [
    {
     "english": "to play",
@@ -16386,7 +16497,7 @@
  {
   "word": "Sport",
   "pos": "noun",
-  "frequency": 595,
+  "frequency": 598,
   "meanings": [
    {
     "english": "sport, exercise",
@@ -16409,7 +16520,7 @@
  {
   "word": "Sprache",
   "pos": "noun",
-  "frequency": 596,
+  "frequency": 599,
   "meanings": [
    {
     "english": "language",
@@ -16433,7 +16544,7 @@
  {
   "word": "sprechen",
   "pos": "verb",
-  "frequency": 597,
+  "frequency": 600,
   "meanings": [
    {
     "english": "to speak, to talk",
@@ -16468,7 +16579,7 @@
  {
   "word": "Stadt",
   "pos": "noun",
-  "frequency": 598,
+  "frequency": 601,
   "meanings": [
    {
     "english": "city, town",
@@ -16493,7 +16604,7 @@
  {
   "word": "stehen",
   "pos": "verb",
-  "frequency": 599,
+  "frequency": 602,
   "meanings": [
    {
     "english": "to stand",
@@ -16539,7 +16650,7 @@
  {
   "word": "Stelle",
   "pos": "noun",
-  "frequency": 600,
+  "frequency": 603,
   "meanings": [
    {
     "english": "job, position",
@@ -16564,7 +16675,7 @@
  {
   "word": "stellen",
   "pos": "verb",
-  "frequency": 601,
+  "frequency": 604,
   "meanings": [
    {
     "english": "to put, to place (upright)",
@@ -16589,7 +16700,7 @@
  {
   "word": "Stock",
   "pos": "noun",
-  "frequency": 602,
+  "frequency": 605,
   "meanings": [
    {
     "english": "floor, storey",
@@ -16615,7 +16726,7 @@
  {
   "word": "Straße",
   "pos": "noun",
-  "frequency": 603,
+  "frequency": 606,
   "meanings": [
    {
     "english": "street, road",
@@ -16640,7 +16751,7 @@
  {
   "word": "Straßenbahn",
   "pos": "noun",
-  "frequency": 604,
+  "frequency": 607,
   "meanings": [
    {
     "english": "tram, streetcar",
@@ -16665,7 +16776,7 @@
  {
   "word": "Student",
   "pos": "noun",
-  "frequency": 605,
+  "frequency": 608,
   "meanings": [
    {
     "english": "student (university)",
@@ -16688,7 +16799,7 @@
  {
   "word": "studieren",
   "pos": "verb",
-  "frequency": 606,
+  "frequency": 609,
   "meanings": [
    {
     "english": "to study (at university)",
@@ -16711,7 +16822,7 @@
  {
   "word": "Studium",
   "pos": "noun",
-  "frequency": 607,
+  "frequency": 610,
   "meanings": [
    {
     "english": "studies, university course",
@@ -16736,7 +16847,7 @@
  {
   "word": "Stunde",
   "pos": "noun",
-  "frequency": 608,
+  "frequency": 611,
   "meanings": [
    {
     "english": "hour",
@@ -16762,7 +16873,7 @@
  {
   "word": "suchen",
   "pos": "verb",
-  "frequency": 609,
+  "frequency": 612,
   "meanings": [
    {
     "english": "to look for, to search",
@@ -16784,7 +16895,7 @@
  {
   "word": "Tag",
   "pos": "noun",
-  "frequency": 610,
+  "frequency": 613,
   "meanings": [
    {
     "english": "day",
@@ -16809,7 +16920,7 @@
  {
   "word": "tanzen",
   "pos": "verb",
-  "frequency": 611,
+  "frequency": 614,
   "meanings": [
    {
     "english": "to dance",
@@ -16831,7 +16942,7 @@
  {
   "word": "Tasche",
   "pos": "noun",
-  "frequency": 612,
+  "frequency": 615,
   "meanings": [
    {
     "english": "bag, pocket",
@@ -16858,7 +16969,7 @@
  {
   "word": "Taxi",
   "pos": "noun",
-  "frequency": 613,
+  "frequency": 616,
   "meanings": [
    {
     "english": "taxi",
@@ -16889,7 +17000,7 @@
  {
   "word": "Tee",
   "pos": "noun",
-  "frequency": 614,
+  "frequency": 617,
   "meanings": [
    {
     "english": "tea",
@@ -16913,7 +17024,7 @@
  {
   "word": "Teil",
   "pos": "noun",
-  "frequency": 615,
+  "frequency": 618,
   "meanings": [
    {
     "english": "part",
@@ -16939,7 +17050,7 @@
  {
   "word": "Telefon",
   "pos": "noun",
-  "frequency": 616,
+  "frequency": 619,
   "meanings": [
    {
     "english": "telephone",
@@ -16962,7 +17073,7 @@
  {
   "word": "telefonieren",
   "pos": "verb",
-  "frequency": 617,
+  "frequency": 620,
   "meanings": [
    {
     "english": "to phone, to make a phone call",
@@ -16985,7 +17096,7 @@
  {
   "word": "Termin",
   "pos": "noun",
-  "frequency": 618,
+  "frequency": 621,
   "meanings": [
    {
     "english": "appointment",
@@ -17012,7 +17123,7 @@
  {
   "word": "Test",
   "pos": "noun",
-  "frequency": 619,
+  "frequency": 622,
   "meanings": [
    {
     "english": "test",
@@ -17036,7 +17147,7 @@
  {
   "word": "teuer",
   "pos": "adjective",
-  "frequency": 620,
+  "frequency": 623,
   "meanings": [
    {
     "english": "expensive",
@@ -17059,7 +17170,7 @@
  {
   "word": "Text",
   "pos": "noun",
-  "frequency": 621,
+  "frequency": 624,
   "meanings": [
    {
     "english": "text",
@@ -17084,7 +17195,7 @@
  {
   "word": "Thema",
   "pos": "noun",
-  "frequency": 622,
+  "frequency": 625,
   "meanings": [
    {
     "english": "topic, subject",
@@ -17113,7 +17224,7 @@
  {
   "word": "Ticket",
   "pos": "noun",
-  "frequency": 623,
+  "frequency": 626,
   "meanings": [
    {
     "english": "ticket",
@@ -17138,7 +17249,7 @@
  {
   "word": "Tisch",
   "pos": "noun",
-  "frequency": 624,
+  "frequency": 627,
   "meanings": [
    {
     "english": "table",
@@ -17164,7 +17275,7 @@
  {
   "word": "Tochter",
   "pos": "noun",
-  "frequency": 625,
+  "frequency": 628,
   "meanings": [
    {
     "english": "daughter",
@@ -17189,7 +17300,7 @@
  {
   "word": "Toilette",
   "pos": "noun",
-  "frequency": 626,
+  "frequency": 629,
   "meanings": [
    {
     "english": "toilet, restroom",
@@ -17214,7 +17325,7 @@
  {
   "word": "Tomate",
   "pos": "noun",
-  "frequency": 627,
+  "frequency": 630,
   "meanings": [
    {
     "english": "tomato",
@@ -17239,7 +17350,7 @@
  {
   "word": "tot",
   "pos": "adjective",
-  "frequency": 628,
+  "frequency": 631,
   "meanings": [
    {
     "english": "dead",
@@ -17263,7 +17374,7 @@
  {
   "word": "treffen",
   "pos": "verb",
-  "frequency": 629,
+  "frequency": 632,
   "meanings": [
    {
     "english": "to meet",
@@ -17305,7 +17416,7 @@
  {
   "word": "Treppe",
   "pos": "noun",
-  "frequency": 630,
+  "frequency": 633,
   "meanings": [
    {
     "english": "stairs, staircase",
@@ -17332,7 +17443,7 @@
  {
   "word": "trinken",
   "pos": "verb",
-  "frequency": 631,
+  "frequency": 634,
   "meanings": [
    {
     "english": "to drink",
@@ -17355,7 +17466,7 @@
  {
   "word": "Tschüss",
   "pos": "interjection",
-  "frequency": 632,
+  "frequency": 635,
   "meanings": [
    {
     "english": "bye, see you",
@@ -17382,7 +17493,7 @@
  {
   "word": "tun",
   "pos": "verb",
-  "frequency": 633,
+  "frequency": 636,
   "meanings": [
    {
     "english": "to do",
@@ -17417,7 +17528,7 @@
  {
   "word": "über",
   "pos": "preposition",
-  "frequency": 634,
+  "frequency": 637,
   "meanings": [
    {
     "english": "across, over",
@@ -17474,7 +17585,7 @@
  {
   "word": "übernachten",
   "pos": "verb",
-  "frequency": 635,
+  "frequency": 638,
   "meanings": [
    {
     "english": "to stay overnight",
@@ -17498,7 +17609,7 @@
  {
   "word": "überweisen",
   "pos": "verb",
-  "frequency": 636,
+  "frequency": 639,
   "meanings": [
    {
     "english": "to transfer (money)",
@@ -17523,7 +17634,7 @@
  {
   "word": "Uhr",
   "pos": "noun",
-  "frequency": 637,
+  "frequency": 640,
   "meanings": [
    {
     "english": "clock, o'clock, watch",
@@ -17547,7 +17658,7 @@
  {
   "word": "um",
   "pos": "preposition",
-  "frequency": 638,
+  "frequency": 641,
   "meanings": [
    {
     "english": "at (time)",
@@ -17588,7 +17699,7 @@
  {
   "word": "umziehen",
   "pos": "verb",
-  "frequency": 639,
+  "frequency": 642,
   "meanings": [
    {
     "english": "to move (house)",
@@ -17612,7 +17723,7 @@
  {
   "word": "und",
   "pos": "conjunction",
-  "frequency": 640,
+  "frequency": 643,
   "meanings": [
    {
     "english": "and",
@@ -17636,7 +17747,7 @@
  {
   "word": "unser-",
   "pos": "pronoun",
-  "frequency": 641,
+  "frequency": 644,
   "meanings": [
    {
     "english": "our",
@@ -17659,7 +17770,7 @@
  {
   "word": "unten",
   "pos": "adverb",
-  "frequency": 642,
+  "frequency": 645,
   "meanings": [
    {
     "english": "below, downstairs",
@@ -17683,7 +17794,7 @@
  {
   "word": "unter",
   "pos": "preposition",
-  "frequency": 643,
+  "frequency": 646,
   "meanings": [
    {
     "english": "under, below",
@@ -17709,7 +17820,7 @@
  {
   "word": "Unterricht",
   "pos": "noun",
-  "frequency": 644,
+  "frequency": 647,
   "meanings": [
    {
     "english": "lesson, class, teaching",
@@ -17734,7 +17845,7 @@
  {
   "word": "unterschreiben",
   "pos": "verb",
-  "frequency": 645,
+  "frequency": 648,
   "meanings": [
    {
     "english": "to sign",
@@ -17757,7 +17868,7 @@
  {
   "word": "Unterschrift",
   "pos": "noun",
-  "frequency": 646,
+  "frequency": 649,
   "meanings": [
    {
     "english": "signature",
@@ -17782,7 +17893,7 @@
  {
   "word": "Urlaub",
   "pos": "noun",
-  "frequency": 647,
+  "frequency": 650,
   "meanings": [
    {
     "english": "vacation, holiday",
@@ -17807,7 +17918,7 @@
  {
   "word": "Vater",
   "pos": "noun",
-  "frequency": 648,
+  "frequency": 651,
   "meanings": [
    {
     "english": "father",
@@ -17831,7 +17942,7 @@
  {
   "word": "verboten",
   "pos": "adjective",
-  "frequency": 649,
+  "frequency": 652,
   "meanings": [
    {
     "english": "forbidden, prohibited",
@@ -17853,7 +17964,7 @@
  {
   "word": "verdienen",
   "pos": "verb",
-  "frequency": 650,
+  "frequency": 653,
   "meanings": [
    {
     "english": "to earn",
@@ -17877,7 +17988,7 @@
  {
   "word": "Verein",
   "pos": "noun",
-  "frequency": 651,
+  "frequency": 654,
   "meanings": [
    {
     "english": "club, association",
@@ -17905,7 +18016,7 @@
  {
   "word": "verheiratet",
   "pos": "adjective",
-  "frequency": 652,
+  "frequency": 655,
   "meanings": [
    {
     "english": "married",
@@ -17930,7 +18041,7 @@
  {
   "word": "verkaufen",
   "pos": "verb",
-  "frequency": 653,
+  "frequency": 656,
   "meanings": [
    {
     "english": "to sell",
@@ -17954,7 +18065,7 @@
  {
   "word": "Verkäufer",
   "pos": "noun",
-  "frequency": 654,
+  "frequency": 657,
   "meanings": [
    {
     "english": "salesperson, shop assistant",
@@ -17980,7 +18091,7 @@
  {
   "word": "vermieten",
   "pos": "verb",
-  "frequency": 655,
+  "frequency": 658,
   "meanings": [
    {
     "english": "to rent out",
@@ -18004,7 +18115,7 @@
  {
   "word": "Vermieter",
   "pos": "noun",
-  "frequency": 656,
+  "frequency": 659,
   "meanings": [
    {
     "english": "landlord",
@@ -18032,7 +18143,7 @@
  {
   "word": "verstehen",
   "pos": "verb",
-  "frequency": 657,
+  "frequency": 660,
   "meanings": [
    {
     "english": "to understand",
@@ -18055,7 +18166,7 @@
  {
   "word": "Verwandte",
   "pos": "noun",
-  "frequency": 658,
+  "frequency": 661,
   "meanings": [
    {
     "english": "relative",
@@ -18081,7 +18192,7 @@
  {
   "word": "viel",
   "pos": "adjective",
-  "frequency": 659,
+  "frequency": 662,
   "meanings": [
    {
     "english": "much, a lot of",
@@ -18103,7 +18214,7 @@
  {
   "word": "vielleicht",
   "pos": "adverb",
-  "frequency": 660,
+  "frequency": 663,
   "meanings": [
    {
     "english": "maybe, perhaps",
@@ -18127,7 +18238,7 @@
  {
   "word": "vier",
   "pos": "number",
-  "frequency": 661,
+  "frequency": 664,
   "meanings": [
    {
     "english": "four",
@@ -18151,7 +18262,7 @@
  {
   "word": "vierzehn",
   "pos": "number",
-  "frequency": 662,
+  "frequency": 665,
   "meanings": [
    {
     "english": "fourteen",
@@ -18175,7 +18286,7 @@
  {
   "word": "vierzig",
   "pos": "number",
-  "frequency": 663,
+  "frequency": 666,
   "meanings": [
    {
     "english": "forty",
@@ -18199,7 +18310,7 @@
  {
   "word": "vom",
   "pos": "preposition",
-  "frequency": 664,
+  "frequency": 667,
   "meanings": [
    {
     "english": "from the, of the",
@@ -18234,7 +18345,7 @@
  {
   "word": "von",
   "pos": "preposition",
-  "frequency": 665,
+  "frequency": 668,
   "meanings": [
    {
     "english": "of, from",
@@ -18271,7 +18382,7 @@
  {
   "word": "vor",
   "pos": "preposition",
-  "frequency": 666,
+  "frequency": 669,
   "meanings": [
    {
     "english": "ago",
@@ -18312,7 +18423,7 @@
  {
   "word": "Vormittag",
   "pos": "noun",
-  "frequency": 667,
+  "frequency": 670,
   "meanings": [
    {
     "english": "(late) morning, before noon",
@@ -18336,7 +18447,7 @@
  {
   "word": "Vorname",
   "pos": "noun",
-  "frequency": 668,
+  "frequency": 671,
   "meanings": [
    {
     "english": "first name",
@@ -18363,7 +18474,7 @@
  {
   "word": "vorstellen",
   "pos": "verb",
-  "frequency": 669,
+  "frequency": 672,
   "meanings": [
    {
     "english": "to introduce oneself",
@@ -18391,7 +18502,7 @@
  {
   "word": "Vorwahl",
   "pos": "noun",
-  "frequency": 670,
+  "frequency": 673,
   "meanings": [
    {
     "english": "area code, dialing code",
@@ -18417,7 +18528,7 @@
  {
   "word": "wandern",
   "pos": "verb",
-  "frequency": 671,
+  "frequency": 674,
   "meanings": [
    {
     "english": "to hike",
@@ -18441,7 +18552,7 @@
  {
   "word": "warten",
   "pos": "verb",
-  "frequency": 672,
+  "frequency": 675,
   "meanings": [
    {
     "english": "to wait",
@@ -18476,7 +18587,7 @@
  {
   "word": "was",
   "pos": "pronoun",
-  "frequency": 673,
+  "frequency": 676,
   "meanings": [
    {
     "english": "what",
@@ -18507,7 +18618,7 @@
  {
   "word": "was für ein",
   "pos": "pronoun",
-  "frequency": 674,
+  "frequency": 677,
   "meanings": [
    {
     "english": "what kind of",
@@ -18532,7 +18643,7 @@
  {
   "word": "waschen",
   "pos": "verb",
-  "frequency": 675,
+  "frequency": 678,
   "meanings": [
    {
     "english": "to wash (oneself)",
@@ -18573,7 +18684,7 @@
  {
   "word": "Wasser",
   "pos": "noun",
-  "frequency": 676,
+  "frequency": 679,
   "meanings": [
    {
     "english": "water",
@@ -18597,7 +18708,7 @@
  {
   "word": "weh tun",
   "pos": "verb",
-  "frequency": 677,
+  "frequency": 680,
   "meanings": [
    {
     "english": "to hurt",
@@ -18624,7 +18735,7 @@
  {
   "word": "weiblich",
   "pos": "adjective",
-  "frequency": 678,
+  "frequency": 681,
   "meanings": [
    {
     "english": "female",
@@ -18649,7 +18760,7 @@
  {
   "word": "Wein",
   "pos": "noun",
-  "frequency": 679,
+  "frequency": 682,
   "meanings": [
    {
     "english": "wine",
@@ -18675,7 +18786,7 @@
  {
   "word": "weiß",
   "pos": "adjective",
-  "frequency": 680,
+  "frequency": 683,
   "meanings": [
    {
     "english": "white",
@@ -18697,7 +18808,7 @@
  {
   "word": "weit",
   "pos": "adjective",
-  "frequency": 681,
+  "frequency": 684,
   "meanings": [
    {
     "english": "far, wide",
@@ -18721,7 +18832,7 @@
  {
   "word": "weiter",
   "pos": "adverb",
-  "frequency": 682,
+  "frequency": 685,
   "meanings": [
    {
     "english": "further, onward",
@@ -18744,7 +18855,7 @@
  {
   "word": "welch-",
   "pos": "pronoun",
-  "frequency": 683,
+  "frequency": 686,
   "meanings": [
    {
     "english": "which",
@@ -18767,7 +18878,7 @@
  {
   "word": "Welt",
   "pos": "noun",
-  "frequency": 684,
+  "frequency": 687,
   "meanings": [
    {
     "english": "world",
@@ -18794,7 +18905,7 @@
  {
   "word": "wenig",
   "pos": "adverb",
-  "frequency": 685,
+  "frequency": 688,
   "meanings": [
    {
     "english": "little, few",
@@ -18827,7 +18938,7 @@
  {
   "word": "wer",
   "pos": "pronoun",
-  "frequency": 686,
+  "frequency": 689,
   "meanings": [
    {
     "english": "who",
@@ -18849,7 +18960,7 @@
  {
   "word": "werden",
   "pos": "verb",
-  "frequency": 687,
+  "frequency": 690,
   "meanings": [
    {
     "english": "to become",
@@ -18873,7 +18984,7 @@
  {
   "word": "Wetter",
   "pos": "noun",
-  "frequency": 688,
+  "frequency": 691,
   "meanings": [
    {
     "english": "weather",
@@ -18896,7 +19007,7 @@
  {
   "word": "wichtig",
   "pos": "adjective",
-  "frequency": 689,
+  "frequency": 692,
   "meanings": [
    {
     "english": "important",
@@ -18919,7 +19030,7 @@
  {
   "word": "wie",
   "pos": "adverb",
-  "frequency": 690,
+  "frequency": 693,
   "meanings": [
    {
     "english": "how",
@@ -19003,7 +19114,7 @@
  {
   "word": "Wie bitte",
   "pos": "interjection",
-  "frequency": 691,
+  "frequency": 694,
   "meanings": [
    {
     "english": "pardon?, excuse me?",
@@ -19023,7 +19134,7 @@
  {
   "word": "wie viel",
   "pos": "pronoun",
-  "frequency": 692,
+  "frequency": 695,
   "meanings": [
    {
     "english": "how much, how many",
@@ -19047,7 +19158,7 @@
  {
   "word": "wieder",
   "pos": "adverb",
-  "frequency": 693,
+  "frequency": 696,
   "meanings": [
    {
     "english": "again",
@@ -19075,7 +19186,7 @@
  {
   "word": "wiederholen",
   "pos": "verb",
-  "frequency": 694,
+  "frequency": 697,
   "meanings": [
    {
     "english": "to repeat",
@@ -19099,7 +19210,7 @@
  {
   "word": "Willkommen",
   "pos": "interjection",
-  "frequency": 695,
+  "frequency": 698,
   "meanings": [
    {
     "english": "welcome",
@@ -19119,7 +19230,7 @@
  {
   "word": "Wind",
   "pos": "noun",
-  "frequency": 696,
+  "frequency": 699,
   "meanings": [
    {
     "english": "wind",
@@ -19144,7 +19255,7 @@
  {
   "word": "wir",
   "pos": "pronoun",
-  "frequency": 697,
+  "frequency": 700,
   "meanings": [
    {
     "english": "we",
@@ -19166,7 +19277,7 @@
  {
   "word": "wissen",
   "pos": "verb",
-  "frequency": 698,
+  "frequency": 701,
   "meanings": [
    {
     "english": "to know (a fact)",
@@ -19190,7 +19301,7 @@
  {
   "word": "wo",
   "pos": "pronoun",
-  "frequency": 699,
+  "frequency": 702,
   "meanings": [
    {
     "english": "where",
@@ -19234,7 +19345,7 @@
  {
   "word": "Woche",
   "pos": "noun",
-  "frequency": 700,
+  "frequency": 703,
   "meanings": [
    {
     "english": "week",
@@ -19259,7 +19370,7 @@
  {
   "word": "Wochenende",
   "pos": "noun",
-  "frequency": 701,
+  "frequency": 704,
   "meanings": [
    {
     "english": "weekend",
@@ -19284,7 +19395,7 @@
  {
   "word": "Wochentag",
   "pos": "noun",
-  "frequency": 702,
+  "frequency": 705,
   "meanings": [
    {
     "english": "day of the week, weekday",
@@ -19308,7 +19419,7 @@
  {
   "word": "woher",
   "pos": "pronoun",
-  "frequency": 703,
+  "frequency": 706,
   "meanings": [
    {
     "english": "where from",
@@ -19330,7 +19441,7 @@
  {
   "word": "wohin",
   "pos": "pronoun",
-  "frequency": 704,
+  "frequency": 707,
   "meanings": [
    {
     "english": "where to",
@@ -19364,7 +19475,7 @@
  {
   "word": "wohnen",
   "pos": "verb",
-  "frequency": 705,
+  "frequency": 708,
   "meanings": [
    {
     "english": "to live, to reside",
@@ -19387,7 +19498,7 @@
  {
   "word": "Wohnung",
   "pos": "noun",
-  "frequency": 706,
+  "frequency": 709,
   "meanings": [
    {
     "english": "apartment, flat",
@@ -19413,7 +19524,7 @@
  {
   "word": "wollen",
   "pos": "verb",
-  "frequency": 707,
+  "frequency": 710,
   "meanings": [
    {
     "english": "to want (to)",
@@ -19437,7 +19548,7 @@
  {
   "word": "Wort",
   "pos": "noun",
-  "frequency": 708,
+  "frequency": 711,
   "meanings": [
    {
     "english": "word",
@@ -19462,7 +19573,7 @@
  {
   "word": "wunderbar",
   "pos": "adjective",
-  "frequency": 709,
+  "frequency": 712,
   "meanings": [
    {
     "english": "wonderful",
@@ -19484,7 +19595,7 @@
  {
   "word": "zahlen",
   "pos": "verb",
-  "frequency": 710,
+  "frequency": 713,
   "meanings": [
    {
     "english": "to pay",
@@ -19505,7 +19616,7 @@
  {
   "word": "zehn",
   "pos": "number",
-  "frequency": 711,
+  "frequency": 714,
   "meanings": [
    {
     "english": "ten",
@@ -19529,7 +19640,7 @@
  {
   "word": "Zeit",
   "pos": "noun",
-  "frequency": 712,
+  "frequency": 715,
   "meanings": [
    {
     "english": "time",
@@ -19554,7 +19665,7 @@
  {
   "word": "Zeitung",
   "pos": "noun",
-  "frequency": 713,
+  "frequency": 716,
   "meanings": [
    {
     "english": "newspaper",
@@ -19578,7 +19689,7 @@
  {
   "word": "Zigarette",
   "pos": "noun",
-  "frequency": 714,
+  "frequency": 717,
   "meanings": [
    {
     "english": "cigarette",
@@ -19603,7 +19714,7 @@
  {
   "word": "Zimmer",
   "pos": "noun",
-  "frequency": 715,
+  "frequency": 718,
   "meanings": [
    {
     "english": "room",
@@ -19661,7 +19772,7 @@
  {
   "word": "Zoll",
   "pos": "noun",
-  "frequency": 716,
+  "frequency": 719,
   "meanings": [
    {
     "english": "customs, duty",
@@ -19687,7 +19798,7 @@
  {
   "word": "zu",
   "pos": "preposition",
-  "frequency": 717,
+  "frequency": 720,
   "meanings": [
    {
     "english": "to",
@@ -19740,7 +19851,7 @@
  {
   "word": "zufrieden",
   "pos": "adjective",
-  "frequency": 718,
+  "frequency": 721,
   "meanings": [
    {
     "english": "satisfied, content",
@@ -19764,7 +19875,7 @@
  {
   "word": "Zug",
   "pos": "noun",
-  "frequency": 719,
+  "frequency": 722,
   "meanings": [
    {
     "english": "train",
@@ -19790,7 +19901,7 @@
  {
   "word": "zum",
   "pos": "preposition",
-  "frequency": 720,
+  "frequency": 723,
   "meanings": [
    {
     "english": "to the, for the",
@@ -19824,7 +19935,7 @@
  {
   "word": "zurück",
   "pos": "adverb",
-  "frequency": 721,
+  "frequency": 724,
   "meanings": [
    {
     "english": "back",
@@ -19856,7 +19967,7 @@
  {
   "word": "zurzeit",
   "pos": "adverb",
-  "frequency": 722,
+  "frequency": 725,
   "meanings": [
    {
     "english": "at the moment, currently",
@@ -19881,7 +19992,7 @@
  {
   "word": "zusammen",
   "pos": "adverb",
-  "frequency": 723,
+  "frequency": 726,
   "meanings": [
    {
     "english": "together",
@@ -19914,7 +20025,7 @@
  {
   "word": "zwanzig",
   "pos": "number",
-  "frequency": 724,
+  "frequency": 727,
   "meanings": [
    {
     "english": "twenty",
@@ -19937,7 +20048,7 @@
  {
   "word": "zwei",
   "pos": "number",
-  "frequency": 725,
+  "frequency": 728,
   "meanings": [
    {
     "english": "two",
@@ -19960,7 +20071,7 @@
  {
   "word": "zweihundert",
   "pos": "number",
-  "frequency": 726,
+  "frequency": 729,
   "meanings": [
    {
     "english": "two hundred",
@@ -19984,7 +20095,7 @@
  {
   "word": "zwischen",
   "pos": "preposition",
-  "frequency": 727,
+  "frequency": 730,
   "meanings": [
    {
     "english": "between",
@@ -20021,7 +20132,7 @@
  {
   "word": "zwölf",
   "pos": "number",
-  "frequency": 728,
+  "frequency": 731,
   "meanings": [
    {
     "english": "twelve",
