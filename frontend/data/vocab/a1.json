@@ -19175,9 +19175,44 @@
   "notes": "wartet, wartete, hat gewartet"
  },
  {
+  "word": "warum",
+  "pos": "adverb",
+  "frequency": 693,
+  "meanings": [
+   {
+    "english": "why",
+    "examples": [
+     {
+      "de": "Warum lernst du Deutsch?",
+      "en": "Why are you learning German?",
+      "glosses": {
+       "Warum": "why",
+       "lernst": "learn",
+       "du": "you",
+       "Deutsch": "German"
+      }
+     },
+     {
+      "de": "Ich weiß nicht, warum er nicht kommt.",
+      "en": "I don't know why he isn't coming.",
+      "glosses": {
+       "warum": "why",
+       "weiß": "know",
+       "kommt": "coming",
+       "Ich": "I",
+       "nicht": "not",
+       "er": "he"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "question word"
+ },
+ {
   "word": "was",
   "pos": "pronoun",
-  "frequency": 693,
+  "frequency": 694,
   "meanings": [
    {
     "english": "what",
@@ -19208,7 +19243,7 @@
  {
   "word": "was für ein",
   "pos": "pronoun",
-  "frequency": 694,
+  "frequency": 695,
   "meanings": [
    {
     "english": "what kind of",
@@ -19233,7 +19268,7 @@
  {
   "word": "waschen",
   "pos": "verb",
-  "frequency": 695,
+  "frequency": 696,
   "meanings": [
    {
     "english": "to wash (oneself)",
@@ -19274,7 +19309,7 @@
  {
   "word": "Wasser",
   "pos": "noun",
-  "frequency": 696,
+  "frequency": 697,
   "meanings": [
    {
     "english": "water",
@@ -19298,7 +19333,7 @@
  {
   "word": "weh tun",
   "pos": "verb",
-  "frequency": 697,
+  "frequency": 698,
   "meanings": [
    {
     "english": "to hurt",
@@ -19325,7 +19360,7 @@
  {
   "word": "weiblich",
   "pos": "adjective",
-  "frequency": 698,
+  "frequency": 699,
   "meanings": [
    {
     "english": "female",
@@ -19350,7 +19385,7 @@
  {
   "word": "Wein",
   "pos": "noun",
-  "frequency": 699,
+  "frequency": 700,
   "meanings": [
    {
     "english": "wine",
@@ -19376,7 +19411,7 @@
  {
   "word": "weiß",
   "pos": "adjective",
-  "frequency": 700,
+  "frequency": 701,
   "meanings": [
    {
     "english": "white",
@@ -19398,7 +19433,7 @@
  {
   "word": "weit",
   "pos": "adjective",
-  "frequency": 701,
+  "frequency": 702,
   "meanings": [
    {
     "english": "far, wide",
@@ -19422,7 +19457,7 @@
  {
   "word": "weiter",
   "pos": "adverb",
-  "frequency": 702,
+  "frequency": 703,
   "meanings": [
    {
     "english": "further, onward",
@@ -19445,7 +19480,7 @@
  {
   "word": "welch-",
   "pos": "pronoun",
-  "frequency": 703,
+  "frequency": 704,
   "meanings": [
    {
     "english": "which",
@@ -19468,7 +19503,7 @@
  {
   "word": "Welt",
   "pos": "noun",
-  "frequency": 704,
+  "frequency": 705,
   "meanings": [
    {
     "english": "world",
@@ -19495,7 +19530,7 @@
  {
   "word": "wenig",
   "pos": "adverb",
-  "frequency": 705,
+  "frequency": 706,
   "meanings": [
    {
     "english": "little, few",
@@ -19528,7 +19563,7 @@
  {
   "word": "wer",
   "pos": "pronoun",
-  "frequency": 706,
+  "frequency": 707,
   "meanings": [
    {
     "english": "who",
@@ -19550,7 +19585,7 @@
  {
   "word": "werden",
   "pos": "verb",
-  "frequency": 707,
+  "frequency": 708,
   "meanings": [
    {
     "english": "to become",
@@ -19574,7 +19609,7 @@
  {
   "word": "Wetter",
   "pos": "noun",
-  "frequency": 708,
+  "frequency": 709,
   "meanings": [
    {
     "english": "weather",
@@ -19597,7 +19632,7 @@
  {
   "word": "wichtig",
   "pos": "adjective",
-  "frequency": 709,
+  "frequency": 710,
   "meanings": [
    {
     "english": "important",
@@ -19620,7 +19655,7 @@
  {
   "word": "wie",
   "pos": "adverb",
-  "frequency": 710,
+  "frequency": 711,
   "meanings": [
    {
     "english": "how",
@@ -19704,7 +19739,7 @@
  {
   "word": "Wie bitte",
   "pos": "interjection",
-  "frequency": 711,
+  "frequency": 712,
   "meanings": [
    {
     "english": "pardon?, excuse me?",
@@ -19724,7 +19759,7 @@
  {
   "word": "wie viel",
   "pos": "pronoun",
-  "frequency": 712,
+  "frequency": 713,
   "meanings": [
    {
     "english": "how much, how many",
@@ -19748,7 +19783,7 @@
  {
   "word": "wieder",
   "pos": "adverb",
-  "frequency": 713,
+  "frequency": 714,
   "meanings": [
    {
     "english": "again",
@@ -19776,7 +19811,7 @@
  {
   "word": "wiederholen",
   "pos": "verb",
-  "frequency": 714,
+  "frequency": 715,
   "meanings": [
    {
     "english": "to repeat",
@@ -19800,7 +19835,7 @@
  {
   "word": "Willkommen",
   "pos": "interjection",
-  "frequency": 715,
+  "frequency": 716,
   "meanings": [
    {
     "english": "welcome",
@@ -19820,7 +19855,7 @@
  {
   "word": "Wind",
   "pos": "noun",
-  "frequency": 716,
+  "frequency": 717,
   "meanings": [
    {
     "english": "wind",
@@ -19845,7 +19880,7 @@
  {
   "word": "wir",
   "pos": "pronoun",
-  "frequency": 717,
+  "frequency": 718,
   "meanings": [
    {
     "english": "we",
@@ -19867,7 +19902,7 @@
  {
   "word": "wissen",
   "pos": "verb",
-  "frequency": 718,
+  "frequency": 719,
   "meanings": [
    {
     "english": "to know (a fact)",
@@ -19891,7 +19926,7 @@
  {
   "word": "wo",
   "pos": "pronoun",
-  "frequency": 719,
+  "frequency": 720,
   "meanings": [
    {
     "english": "where",
@@ -19935,7 +19970,7 @@
  {
   "word": "wo",
   "pos": "adverb",
-  "frequency": 720,
+  "frequency": 721,
   "meanings": [
    {
     "english": "where",
@@ -19967,7 +20002,7 @@
  {
   "word": "Woche",
   "pos": "noun",
-  "frequency": 721,
+  "frequency": 722,
   "meanings": [
    {
     "english": "week",
@@ -19992,7 +20027,7 @@
  {
   "word": "Wochenende",
   "pos": "noun",
-  "frequency": 722,
+  "frequency": 723,
   "meanings": [
    {
     "english": "weekend",
@@ -20017,7 +20052,7 @@
  {
   "word": "Wochentag",
   "pos": "noun",
-  "frequency": 723,
+  "frequency": 724,
   "meanings": [
    {
     "english": "day of the week, weekday",
@@ -20041,7 +20076,7 @@
  {
   "word": "woher",
   "pos": "pronoun",
-  "frequency": 724,
+  "frequency": 725,
   "meanings": [
    {
     "english": "where from",
@@ -20063,7 +20098,7 @@
  {
   "word": "wohin",
   "pos": "pronoun",
-  "frequency": 725,
+  "frequency": 726,
   "meanings": [
    {
     "english": "where to",
@@ -20097,7 +20132,7 @@
  {
   "word": "wohnen",
   "pos": "verb",
-  "frequency": 726,
+  "frequency": 727,
   "meanings": [
    {
     "english": "to live, to reside",
@@ -20120,7 +20155,7 @@
  {
   "word": "Wohnung",
   "pos": "noun",
-  "frequency": 727,
+  "frequency": 728,
   "meanings": [
    {
     "english": "apartment, flat",
@@ -20146,7 +20181,7 @@
  {
   "word": "wollen",
   "pos": "verb",
-  "frequency": 728,
+  "frequency": 729,
   "meanings": [
    {
     "english": "to want (to)",
@@ -20170,7 +20205,7 @@
  {
   "word": "Wort",
   "pos": "noun",
-  "frequency": 729,
+  "frequency": 730,
   "meanings": [
    {
     "english": "word",
@@ -20195,7 +20230,7 @@
  {
   "word": "wunderbar",
   "pos": "adjective",
-  "frequency": 730,
+  "frequency": 731,
   "meanings": [
    {
     "english": "wonderful",
@@ -20217,7 +20252,7 @@
  {
   "word": "zahlen",
   "pos": "verb",
-  "frequency": 731,
+  "frequency": 732,
   "meanings": [
    {
     "english": "to pay",
@@ -20238,7 +20273,7 @@
  {
   "word": "zehn",
   "pos": "number",
-  "frequency": 732,
+  "frequency": 733,
   "meanings": [
    {
     "english": "ten",
@@ -20262,7 +20297,7 @@
  {
   "word": "Zeit",
   "pos": "noun",
-  "frequency": 733,
+  "frequency": 734,
   "meanings": [
    {
     "english": "time",
@@ -20287,7 +20322,7 @@
  {
   "word": "Zeitung",
   "pos": "noun",
-  "frequency": 734,
+  "frequency": 735,
   "meanings": [
    {
     "english": "newspaper",
@@ -20311,7 +20346,7 @@
  {
   "word": "Zigarette",
   "pos": "noun",
-  "frequency": 735,
+  "frequency": 736,
   "meanings": [
    {
     "english": "cigarette",
@@ -20336,7 +20371,7 @@
  {
   "word": "Zimmer",
   "pos": "noun",
-  "frequency": 736,
+  "frequency": 737,
   "meanings": [
    {
     "english": "room",
@@ -20394,7 +20429,7 @@
  {
   "word": "Zoll",
   "pos": "noun",
-  "frequency": 737,
+  "frequency": 738,
   "meanings": [
    {
     "english": "customs, duty",
@@ -20420,7 +20455,7 @@
  {
   "word": "zu",
   "pos": "preposition",
-  "frequency": 738,
+  "frequency": 739,
   "meanings": [
    {
     "english": "to",
@@ -20473,7 +20508,7 @@
  {
   "word": "zu",
   "pos": "adverb",
-  "frequency": 739,
+  "frequency": 740,
   "meanings": [
    {
     "english": "too, closed",
@@ -20506,7 +20541,7 @@
  {
   "word": "zu",
   "pos": "conjunction",
-  "frequency": 740,
+  "frequency": 741,
   "meanings": [
    {
     "english": "to (before an infinitive)",
@@ -20545,7 +20580,7 @@
  {
   "word": "zufrieden",
   "pos": "adjective",
-  "frequency": 741,
+  "frequency": 742,
   "meanings": [
    {
     "english": "satisfied, content",
@@ -20569,7 +20604,7 @@
  {
   "word": "Zug",
   "pos": "noun",
-  "frequency": 742,
+  "frequency": 743,
   "meanings": [
    {
     "english": "train",
@@ -20595,7 +20630,7 @@
  {
   "word": "zum",
   "pos": "preposition",
-  "frequency": 743,
+  "frequency": 744,
   "meanings": [
    {
     "english": "to the, for the",
@@ -20629,7 +20664,7 @@
  {
   "word": "zurück",
   "pos": "adverb",
-  "frequency": 744,
+  "frequency": 745,
   "meanings": [
    {
     "english": "back",
@@ -20661,7 +20696,7 @@
  {
   "word": "zurzeit",
   "pos": "adverb",
-  "frequency": 745,
+  "frequency": 746,
   "meanings": [
    {
     "english": "at the moment, currently",
@@ -20686,7 +20721,7 @@
  {
   "word": "zusammen",
   "pos": "adverb",
-  "frequency": 746,
+  "frequency": 747,
   "meanings": [
    {
     "english": "together",
@@ -20719,7 +20754,7 @@
  {
   "word": "zwanzig",
   "pos": "number",
-  "frequency": 747,
+  "frequency": 748,
   "meanings": [
    {
     "english": "twenty",
@@ -20742,7 +20777,7 @@
  {
   "word": "zwei",
   "pos": "number",
-  "frequency": 748,
+  "frequency": 749,
   "meanings": [
    {
     "english": "two",
@@ -20765,7 +20800,7 @@
  {
   "word": "zweihundert",
   "pos": "number",
-  "frequency": 749,
+  "frequency": 750,
   "meanings": [
    {
     "english": "two hundred",
@@ -20789,7 +20824,7 @@
  {
   "word": "zwischen",
   "pos": "preposition",
-  "frequency": 750,
+  "frequency": 751,
   "meanings": [
    {
     "english": "between",
@@ -20826,7 +20861,7 @@
  {
   "word": "zwölf",
   "pos": "number",
-  "frequency": 751,
+  "frequency": 752,
   "meanings": [
    {
     "english": "twelve",

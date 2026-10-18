@@ -584,3 +584,19 @@ x Ich bin müde, ansonsten geht es mir gut. ## I am tired, but otherwise I am fi
 B2 | letztlich | | in the end, ultimately, finally
 x Letztlich entscheidest du. ## In the end you decide. ## Letztlich=in the end|entscheidest=decide
 x Es kommt letztlich auf das Geld an. ## Ultimately it comes down to the money. ## letztlich=ultimately|kommt=comes|Geld=money
+
+A1 | warum | question word | why
+x Warum lernst du Deutsch? ## Why are you learning German? ## Warum=why|lernst=learn
+x Ich weiß nicht, warum er nicht kommt. ## I don't know why he isn't coming. ## warum=why|weiß=know|kommt=coming
+
+A2 | deshalb | | for that reason, therefore
+x Ich bin müde, deshalb gehe ich ins Bett. ## I am tired, therefore I am going to bed. ## deshalb=therefore|müde=tired|Bett=bed
+x Deshalb habe ich dich angerufen. ## That is why I called you. ## Deshalb=that is why|angerufen=called
+
+B1 | halt | spoken-German filler | simply, just
+x Das ist halt so. ## That's just how it is. ## halt=just|so=so
+x Dann nehme ich halt den Bus. ## Then I'll simply take the bus. ## halt=simply|nehme=take|Bus=bus
+
+B1 | damit | pronominal adverb: da- + mit | with it, with that
+x Ich bin damit nicht einverstanden. ## I don't agree with that. ## damit=with that|einverstanden=in agreement
+x Was willst du damit sagen? ## What do you want to say by that? ## damit=by that|willst=want|sagen=say

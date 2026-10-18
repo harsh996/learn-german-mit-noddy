@@ -2,7 +2,7 @@
  {
   "word": "angesichts",
   "pos": "preposition",
-  "frequency": 1400,
+  "frequency": 1404,
   "meanings": [
    {
     "english": "in view of, considering",
@@ -40,7 +40,7 @@
  {
   "word": "anhand",
   "pos": "preposition",
-  "frequency": 1401,
+  "frequency": 1405,
   "meanings": [
    {
     "english": "on the basis of, with the aid of",
@@ -78,7 +78,7 @@
  {
   "word": "anschließend",
   "pos": "adverb",
-  "frequency": 1402,
+  "frequency": 1406,
   "meanings": [
    {
     "english": "then, subsequently, afterwards",
@@ -115,7 +115,7 @@
  {
   "word": "ansonsten",
   "pos": "adverb",
-  "frequency": 1403,
+  "frequency": 1407,
   "meanings": [
    {
     "english": "otherwise, apart from that",
@@ -152,7 +152,7 @@
  {
   "word": "anstelle",
   "pos": "preposition",
-  "frequency": 1404,
+  "frequency": 1408,
   "meanings": [
    {
     "english": "instead of, in place of",
@@ -189,7 +189,7 @@
  {
   "word": "aufgrund",
   "pos": "preposition",
-  "frequency": 1405,
+  "frequency": 1409,
   "meanings": [
    {
     "english": "because of, on the basis of",
@@ -228,7 +228,7 @@
  {
   "word": "beispielsweise",
   "pos": "adverb",
-  "frequency": 1406,
+  "frequency": 1410,
   "meanings": [
    {
     "english": "for example, for instance",
@@ -266,7 +266,7 @@
  {
   "word": "beziehungsweise",
   "pos": "conjunction",
-  "frequency": 1407,
+  "frequency": 1411,
   "meanings": [
    {
     "english": "or rather, and … respectively",
@@ -307,7 +307,7 @@
  {
   "word": "bezüglich",
   "pos": "preposition",
-  "frequency": 1408,
+  "frequency": 1412,
   "meanings": [
    {
     "english": "regarding, concerning, referring to",
@@ -346,7 +346,7 @@
  {
   "word": "bislang",
   "pos": "adverb",
-  "frequency": 1409,
+  "frequency": 1413,
   "meanings": [
    {
     "english": "so far, up to now",
@@ -379,7 +379,7 @@
  {
   "word": "dadurch",
   "pos": "adverb",
-  "frequency": 1410,
+  "frequency": 1414,
   "meanings": [
    {
     "english": "through it, thereby, as a result",
@@ -413,7 +413,7 @@
  {
   "word": "dank",
   "pos": "preposition",
-  "frequency": 1411,
+  "frequency": 1415,
   "meanings": [
    {
     "english": "thanks to",
@@ -453,7 +453,7 @@
  {
   "word": "daran",
   "pos": "adverb",
-  "frequency": 1412,
+  "frequency": 1416,
   "meanings": [
    {
     "english": "on it, at it, of it",
@@ -487,7 +487,7 @@
  {
   "word": "daraus",
   "pos": "adverb",
-  "frequency": 1413,
+  "frequency": 1417,
   "meanings": [
    {
     "english": "out of it, from it, from that",
@@ -522,7 +522,7 @@
  {
   "word": "darum",
   "pos": "adverb",
-  "frequency": 1414,
+  "frequency": 1418,
   "meanings": [
    {
     "english": "that's why, around it",
@@ -558,7 +558,7 @@
  {
   "word": "darunter",
   "pos": "adverb",
-  "frequency": 1415,
+  "frequency": 1419,
   "meanings": [
    {
     "english": "under it, among them, below",
@@ -596,7 +596,7 @@
  {
   "word": "davon",
   "pos": "adverb",
-  "frequency": 1416,
+  "frequency": 1420,
   "meanings": [
    {
     "english": "of it, from that, about it",
@@ -629,7 +629,7 @@
  {
   "word": "dazu",
   "pos": "adverb",
-  "frequency": 1417,
+  "frequency": 1421,
   "meanings": [
    {
     "english": "in addition, to that, for that",
@@ -665,7 +665,7 @@
  {
   "word": "dennoch",
   "pos": "adverb",
-  "frequency": 1418,
+  "frequency": 1422,
   "meanings": [
    {
     "english": "nevertheless, nonetheless, however",
@@ -700,7 +700,7 @@
  {
   "word": "derzeit",
   "pos": "adverb",
-  "frequency": 1419,
+  "frequency": 1423,
   "meanings": [
    {
     "english": "at the moment, at present, currently",
@@ -735,7 +735,7 @@
  {
   "word": "desto",
   "pos": "conjunction",
-  "frequency": 1420,
+  "frequency": 1424,
   "meanings": [
    {
     "english": "the more",
@@ -775,7 +775,7 @@
  {
   "word": "dran",
   "pos": "adverb",
-  "frequency": 1421,
+  "frequency": 1425,
   "meanings": [
    {
     "english": "on it, at it",
@@ -807,7 +807,7 @@
  {
   "word": "drauf",
   "pos": "adverb",
-  "frequency": 1422,
+  "frequency": 1426,
   "meanings": [
    {
     "english": "on it, on that",
@@ -829,7 +829,7 @@
  {
   "word": "drin",
   "pos": "adverb",
-  "frequency": 1423,
+  "frequency": 1427,
   "meanings": [
    {
     "english": "in it, inside",
@@ -852,7 +852,7 @@
  {
   "word": "drüber",
   "pos": "adverb",
-  "frequency": 1424,
+  "frequency": 1428,
   "meanings": [
    {
     "english": "over it, about it",
@@ -875,7 +875,7 @@
  {
   "word": "durchaus",
   "pos": "adverb",
-  "frequency": 1425,
+  "frequency": 1429,
   "meanings": [
    {
     "english": "quite, absolutely, certainly",
@@ -907,7 +907,7 @@
  {
   "word": "ehe",
   "pos": "conjunction",
-  "frequency": 1426,
+  "frequency": 1430,
   "meanings": [
    {
     "english": "before",
@@ -943,7 +943,7 @@
  {
   "word": "entsprechend",
   "pos": "preposition",
-  "frequency": 1427,
+  "frequency": 1431,
   "meanings": [
    {
     "english": "in accordance with, according to, corresponding to",
@@ -983,7 +983,7 @@
  {
   "word": "erstmals",
   "pos": "adverb",
-  "frequency": 1428,
+  "frequency": 1432,
   "meanings": [
    {
     "english": "for the first time",
@@ -1018,7 +1018,7 @@
  {
   "word": "gemäß",
   "pos": "preposition",
-  "frequency": 1429,
+  "frequency": 1433,
   "meanings": [
    {
     "english": "in accordance with, according to",
@@ -1054,7 +1054,7 @@
  {
   "word": "hingegen",
   "pos": "adverb",
-  "frequency": 1430,
+  "frequency": 1434,
   "meanings": [
    {
     "english": "on the other hand, on the contrary",
@@ -1093,7 +1093,7 @@
  {
   "word": "hinsichtlich",
   "pos": "preposition",
-  "frequency": 1431,
+  "frequency": 1435,
   "meanings": [
    {
     "english": "with regard to, regarding",
@@ -1132,7 +1132,7 @@
  {
   "word": "immerhin",
   "pos": "adverb",
-  "frequency": 1432,
+  "frequency": 1436,
   "meanings": [
    {
     "english": "after all, at least, anyhow",
@@ -1166,7 +1166,7 @@
  {
   "word": "infolge",
   "pos": "preposition",
-  "frequency": 1433,
+  "frequency": 1437,
   "meanings": [
    {
     "english": "as a result of",
@@ -1205,7 +1205,7 @@
  {
   "word": "insbesondere",
   "pos": "adverb",
-  "frequency": 1434,
+  "frequency": 1438,
   "meanings": [
    {
     "english": "especially, in particular",
@@ -1240,7 +1240,7 @@
  {
   "word": "irgendwie",
   "pos": "adverb",
-  "frequency": 1435,
+  "frequency": 1439,
   "meanings": [
    {
     "english": "somehow, kind of",
@@ -1272,7 +1272,7 @@
  {
   "word": "jedenfalls",
   "pos": "adverb",
-  "frequency": 1436,
+  "frequency": 1440,
   "meanings": [
    {
     "english": "in any case, anyhow, at least",
@@ -1305,7 +1305,7 @@
  {
   "word": "jenseits",
   "pos": "preposition",
-  "frequency": 1437,
+  "frequency": 1441,
   "meanings": [
    {
     "english": "beyond, on the other side of",
@@ -1341,7 +1341,7 @@
  {
   "word": "laut",
   "pos": "preposition",
-  "frequency": 1438,
+  "frequency": 1442,
   "meanings": [
    {
     "english": "according to",
@@ -1378,7 +1378,7 @@
  {
   "word": "lediglich",
   "pos": "adverb",
-  "frequency": 1439,
+  "frequency": 1443,
   "meanings": [
    {
     "english": "merely, simply, only",
@@ -1415,7 +1415,7 @@
  {
   "word": "letztlich",
   "pos": "adverb",
-  "frequency": 1440,
+  "frequency": 1444,
   "meanings": [
    {
     "english": "in the end, ultimately, finally",
@@ -1449,7 +1449,7 @@
  {
   "word": "mithilfe",
   "pos": "preposition",
-  "frequency": 1441,
+  "frequency": 1445,
   "meanings": [
    {
     "english": "with the help of, by means of",
@@ -1488,7 +1488,7 @@
  {
   "word": "mittels",
   "pos": "preposition",
-  "frequency": 1442,
+  "frequency": 1446,
   "meanings": [
    {
     "english": "by means of",
@@ -1527,7 +1527,7 @@
  {
   "word": "samt",
   "pos": "preposition",
-  "frequency": 1443,
+  "frequency": 1447,
   "meanings": [
    {
     "english": "together with, along with",
@@ -1564,7 +1564,7 @@
  {
   "word": "seitens",
   "pos": "preposition",
-  "frequency": 1444,
+  "frequency": 1448,
   "meanings": [
    {
     "english": "on the part of",
@@ -1603,7 +1603,7 @@
  {
   "word": "sicherlich",
   "pos": "adverb",
-  "frequency": 1445,
+  "frequency": 1449,
   "meanings": [
    {
     "english": "certainly, surely",
@@ -1635,7 +1635,7 @@
  {
   "word": "sofern",
   "pos": "conjunction",
-  "frequency": 1446,
+  "frequency": 1450,
   "meanings": [
    {
     "english": "provided that, if",
@@ -1673,7 +1673,7 @@
  {
   "word": "somit",
   "pos": "adverb",
-  "frequency": 1447,
+  "frequency": 1451,
   "meanings": [
    {
     "english": "thus, therefore, consequently",
@@ -1709,7 +1709,7 @@
  {
   "word": "soweit",
   "pos": "adverb",
-  "frequency": 1448,
+  "frequency": 1452,
   "meanings": [
    {
     "english": "as far as, so far as, insofar as",
@@ -1744,7 +1744,7 @@
  {
   "word": "sowie",
   "pos": "conjunction",
-  "frequency": 1449,
+  "frequency": 1453,
   "meanings": [
    {
     "english": "as well as, as soon as",
@@ -1780,7 +1780,7 @@
  {
   "word": "stets",
   "pos": "adverb",
-  "frequency": 1450,
+  "frequency": 1454,
   "meanings": [
    {
     "english": "always, constantly",
@@ -1814,7 +1814,7 @@
  {
   "word": "vielmehr",
   "pos": "adverb",
-  "frequency": 1451,
+  "frequency": 1455,
   "meanings": [
    {
     "english": "rather, in fact, on the contrary",
@@ -1852,7 +1852,7 @@
  {
   "word": "weiterhin",
   "pos": "adverb",
-  "frequency": 1452,
+  "frequency": 1456,
   "meanings": [
    {
     "english": "still, furthermore",
@@ -1884,7 +1884,7 @@
  {
   "word": "wiederum",
   "pos": "adverb",
-  "frequency": 1453,
+  "frequency": 1457,
   "meanings": [
    {
     "english": "again, in turn, on the other hand",
@@ -1917,7 +1917,7 @@
  {
   "word": "wobei",
   "pos": "adverb",
-  "frequency": 1454,
+  "frequency": 1458,
   "meanings": [
    {
     "english": "whereby, in doing so, although",
@@ -1951,7 +1951,7 @@
  {
   "word": "zudem",
   "pos": "adverb",
-  "frequency": 1455,
+  "frequency": 1459,
   "meanings": [
    {
     "english": "furthermore, moreover, besides",
@@ -1986,7 +1986,7 @@
  {
   "word": "zufolge",
   "pos": "preposition",
-  "frequency": 1456,
+  "frequency": 1460,
   "meanings": [
    {
     "english": "according to",
@@ -2023,7 +2023,7 @@
  {
   "word": "zugleich",
   "pos": "adverb",
-  "frequency": 1457,
+  "frequency": 1461,
   "meanings": [
    {
     "english": "at the same time, both",
@@ -2059,7 +2059,7 @@
  {
   "word": "zugunsten",
   "pos": "preposition",
-  "frequency": 1458,
+  "frequency": 1462,
   "meanings": [
    {
     "english": "in favour of",
@@ -2098,7 +2098,7 @@
  {
   "word": "zumal",
   "pos": "conjunction",
-  "frequency": 1459,
+  "frequency": 1463,
   "meanings": [
    {
     "english": "particularly as, especially since",
@@ -2138,7 +2138,7 @@
  {
   "word": "zuvor",
   "pos": "adverb",
-  "frequency": 1460,
+  "frequency": 1464,
   "meanings": [
    {
     "english": "before, previously, beforehand",
