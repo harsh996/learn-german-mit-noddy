@@ -71,3 +71,19 @@ export function buildLookup(entries: VocabEntry[]) {
   }
   return map;
 }
+
+let byWord: { entries: VocabEntry[]; map: Map<string, VocabEntry> } | null = null;
+
+/** Lowercase headword -> best (most frequent) entry. Article-less, so "Haus" and "haus" both match. */
+export function findVocabEntry(word: string): VocabEntry | undefined {
+  const entries = load();
+  if (!byWord || byWord.entries !== entries) {
+    const map = new Map<string, VocabEntry>();
+    for (const e of entries) {
+      const k = e.word.toLowerCase();
+      if (!map.has(k)) map.set(k, e);
+    }
+    byWord = { entries, map };
+  }
+  return byWord.map.get(word.toLowerCase());
+}
