@@ -2,7 +2,7 @@
  {
   "word": "angesichts",
   "pos": "preposition",
-  "frequency": 1311,
+  "frequency": 1400,
   "meanings": [
    {
     "english": "in view of, considering",
@@ -40,7 +40,7 @@
  {
   "word": "anhand",
   "pos": "preposition",
-  "frequency": 1312,
+  "frequency": 1401,
   "meanings": [
    {
     "english": "on the basis of, with the aid of",
@@ -76,9 +76,83 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "anschließend",
+  "pos": "adverb",
+  "frequency": 1402,
+  "meanings": [
+   {
+    "english": "then, subsequently, afterwards",
+    "examples": [
+     {
+      "de": "Anschließend gab es Kaffee und Kuchen.",
+      "en": "Afterwards there was coffee and cake.",
+      "glosses": {
+       "Anschließend": "afterwards",
+       "gab": "was",
+       "Kaffee": "coffee",
+       "Kuchen": "cake",
+       "es": "it",
+       "und": "and"
+      }
+     },
+     {
+      "de": "Wir essen und gehen anschließend nach Hause.",
+      "en": "We eat and then go home.",
+      "glosses": {
+       "anschließend": "then",
+       "essen": "eat",
+       "Hause": "home",
+       "Wir": "we",
+       "und": "and",
+       "gehen": "go",
+       "nach": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ansonsten",
+  "pos": "adverb",
+  "frequency": 1403,
+  "meanings": [
+   {
+    "english": "otherwise, apart from that",
+    "examples": [
+     {
+      "de": "Ansonsten ist alles in Ordnung.",
+      "en": "Otherwise everything is fine.",
+      "glosses": {
+       "Ansonsten": "otherwise",
+       "Ordnung": "order",
+       "ist": "is",
+       "alles": "everything",
+       "in": "in"
+      }
+     },
+     {
+      "de": "Ich bin müde, ansonsten geht es mir gut.",
+      "en": "I am tired, but otherwise I am fine.",
+      "glosses": {
+       "ansonsten": "otherwise",
+       "müde": "tired",
+       "gut": "well",
+       "Ich": "I",
+       "bin": "am",
+       "geht": "goes",
+       "es": "it",
+       "mir": "me"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "anstelle",
   "pos": "preposition",
-  "frequency": 1313,
+  "frequency": 1404,
   "meanings": [
    {
     "english": "instead of, in place of",
@@ -115,7 +189,7 @@
  {
   "word": "aufgrund",
   "pos": "preposition",
-  "frequency": 1314,
+  "frequency": 1405,
   "meanings": [
    {
     "english": "because of, on the basis of",
@@ -152,9 +226,47 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "beispielsweise",
+  "pos": "adverb",
+  "frequency": 1406,
+  "meanings": [
+   {
+    "english": "for example, for instance",
+    "examples": [
+     {
+      "de": "Viele Städte, beispielsweise Berlin, sind sehr groß.",
+      "en": "Many cities, for example Berlin, are very big.",
+      "glosses": {
+       "beispielsweise": "for example",
+       "Städte": "cities",
+       "groß": "big",
+       "Viele": "many",
+       "Berlin": "Berlin",
+       "sind": "are",
+       "sehr": "very"
+      }
+     },
+     {
+      "de": "Man kann beispielsweise im Park spazieren gehen.",
+      "en": "You can, for example, go for a walk in the park.",
+      "glosses": {
+       "beispielsweise": "for example",
+       "Park": "park",
+       "Man": "one",
+       "kann": "can",
+       "im": "in the",
+       "spazieren": "for a walk",
+       "gehen": "go"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "beziehungsweise",
   "pos": "conjunction",
-  "frequency": 1315,
+  "frequency": 1407,
   "meanings": [
    {
     "english": "or rather, and … respectively",
@@ -195,7 +307,7 @@
  {
   "word": "bezüglich",
   "pos": "preposition",
-  "frequency": 1316,
+  "frequency": 1408,
   "meanings": [
    {
     "english": "regarding, concerning, referring to",
@@ -232,9 +344,76 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "bislang",
+  "pos": "adverb",
+  "frequency": 1409,
+  "meanings": [
+   {
+    "english": "so far, up to now",
+    "examples": [
+     {
+      "de": "Bislang gab es keine Probleme.",
+      "en": "So far there have been no problems.",
+      "glosses": {
+       "Bislang": "so far",
+       "gab": "were",
+       "Probleme": "problems",
+       "es": "it",
+       "keine": "no"
+      }
+     },
+     {
+      "de": "Das ist bislang unbekannt.",
+      "en": "That is unknown so far.",
+      "glosses": {
+       "bislang": "so far",
+       "unbekannt": "unknown",
+       "Das": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dadurch",
+  "pos": "adverb",
+  "frequency": 1410,
+  "meanings": [
+   {
+    "english": "through it, thereby, as a result",
+    "examples": [
+     {
+      "de": "Dadurch sparst du viel Zeit.",
+      "en": "You save a lot of time that way.",
+      "glosses": {
+       "Dadurch": "thereby",
+       "sparst": "save",
+       "Zeit": "time",
+       "du": "you",
+       "viel": "much"
+      }
+     },
+     {
+      "de": "Er hat sich dadurch verletzt.",
+      "en": "He injured himself as a result.",
+      "glosses": {
+       "dadurch": "as a result",
+       "verletzt": "injured",
+       "Er": "he",
+       "hat": "has",
+       "sich": "oneself"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "dank",
   "pos": "preposition",
-  "frequency": 1317,
+  "frequency": 1411,
   "meanings": [
    {
     "english": "thanks to",
@@ -272,9 +451,291 @@
   "notes": "+ Genitiv or Dativ"
  },
  {
+  "word": "daran",
+  "pos": "adverb",
+  "frequency": 1412,
+  "meanings": [
+   {
+    "english": "on it, at it, of it",
+    "examples": [
+     {
+      "de": "Ich denke oft daran.",
+      "en": "I often think of it.",
+      "glosses": {
+       "daran": "of it",
+       "denke": "think",
+       "oft": "often",
+       "Ich": "I"
+      }
+     },
+     {
+      "de": "Daran habe ich nicht gedacht.",
+      "en": "I didn't think of that.",
+      "glosses": {
+       "Daran": "of that",
+       "gedacht": "thought",
+       "habe": "have",
+       "ich": "I",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquially \"dran\""
+ },
+ {
+  "word": "daraus",
+  "pos": "adverb",
+  "frequency": 1413,
+  "meanings": [
+   {
+    "english": "out of it, from it, from that",
+    "examples": [
+     {
+      "de": "Daraus lerne ich viel.",
+      "en": "I learn a lot from that.",
+      "glosses": {
+       "Daraus": "from that",
+       "lerne": "learn",
+       "ich": "I",
+       "viel": "much"
+      }
+     },
+     {
+      "de": "Ich nehme ein Glas und trinke daraus.",
+      "en": "I take a glass and drink from it.",
+      "glosses": {
+       "daraus": "from it",
+       "Glas": "glass",
+       "trinke": "drink",
+       "Ich": "I",
+       "nehme": "take",
+       "ein": "a",
+       "und": "and"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "darum",
+  "pos": "adverb",
+  "frequency": 1414,
+  "meanings": [
+   {
+    "english": "that's why, around it",
+    "examples": [
+     {
+      "de": "Ich bin krank, darum bleibe ich zu Hause.",
+      "en": "I am ill, that's why I am staying at home.",
+      "glosses": {
+       "darum": "that's why",
+       "krank": "ill",
+       "Ich": "I",
+       "bin": "am",
+       "bleibe": "stay",
+       "ich": "I",
+       "zu": "to",
+       "Hause": "home"
+      }
+     },
+     {
+      "de": "Darum geht es nicht.",
+      "en": "That is not what it is about.",
+      "glosses": {
+       "Darum": "about that",
+       "geht": "goes",
+       "es": "it",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "darunter",
+  "pos": "adverb",
+  "frequency": 1415,
+  "meanings": [
+   {
+    "english": "under it, among them, below",
+    "examples": [
+     {
+      "de": "Es kamen viele Gäste, darunter auch Kinder.",
+      "en": "Many guests came, among them children.",
+      "glosses": {
+       "darunter": "among them",
+       "kamen": "came",
+       "Gäste": "guests",
+       "Kinder": "children",
+       "Es": "it",
+       "viele": "many",
+       "auch": "also"
+      }
+     },
+     {
+      "de": "Oben wohnt Frau Meyer, darunter wohne ich.",
+      "en": "Mrs Meyer lives upstairs, I live below her.",
+      "glosses": {
+       "darunter": "below",
+       "oben": "upstairs",
+       "Meyer": "Meyer",
+       "wohnt": "lives",
+       "Frau": "Ms.",
+       "wohne": "live",
+       "ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "davon",
+  "pos": "adverb",
+  "frequency": 1416,
+  "meanings": [
+   {
+    "english": "of it, from that, about it",
+    "examples": [
+     {
+      "de": "Davon habe ich nichts gewusst.",
+      "en": "I knew nothing about that.",
+      "glosses": {
+       "Davon": "about that",
+       "nichts": "nothing",
+       "gewusst": "known",
+       "habe": "have",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Ich möchte etwas davon.",
+      "en": "I would like some of it.",
+      "glosses": {
+       "davon": "of it",
+       "etwas": "some",
+       "Ich": "I",
+       "möchte": "would like"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dazu",
+  "pos": "adverb",
+  "frequency": 1417,
+  "meanings": [
+   {
+    "english": "in addition, to that, for that",
+    "examples": [
+     {
+      "de": "Dazu habe ich keine Meinung.",
+      "en": "I have no opinion on that.",
+      "glosses": {
+       "Dazu": "on that",
+       "Meinung": "opinion",
+       "habe": "have",
+       "ich": "I",
+       "keine": "no"
+      }
+     },
+     {
+      "de": "Er isst Fisch und trinkt Wein dazu.",
+      "en": "He eats fish and drinks wine with it.",
+      "glosses": {
+       "dazu": "with it",
+       "trinkt": "drinks",
+       "Fisch": "fish",
+       "Wein": "wine",
+       "Er": "he",
+       "isst": "eats",
+       "und": "and"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dennoch",
+  "pos": "adverb",
+  "frequency": 1418,
+  "meanings": [
+   {
+    "english": "nevertheless, nonetheless, however",
+    "examples": [
+     {
+      "de": "Er war müde, dennoch arbeitete er weiter.",
+      "en": "He was tired, nevertheless he kept working.",
+      "glosses": {
+       "dennoch": "nevertheless",
+       "arbeitete": "worked",
+       "müde": "tired",
+       "weiter": "on",
+       "Er": "he",
+       "war": "was",
+       "er": "he"
+      }
+     },
+     {
+      "de": "Dennoch bin ich froh.",
+      "en": "Nevertheless I am glad.",
+      "glosses": {
+       "Dennoch": "nevertheless",
+       "froh": "glad",
+       "bin": "am",
+       "ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "derzeit",
+  "pos": "adverb",
+  "frequency": 1419,
+  "meanings": [
+   {
+    "english": "at the moment, at present, currently",
+    "examples": [
+     {
+      "de": "Derzeit gibt es keine freien Zimmer.",
+      "en": "At the moment there are no free rooms.",
+      "glosses": {
+       "Derzeit": "at the moment",
+       "freien": "free",
+       "Zimmer": "rooms",
+       "gibt": "gives",
+       "es": "it",
+       "keine": "no"
+      }
+     },
+     {
+      "de": "Er lebt derzeit in München.",
+      "en": "He is currently living in Munich.",
+      "glosses": {
+       "derzeit": "currently",
+       "lebt": "lives",
+       "München": "Munich",
+       "Er": "he",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "desto",
   "pos": "conjunction",
-  "frequency": 1318,
+  "frequency": 1420,
   "meanings": [
    {
     "english": "the more",
@@ -312,9 +773,141 @@
   "notes": "desto + comparative, after \"je\""
  },
  {
+  "word": "dran",
+  "pos": "adverb",
+  "frequency": 1421,
+  "meanings": [
+   {
+    "english": "on it, at it",
+    "examples": [
+     {
+      "de": "Du bist dran!",
+      "en": "It's your turn!",
+      "glosses": {
+       "dran": "(your) turn",
+       "Du": "you",
+       "bist": "are"
+      }
+     },
+     {
+      "de": "Ich bin gleich dran.",
+      "en": "I'm next in a moment.",
+      "glosses": {
+       "dran": "next",
+       "gleich": "in a moment",
+       "Ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial form of \"daran\""
+ },
+ {
+  "word": "drauf",
+  "pos": "adverb",
+  "frequency": 1422,
+  "meanings": [
+   {
+    "english": "on it, on that",
+    "examples": [
+     {
+      "de": "Pass drauf auf!",
+      "en": "Watch out for it!",
+      "glosses": {
+       "drauf": "on it",
+       "Pass": "watch",
+       "auf": "on"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial form of \"darauf\""
+ },
+ {
+  "word": "drin",
+  "pos": "adverb",
+  "frequency": 1423,
+  "meanings": [
+   {
+    "english": "in it, inside",
+    "examples": [
+     {
+      "de": "Was ist da drin?",
+      "en": "What is in there?",
+      "glosses": {
+       "drin": "in there",
+       "Was": "what",
+       "ist": "is",
+       "da": "there"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial form of \"darin\""
+ },
+ {
+  "word": "drüber",
+  "pos": "adverb",
+  "frequency": 1424,
+  "meanings": [
+   {
+    "english": "over it, about it",
+    "examples": [
+     {
+      "de": "Lass uns drüber reden.",
+      "en": "Let's talk about it.",
+      "glosses": {
+       "drüber": "about it",
+       "Lass": "let",
+       "reden": "talk",
+       "uns": "us/ourselves"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial form of \"darüber\""
+ },
+ {
+  "word": "durchaus",
+  "pos": "adverb",
+  "frequency": 1425,
+  "meanings": [
+   {
+    "english": "quite, absolutely, certainly",
+    "examples": [
+     {
+      "de": "Das ist durchaus möglich.",
+      "en": "That is quite possible.",
+      "glosses": {
+       "durchaus": "quite",
+       "möglich": "possible",
+       "Das": "the",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Ich bin durchaus zufrieden.",
+      "en": "I am perfectly satisfied.",
+      "glosses": {
+       "durchaus": "perfectly",
+       "zufrieden": "satisfied",
+       "Ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "ehe",
   "pos": "conjunction",
-  "frequency": 1319,
+  "frequency": 1426,
   "meanings": [
    {
     "english": "before",
@@ -350,7 +943,7 @@
  {
   "word": "entsprechend",
   "pos": "preposition",
-  "frequency": 1320,
+  "frequency": 1427,
   "meanings": [
    {
     "english": "in accordance with, according to, corresponding to",
@@ -388,9 +981,44 @@
   "notes": "+ Dativ"
  },
  {
+  "word": "erstmals",
+  "pos": "adverb",
+  "frequency": 1428,
+  "meanings": [
+   {
+    "english": "for the first time",
+    "examples": [
+     {
+      "de": "Er war erstmals in Deutschland.",
+      "en": "He was in Germany for the first time.",
+      "glosses": {
+       "erstmals": "for the first time",
+       "Deutschland": "Germany",
+       "Er": "he",
+       "war": "was",
+       "in": "in"
+      }
+     },
+     {
+      "de": "Erstmals seit Jahren regnet es wieder.",
+      "en": "For the first time in years it is raining again.",
+      "glosses": {
+       "Erstmals": "for the first time",
+       "Jahren": "years",
+       "regnet": "rains",
+       "seit": "for",
+       "es": "it",
+       "wieder": "again"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "gemäß",
   "pos": "preposition",
-  "frequency": 1321,
+  "frequency": 1429,
   "meanings": [
    {
     "english": "in accordance with, according to",
@@ -424,9 +1052,48 @@
   "notes": "+ Dativ"
  },
  {
+  "word": "hingegen",
+  "pos": "adverb",
+  "frequency": 1430,
+  "meanings": [
+   {
+    "english": "on the other hand, on the contrary",
+    "examples": [
+     {
+      "de": "Er ist ruhig, sie hingegen ist laut.",
+      "en": "He is quiet, she on the other hand is loud.",
+      "glosses": {
+       "hingegen": "on the other hand",
+       "ruhig": "quiet",
+       "laut": "loud",
+       "Er": "he",
+       "ist": "is",
+       "sie": "you"
+      }
+     },
+     {
+      "de": "Im Sommer ist es heiß, im Winter hingegen kalt.",
+      "en": "In summer it is hot, in winter on the other hand cold.",
+      "glosses": {
+       "hingegen": "on the other hand",
+       "Winter": "winter",
+       "heiß": "hot",
+       "kalt": "cold",
+       "Im": "in the",
+       "Sommer": "summer",
+       "ist": "is",
+       "es": "it",
+       "im": "in the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "hinsichtlich",
   "pos": "preposition",
-  "frequency": 1322,
+  "frequency": 1431,
   "meanings": [
    {
     "english": "with regard to, regarding",
@@ -463,9 +1130,43 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "immerhin",
+  "pos": "adverb",
+  "frequency": 1432,
+  "meanings": [
+   {
+    "english": "after all, at least, anyhow",
+    "examples": [
+     {
+      "de": "Immerhin hat er es versucht.",
+      "en": "After all, he tried.",
+      "glosses": {
+       "Immerhin": "after all",
+       "versucht": "tried",
+       "hat": "has",
+       "er": "he",
+       "es": "it"
+      }
+     },
+     {
+      "de": "Es ist immerhin ein Anfang.",
+      "en": "It is at least a beginning.",
+      "glosses": {
+       "immerhin": "at least",
+       "Anfang": "beginning",
+       "Es": "it",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "infolge",
   "pos": "preposition",
-  "frequency": 1323,
+  "frequency": 1433,
   "meanings": [
    {
     "english": "as a result of",
@@ -502,9 +1203,109 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "insbesondere",
+  "pos": "adverb",
+  "frequency": 1434,
+  "meanings": [
+   {
+    "english": "especially, in particular",
+    "examples": [
+     {
+      "de": "Alle, insbesondere die Kinder, freuten sich.",
+      "en": "Everyone, especially the children, was happy.",
+      "glosses": {
+       "insbesondere": "especially",
+       "Kinder": "children",
+       "freuten": "were happy",
+       "Alle": "all",
+       "die": "the",
+       "sich": "oneself"
+      }
+     },
+     {
+      "de": "Ich mag Obst, insbesondere Äpfel.",
+      "en": "I like fruit, in particular apples.",
+      "glosses": {
+       "insbesondere": "in particular",
+       "Obst": "fruit",
+       "Äpfel": "apples",
+       "Ich": "I",
+       "mag": "like"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "irgendwie",
+  "pos": "adverb",
+  "frequency": 1435,
+  "meanings": [
+   {
+    "english": "somehow, kind of",
+    "examples": [
+     {
+      "de": "Irgendwie schaffen wir das.",
+      "en": "Somehow we will manage it.",
+      "glosses": {
+       "Irgendwie": "somehow",
+       "schaffen": "manage",
+       "wir": "we",
+       "das": "the"
+      }
+     },
+     {
+      "de": "Das ist irgendwie komisch.",
+      "en": "That is kind of strange.",
+      "glosses": {
+       "irgendwie": "kind of",
+       "komisch": "strange",
+       "Das": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "jedenfalls",
+  "pos": "adverb",
+  "frequency": 1436,
+  "meanings": [
+   {
+    "english": "in any case, anyhow, at least",
+    "examples": [
+     {
+      "de": "Jedenfalls bin ich pünktlich.",
+      "en": "In any case I am on time.",
+      "glosses": {
+       "Jedenfalls": "in any case",
+       "pünktlich": "on time",
+       "bin": "am",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Das war jedenfalls meine Meinung.",
+      "en": "That was my opinion, at any rate.",
+      "glosses": {
+       "jedenfalls": "at any rate",
+       "Meinung": "opinion",
+       "Das": "the",
+       "war": "was",
+       "meine": "my"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "jenseits",
   "pos": "preposition",
-  "frequency": 1324,
+  "frequency": 1437,
   "meanings": [
    {
     "english": "beyond, on the other side of",
@@ -540,7 +1341,7 @@
  {
   "word": "laut",
   "pos": "preposition",
-  "frequency": 1325,
+  "frequency": 1438,
   "meanings": [
    {
     "english": "according to",
@@ -575,9 +1376,80 @@
   "notes": "+ Genitiv or Dativ"
  },
  {
+  "word": "lediglich",
+  "pos": "adverb",
+  "frequency": 1439,
+  "meanings": [
+   {
+    "english": "merely, simply, only",
+    "examples": [
+     {
+      "de": "Das ist lediglich eine Frage der Zeit.",
+      "en": "That is merely a question of time.",
+      "glosses": {
+       "lediglich": "merely",
+       "Frage": "question",
+       "Zeit": "time",
+       "Das": "the",
+       "ist": "is",
+       "eine": "a",
+       "der": "the"
+      }
+     },
+     {
+      "de": "Er hat lediglich zwei Fehler gemacht.",
+      "en": "He made only two mistakes.",
+      "glosses": {
+       "lediglich": "only",
+       "Fehler": "mistakes",
+       "Er": "he",
+       "hat": "has",
+       "zwei": "two",
+       "gemacht": "done"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "letztlich",
+  "pos": "adverb",
+  "frequency": 1440,
+  "meanings": [
+   {
+    "english": "in the end, ultimately, finally",
+    "examples": [
+     {
+      "de": "Letztlich entscheidest du.",
+      "en": "In the end you decide.",
+      "glosses": {
+       "Letztlich": "in the end",
+       "entscheidest": "decide",
+       "du": "you"
+      }
+     },
+     {
+      "de": "Es kommt letztlich auf das Geld an.",
+      "en": "Ultimately it comes down to the money.",
+      "glosses": {
+       "letztlich": "ultimately",
+       "kommt": "comes",
+       "Geld": "money",
+       "Es": "it",
+       "auf": "on",
+       "das": "the",
+       "an": "at"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "mithilfe",
   "pos": "preposition",
-  "frequency": 1326,
+  "frequency": 1441,
   "meanings": [
    {
     "english": "with the help of, by means of",
@@ -616,7 +1488,7 @@
  {
   "word": "mittels",
   "pos": "preposition",
-  "frequency": 1327,
+  "frequency": 1442,
   "meanings": [
    {
     "english": "by means of",
@@ -655,7 +1527,7 @@
  {
   "word": "samt",
   "pos": "preposition",
-  "frequency": 1328,
+  "frequency": 1443,
   "meanings": [
    {
     "english": "together with, along with",
@@ -692,7 +1564,7 @@
  {
   "word": "seitens",
   "pos": "preposition",
-  "frequency": 1329,
+  "frequency": 1444,
   "meanings": [
    {
     "english": "on the part of",
@@ -729,9 +1601,41 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "sicherlich",
+  "pos": "adverb",
+  "frequency": 1445,
+  "meanings": [
+   {
+    "english": "certainly, surely",
+    "examples": [
+     {
+      "de": "Das ist sicherlich richtig.",
+      "en": "That is certainly right.",
+      "glosses": {
+       "sicherlich": "certainly",
+       "richtig": "right",
+       "Das": "the",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Er kommt sicherlich bald.",
+      "en": "He will surely come soon.",
+      "glosses": {
+       "sicherlich": "surely",
+       "bald": "soon",
+       "Er": "he",
+       "kommt": "comes"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "sofern",
   "pos": "conjunction",
-  "frequency": 1330,
+  "frequency": 1446,
   "meanings": [
    {
     "english": "provided that, if",
@@ -767,9 +1671,80 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "somit",
+  "pos": "adverb",
+  "frequency": 1447,
+  "meanings": [
+   {
+    "english": "thus, therefore, consequently",
+    "examples": [
+     {
+      "de": "Er hat gewonnen und ist somit Meister.",
+      "en": "He won and is thus champion.",
+      "glosses": {
+       "somit": "thus",
+       "gewonnen": "won",
+       "Meister": "champion",
+       "Er": "he",
+       "hat": "has",
+       "und": "and",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Somit ist das Problem gelöst.",
+      "en": "Thus the problem is solved.",
+      "glosses": {
+       "Somit": "thus",
+       "Problem": "problem",
+       "gelöst": "solved",
+       "ist": "is",
+       "das": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "soweit",
+  "pos": "adverb",
+  "frequency": 1448,
+  "meanings": [
+   {
+    "english": "as far as, so far as, insofar as",
+    "examples": [
+     {
+      "de": "Soweit ich weiß, ist er krank.",
+      "en": "As far as I know, he is ill.",
+      "glosses": {
+       "Soweit": "as far as",
+       "weiß": "know",
+       "ich": "I",
+       "ist": "is",
+       "er": "he",
+       "krank": "sick"
+      }
+     },
+     {
+      "de": "Es ist alles soweit fertig.",
+      "en": "Everything is ready so far.",
+      "glosses": {
+       "soweit": "so far",
+       "fertig": "ready",
+       "Es": "it",
+       "ist": "is",
+       "alles": "everything"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "sowie",
   "pos": "conjunction",
-  "frequency": 1331,
+  "frequency": 1449,
   "meanings": [
    {
     "english": "as well as, as soon as",
@@ -803,9 +1778,215 @@
   "notes": "position 0"
  },
  {
+  "word": "stets",
+  "pos": "adverb",
+  "frequency": 1450,
+  "meanings": [
+   {
+    "english": "always, constantly",
+    "examples": [
+     {
+      "de": "Er war stets freundlich.",
+      "en": "He was always friendly.",
+      "glosses": {
+       "stets": "always",
+       "freundlich": "friendly",
+       "Er": "he",
+       "war": "was"
+      }
+     },
+     {
+      "de": "Wir sind stets für Sie da.",
+      "en": "We are always there for you.",
+      "glosses": {
+       "stets": "always",
+       "da": "there",
+       "Wir": "we",
+       "sind": "are",
+       "für": "for",
+       "Sie": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "vielmehr",
+  "pos": "adverb",
+  "frequency": 1451,
+  "meanings": [
+   {
+    "english": "rather, in fact, on the contrary",
+    "examples": [
+     {
+      "de": "Er ist nicht faul, vielmehr sehr müde.",
+      "en": "He is not lazy, but rather very tired.",
+      "glosses": {
+       "vielmehr": "rather",
+       "faul": "lazy",
+       "müde": "tired",
+       "Er": "he",
+       "ist": "is",
+       "nicht": "not",
+       "sehr": "very"
+      }
+     },
+     {
+      "de": "Es ist kein Fehler, vielmehr ein Vorteil.",
+      "en": "It is not a mistake, but rather an advantage.",
+      "glosses": {
+       "vielmehr": "rather",
+       "Fehler": "mistake",
+       "Vorteil": "advantage",
+       "Es": "it",
+       "ist": "is",
+       "kein": "no",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "weiterhin",
+  "pos": "adverb",
+  "frequency": 1452,
+  "meanings": [
+   {
+    "english": "still, furthermore",
+    "examples": [
+     {
+      "de": "Wir bleiben weiterhin in Kontakt.",
+      "en": "We will stay in touch.",
+      "glosses": {
+       "weiterhin": "still",
+       "bleiben": "stay",
+       "Kontakt": "contact",
+       "Wir": "we",
+       "in": "in"
+      }
+     },
+     {
+      "de": "Es regnet weiterhin.",
+      "en": "It is still raining.",
+      "glosses": {
+       "weiterhin": "still",
+       "regnet": "rains",
+       "Es": "it"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wiederum",
+  "pos": "adverb",
+  "frequency": 1453,
+  "meanings": [
+   {
+    "english": "again, in turn, on the other hand",
+    "examples": [
+     {
+      "de": "Das hat wiederum Folgen.",
+      "en": "That in turn has consequences.",
+      "glosses": {
+       "wiederum": "in turn",
+       "Folgen": "consequences",
+       "Das": "the",
+       "hat": "has"
+      }
+     },
+     {
+      "de": "Er kam wiederum zu spät.",
+      "en": "He arrived late again.",
+      "glosses": {
+       "wiederum": "again",
+       "kam": "came",
+       "spät": "late",
+       "Er": "he",
+       "zu": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wobei",
+  "pos": "adverb",
+  "frequency": 1454,
+  "meanings": [
+   {
+    "english": "whereby, in doing so, although",
+    "examples": [
+     {
+      "de": "Er fiel, wobei er sich verletzte.",
+      "en": "He fell, and in doing so he hurt himself.",
+      "glosses": {
+       "wobei": "in doing so",
+       "fiel": "fell",
+       "verletzte": "hurt",
+       "Er": "he",
+       "er": "he",
+       "sich": "oneself"
+      }
+     },
+     {
+      "de": "Wobei hast du geholfen?",
+      "en": "What did you help with?",
+      "glosses": {
+       "Wobei": "with what",
+       "geholfen": "helped",
+       "hast": "have",
+       "du": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zudem",
+  "pos": "adverb",
+  "frequency": 1455,
+  "meanings": [
+   {
+    "english": "furthermore, moreover, besides",
+    "examples": [
+     {
+      "de": "Es ist billig und zudem gesund.",
+      "en": "It is cheap and moreover healthy.",
+      "glosses": {
+       "zudem": "moreover",
+       "billig": "cheap",
+       "gesund": "healthy",
+       "Es": "it",
+       "ist": "is",
+       "und": "and"
+      }
+     },
+     {
+      "de": "Zudem fehlt uns die Zeit.",
+      "en": "Besides, we lack the time.",
+      "glosses": {
+       "Zudem": "besides",
+       "fehlt": "is lacking",
+       "Zeit": "time",
+       "uns": "us/ourselves",
+       "die": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "zufolge",
   "pos": "preposition",
-  "frequency": 1332,
+  "frequency": 1456,
   "meanings": [
    {
     "english": "according to",
@@ -840,9 +2021,45 @@
   "notes": "+ Dativ (after the noun)"
  },
  {
+  "word": "zugleich",
+  "pos": "adverb",
+  "frequency": 1457,
+  "meanings": [
+   {
+    "english": "at the same time, both",
+    "examples": [
+     {
+      "de": "Sie ist Ärztin und zugleich Mutter.",
+      "en": "She is a doctor and at the same time a mother.",
+      "glosses": {
+       "zugleich": "at the same time",
+       "Ärztin": "doctor",
+       "Mutter": "mother",
+       "Sie": "you",
+       "ist": "is",
+       "und": "and"
+      }
+     },
+     {
+      "de": "Es ist schön und zugleich gefährlich.",
+      "en": "It is beautiful and at the same time dangerous.",
+      "glosses": {
+       "zugleich": "at the same time",
+       "gefährlich": "dangerous",
+       "Es": "it",
+       "ist": "is",
+       "schön": "nice",
+       "und": "and"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "zugunsten",
   "pos": "preposition",
-  "frequency": 1333,
+  "frequency": 1458,
   "meanings": [
    {
     "english": "in favour of",
@@ -881,7 +2098,7 @@
  {
   "word": "zumal",
   "pos": "conjunction",
-  "frequency": 1334,
+  "frequency": 1459,
   "meanings": [
    {
     "english": "particularly as, especially since",
@@ -917,5 +2134,40 @@
    }
   ],
   "notes": "subordinating: verb at the end"
+ },
+ {
+  "word": "zuvor",
+  "pos": "adverb",
+  "frequency": 1460,
+  "meanings": [
+   {
+    "english": "before, previously, beforehand",
+    "examples": [
+     {
+      "de": "Ich hatte ihn nie zuvor gesehen.",
+      "en": "I had never seen him before.",
+      "glosses": {
+       "zuvor": "before",
+       "nie": "never",
+       "gesehen": "seen",
+       "Ich": "I",
+       "hatte": "had",
+       "ihn": "him"
+      }
+     },
+     {
+      "de": "Wie zuvor ist alles ruhig.",
+      "en": "As before, everything is quiet.",
+      "glosses": {
+       "zuvor": "before",
+       "ruhig": "quiet",
+       "Wie": "how",
+       "ist": "is",
+       "alles": "everything"
+      }
+     }
+    ]
+   }
+  ]
  }
 ]

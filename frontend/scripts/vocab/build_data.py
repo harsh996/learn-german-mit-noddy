@@ -98,6 +98,21 @@ def build(entries, cache):
 
 
 
+def corpus_glosses(files):
+    """Most common gloss per lowercase token across the existing examples (used to fill the obvious words)."""
+    from collections import Counter, defaultdict
+    c = defaultdict(Counter)
+    for items in files.values():
+        for it in items:
+            for m in it["meanings"]:
+                for ex in m["examples"]:
+                    for k, v in (ex.get("glosses") or {}).items():
+                        c[k.lower()][v] += 1
+    out = {k: v.most_common(1)[0][0] for k, v in c.items()}
+    out.update({"sich": "oneself", "mich": "me/myself", "dich": "you/yourself", "uns": "us/ourselves"})  # person-dependent
+    return out
+
+
 def add_supplements(files):
     """Merge scripts/vocab/supplement_*.txt (words missing from the Goethe lists) into the level files.
 
@@ -105,6 +120,7 @@ def add_supplements(files):
     word + part of speech already exists at any level, so the supplements never shadow the lists.
     """
     have = {(it["word"].lower(), it["pos"]) for items in files.values() for it in items}
+    auto = corpus_glosses(files)
     for f in sorted(HERE.glob("supplement_*.txt")):
         pos = f.stem.removeprefix("supplement_").rstrip("s")  # supplement_prepositions.txt -> preposition
         for block in re.split(r"\n\s*\n", f.read_text()):
@@ -117,10 +133,19 @@ def add_supplements(files):
             exs = []
             for l in lines[1:]:
                 de, en, g = [p.strip() for p in l[2:].split("##")]
-                missing = [t for t in TOKEN.findall(de) if t.lower() not in {k.lower() for k in gl(g)}]
+                glosses = gl(g)
+                have_k = {k.lower() for k in glosses}
+                missing = []
+                for t in TOKEN.findall(de):
+                    if t.lower() in have_k:
+                        continue
+                    if t.lower() in auto:  # explicit glosses in the file always win
+                        glosses[t] = auto[t.lower()]
+                    else:
+                        missing.append(t)
                 if missing:
                     print(f"WARN {f.name} {word}: no gloss for {missing}")
-                exs.append({"de": de, "en": en, "glosses": gl(g)})
+                exs.append({"de": de, "en": en, "glosses": glosses})
             item = {"word": word, "pos": pos, "frequency": 0, "meanings": [{"english": english, "examples": exs}]}
             if notes:
                 item["notes"] = notes

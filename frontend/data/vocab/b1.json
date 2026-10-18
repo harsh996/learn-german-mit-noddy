@@ -2,7 +2,7 @@
  {
   "word": "abbiegen",
   "pos": "verb",
-  "frequency": 1164,
+  "frequency": 1205,
   "meanings": [
    {
     "english": "to turn (off a road)",
@@ -29,7 +29,7 @@
  {
   "word": "Abbildung",
   "pos": "noun",
-  "frequency": 1165,
+  "frequency": 1206,
   "meanings": [
    {
     "english": "illustration, figure",
@@ -59,7 +59,7 @@
  {
   "word": "abbrechen",
   "pos": "verb",
-  "frequency": 1166,
+  "frequency": 1207,
   "meanings": [
    {
     "english": "to break off, to drop out of",
@@ -83,7 +83,7 @@
  {
   "word": "Abenteuer",
   "pos": "noun",
-  "frequency": 1167,
+  "frequency": 1208,
   "meanings": [
    {
     "english": "adventure",
@@ -119,7 +119,7 @@
  {
   "word": "Abfall",
   "pos": "noun",
-  "frequency": 1168,
+  "frequency": 1209,
   "meanings": [
    {
     "english": "waste, rubbish",
@@ -148,7 +148,7 @@
  {
   "word": "Abfalleimer",
   "pos": "noun",
-  "frequency": 1169,
+  "frequency": 1210,
   "meanings": [
    {
     "english": "trash can, waste bin",
@@ -174,7 +174,7 @@
  {
   "word": "Abgase",
   "pos": "noun",
-  "frequency": 1170,
+  "frequency": 1211,
   "meanings": [
    {
     "english": "exhaust fumes, emissions",
@@ -202,7 +202,7 @@
  {
   "word": "abhängen",
   "pos": "verb",
-  "frequency": 1171,
+  "frequency": 1212,
   "meanings": [
    {
     "english": "to depend (on)",
@@ -233,7 +233,7 @@
  {
   "word": "abheben",
   "pos": "verb",
-  "frequency": 1172,
+  "frequency": 1213,
   "meanings": [
    {
     "english": "to withdraw (money)",
@@ -262,7 +262,7 @@
  {
   "word": "Abitur",
   "pos": "noun",
-  "frequency": 1173,
+  "frequency": 1214,
   "meanings": [
    {
     "english": "Abitur (German school-leaving exam)",
@@ -287,7 +287,7 @@
  {
   "word": "ablehnen",
   "pos": "verb",
-  "frequency": 1174,
+  "frequency": 1215,
   "meanings": [
    {
     "english": "to decline, to reject",
@@ -314,7 +314,7 @@
  {
   "word": "abmachen",
   "pos": "verb",
-  "frequency": 1175,
+  "frequency": 1216,
   "meanings": [
    {
     "english": "to arrange, to agree",
@@ -342,7 +342,7 @@
  {
   "word": "abnehmen",
   "pos": "verb",
-  "frequency": 1176,
+  "frequency": 1217,
   "meanings": [
    {
     "english": "to take off, to remove",
@@ -383,7 +383,7 @@
  {
   "word": "abonnieren",
   "pos": "verb",
-  "frequency": 1177,
+  "frequency": 1218,
   "meanings": [
    {
     "english": "to subscribe to",
@@ -408,7 +408,7 @@
  {
   "word": "absagen",
   "pos": "verb",
-  "frequency": 1178,
+  "frequency": 1219,
   "meanings": [
    {
     "english": "to cancel, to call off",
@@ -438,7 +438,7 @@
  {
   "word": "abschreiben",
   "pos": "verb",
-  "frequency": 1179,
+  "frequency": 1220,
   "meanings": [
    {
     "english": "to copy (from someone)",
@@ -464,7 +464,7 @@
  {
   "word": "absolut",
   "pos": "adjective",
-  "frequency": 1180,
+  "frequency": 1221,
   "meanings": [
    {
     "english": "absolute, absolutely",
@@ -501,7 +501,7 @@
  {
   "word": "abstimmen",
   "pos": "verb",
-  "frequency": 1181,
+  "frequency": 1222,
   "meanings": [
    {
     "english": "to vote",
@@ -526,7 +526,7 @@
  {
   "word": "abwärts",
   "pos": "adverb",
-  "frequency": 1182,
+  "frequency": 1223,
   "meanings": [
    {
     "english": "downward",
@@ -552,7 +552,7 @@
  {
   "word": "abwaschen",
   "pos": "verb",
-  "frequency": 1183,
+  "frequency": 1224,
   "meanings": [
    {
     "english": "to wash up",
@@ -577,7 +577,7 @@
  {
   "word": "abwesend",
   "pos": "adjective",
-  "frequency": 1184,
+  "frequency": 1225,
   "meanings": [
    {
     "english": "absent",
@@ -602,7 +602,7 @@
  {
   "word": "achten",
   "pos": "verb",
-  "frequency": 1185,
+  "frequency": 1226,
   "meanings": [
    {
     "english": "to pay attention (to)",
@@ -629,7 +629,7 @@
  {
   "word": "ähnlich",
   "pos": "adjective",
-  "frequency": 1186,
+  "frequency": 1227,
   "meanings": [
    {
     "english": "similar",
@@ -668,7 +668,7 @@
  {
   "word": "allerdings",
   "pos": "adverb",
-  "frequency": 1187,
+  "frequency": 1228,
   "meanings": [
    {
     "english": "however, though",
@@ -698,7 +698,7 @@
  {
   "word": "allgemein",
   "pos": "adjective",
-  "frequency": 1188,
+  "frequency": 1229,
   "meanings": [
    {
     "english": "general",
@@ -759,7 +759,7 @@
  {
   "word": "alltäglich",
   "pos": "adjective",
-  "frequency": 1189,
+  "frequency": 1230,
   "meanings": [
    {
     "english": "everyday, ordinary",
@@ -796,7 +796,7 @@
  {
   "word": "als ob",
   "pos": "conjunction",
-  "frequency": 1190,
+  "frequency": 1231,
   "meanings": [
    {
     "english": "as if",
@@ -824,7 +824,7 @@
  {
   "word": "am",
   "pos": "preposition",
-  "frequency": 1191,
+  "frequency": 1232,
   "meanings": [
    {
     "english": "at the, on the, in the (an + dem)",
@@ -901,7 +901,7 @@
  {
   "word": "analysieren",
   "pos": "verb",
-  "frequency": 1192,
+  "frequency": 1233,
   "meanings": [
    {
     "english": "to analyze",
@@ -928,7 +928,7 @@
  {
   "word": "Anbieter",
   "pos": "noun",
-  "frequency": 1193,
+  "frequency": 1234,
   "meanings": [
    {
     "english": "provider, supplier",
@@ -953,7 +953,7 @@
  {
   "word": "andererseits",
   "pos": "adverb",
-  "frequency": 1194,
+  "frequency": 1235,
   "meanings": [
    {
     "english": "on the other hand",
@@ -982,7 +982,7 @@
  {
   "word": "anerkennen",
   "pos": "verb",
-  "frequency": 1195,
+  "frequency": 1236,
   "meanings": [
    {
     "english": "to recognize, to accept (a qualification)",
@@ -1007,7 +1007,7 @@
  {
   "word": "Angabe",
   "pos": "noun",
-  "frequency": 1196,
+  "frequency": 1237,
   "meanings": [
    {
     "english": "information, details",
@@ -1036,7 +1036,7 @@
  {
   "word": "angeben",
   "pos": "verb",
-  "frequency": 1197,
+  "frequency": 1238,
   "meanings": [
    {
     "english": "to state, to indicate",
@@ -1062,7 +1062,7 @@
  {
   "word": "Angehörige",
   "pos": "noun",
-  "frequency": 1198,
+  "frequency": 1239,
   "meanings": [
    {
     "english": "relative, family member",
@@ -1089,7 +1089,7 @@
  {
   "word": "angenehm",
   "pos": "adjective",
-  "frequency": 1199,
+  "frequency": 1240,
   "meanings": [
    {
     "english": "pleasant",
@@ -1113,7 +1113,7 @@
  {
   "word": "Angestellte",
   "pos": "noun",
-  "frequency": 1200,
+  "frequency": 1241,
   "meanings": [
    {
     "english": "employee",
@@ -1139,7 +1139,7 @@
  {
   "word": "ängstlich",
   "pos": "adjective",
-  "frequency": 1201,
+  "frequency": 1242,
   "meanings": [
    {
     "english": "anxious, fearful",
@@ -1170,7 +1170,7 @@
  {
   "word": "anhaben",
   "pos": "verb",
-  "frequency": 1202,
+  "frequency": 1243,
   "meanings": [
    {
     "english": "to be wearing",
@@ -1196,7 +1196,7 @@
  {
   "word": "ankündigen",
   "pos": "verb",
-  "frequency": 1203,
+  "frequency": 1244,
   "meanings": [
    {
     "english": "to announce",
@@ -1220,7 +1220,7 @@
  {
   "word": "Anlage",
   "pos": "noun",
-  "frequency": 1204,
+  "frequency": 1245,
   "meanings": [
    {
     "english": "system, equipment",
@@ -1263,7 +1263,7 @@
  {
   "word": "Anleitung",
   "pos": "noun",
-  "frequency": 1205,
+  "frequency": 1246,
   "meanings": [
    {
     "english": "instructions, manual",
@@ -1293,7 +1293,7 @@
  {
   "word": "annehmen",
   "pos": "verb",
-  "frequency": 1206,
+  "frequency": 1247,
   "meanings": [
    {
     "english": "to accept",
@@ -1339,7 +1339,7 @@
  {
   "word": "Annonce",
   "pos": "noun",
-  "frequency": 1207,
+  "frequency": 1248,
   "meanings": [
    {
     "english": "advertisement, classified ad",
@@ -1370,7 +1370,7 @@
  {
   "word": "anschaffen",
   "pos": "verb",
-  "frequency": 1208,
+  "frequency": 1249,
   "meanings": [
    {
     "english": "to acquire, to buy (for oneself)",
@@ -1395,7 +1395,7 @@
  {
   "word": "anschließen",
   "pos": "verb",
-  "frequency": 1209,
+  "frequency": 1250,
   "meanings": [
    {
     "english": "to connect, to plug in",
@@ -1420,7 +1420,7 @@
  {
   "word": "anschnallen",
   "pos": "verb",
-  "frequency": 1210,
+  "frequency": 1251,
   "meanings": [
    {
     "english": "to fasten one's seat belt",
@@ -1443,7 +1443,7 @@
  {
   "word": "ansprechen",
   "pos": "verb",
-  "frequency": 1211,
+  "frequency": 1252,
   "meanings": [
    {
     "english": "to speak to, to approach",
@@ -1471,7 +1471,7 @@
  {
   "word": "Anspruch",
   "pos": "noun",
-  "frequency": 1212,
+  "frequency": 1253,
   "meanings": [
    {
     "english": "claim, entitlement",
@@ -1501,7 +1501,7 @@
  {
   "word": "anstellen",
   "pos": "verb",
-  "frequency": 1213,
+  "frequency": 1254,
   "meanings": [
    {
     "english": "to turn on",
@@ -1564,7 +1564,7 @@
  {
   "word": "anstrengen",
   "pos": "verb",
-  "frequency": 1214,
+  "frequency": 1255,
   "meanings": [
    {
     "english": "to tire out, to strain",
@@ -1610,7 +1610,7 @@
  {
   "word": "anstrengend",
   "pos": "adjective",
-  "frequency": 1215,
+  "frequency": 1256,
   "meanings": [
    {
     "english": "tiring, strenuous",
@@ -1634,7 +1634,7 @@
  {
   "word": "Antrag",
   "pos": "noun",
-  "frequency": 1216,
+  "frequency": 1257,
   "meanings": [
    {
     "english": "application, request",
@@ -1663,7 +1663,7 @@
  {
   "word": "Anwalt",
   "pos": "noun",
-  "frequency": 1217,
+  "frequency": 1258,
   "meanings": [
    {
     "english": "lawyer",
@@ -1694,7 +1694,7 @@
  {
   "word": "anwenden",
   "pos": "verb",
-  "frequency": 1218,
+  "frequency": 1259,
   "meanings": [
    {
     "english": "to apply, to use",
@@ -1721,7 +1721,7 @@
  {
   "word": "anwesend",
   "pos": "adjective",
-  "frequency": 1219,
+  "frequency": 1260,
   "meanings": [
    {
     "english": "present, attending",
@@ -1746,7 +1746,7 @@
  {
   "word": "anzeigen",
   "pos": "verb",
-  "frequency": 1220,
+  "frequency": 1261,
   "meanings": [
    {
     "english": "to report (to the police)",
@@ -1772,7 +1772,7 @@
  {
   "word": "Aprikose",
   "pos": "noun",
-  "frequency": 1221,
+  "frequency": 1262,
   "meanings": [
    {
     "english": "apricot",
@@ -1796,7 +1796,7 @@
  {
   "word": "Arbeiter",
   "pos": "noun",
-  "frequency": 1222,
+  "frequency": 1263,
   "meanings": [
    {
     "english": "worker",
@@ -1824,7 +1824,7 @@
  {
   "word": "Arbeitserlaubnis",
   "pos": "noun",
-  "frequency": 1223,
+  "frequency": 1264,
   "meanings": [
    {
     "english": "work permit",
@@ -1848,7 +1848,7 @@
  {
   "word": "Arbeitslosigkeit",
   "pos": "noun",
-  "frequency": 1224,
+  "frequency": 1265,
   "meanings": [
    {
     "english": "unemployment",
@@ -1871,7 +1871,7 @@
  {
   "word": "Arbeitsstelle",
   "pos": "noun",
-  "frequency": 1225,
+  "frequency": 1266,
   "meanings": [
    {
     "english": "job, position",
@@ -1898,7 +1898,7 @@
  {
   "word": "Architekt",
   "pos": "noun",
-  "frequency": 1226,
+  "frequency": 1267,
   "meanings": [
    {
     "english": "architect",
@@ -1925,7 +1925,7 @@
  {
   "word": "Ärger",
   "pos": "noun",
-  "frequency": 1227,
+  "frequency": 1268,
   "meanings": [
    {
     "english": "trouble, annoyance",
@@ -1956,7 +1956,7 @@
  {
   "word": "ärgerlich",
   "pos": "adjective",
-  "frequency": 1228,
+  "frequency": 1269,
   "meanings": [
    {
     "english": "annoying",
@@ -1984,7 +1984,7 @@
  {
   "word": "Art",
   "pos": "noun",
-  "frequency": 1229,
+  "frequency": 1270,
   "meanings": [
    {
     "english": "kind, type",
@@ -2044,7 +2044,7 @@
  {
   "word": "Asyl",
   "pos": "noun",
-  "frequency": 1230,
+  "frequency": 1271,
   "meanings": [
    {
     "english": "asylum",
@@ -2073,7 +2073,7 @@
  {
   "word": "Atem",
   "pos": "noun",
-  "frequency": 1231,
+  "frequency": 1272,
   "meanings": [
    {
     "english": "breath",
@@ -2096,7 +2096,7 @@
  {
   "word": "atmen",
   "pos": "verb",
-  "frequency": 1232,
+  "frequency": 1273,
   "meanings": [
    {
     "english": "to breathe",
@@ -2126,7 +2126,7 @@
  {
   "word": "Aufenthalt",
   "pos": "noun",
-  "frequency": 1233,
+  "frequency": 1274,
   "meanings": [
    {
     "english": "stop, stay",
@@ -2166,7 +2166,7 @@
  {
   "word": "auffallen",
   "pos": "verb",
-  "frequency": 1234,
+  "frequency": 1275,
   "meanings": [
    {
     "english": "to notice, to stand out",
@@ -2192,7 +2192,7 @@
  {
   "word": "auffordern",
   "pos": "verb",
-  "frequency": 1235,
+  "frequency": 1276,
   "meanings": [
    {
     "english": "to ask, to urge",
@@ -2236,7 +2236,7 @@
  {
   "word": "Aufforderung",
   "pos": "noun",
-  "frequency": 1236,
+  "frequency": 1277,
   "meanings": [
    {
     "english": "request, demand, notice",
@@ -2266,7 +2266,7 @@
  {
   "word": "aufführen",
   "pos": "verb",
-  "frequency": 1237,
+  "frequency": 1278,
   "meanings": [
    {
     "english": "to perform",
@@ -2293,7 +2293,7 @@
  {
   "word": "aufgeben",
   "pos": "verb",
-  "frequency": 1238,
+  "frequency": 1279,
   "meanings": [
    {
     "english": "to post, to hand in (a parcel)",
@@ -2340,7 +2340,7 @@
  {
   "word": "aufhalten",
   "pos": "verb",
-  "frequency": 1239,
+  "frequency": 1280,
   "meanings": [
    {
     "english": "to stay, to be (somewhere)",
@@ -2402,7 +2402,7 @@
  {
   "word": "aufheben",
   "pos": "verb",
-  "frequency": 1240,
+  "frequency": 1281,
   "meanings": [
    {
     "english": "to pick up",
@@ -2451,7 +2451,7 @@
  {
   "word": "aufladen",
   "pos": "verb",
-  "frequency": 1241,
+  "frequency": 1282,
   "meanings": [
    {
     "english": "to charge (a battery)",
@@ -2479,7 +2479,7 @@
  {
   "word": "auflösen",
   "pos": "verb",
-  "frequency": 1242,
+  "frequency": 1283,
   "meanings": [
    {
     "english": "to dissolve",
@@ -2504,7 +2504,7 @@
  {
   "word": "aufmerksam",
   "pos": "adjective",
-  "frequency": 1243,
+  "frequency": 1284,
   "meanings": [
    {
     "english": "attentive",
@@ -2550,7 +2550,7 @@
  {
   "word": "Aufnahme",
   "pos": "noun",
-  "frequency": 1244,
+  "frequency": 1285,
   "meanings": [
    {
     "english": "recording",
@@ -2577,7 +2577,7 @@
  {
   "word": "aufnehmen",
   "pos": "verb",
-  "frequency": 1245,
+  "frequency": 1286,
   "meanings": [
    {
     "english": "to take in, to admit",
@@ -2621,7 +2621,7 @@
  {
   "word": "aufregen",
   "pos": "verb",
-  "frequency": 1246,
+  "frequency": 1287,
   "meanings": [
    {
     "english": "to upset, to get upset",
@@ -2665,7 +2665,7 @@
  {
   "word": "aufregend",
   "pos": "adjective",
-  "frequency": 1247,
+  "frequency": 1288,
   "meanings": [
    {
     "english": "exciting",
@@ -2690,7 +2690,7 @@
  {
   "word": "auftreten",
   "pos": "verb",
-  "frequency": 1248,
+  "frequency": 1289,
   "meanings": [
    {
     "english": "to appear, to perform",
@@ -2719,7 +2719,7 @@
  {
   "word": "aufwachen",
   "pos": "verb",
-  "frequency": 1249,
+  "frequency": 1290,
   "meanings": [
    {
     "english": "to wake up",
@@ -2744,7 +2744,7 @@
  {
   "word": "aufwärts",
   "pos": "adverb",
-  "frequency": 1250,
+  "frequency": 1291,
   "meanings": [
    {
     "english": "upward, uphill",
@@ -2793,7 +2793,7 @@
  {
   "word": "Ausdruck",
   "pos": "noun",
-  "frequency": 1251,
+  "frequency": 1292,
   "meanings": [
    {
     "english": "expression, phrase",
@@ -2840,7 +2840,7 @@
  {
   "word": "ausdrucken",
   "pos": "verb",
-  "frequency": 1252,
+  "frequency": 1293,
   "meanings": [
    {
     "english": "to print out",
@@ -2866,7 +2866,7 @@
  {
   "word": "Ausfahrt",
   "pos": "noun",
-  "frequency": 1253,
+  "frequency": 1294,
   "meanings": [
    {
     "english": "exit, driveway",
@@ -2910,7 +2910,7 @@
  {
   "word": "ausfallen",
   "pos": "verb",
-  "frequency": 1254,
+  "frequency": 1295,
   "meanings": [
    {
     "english": "to be cancelled",
@@ -2935,7 +2935,7 @@
  {
   "word": "Ausgabe",
   "pos": "noun",
-  "frequency": 1255,
+  "frequency": 1296,
   "meanings": [
    {
     "english": "expense, expenditure",
@@ -2998,7 +2998,7 @@
  {
   "word": "ausgebildet",
   "pos": "adjective",
-  "frequency": 1256,
+  "frequency": 1297,
   "meanings": [
    {
     "english": "trained, qualified",
@@ -3024,7 +3024,7 @@
  {
   "word": "ausgezeichnet",
   "pos": "adjective",
-  "frequency": 1257,
+  "frequency": 1298,
   "meanings": [
    {
     "english": "excellent",
@@ -3047,7 +3047,7 @@
  {
   "word": "Aushilfe",
   "pos": "noun",
-  "frequency": 1258,
+  "frequency": 1299,
   "meanings": [
    {
     "english": "temporary help, part-time worker",
@@ -3075,7 +3075,7 @@
  {
   "word": "Ausnahme",
   "pos": "noun",
-  "frequency": 1259,
+  "frequency": 1300,
   "meanings": [
    {
     "english": "exception",
@@ -3106,7 +3106,7 @@
  {
   "word": "ausreichen",
   "pos": "verb",
-  "frequency": 1260,
+  "frequency": 1301,
   "meanings": [
    {
     "english": "to be enough, to suffice",
@@ -3144,7 +3144,7 @@
  {
   "word": "ausrichten",
   "pos": "verb",
-  "frequency": 1261,
+  "frequency": 1302,
   "meanings": [
    {
     "english": "to pass on (a message)",
@@ -3173,7 +3173,7 @@
  {
   "word": "ausschließen",
   "pos": "verb",
-  "frequency": 1262,
+  "frequency": 1303,
   "meanings": [
    {
     "english": "to rule out, to exclude",
@@ -3198,7 +3198,7 @@
  {
   "word": "ausschließlich",
   "pos": "adverb",
-  "frequency": 1263,
+  "frequency": 1304,
   "meanings": [
    {
     "english": "exclusively, only",
@@ -3223,7 +3223,7 @@
  {
   "word": "außen",
   "pos": "adverb",
-  "frequency": 1264,
+  "frequency": 1305,
   "meanings": [
    {
     "english": "outside, on the outside",
@@ -3262,7 +3262,7 @@
  {
   "word": "außerdem",
   "pos": "adverb",
-  "frequency": 1265,
+  "frequency": 1306,
   "meanings": [
    {
     "english": "besides, in addition",
@@ -3302,7 +3302,7 @@
  {
   "word": "äußerlich",
   "pos": "adjective",
-  "frequency": 1266,
+  "frequency": 1307,
   "meanings": [
    {
     "english": "external, for external use",
@@ -3327,7 +3327,7 @@
  {
   "word": "Aussicht",
   "pos": "noun",
-  "frequency": 1267,
+  "frequency": 1308,
   "meanings": [
    {
     "english": "view",
@@ -3375,7 +3375,7 @@
  {
   "word": "Aussprache",
   "pos": "noun",
-  "frequency": 1268,
+  "frequency": 1309,
   "meanings": [
    {
     "english": "pronunciation",
@@ -3399,7 +3399,7 @@
  {
   "word": "ausstellen",
   "pos": "verb",
-  "frequency": 1269,
+  "frequency": 1310,
   "meanings": [
    {
     "english": "to display, to exhibit",
@@ -3441,7 +3441,7 @@
  {
   "word": "aussuchen",
   "pos": "verb",
-  "frequency": 1270,
+  "frequency": 1311,
   "meanings": [
    {
     "english": "to choose, to pick out",
@@ -3469,7 +3469,7 @@
  {
   "word": "Auswahl",
   "pos": "noun",
-  "frequency": 1271,
+  "frequency": 1312,
   "meanings": [
    {
     "english": "selection, choice",
@@ -3509,7 +3509,7 @@
  {
   "word": "auswählen",
   "pos": "verb",
-  "frequency": 1272,
+  "frequency": 1313,
   "meanings": [
    {
     "english": "to choose, to select",
@@ -3537,7 +3537,7 @@
  {
   "word": "Autor",
   "pos": "noun",
-  "frequency": 1273,
+  "frequency": 1314,
   "meanings": [
    {
     "english": "author",
@@ -3567,7 +3567,7 @@
  {
   "word": "bäh",
   "pos": "interjection",
-  "frequency": 1274,
+  "frequency": 1315,
   "meanings": [
    {
     "english": "yuck, ugh",
@@ -3599,9 +3599,41 @@
   ]
  },
  {
+  "word": "bereits",
+  "pos": "adverb",
+  "frequency": 1316,
+  "meanings": [
+   {
+    "english": "already",
+    "examples": [
+     {
+      "de": "Er ist bereits abgereist.",
+      "en": "He has already left.",
+      "glosses": {
+       "bereits": "already",
+       "abgereist": "left",
+       "Er": "he",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Ich habe bereits bezahlt.",
+      "en": "I have already paid.",
+      "glosses": {
+       "bereits": "already",
+       "bezahlt": "paid",
+       "Ich": "I",
+       "habe": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "bevor",
   "pos": "conjunction",
-  "frequency": 1275,
+  "frequency": 1317,
   "meanings": [
    {
     "english": "before",
@@ -3635,9 +3667,220 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "bisher",
+  "pos": "adverb",
+  "frequency": 1318,
+  "meanings": [
+   {
+    "english": "so far, until now",
+    "examples": [
+     {
+      "de": "Bisher hatte ich keine Probleme.",
+      "en": "So far I have had no problems.",
+      "glosses": {
+       "Bisher": "so far",
+       "Probleme": "problems",
+       "hatte": "had",
+       "ich": "I",
+       "keine": "no"
+      }
+     },
+     {
+      "de": "Das war bisher mein bester Urlaub.",
+      "en": "That was my best holiday so far.",
+      "glosses": {
+       "bisher": "so far",
+       "bester": "best",
+       "Urlaub": "holiday",
+       "Das": "the",
+       "war": "was",
+       "mein": "my"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "bloß",
+  "pos": "adverb",
+  "frequency": 1319,
+  "meanings": [
+   {
+    "english": "only, simply, just",
+    "examples": [
+     {
+      "de": "Das war bloß ein Scherz.",
+      "en": "That was only a joke.",
+      "glosses": {
+       "bloß": "only",
+       "Scherz": "joke",
+       "Das": "the",
+       "war": "was",
+       "ein": "a"
+      }
+     },
+     {
+      "de": "Wie kann das bloß passieren?",
+      "en": "How can that possibly happen?",
+      "glosses": {
+       "bloß": "possibly",
+       "passieren": "happen",
+       "Wie": "how",
+       "kann": "can",
+       "das": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dafür",
+  "pos": "adverb",
+  "frequency": 1320,
+  "meanings": [
+   {
+    "english": "for it, for that, instead",
+    "examples": [
+     {
+      "de": "Ich habe kein Geld dafür.",
+      "en": "I have no money for it.",
+      "glosses": {
+       "dafür": "for it",
+       "Geld": "money",
+       "Ich": "I",
+       "habe": "have",
+       "kein": "no"
+      }
+     },
+     {
+      "de": "Er ist krank, dafür kommt sein Bruder.",
+      "en": "He is ill; his brother is coming instead.",
+      "glosses": {
+       "dafür": "instead",
+       "krank": "ill",
+       "Bruder": "brother",
+       "Er": "he",
+       "ist": "is",
+       "kommt": "comes",
+       "sein": "his"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dagegen",
+  "pos": "adverb",
+  "frequency": 1321,
+  "meanings": [
+   {
+    "english": "against it, on the other hand, in contrast",
+    "examples": [
+     {
+      "de": "Ich habe nichts dagegen.",
+      "en": "I have nothing against it.",
+      "glosses": {
+       "dagegen": "against it",
+       "nichts": "nothing",
+       "Ich": "I",
+       "habe": "have"
+      }
+     },
+     {
+      "de": "Er ist ruhig, sie dagegen ist sehr laut.",
+      "en": "He is quiet, she on the other hand is very loud.",
+      "glosses": {
+       "dagegen": "on the other hand",
+       "ruhig": "quiet",
+       "laut": "loud",
+       "Er": "he",
+       "ist": "is",
+       "sie": "you",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "daher",
+  "pos": "adverb",
+  "frequency": 1322,
+  "meanings": [
+   {
+    "english": "therefore, from there, hence",
+    "examples": [
+     {
+      "de": "Es regnet, daher bleiben wir zu Hause.",
+      "en": "It is raining, therefore we are staying at home.",
+      "glosses": {
+       "daher": "therefore",
+       "regnet": "rains",
+       "Es": "it",
+       "bleiben": "stay",
+       "wir": "we",
+       "zu": "to",
+       "Hause": "home"
+      }
+     },
+     {
+      "de": "Daher kommt also der Lärm!",
+      "en": "So that's where the noise comes from!",
+      "glosses": {
+       "Daher": "from there",
+       "Lärm": "noise",
+       "kommt": "comes",
+       "also": "so",
+       "der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "dahin",
+  "pos": "adverb",
+  "frequency": 1323,
+  "meanings": [
+   {
+    "english": "there, to that place",
+    "examples": [
+     {
+      "de": "Wie komme ich dahin?",
+      "en": "How do I get there?",
+      "glosses": {
+       "dahin": "there",
+       "komme": "get",
+       "Wie": "how",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Bis dahin sind es noch zwei Wochen.",
+      "en": "Until then it is still two weeks.",
+      "glosses": {
+       "dahin": "then",
+       "Bis": "until",
+       "Wochen": "weeks",
+       "sind": "are",
+       "es": "it",
+       "noch": "still",
+       "zwei": "two"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "damit",
   "pos": "conjunction",
-  "frequency": 1276,
+  "frequency": 1324,
   "meanings": [
    {
     "english": "so that, in order that",
@@ -3674,9 +3917,278 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "danach",
+  "pos": "adverb",
+  "frequency": 1325,
+  "meanings": [
+   {
+    "english": "afterwards, after that",
+    "examples": [
+     {
+      "de": "Wir essen und gehen danach spazieren.",
+      "en": "We eat and go for a walk afterwards.",
+      "glosses": {
+       "danach": "afterwards",
+       "spazieren": "for a walk",
+       "Wir": "we",
+       "essen": "eat",
+       "und": "and",
+       "gehen": "go"
+      }
+     },
+     {
+      "de": "Danach war ich sehr müde.",
+      "en": "Afterwards I was very tired.",
+      "glosses": {
+       "Danach": "afterwards",
+       "müde": "tired",
+       "war": "was",
+       "ich": "I",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "darin",
+  "pos": "adverb",
+  "frequency": 1326,
+  "meanings": [
+   {
+    "english": "in it, therein",
+    "examples": [
+     {
+      "de": "Die Tasche ist leer, es ist nichts darin.",
+      "en": "The bag is empty, there is nothing in it.",
+      "glosses": {
+       "darin": "in it",
+       "Tasche": "bag",
+       "leer": "empty",
+       "Die": "the",
+       "ist": "is",
+       "es": "it",
+       "nichts": "nothing"
+      }
+     },
+     {
+      "de": "Ich sehe darin keinen Sinn.",
+      "en": "I see no point in it.",
+      "glosses": {
+       "darin": "in it",
+       "sehe": "see",
+       "Sinn": "point",
+       "Ich": "I",
+       "keinen": "no"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquially \"drin\""
+ },
+ {
+  "word": "deswegen",
+  "pos": "adverb",
+  "frequency": 1327,
+  "meanings": [
+   {
+    "english": "therefore, that's why",
+    "examples": [
+     {
+      "de": "Ich bin krank, deswegen bleibe ich zu Hause.",
+      "en": "I am ill, that's why I am staying at home.",
+      "glosses": {
+       "deswegen": "that's why",
+       "krank": "ill",
+       "Ich": "I",
+       "bin": "am",
+       "bleibe": "stay",
+       "ich": "I",
+       "zu": "to",
+       "Hause": "home"
+      }
+     },
+     {
+      "de": "Deswegen habe ich angerufen.",
+      "en": "That is why I called.",
+      "glosses": {
+       "Deswegen": "that is why",
+       "angerufen": "called",
+       "habe": "have",
+       "ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "diesmal",
+  "pos": "adverb",
+  "frequency": 1328,
+  "meanings": [
+   {
+    "english": "this time",
+    "examples": [
+     {
+      "de": "Diesmal klappt es bestimmt.",
+      "en": "This time it will surely work.",
+      "glosses": {
+       "Diesmal": "this time",
+       "klappt": "works",
+       "bestimmt": "surely",
+       "es": "it"
+      }
+     },
+     {
+      "de": "Diesmal zahle ich.",
+      "en": "This time I'm paying.",
+      "glosses": {
+       "Diesmal": "this time",
+       "zahle": "pay",
+       "ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "eben",
+  "pos": "adverb",
+  "frequency": 1329,
+  "meanings": [
+   {
+    "english": "just, just now, simply",
+    "examples": [
+     {
+      "de": "Ich habe eben angerufen.",
+      "en": "I just called.",
+      "glosses": {
+       "eben": "just now",
+       "angerufen": "called",
+       "Ich": "I",
+       "habe": "have"
+      }
+     },
+     {
+      "de": "Das ist eben so.",
+      "en": "That is just how it is.",
+      "glosses": {
+       "eben": "simply",
+       "so": "so",
+       "Das": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ebenfalls",
+  "pos": "adverb",
+  "frequency": 1330,
+  "meanings": [
+   {
+    "english": "also, likewise, as well",
+    "examples": [
+     {
+      "de": "Danke, ebenfalls!",
+      "en": "Thanks, likewise!",
+      "glosses": {
+       "ebenfalls": "likewise",
+       "Danke": "thanks"
+      }
+     },
+     {
+      "de": "Sie kommt ebenfalls zur Party.",
+      "en": "She is also coming to the party.",
+      "glosses": {
+       "ebenfalls": "also",
+       "Party": "party",
+       "Sie": "you",
+       "kommt": "comes",
+       "zur": "to the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ebenso",
+  "pos": "adverb",
+  "frequency": 1331,
+  "meanings": [
+   {
+    "english": "just as, equally, likewise",
+    "examples": [
+     {
+      "de": "Er ist ebenso müde wie ich.",
+      "en": "He is just as tired as I am.",
+      "glosses": {
+       "ebenso": "just as",
+       "müde": "tired",
+       "Er": "he",
+       "ist": "is",
+       "wie": "how",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Ich freue mich ebenso.",
+      "en": "I am equally pleased.",
+      "glosses": {
+       "ebenso": "equally",
+       "freue": "am pleased",
+       "Ich": "I",
+       "mich": "me/myself"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "eher",
+  "pos": "adverb",
+  "frequency": 1332,
+  "meanings": [
+   {
+    "english": "rather, sooner, earlier, more likely",
+    "examples": [
+     {
+      "de": "Ich komme eher selten hierher.",
+      "en": "I rather rarely come here.",
+      "glosses": {
+       "eher": "rather",
+       "selten": "rarely",
+       "hierher": "here",
+       "Ich": "I",
+       "komme": "come"
+      }
+     },
+     {
+      "de": "Je eher, desto besser.",
+      "en": "The sooner the better.",
+      "glosses": {
+       "eher": "sooner",
+       "Je": "the",
+       "desto": "the",
+       "besser": "better"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "einschließlich",
   "pos": "preposition",
-  "frequency": 1277,
+  "frequency": 1333,
   "meanings": [
    {
     "english": "including, inclusive of",
@@ -3716,7 +4228,7 @@
  {
   "word": "entlang",
   "pos": "preposition",
-  "frequency": 1278,
+  "frequency": 1334,
   "meanings": [
    {
     "english": "along",
@@ -3752,7 +4264,7 @@
  {
   "word": "entweder … oder",
   "pos": "conjunction",
-  "frequency": 1279,
+  "frequency": 1335,
   "meanings": [
    {
     "english": "either … or",
@@ -3790,9 +4302,42 @@
   "notes": "two-part conjunction"
  },
  {
+  "word": "etwa",
+  "pos": "adverb",
+  "frequency": 1336,
+  "meanings": [
+   {
+    "english": "about, approximately, for example",
+    "examples": [
+     {
+      "de": "Es sind etwa zehn Kilometer.",
+      "en": "It is about ten kilometres.",
+      "glosses": {
+       "etwa": "about",
+       "zehn": "ten",
+       "Kilometer": "kilometres",
+       "Es": "it",
+       "sind": "are"
+      }
+     },
+     {
+      "de": "Meinst du etwa mich?",
+      "en": "Do you mean me, by any chance?",
+      "glosses": {
+       "etwa": "by any chance",
+       "Meinst": "mean",
+       "du": "you",
+       "mich": "me/myself"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "falls",
   "pos": "conjunction",
-  "frequency": 1280,
+  "frequency": 1337,
   "meanings": [
    {
     "english": "in case, if",
@@ -3829,9 +4374,111 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "gar",
+  "pos": "adverb",
+  "frequency": 1338,
+  "meanings": [
+   {
+    "english": "at all, even",
+    "examples": [
+     {
+      "de": "Das gefällt mir gar nicht.",
+      "en": "I don't like that at all.",
+      "glosses": {
+       "gar": "at all",
+       "gefällt": "pleases",
+       "Das": "the",
+       "mir": "me",
+       "nicht": "not"
+      }
+     },
+     {
+      "de": "Er hat gar kein Geld.",
+      "en": "He has no money at all.",
+      "glosses": {
+       "gar": "at all",
+       "Geld": "money",
+       "Er": "he",
+       "hat": "has",
+       "kein": "no"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "often \"gar nicht\", \"gar kein\""
+ },
+ {
+  "word": "gemeinsam",
+  "pos": "adverb",
+  "frequency": 1339,
+  "meanings": [
+   {
+    "english": "together, jointly, in common",
+    "examples": [
+     {
+      "de": "Wir lösen das Problem gemeinsam.",
+      "en": "We solve the problem together.",
+      "glosses": {
+       "gemeinsam": "together",
+       "lösen": "solve",
+       "Problem": "problem",
+       "Wir": "we",
+       "das": "the"
+      }
+     },
+     {
+      "de": "Sie haben gemeinsam gegessen.",
+      "en": "They ate together.",
+      "glosses": {
+       "gemeinsam": "together",
+       "gegessen": "eaten",
+       "Sie": "you",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "genauso",
+  "pos": "adverb",
+  "frequency": 1340,
+  "meanings": [
+   {
+    "english": "just as, just the same, equally",
+    "examples": [
+     {
+      "de": "Ich mache es genauso.",
+      "en": "I do it the same way.",
+      "glosses": {
+       "genauso": "the same way",
+       "mache": "do",
+       "Ich": "I",
+       "es": "it"
+      }
+     },
+     {
+      "de": "Sie ist genauso alt wie er.",
+      "en": "She is just as old as he is.",
+      "glosses": {
+       "genauso": "just as",
+       "alt": "old",
+       "Sie": "you",
+       "ist": "is",
+       "wie": "how",
+       "er": "he"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "hä",
   "pos": "interjection",
-  "frequency": 1281,
+  "frequency": 1341,
   "meanings": [
    {
     "english": "huh, eh",
@@ -3866,7 +4513,7 @@
  {
   "word": "hui",
   "pos": "interjection",
-  "frequency": 1282,
+  "frequency": 1342,
   "meanings": [
    {
     "english": "whoosh, wow, oh",
@@ -3899,7 +4546,7 @@
  {
   "word": "igitt",
   "pos": "interjection",
-  "frequency": 1283,
+  "frequency": 1343,
   "meanings": [
    {
     "english": "yuck, ugh",
@@ -3933,7 +4580,7 @@
  {
   "word": "indem",
   "pos": "conjunction",
-  "frequency": 1284,
+  "frequency": 1344,
   "meanings": [
    {
     "english": "by (doing), while",
@@ -3971,7 +4618,7 @@
  {
   "word": "inklusive",
   "pos": "preposition",
-  "frequency": 1285,
+  "frequency": 1345,
   "meanings": [
    {
     "english": "including, inclusive of",
@@ -4008,7 +4655,7 @@
  {
   "word": "innerhalb",
   "pos": "preposition",
-  "frequency": 1286,
+  "frequency": 1346,
   "meanings": [
    {
     "english": "within, inside",
@@ -4044,9 +4691,144 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "insgesamt",
+  "pos": "adverb",
+  "frequency": 1347,
+  "meanings": [
+   {
+    "english": "in all, overall, altogether",
+    "examples": [
+     {
+      "de": "Insgesamt waren zwanzig Leute da.",
+      "en": "In all, twenty people were there.",
+      "glosses": {
+       "Insgesamt": "in all",
+       "zwanzig": "twenty",
+       "Leute": "people",
+       "waren": "were",
+       "da": "there"
+      }
+     },
+     {
+      "de": "Insgesamt bin ich zufrieden.",
+      "en": "Overall I am satisfied.",
+      "glosses": {
+       "Insgesamt": "overall",
+       "zufrieden": "satisfied",
+       "bin": "am",
+       "ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "inzwischen",
+  "pos": "adverb",
+  "frequency": 1348,
+  "meanings": [
+   {
+    "english": "in the meantime, meanwhile, by now",
+    "examples": [
+     {
+      "de": "Inzwischen ist er zurückgekommen.",
+      "en": "In the meantime he has come back.",
+      "glosses": {
+       "Inzwischen": "meanwhile",
+       "zurückgekommen": "come back",
+       "ist": "is",
+       "er": "he"
+      }
+     },
+     {
+      "de": "Ich bin inzwischen fertig.",
+      "en": "I am done by now.",
+      "glosses": {
+       "inzwischen": "by now",
+       "fertig": "done",
+       "Ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "irgendwann",
+  "pos": "adverb",
+  "frequency": 1349,
+  "meanings": [
+   {
+    "english": "sometime, one day, at some point",
+    "examples": [
+     {
+      "de": "Irgendwann möchte ich nach Japan reisen.",
+      "en": "Some day I would like to travel to Japan.",
+      "glosses": {
+       "Irgendwann": "some day",
+       "Japan": "Japan",
+       "reisen": "travel",
+       "möchte": "would like",
+       "ich": "I",
+       "nach": "to"
+      }
+     },
+     {
+      "de": "Wir sehen uns irgendwann wieder.",
+      "en": "We will see each other again sometime.",
+      "glosses": {
+       "irgendwann": "sometime",
+       "sehen": "see",
+       "wieder": "again",
+       "Wir": "we",
+       "uns": "us/ourselves"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "je",
+  "pos": "adverb",
+  "frequency": 1350,
+  "meanings": [
+   {
+    "english": "ever, each, per",
+    "examples": [
+     {
+      "de": "Hast du je Sushi gegessen?",
+      "en": "Have you ever eaten sushi?",
+      "glosses": {
+       "je": "ever",
+       "gegessen": "eaten",
+       "Sushi": "sushi",
+       "Hast": "have",
+       "du": "you"
+      }
+     },
+     {
+      "de": "Die Karten kosten je zehn Euro.",
+      "en": "The tickets cost ten euros each.",
+      "glosses": {
+       "je": "each",
+       "Karten": "tickets",
+       "kosten": "cost",
+       "Die": "the",
+       "zehn": "ten",
+       "Euro": "euros"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "je … desto/umso",
   "pos": "conjunction",
-  "frequency": 1287,
+  "frequency": 1351,
   "meanings": [
    {
     "english": "the more … the more",
@@ -4082,9 +4864,81 @@
   "notes": "je + comparative, verb at the end; desto/umso + comparative"
  },
  {
+  "word": "jedoch",
+  "pos": "adverb",
+  "frequency": 1352,
+  "meanings": [
+   {
+    "english": "however, but, though",
+    "examples": [
+     {
+      "de": "Er wollte kommen, konnte jedoch nicht.",
+      "en": "He wanted to come but could not.",
+      "glosses": {
+       "jedoch": "but",
+       "wollte": "wanted",
+       "konnte": "could",
+       "Er": "he",
+       "kommen": "come",
+       "nicht": "not"
+      }
+     },
+     {
+      "de": "Das Angebot ist gut, jedoch zu teuer.",
+      "en": "The offer is good, however too expensive.",
+      "glosses": {
+       "jedoch": "however",
+       "Angebot": "offer",
+       "teuer": "expensive",
+       "Das": "the",
+       "ist": "is",
+       "gut": "well",
+       "zu": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "jeweils",
+  "pos": "adverb",
+  "frequency": 1353,
+  "meanings": [
+   {
+    "english": "each, each time, respectively",
+    "examples": [
+     {
+      "de": "Die Kurse dauern jeweils zwei Stunden.",
+      "en": "The courses each last two hours.",
+      "glosses": {
+       "jeweils": "each",
+       "Kurse": "courses",
+       "dauern": "last",
+       "Die": "the",
+       "zwei": "two",
+       "Stunden": "hours"
+      }
+     },
+     {
+      "de": "Wir treffen uns jeweils montags.",
+      "en": "We meet each Monday.",
+      "glosses": {
+       "jeweils": "each",
+       "treffen": "meet",
+       "montags": "on Mondays",
+       "Wir": "we",
+       "uns": "us/ourselves"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "juhu",
   "pos": "interjection",
-  "frequency": 1288,
+  "frequency": 1354,
   "meanings": [
    {
     "english": "yippee, hooray, yay",
@@ -4113,9 +4967,235 @@
   ]
  },
  {
+  "word": "kaum",
+  "pos": "adverb",
+  "frequency": 1355,
+  "meanings": [
+   {
+    "english": "hardly, barely, scarcely",
+    "examples": [
+     {
+      "de": "Ich kann kaum noch laufen.",
+      "en": "I can hardly walk any more.",
+      "glosses": {
+       "kaum": "hardly",
+       "laufen": "walk",
+       "Ich": "I",
+       "kann": "can",
+       "noch": "still"
+      }
+     },
+     {
+      "de": "Es gibt kaum Parkplätze.",
+      "en": "There are hardly any parking spaces.",
+      "glosses": {
+       "kaum": "hardly",
+       "Parkplätze": "parking spaces",
+       "Es": "it",
+       "gibt": "gives"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "längst",
+  "pos": "adverb",
+  "frequency": 1356,
+  "meanings": [
+   {
+    "english": "long since, a long time ago",
+    "examples": [
+     {
+      "de": "Das habe ich längst vergessen.",
+      "en": "I forgot that long ago.",
+      "glosses": {
+       "längst": "long ago",
+       "vergessen": "forgotten",
+       "Das": "the",
+       "habe": "have",
+       "ich": "I"
+      }
+     },
+     {
+      "de": "Er ist längst zu Hause.",
+      "en": "He has been home for ages.",
+      "glosses": {
+       "längst": "for ages",
+       "Hause": "home",
+       "Er": "he",
+       "ist": "is",
+       "zu": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "los",
+  "pos": "adverb",
+  "frequency": 1357,
+  "meanings": [
+   {
+    "english": "off, going on, loose, rid of",
+    "examples": [
+     {
+      "de": "Was ist los?",
+      "en": "What is going on?",
+      "glosses": {
+       "los": "going on",
+       "Was": "what",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Los geht's!",
+      "en": "Here we go!",
+      "glosses": {
+       "Los": "off",
+       "geht's": "goes it"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "miteinander",
+  "pos": "adverb",
+  "frequency": 1358,
+  "meanings": [
+   {
+    "english": "together, with each other",
+    "examples": [
+     {
+      "de": "Wir sprechen oft miteinander.",
+      "en": "We often talk with each other.",
+      "glosses": {
+       "miteinander": "with each other",
+       "oft": "often",
+       "Wir": "we",
+       "sprechen": "speak"
+      }
+     },
+     {
+      "de": "Sie arbeiten gut miteinander.",
+      "en": "They work well together.",
+      "glosses": {
+       "miteinander": "together",
+       "arbeiten": "work",
+       "Sie": "you",
+       "gut": "well"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "mittlerweile",
+  "pos": "adverb",
+  "frequency": 1359,
+  "meanings": [
+   {
+    "english": "in the meantime, meanwhile, by now",
+    "examples": [
+     {
+      "de": "Ich spreche mittlerweile gut Deutsch.",
+      "en": "By now I speak German well.",
+      "glosses": {
+       "mittlerweile": "by now",
+       "spreche": "speak",
+       "Ich": "I",
+       "gut": "well",
+       "Deutsch": "German"
+      }
+     },
+     {
+      "de": "Es ist mittlerweile dunkel geworden.",
+      "en": "In the meantime it has got dark.",
+      "glosses": {
+       "mittlerweile": "in the meantime",
+       "dunkel": "dark",
+       "geworden": "become",
+       "Es": "it",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "möglicherweise",
+  "pos": "adverb",
+  "frequency": 1360,
+  "meanings": [
+   {
+    "english": "possibly, perhaps",
+    "examples": [
+     {
+      "de": "Er kommt möglicherweise später.",
+      "en": "He may possibly come later.",
+      "glosses": {
+       "möglicherweise": "possibly",
+       "später": "later",
+       "Er": "he",
+       "kommt": "comes"
+      }
+     },
+     {
+      "de": "Möglicherweise hast du recht.",
+      "en": "Perhaps you are right.",
+      "glosses": {
+       "Möglicherweise": "perhaps",
+       "recht": "right",
+       "hast": "have",
+       "du": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "möglichst",
+  "pos": "adverb",
+  "frequency": 1361,
+  "meanings": [
+   {
+    "english": "as … as possible, if possible",
+    "examples": [
+     {
+      "de": "Komm möglichst bald!",
+      "en": "Come as soon as possible!",
+      "glosses": {
+       "möglichst": "as possible",
+       "bald": "soon",
+       "Komm": "come"
+      }
+     },
+     {
+      "de": "Bitte antworten Sie möglichst schnell.",
+      "en": "Please answer as quickly as possible.",
+      "glosses": {
+       "möglichst": "as possible",
+       "antworten": "answer",
+       "schnell": "quickly",
+       "Bitte": "please",
+       "Sie": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "nachdem",
   "pos": "conjunction",
-  "frequency": 1289,
+  "frequency": 1362,
   "meanings": [
    {
     "english": "after",
@@ -4152,7 +5232,7 @@
  {
   "word": "nahe",
   "pos": "preposition",
-  "frequency": 1290,
+  "frequency": 1363,
   "meanings": [
    {
     "english": "near, close to",
@@ -4186,9 +5266,96 @@
   "notes": "+ Dativ"
  },
  {
+  "word": "nochmal",
+  "pos": "adverb",
+  "frequency": 1364,
+  "meanings": [
+   {
+    "english": "again, once more",
+    "examples": [
+     {
+      "de": "Sag das bitte nochmal.",
+      "en": "Please say that again.",
+      "glosses": {
+       "nochmal": "again",
+       "Sag": "say",
+       "das": "the",
+       "bitte": "please"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "colloquial form of \"nochmals\""
+ },
+ {
+  "word": "nochmals",
+  "pos": "adverb",
+  "frequency": 1365,
+  "meanings": [
+   {
+    "english": "again, once more",
+    "examples": [
+     {
+      "de": "Bitte erklären Sie das nochmals.",
+      "en": "Please explain that once more.",
+      "glosses": {
+       "nochmals": "once more",
+       "erklären": "explain",
+       "Bitte": "please",
+       "Sie": "you",
+       "das": "the"
+      }
+     },
+     {
+      "de": "Ich danke Ihnen nochmals.",
+      "en": "I thank you again.",
+      "glosses": {
+       "nochmals": "again",
+       "danke": "thank",
+       "Ich": "I",
+       "Ihnen": "you"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "also \"nochmal\""
+ },
+ {
+  "word": "nun",
+  "pos": "adverb",
+  "frequency": 1366,
+  "meanings": [
+   {
+    "english": "now, well",
+    "examples": [
+     {
+      "de": "Nun müssen wir gehen.",
+      "en": "Now we have to go.",
+      "glosses": {
+       "Nun": "now",
+       "müssen": "must",
+       "gehen": "go",
+       "wir": "we"
+      }
+     },
+     {
+      "de": "Was nun?",
+      "en": "What now?",
+      "glosses": {
+       "nun": "now",
+       "Was": "what"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "ob",
   "pos": "conjunction",
-  "frequency": 1291,
+  "frequency": 1367,
   "meanings": [
    {
     "english": "whether, if",
@@ -4228,7 +5395,7 @@
  {
   "word": "obwohl",
   "pos": "conjunction",
-  "frequency": 1292,
+  "frequency": 1368,
   "meanings": [
    {
     "english": "although, even though",
@@ -4265,7 +5432,7 @@
  {
   "word": "ojemine",
   "pos": "interjection",
-  "frequency": 1293,
+  "frequency": 1369,
   "meanings": [
    {
     "english": "oh dear, goodness me",
@@ -4301,7 +5468,7 @@
  {
   "word": "per",
   "pos": "preposition",
-  "frequency": 1294,
+  "frequency": 1370,
   "meanings": [
    {
     "english": "by (means of), per",
@@ -4335,9 +5502,43 @@
   "notes": "+ Akkusativ"
  },
  {
+  "word": "persönlich",
+  "pos": "adverb",
+  "frequency": 1371,
+  "meanings": [
+   {
+    "english": "in person, personally",
+    "examples": [
+     {
+      "de": "Ich möchte ihn persönlich sprechen.",
+      "en": "I would like to speak to him in person.",
+      "glosses": {
+       "persönlich": "in person",
+       "sprechen": "speak",
+       "Ich": "I",
+       "möchte": "would like",
+       "ihn": "him"
+      }
+     },
+     {
+      "de": "Persönlich finde ich das gut.",
+      "en": "Personally, I think that is good.",
+      "glosses": {
+       "Persönlich": "personally",
+       "finde": "find",
+       "ich": "I",
+       "das": "the",
+       "gut": "well"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "pfui",
   "pos": "interjection",
-  "frequency": 1295,
+  "frequency": 1372,
   "meanings": [
    {
     "english": "fie, ugh, yuck",
@@ -4369,7 +5570,7 @@
  {
   "word": "puh",
   "pos": "interjection",
-  "frequency": 1296,
+  "frequency": 1373,
   "meanings": [
    {
     "english": "phew, whew",
@@ -4401,9 +5602,78 @@
   ]
  },
  {
+  "word": "recht",
+  "pos": "adverb",
+  "frequency": 1374,
+  "meanings": [
+   {
+    "english": "quite, rather",
+    "examples": [
+     {
+      "de": "Das Buch ist recht interessant.",
+      "en": "The book is quite interesting.",
+      "glosses": {
+       "recht": "quite",
+       "Buch": "book",
+       "interessant": "interesting",
+       "Das": "the",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Es ist recht kalt heute.",
+      "en": "It is rather cold today.",
+      "glosses": {
+       "recht": "rather",
+       "kalt": "cold",
+       "heute": "today",
+       "Es": "it",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "schließlich",
+  "pos": "adverb",
+  "frequency": 1375,
+  "meanings": [
+   {
+    "english": "in the end, finally, after all",
+    "examples": [
+     {
+      "de": "Schließlich haben wir den Weg gefunden.",
+      "en": "In the end we found the way.",
+      "glosses": {
+       "Schließlich": "in the end",
+       "Weg": "way",
+       "gefunden": "found",
+       "haben": "have",
+       "wir": "we",
+       "den": "the"
+      }
+     },
+     {
+      "de": "Er ist schließlich dein Freund.",
+      "en": "After all, he is your friend.",
+      "glosses": {
+       "schließlich": "after all",
+       "Freund": "friend",
+       "Er": "he",
+       "ist": "is",
+       "dein": "your"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "seitdem",
   "pos": "conjunction",
-  "frequency": 1297,
+  "frequency": 1376,
   "meanings": [
    {
     "english": "since (a point in time)",
@@ -4444,7 +5714,7 @@
  {
   "word": "sobald",
   "pos": "conjunction",
-  "frequency": 1298,
+  "frequency": 1377,
   "meanings": [
    {
     "english": "as soon as",
@@ -4484,7 +5754,7 @@
  {
   "word": "sodass",
   "pos": "conjunction",
-  "frequency": 1299,
+  "frequency": 1378,
   "meanings": [
    {
     "english": "so that, with the result that",
@@ -4524,7 +5794,7 @@
  {
   "word": "solange",
   "pos": "conjunction",
-  "frequency": 1300,
+  "frequency": 1379,
   "meanings": [
    {
     "english": "as long as, while",
@@ -4560,7 +5830,7 @@
  {
   "word": "sondern",
   "pos": "conjunction",
-  "frequency": 1301,
+  "frequency": 1380,
   "meanings": [
    {
     "english": "but (rather), instead",
@@ -4597,7 +5867,7 @@
  {
   "word": "soviel",
   "pos": "conjunction",
-  "frequency": 1302,
+  "frequency": 1381,
   "meanings": [
    {
     "english": "as much as, as far as",
@@ -4632,7 +5902,7 @@
  {
   "word": "sowohl … als auch",
   "pos": "conjunction",
-  "frequency": 1303,
+  "frequency": 1382,
   "meanings": [
    {
     "english": "both … and, as well as",
@@ -4673,7 +5943,7 @@
  {
   "word": "statt",
   "pos": "preposition",
-  "frequency": 1304,
+  "frequency": 1383,
   "meanings": [
    {
     "english": "instead of",
@@ -4709,9 +5979,42 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "teilweise",
+  "pos": "adverb",
+  "frequency": 1384,
+  "meanings": [
+   {
+    "english": "partially, partly",
+    "examples": [
+     {
+      "de": "Die Straße ist teilweise gesperrt.",
+      "en": "The road is partly closed.",
+      "glosses": {
+       "teilweise": "partly",
+       "Straße": "road",
+       "gesperrt": "closed",
+       "Die": "the",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Das stimmt nur teilweise.",
+      "en": "That is only partly true.",
+      "glosses": {
+       "teilweise": "partly",
+       "stimmt": "is true",
+       "Das": "the",
+       "nur": "only"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "tja",
   "pos": "interjection",
-  "frequency": 1305,
+  "frequency": 1385,
   "meanings": [
    {
     "english": "well, oh well",
@@ -4747,7 +6050,7 @@
  {
   "word": "trotz",
   "pos": "preposition",
-  "frequency": 1306,
+  "frequency": 1386,
   "meanings": [
    {
     "english": "despite, in spite of",
@@ -4783,9 +6086,111 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "trotzdem",
+  "pos": "adverb",
+  "frequency": 1387,
+  "meanings": [
+   {
+    "english": "nevertheless, anyway, still",
+    "examples": [
+     {
+      "de": "Es regnet, trotzdem gehen wir raus.",
+      "en": "It is raining, but we are going out anyway.",
+      "glosses": {
+       "trotzdem": "anyway",
+       "regnet": "rains",
+       "raus": "out",
+       "Es": "it",
+       "gehen": "go",
+       "wir": "we"
+      }
+     },
+     {
+      "de": "Er war krank, kam aber trotzdem.",
+      "en": "He was ill but came anyway.",
+      "glosses": {
+       "trotzdem": "anyway",
+       "krank": "ill",
+       "kam": "came",
+       "Er": "he",
+       "war": "was",
+       "aber": "but"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "überhaupt",
+  "pos": "adverb",
+  "frequency": 1388,
+  "meanings": [
+   {
+    "english": "at all, in general, anyway",
+    "examples": [
+     {
+      "de": "Hast du überhaupt Hunger?",
+      "en": "Are you hungry at all?",
+      "glosses": {
+       "überhaupt": "at all",
+       "Hunger": "hunger",
+       "Hast": "have",
+       "du": "you"
+      }
+     },
+     {
+      "de": "Das ist überhaupt nicht wahr.",
+      "en": "That is not true at all.",
+      "glosses": {
+       "überhaupt": "at all",
+       "wahr": "true",
+       "Das": "the",
+       "ist": "is",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "übrigens",
+  "pos": "adverb",
+  "frequency": 1389,
+  "meanings": [
+   {
+    "english": "by the way, besides, incidentally",
+    "examples": [
+     {
+      "de": "Übrigens, ich habe morgen Geburtstag.",
+      "en": "By the way, it's my birthday tomorrow.",
+      "glosses": {
+       "Übrigens": "by the way",
+       "Geburtstag": "birthday",
+       "ich": "I",
+       "habe": "have",
+       "morgen": "tomorrow"
+      }
+     },
+     {
+      "de": "Wo ist er übrigens?",
+      "en": "Where is he, by the way?",
+      "glosses": {
+       "übrigens": "by the way",
+       "Wo": "where",
+       "ist": "is",
+       "er": "he"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "umso",
   "pos": "conjunction",
-  "frequency": 1307,
+  "frequency": 1390,
   "meanings": [
    {
     "english": "the more, all the more",
@@ -4819,9 +6224,45 @@
   "notes": "umso + comparative, often after \"je\""
  },
  {
+  "word": "ursprünglich",
+  "pos": "adverb",
+  "frequency": 1391,
+  "meanings": [
+   {
+    "english": "originally, initially",
+    "examples": [
+     {
+      "de": "Ursprünglich wollten wir nach Spanien fahren.",
+      "en": "Originally we wanted to travel to Spain.",
+      "glosses": {
+       "Ursprünglich": "originally",
+       "Spanien": "Spain",
+       "fahren": "travel",
+       "wollten": "wanted",
+       "wir": "we",
+       "nach": "to"
+      }
+     },
+     {
+      "de": "Das Haus war ursprünglich ein Bauernhof.",
+      "en": "The house was originally a farm.",
+      "glosses": {
+       "ursprünglich": "originally",
+       "Bauernhof": "farm",
+       "Das": "the",
+       "Haus": "house",
+       "war": "was",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "während",
   "pos": "conjunction",
-  "frequency": 1308,
+  "frequency": 1392,
   "meanings": [
    {
     "english": "while, whereas",
@@ -4858,7 +6299,7 @@
  {
   "word": "während",
   "pos": "preposition",
-  "frequency": 1309,
+  "frequency": 1393,
   "meanings": [
    {
     "english": "during",
@@ -4896,7 +6337,7 @@
  {
   "word": "weder … noch",
   "pos": "conjunction",
-  "frequency": 1310,
+  "frequency": 1394,
   "meanings": [
    {
     "english": "neither … nor",
@@ -4929,5 +6370,175 @@
    }
   ],
   "notes": "two-part conjunction"
+ },
+ {
+  "word": "wohl",
+  "pos": "adverb",
+  "frequency": 1395,
+  "meanings": [
+   {
+    "english": "probably, well, I suppose",
+    "examples": [
+     {
+      "de": "Er ist wohl krank.",
+      "en": "He is probably ill.",
+      "glosses": {
+       "wohl": "probably",
+       "krank": "ill",
+       "Er": "he",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Das wird wohl stimmen.",
+      "en": "That is probably right.",
+      "glosses": {
+       "wohl": "probably",
+       "stimmen": "be right",
+       "Das": "the",
+       "wird": "becomes"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ziemlich",
+  "pos": "adverb",
+  "frequency": 1396,
+  "meanings": [
+   {
+    "english": "quite, pretty, rather, fairly",
+    "examples": [
+     {
+      "de": "Das ist ziemlich schwer.",
+      "en": "That is quite difficult.",
+      "glosses": {
+       "ziemlich": "quite",
+       "schwer": "difficult",
+       "Das": "the",
+       "ist": "is"
+      }
+     },
+     {
+      "de": "Es war ziemlich kalt.",
+      "en": "It was pretty cold.",
+      "glosses": {
+       "ziemlich": "pretty",
+       "kalt": "cold",
+       "Es": "it",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zumindest",
+  "pos": "adverb",
+  "frequency": 1397,
+  "meanings": [
+   {
+    "english": "at least",
+    "examples": [
+     {
+      "de": "Zumindest hat er es versucht.",
+      "en": "At least he tried.",
+      "glosses": {
+       "Zumindest": "at least",
+       "versucht": "tried",
+       "hat": "has",
+       "er": "he",
+       "es": "it"
+      }
+     },
+     {
+      "de": "Das ist zumindest ein Anfang.",
+      "en": "That is at least a start.",
+      "glosses": {
+       "zumindest": "at least",
+       "Anfang": "start",
+       "Das": "the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zunächst",
+  "pos": "adverb",
+  "frequency": 1398,
+  "meanings": [
+   {
+    "english": "first, at first, for now",
+    "examples": [
+     {
+      "de": "Zunächst möchte ich mich vorstellen.",
+      "en": "First I would like to introduce myself.",
+      "glosses": {
+       "Zunächst": "first",
+       "möchte": "would like",
+       "vorstellen": "introduce",
+       "ich": "I",
+       "mich": "me/myself"
+      }
+     },
+     {
+      "de": "Zunächst blieb alles ruhig.",
+      "en": "At first everything stayed quiet.",
+      "glosses": {
+       "Zunächst": "at first",
+       "blieb": "stayed",
+       "ruhig": "quiet",
+       "alles": "everything"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zwar",
+  "pos": "adverb",
+  "frequency": 1399,
+  "meanings": [
+   {
+    "english": "indeed, admittedly, to be sure",
+    "examples": [
+     {
+      "de": "Er ist zwar jung, aber sehr erfahren.",
+      "en": "He is admittedly young, but very experienced.",
+      "glosses": {
+       "zwar": "admittedly",
+       "jung": "young",
+       "erfahren": "experienced",
+       "Er": "he",
+       "ist": "is",
+       "aber": "but",
+       "sehr": "very"
+      }
+     },
+     {
+      "de": "Es regnet zwar, doch wir gehen trotzdem.",
+      "en": "It is indeed raining, yet we are going anyway.",
+      "glosses": {
+       "zwar": "indeed",
+       "regnet": "rains",
+       "trotzdem": "anyway",
+       "Es": "it",
+       "doch": "surely",
+       "wir": "we",
+       "gehen": "go"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "often \"zwar … aber\""
  }
 ]
