@@ -45,7 +45,7 @@ x Oje, es regnet schon wieder! ## Oh dear, it's raining again! ## Oje=oh dear|es
 x Oje, das tut mir leid. ## Oh dear, I'm sorry about that. ## Oje=oh dear|das=that|tut=does|mir=me|leid=sorry
 
 A2 | hoppla | said after a small mishap | oops, whoops
-x Hoppla, das Glas ist runtergefallen! ## Whoops, the glass has fallen down! ## Hoppla=whoops|das=the|Glas=glass|ist=has|runtergefallen=fallen down
+x Hoppla, das Glas ist heruntergefallen! ## Whoops, the glass has fallen down! ## Hoppla=whoops|das=the|Glas=glass|ist=has|heruntergefallen=fallen down
 x Hoppla, entschuldigen Sie bitte! ## Oops, I beg your pardon! ## Hoppla=oops|entschuldigen=excuse|Sie=you|bitte=please
 
 A2 | aha | | aha, I see

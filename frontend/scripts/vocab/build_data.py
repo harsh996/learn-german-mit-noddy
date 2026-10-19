@@ -80,6 +80,7 @@ def build(entries, cache):
             out["notes"] = " · ".join(notes)
         files[e["level"]].append(out)
     add_supplements(files)
+    add_noun_supplements(files)
 
     def collate(w):
         return w.casefold().translate(str.maketrans("äöüß", "aous"))
@@ -124,6 +125,8 @@ def add_supplements(files):
     have = {(it["word"].lower(), it["pos"]) for items in files.values() for it in items}
     auto = corpus_glosses(files)
     for f in sorted(HERE.glob("supplement_*.txt")):
+        if f.name == "supplement_nouns.txt":  # different format, see add_noun_supplements
+            continue
         pos = f.stem.removeprefix("supplement_").rstrip("s")  # supplement_prepositions.txt -> preposition
         for block in re.split(r"\n\s*\n", f.read_text()):
             lines = [l for l in block.strip().splitlines() if l.strip() and not l.startswith("#")]
@@ -153,6 +156,86 @@ def add_supplements(files):
                 item["notes"] = notes
             files[level].append(item)
             have.add((word.lower(), pos))
+
+
+NOUN_NOTES = {"n-Deklination", "adjektivische Deklination", "ohne Artikel", "die Niederlande"}
+ARTICLE = {"m": "der", "f": "die", "n": "das", "p": "die"}
+LEVEL = {"1": "A1", "2": "A2", "3": "B1", "0": "B2"}
+
+
+def first_meaning(english):
+    return re.split(r"[;,(]", english)[0].strip()
+
+
+def load_gloss_dictionary():
+    d = {}
+    p = HERE / "gloss_dictionary.txt"
+    if p.exists():
+        for l in p.read_text(encoding="utf8").splitlines():
+            if l.strip() and not l.startswith("#") and "=" in l:
+                k, v = l.split("=", 1)
+                d[k.strip().lower()] = v.strip()
+    return d
+
+
+def add_noun_supplements(files):
+    """Merge supplement_nouns.txt (nouns missing from the Goethe lists) into the level files."""
+    f = HERE / "supplement_nouns.txt"
+    if not f.exists():
+        return
+    have = {(it["word"].lower(), it.get("article")) for items in files.values() for it in items if it["pos"] == "noun"}
+    auto = corpus_glosses(files)
+    dictionary = load_gloss_dictionary()
+    rows = []
+    for l in f.read_text(encoding="utf8").splitlines():
+        if not l.strip() or l.startswith("#"):
+            continue
+        level, g, word, plural, english, de, en = l.split("|")
+        rows.append((level, g, word, plural, english, de, en))
+    # Headword and plural forms -> short meaning, so tokens that are other new nouns get glossed.
+    own = {}
+    for level, g, word, plural, english, de, en in rows:
+        m = first_meaning(english)
+        own.setdefault(word.lower(), m)
+        pl = plural.split(";")[0].strip()
+        if pl and pl != "-":
+            own.setdefault(pl.lower(), m)
+    unresolved = {}
+    for level, g, word, plural, english, de, en in rows:
+        art = ARTICLE[g]
+        if (word.lower(), art) in have:
+            continue
+        pl, _, extra = plural.partition(";")
+        pl, extra = pl.strip(), extra.strip()
+        notes = []
+        if g == "p":
+            notes.append("Plural only")
+        elif pl == "-":
+            notes.append("No plural")
+        elif pl:
+            notes.append(f"Plural: die {pl}")
+        if extra:
+            notes.append(extra if extra in NOUN_NOTES else f"Also: {extra}")
+        glosses = {}
+        for t in TOKEN.findall(de):
+            k = t.lower()
+            if k in own:
+                glosses[t] = own[k]
+            elif k in dictionary:
+                glosses[t] = dictionary[k]
+            elif k in auto:
+                glosses[t] = auto[k]
+            else:
+                unresolved.setdefault(k, []).append(word)
+        item = {"word": word, "pos": "noun", "article": art, "frequency": 0,
+                "meanings": [{"english": english, "examples": [{"de": de, "en": en, "glosses": glosses}]}]}
+        if notes:
+            item["notes"] = " · ".join(notes)
+        files[LEVEL[level]].append(item)
+        have.add((word.lower(), art))
+    if unresolved:
+        print(f"WARN supplement_nouns.txt: {len(unresolved)} tokens without a gloss (add them to gloss_dictionary.txt)")
+        (HERE / "unresolved_glosses.txt").write_text("\n".join(f"{k}\t{'; '.join(v[:2])}" for k, v in sorted(unresolved.items())), encoding="utf8")
 
 
 def gl(s):

@@ -2,7 +2,7 @@
  {
   "word": "Abfahrt",
   "pos": "noun",
-  "frequency": 769,
+  "frequency": 833,
   "meanings": [
    {
     "english": "departure",
@@ -30,7 +30,7 @@
  {
   "word": "abschließen",
   "pos": "verb",
-  "frequency": 770,
+  "frequency": 834,
   "meanings": [
    {
     "english": "to lock",
@@ -74,7 +74,7 @@
  {
   "word": "ach",
   "pos": "interjection",
-  "frequency": 771,
+  "frequency": 835,
   "meanings": [
    {
     "english": "oh, alas",
@@ -107,7 +107,7 @@
  {
   "word": "Achtung!",
   "pos": "interjection",
-  "frequency": 772,
+  "frequency": 836,
   "meanings": [
    {
     "english": "attention!, watch out!",
@@ -128,7 +128,7 @@
  {
   "word": "aha",
   "pos": "interjection",
-  "frequency": 773,
+  "frequency": 837,
   "meanings": [
    {
     "english": "aha, I see",
@@ -161,7 +161,7 @@
  {
   "word": "Ahnung",
   "pos": "noun",
-  "frequency": 774,
+  "frequency": 838,
   "meanings": [
    {
     "english": "idea, clue",
@@ -203,7 +203,7 @@
  {
   "word": "aktiv",
   "pos": "adjective",
-  "frequency": 775,
+  "frequency": 839,
   "meanings": [
    {
     "english": "active",
@@ -229,7 +229,7 @@
  {
   "word": "aktuell",
   "pos": "adjective",
-  "frequency": 776,
+  "frequency": 840,
   "meanings": [
    {
     "english": "current, up to date",
@@ -252,7 +252,7 @@
  {
   "word": "als",
   "pos": "conjunction",
-  "frequency": 777,
+  "frequency": 841,
   "meanings": [
    {
     "english": "than",
@@ -276,7 +276,7 @@
  {
   "word": "Ampel",
   "pos": "noun",
-  "frequency": 778,
+  "frequency": 842,
   "meanings": [
    {
     "english": "traffic light",
@@ -317,7 +317,7 @@
  {
   "word": "ändern",
   "pos": "verb",
-  "frequency": 779,
+  "frequency": 843,
   "meanings": [
    {
     "english": "to change, to alter",
@@ -353,7 +353,7 @@
  {
   "word": "anders",
   "pos": "adverb",
-  "frequency": 780,
+  "frequency": 844,
   "meanings": [
    {
     "english": "differently, otherwise",
@@ -382,7 +382,7 @@
  {
   "word": "Angst",
   "pos": "noun",
-  "frequency": 781,
+  "frequency": 845,
   "meanings": [
    {
     "english": "fear, anxiety",
@@ -417,7 +417,7 @@
  {
   "word": "ansehen",
   "pos": "verb",
-  "frequency": 782,
+  "frequency": 846,
   "meanings": [
    {
     "english": "to look at",
@@ -458,9 +458,37 @@
   "notes": "sieht an, hat angesehen"
  },
  {
+  "word": "Antwortbogen",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 847,
+  "meanings": [
+   {
+    "english": "answer sheet",
+    "examples": [
+     {
+      "de": "Bitte schreiben Sie Ihren Namen auf den Antwortbogen.",
+      "en": "Please write your name on the answer sheet.",
+      "glosses": {
+       "Bitte": "please",
+       "schreiben": "letter",
+       "Sie": "she/they/you (formal)",
+       "Ihren": "your",
+       "Namen": "name",
+       "auf": "on",
+       "den": "the",
+       "Antwortbogen": "answer sheet"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Antwortbögen"
+ },
+ {
   "word": "Anzug",
   "pos": "noun",
-  "frequency": 783,
+  "frequency": 848,
   "meanings": [
    {
     "english": "suit",
@@ -488,7 +516,7 @@
  {
   "word": "Apotheke",
   "pos": "noun",
-  "frequency": 784,
+  "frequency": 849,
   "meanings": [
    {
     "english": "pharmacy",
@@ -515,7 +543,7 @@
  {
   "word": "Apparat",
   "pos": "noun",
-  "frequency": 785,
+  "frequency": 850,
   "meanings": [
    {
     "english": "device, apparatus",
@@ -551,9 +579,35 @@
   "notes": "Plural: die Apparate"
  },
  {
+  "word": "Arbeitstag",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 851,
+  "meanings": [
+   {
+    "english": "working day",
+    "examples": [
+     {
+      "de": "Mein Arbeitstag beginnt um acht Uhr.",
+      "en": "My working day begins at eight o'clock.",
+      "glosses": {
+       "Mein": "my",
+       "Arbeitstag": "working day",
+       "beginnt": "begins",
+       "um": "at",
+       "acht": "eight",
+       "Uhr": "o'clock"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Arbeitstage"
+ },
+ {
   "word": "ärgern",
   "pos": "verb",
-  "frequency": 786,
+  "frequency": 852,
   "meanings": [
    {
     "english": "to be annoyed, to get annoyed",
@@ -584,7 +638,7 @@
  {
   "word": "arm",
   "pos": "adjective",
-  "frequency": 787,
+  "frequency": 853,
   "meanings": [
    {
     "english": "poor",
@@ -609,7 +663,7 @@
  {
   "word": "Artikel",
   "pos": "noun",
-  "frequency": 788,
+  "frequency": 854,
   "meanings": [
    {
     "english": "article (grammar)",
@@ -659,7 +713,7 @@
  {
   "word": "aua",
   "pos": "interjection",
-  "frequency": 789,
+  "frequency": 855,
   "meanings": [
    {
     "english": "ouch, ow",
@@ -693,7 +747,7 @@
  {
   "word": "auf",
   "pos": "preposition",
-  "frequency": 790,
+  "frequency": 856,
   "meanings": [
    {
     "english": "on, onto",
@@ -717,7 +771,7 @@
  {
   "word": "aufgeregt / aufregend",
   "pos": "adjective",
-  "frequency": 791,
+  "frequency": 857,
   "meanings": [
    {
     "english": "exciting, excited",
@@ -741,7 +795,7 @@
  {
   "word": "aufmachen",
   "pos": "verb",
-  "frequency": 792,
+  "frequency": 858,
   "meanings": [
    {
     "english": "to open",
@@ -766,7 +820,7 @@
  {
   "word": "aufpassen",
   "pos": "verb",
-  "frequency": 793,
+  "frequency": 859,
   "meanings": [
    {
     "english": "to pay attention, watch out",
@@ -824,7 +878,7 @@
  {
   "word": "aufräumen",
   "pos": "verb",
-  "frequency": 794,
+  "frequency": 860,
   "meanings": [
    {
     "english": "to tidy up",
@@ -849,7 +903,7 @@
  {
   "word": "Ausbildung",
   "pos": "noun",
-  "frequency": 795,
+  "frequency": 861,
   "meanings": [
    {
     "english": "training, apprenticeship",
@@ -876,7 +930,7 @@
  {
   "word": "ausgeben",
   "pos": "verb",
-  "frequency": 796,
+  "frequency": 862,
   "meanings": [
    {
     "english": "to spend (money)",
@@ -915,7 +969,7 @@
  {
   "word": "ausgehen",
   "pos": "verb",
-  "frequency": 797,
+  "frequency": 863,
   "meanings": [
    {
     "english": "to go out",
@@ -956,7 +1010,7 @@
  {
   "word": "auspacken",
   "pos": "verb",
-  "frequency": 798,
+  "frequency": 864,
   "meanings": [
    {
     "english": "to unpack",
@@ -981,7 +1035,7 @@
  {
   "word": "ausruhen",
   "pos": "verb",
-  "frequency": 799,
+  "frequency": 865,
   "meanings": [
    {
     "english": "to rest, to relax",
@@ -1023,7 +1077,7 @@
  {
   "word": "außer",
   "pos": "preposition",
-  "frequency": 800,
+  "frequency": 866,
   "meanings": [
    {
     "english": "except, apart from",
@@ -1048,7 +1102,7 @@
  {
   "word": "außerhalb",
   "pos": "preposition",
-  "frequency": 801,
+  "frequency": 867,
   "meanings": [
    {
     "english": "outside (of)",
@@ -1071,7 +1125,7 @@
  {
   "word": "aussprechen",
   "pos": "verb",
-  "frequency": 802,
+  "frequency": 868,
   "meanings": [
    {
     "english": "to pronounce",
@@ -1096,7 +1150,7 @@
  {
   "word": "Ausstellung",
   "pos": "noun",
-  "frequency": 803,
+  "frequency": 869,
   "meanings": [
    {
     "english": "exhibition",
@@ -1123,7 +1177,7 @@
  {
   "word": "austragen",
   "pos": "verb",
-  "frequency": 804,
+  "frequency": 870,
   "meanings": [
    {
     "english": "to deliver (newspapers)",
@@ -1147,9 +1201,39 @@
   "notes": "trägt aus, hat ausgetragen"
  },
  {
+  "word": "Auszubildende",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 871,
+  "meanings": [
+   {
+    "english": "trainee, apprentice (Azubi)",
+    "examples": [
+     {
+      "de": "Die Auszubildende lernt im ersten Jahr den Beruf der Köchin.",
+      "en": "The trainee is learning the profession of cook in her first year.",
+      "glosses": {
+       "Die": "the",
+       "Auszubildende": "trainee",
+       "lernt": "learns",
+       "im": "in the",
+       "ersten": "first",
+       "Jahr": "year",
+       "den": "the",
+       "Beruf": "profession",
+       "der": "the",
+       "Köchin": "cook"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Auszubildenden · adjektivische Deklination"
+ },
+ {
   "word": "automatisch",
   "pos": "adverb",
-  "frequency": 805,
+  "frequency": 872,
   "meanings": [
    {
     "english": "automatically",
@@ -1170,9 +1254,37 @@
   ]
  },
  {
+  "word": "Autorin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 873,
+  "meanings": [
+   {
+    "english": "author (female)",
+    "examples": [
+     {
+      "de": "Die Autorin liest heute aus ihrem neuen Buch.",
+      "en": "The author is reading from her new book today.",
+      "glosses": {
+       "Die": "the",
+       "Autorin": "author",
+       "liest": "reads",
+       "heute": "today",
+       "aus": "from",
+       "ihrem": "her",
+       "neuen": "new",
+       "Buch": "book"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Autorinnen"
+ },
+ {
   "word": "Babysitter",
   "pos": "noun",
-  "frequency": 806,
+  "frequency": 874,
   "meanings": [
    {
     "english": "babysitter",
@@ -1203,7 +1315,7 @@
  {
   "word": "backen",
   "pos": "verb",
-  "frequency": 807,
+  "frequency": 875,
   "meanings": [
    {
     "english": "to bake",
@@ -1227,9 +1339,36 @@
   "notes": "bäckt/backt, hat gebacken"
  },
  {
+  "word": "Bäcker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 876,
+  "meanings": [
+   {
+    "english": "baker",
+    "examples": [
+     {
+      "de": "Der Bäcker backt jeden Morgen frische Brötchen.",
+      "en": "The baker bakes fresh rolls every morning.",
+      "glosses": {
+       "Der": "the",
+       "Bäcker": "baker",
+       "backt": "bakes",
+       "jeden": "every",
+       "Morgen": "tomorrow",
+       "frische": "fresh",
+       "Brötchen": "rolls"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Bäcker"
+ },
+ {
   "word": "Ball",
   "pos": "noun",
-  "frequency": 808,
+  "frequency": 877,
   "meanings": [
    {
     "english": "ball",
@@ -1254,7 +1393,7 @@
  {
   "word": "Band",
   "pos": "noun",
-  "frequency": 809,
+  "frequency": 878,
   "meanings": [
    {
     "english": "band",
@@ -1283,7 +1422,7 @@
  {
   "word": "Basketball",
   "pos": "noun",
-  "frequency": 810,
+  "frequency": 879,
   "meanings": [
    {
     "english": "basketball",
@@ -1308,7 +1447,7 @@
  {
   "word": "basteln",
   "pos": "verb",
-  "frequency": 811,
+  "frequency": 880,
   "meanings": [
    {
     "english": "to do crafts, to make things by hand",
@@ -1332,7 +1471,7 @@
  {
   "word": "bauen",
   "pos": "verb",
-  "frequency": 812,
+  "frequency": 881,
   "meanings": [
    {
     "english": "to build",
@@ -1357,7 +1496,7 @@
  {
   "word": "Baustelle",
   "pos": "noun",
-  "frequency": 813,
+  "frequency": 882,
   "meanings": [
    {
     "english": "construction site",
@@ -1384,7 +1523,7 @@
  {
   "word": "beantworten",
   "pos": "verb",
-  "frequency": 814,
+  "frequency": 883,
   "meanings": [
    {
     "english": "to answer",
@@ -1421,7 +1560,7 @@
  {
   "word": "bedanken",
   "pos": "verb",
-  "frequency": 815,
+  "frequency": 884,
   "meanings": [
    {
     "english": "to thank, to say thanks",
@@ -1451,7 +1590,7 @@
  {
   "word": "beeilen",
   "pos": "verb",
-  "frequency": 816,
+  "frequency": 885,
   "meanings": [
    {
     "english": "to hurry",
@@ -1480,7 +1619,7 @@
  {
   "word": "beenden",
   "pos": "verb",
-  "frequency": 817,
+  "frequency": 886,
   "meanings": [
    {
     "english": "to finish, to end",
@@ -1507,7 +1646,7 @@
  {
   "word": "begründen",
   "pos": "verb",
-  "frequency": 818,
+  "frequency": 887,
   "meanings": [
    {
     "english": "to justify, to give reasons for",
@@ -1531,7 +1670,7 @@
  {
   "word": "beliebt",
   "pos": "adjective",
-  "frequency": 819,
+  "frequency": 888,
   "meanings": [
    {
     "english": "popular, well-liked",
@@ -1555,7 +1694,7 @@
  {
   "word": "bequem",
   "pos": "adjective",
-  "frequency": 820,
+  "frequency": 889,
   "meanings": [
    {
     "english": "comfortable",
@@ -1578,7 +1717,7 @@
  {
   "word": "beraten",
   "pos": "verb",
-  "frequency": 821,
+  "frequency": 890,
   "meanings": [
    {
     "english": "to advise",
@@ -1605,7 +1744,7 @@
  {
   "word": "Berg",
   "pos": "noun",
-  "frequency": 822,
+  "frequency": 891,
   "meanings": [
    {
     "english": "mountain",
@@ -1646,7 +1785,7 @@
  {
   "word": "berichten",
   "pos": "verb",
-  "frequency": 823,
+  "frequency": 892,
   "meanings": [
    {
     "english": "to report",
@@ -1671,7 +1810,7 @@
  {
   "word": "berühmt",
   "pos": "adjective",
-  "frequency": 824,
+  "frequency": 893,
   "meanings": [
    {
     "english": "famous",
@@ -1695,7 +1834,7 @@
  {
   "word": "Bescheid",
   "pos": "noun",
-  "frequency": 825,
+  "frequency": 894,
   "meanings": [
    {
     "english": "notice, information (Bescheid sagen/geben = to let someone know)",
@@ -1757,7 +1896,7 @@
  {
   "word": "beschreiben",
   "pos": "verb",
-  "frequency": 826,
+  "frequency": 895,
   "meanings": [
    {
     "english": "to describe",
@@ -1784,7 +1923,7 @@
  {
   "word": "beschweren",
   "pos": "verb",
-  "frequency": 827,
+  "frequency": 896,
   "meanings": [
    {
     "english": "to complain",
@@ -1827,7 +1966,7 @@
  {
   "word": "besonders",
   "pos": "adverb",
-  "frequency": 828,
+  "frequency": 897,
   "meanings": [
    {
     "english": "especially, particularly",
@@ -1850,7 +1989,7 @@
  {
   "word": "bestätigen",
   "pos": "verb",
-  "frequency": 829,
+  "frequency": 898,
   "meanings": [
    {
     "english": "to confirm",
@@ -1876,7 +2015,7 @@
  {
   "word": "bestehen",
   "pos": "verb",
-  "frequency": 830,
+  "frequency": 899,
   "meanings": [
    {
     "english": "to pass (an exam)",
@@ -1922,7 +2061,7 @@
  {
   "word": "Besuch",
   "pos": "noun",
-  "frequency": 831,
+  "frequency": 900,
   "meanings": [
    {
     "english": "visit, guests",
@@ -1959,7 +2098,7 @@
  {
   "word": "bewerben",
   "pos": "verb",
-  "frequency": 832,
+  "frequency": 901,
   "meanings": [
    {
     "english": "to apply (for a job)",
@@ -1985,7 +2124,7 @@
  {
   "word": "Bewerbung",
   "pos": "noun",
-  "frequency": 833,
+  "frequency": 902,
   "meanings": [
    {
     "english": "application (job)",
@@ -2012,7 +2151,7 @@
  {
   "word": "bewölkt",
   "pos": "adjective",
-  "frequency": 834,
+  "frequency": 903,
   "meanings": [
    {
     "english": "cloudy",
@@ -2034,7 +2173,7 @@
  {
   "word": "Bibliothek",
   "pos": "noun",
-  "frequency": 835,
+  "frequency": 904,
   "meanings": [
    {
     "english": "library",
@@ -2059,9 +2198,36 @@
   "notes": "Plural: die Bibliotheken"
  },
  {
+  "word": "Biologie",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 905,
+  "meanings": [
+   {
+    "english": "biology",
+    "examples": [
+     {
+      "de": "In Biologie lernen wir viel über Pflanzen.",
+      "en": "In biology we learn a lot about plants.",
+      "glosses": {
+       "In": "in",
+       "Biologie": "biology",
+       "lernen": "learn",
+       "wir": "we",
+       "viel": "much",
+       "über": "about",
+       "Pflanzen": "plants"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Blatt",
   "pos": "noun",
-  "frequency": 836,
+  "frequency": 906,
   "meanings": [
    {
     "english": "sheet (of paper)",
@@ -2105,7 +2271,7 @@
  {
   "word": "blöd",
   "pos": "adjective",
-  "frequency": 837,
+  "frequency": 907,
   "meanings": [
    {
     "english": "stupid, silly (informal)",
@@ -2132,7 +2298,7 @@
  {
   "word": "Blog",
   "pos": "noun",
-  "frequency": 838,
+  "frequency": 908,
   "meanings": [
    {
     "english": "blog",
@@ -2156,9 +2322,36 @@
   "notes": "Plural: die Blogs"
  },
  {
+  "word": "Blog",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 909,
+  "meanings": [
+   {
+    "english": "blog",
+    "examples": [
+     {
+      "de": "Sie schreibt einen Blog über ihre Reisen.",
+      "en": "She writes a blog about her travels.",
+      "glosses": {
+       "Sie": "she/they/you (formal)",
+       "schreibt": "writes",
+       "einen": "a",
+       "Blog": "blog",
+       "über": "about",
+       "ihre": "your",
+       "Reisen": "travel"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Blogs"
+ },
+ {
   "word": "blond",
   "pos": "adjective",
-  "frequency": 839,
+  "frequency": 910,
   "meanings": [
    {
     "english": "blond",
@@ -2180,7 +2373,7 @@
  {
   "word": "Bluse",
   "pos": "noun",
-  "frequency": 840,
+  "frequency": 911,
   "meanings": [
    {
     "english": "blouse",
@@ -2205,7 +2398,7 @@
  {
   "word": "Bohne",
   "pos": "noun",
-  "frequency": 841,
+  "frequency": 912,
   "meanings": [
    {
     "english": "bean",
@@ -2230,7 +2423,7 @@
  {
   "word": "braten",
   "pos": "verb",
-  "frequency": 842,
+  "frequency": 913,
   "meanings": [
    {
     "english": "to fry, to roast",
@@ -2268,7 +2461,7 @@
  {
   "word": "brauchen",
   "pos": "verb",
-  "frequency": 843,
+  "frequency": 914,
   "meanings": [
    {
     "english": "to need",
@@ -2314,7 +2507,7 @@
  {
   "word": "bravo",
   "pos": "interjection",
-  "frequency": 844,
+  "frequency": 915,
   "meanings": [
    {
     "english": "well done, bravo",
@@ -2347,7 +2540,7 @@
  {
   "word": "Brille",
   "pos": "noun",
-  "frequency": 845,
+  "frequency": 916,
   "meanings": [
    {
     "english": "glasses, spectacles",
@@ -2386,7 +2579,7 @@
  {
   "word": "Brücke",
   "pos": "noun",
-  "frequency": 846,
+  "frequency": 917,
   "meanings": [
    {
     "english": "bridge",
@@ -2416,7 +2609,7 @@
  {
   "word": "buchen",
   "pos": "verb",
-  "frequency": 847,
+  "frequency": 918,
   "meanings": [
    {
     "english": "to book, to reserve",
@@ -2440,7 +2633,7 @@
  {
   "word": "bunt",
   "pos": "adjective",
-  "frequency": 848,
+  "frequency": 919,
   "meanings": [
    {
     "english": "colorful",
@@ -2463,7 +2656,7 @@
  {
   "word": "Büro",
   "pos": "noun",
-  "frequency": 849,
+  "frequency": 920,
   "meanings": [
    {
     "english": "office",
@@ -2500,7 +2693,7 @@
  {
   "word": "Cafeteria",
   "pos": "noun",
-  "frequency": 850,
+  "frequency": 921,
   "meanings": [
    {
     "english": "cafeteria",
@@ -2529,9 +2722,38 @@
   "notes": "Plural: die Cafeterien"
  },
  {
+  "word": "Chance",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 922,
+  "meanings": [
+   {
+    "english": "chance, opportunity",
+    "examples": [
+     {
+      "de": "Du hast eine gute Chance, die Stelle zu bekommen.",
+      "en": "You have a good chance of getting the job.",
+      "glosses": {
+       "Du": "you",
+       "hast": "have",
+       "eine": "a",
+       "gute": "good",
+       "Chance": "chance",
+       "die": "the",
+       "Stelle": "job",
+       "zu": "to",
+       "bekommen": "get"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Chancen"
+ },
+ {
   "word": "chatten",
   "pos": "verb",
-  "frequency": 851,
+  "frequency": 923,
   "meanings": [
    {
     "english": "to chat (online)",
@@ -2556,9 +2778,36 @@
   "notes": "chattet, hat gechattet"
  },
  {
+  "word": "Chemie",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 924,
+  "meanings": [
+   {
+    "english": "chemistry",
+    "examples": [
+     {
+      "de": "Chemie war in der Schule mein Lieblingsfach.",
+      "en": "Chemistry was my favourite subject at school.",
+      "glosses": {
+       "Chemie": "chemistry",
+       "war": "was",
+       "in": "in",
+       "der": "the",
+       "Schule": "school",
+       "mein": "my",
+       "Lieblingsfach": "favourite subject"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Club",
   "pos": "noun",
-  "frequency": 852,
+  "frequency": 925,
   "meanings": [
    {
     "english": "club (association)",
@@ -2610,7 +2859,7 @@
  {
   "word": "Comic",
   "pos": "noun",
-  "frequency": 853,
+  "frequency": 926,
   "meanings": [
    {
     "english": "comic",
@@ -2634,9 +2883,85 @@
   "notes": "Plural: die Comics"
  },
  {
+  "word": "Comic",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 927,
+  "meanings": [
+   {
+    "english": "comic",
+    "examples": [
+     {
+      "de": "Mein Sohn liest gern Comics.",
+      "en": "My son likes reading comics.",
+      "glosses": {
+       "Mein": "my",
+       "Sohn": "son",
+       "liest": "reads",
+       "gern": "gladly",
+       "Comics": "comic"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Comics"
+ },
+ {
+  "word": "Cousin",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 928,
+  "meanings": [
+   {
+    "english": "cousin (male)",
+    "examples": [
+     {
+      "de": "Mein Cousin wohnt in Berlin.",
+      "en": "My cousin lives in Berlin.",
+      "glosses": {
+       "Mein": "my",
+       "Cousin": "cousin",
+       "wohnt": "lives",
+       "in": "in",
+       "Berlin": "Berlin"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Cousins"
+ },
+ {
+  "word": "Cousine",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 929,
+  "meanings": [
+   {
+    "english": "cousin (female)",
+    "examples": [
+     {
+      "de": "Meine Cousine besucht uns im Sommer.",
+      "en": "My cousin is visiting us in summer.",
+      "glosses": {
+       "Meine": "my",
+       "Cousine": "cousin",
+       "besucht": "visits",
+       "uns": "us/each other",
+       "im": "in the",
+       "Sommer": "summer"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Cousinen"
+ },
+ {
   "word": "Creme",
   "pos": "noun",
-  "frequency": 854,
+  "frequency": 930,
   "meanings": [
    {
     "english": "cream (cosmetic)",
@@ -2689,7 +3014,7 @@
  {
   "word": "da(r)-",
   "pos": "pronoun",
-  "frequency": 855,
+  "frequency": 931,
   "meanings": [
    {
     "english": "there- (prefix with prepositions: darauf, darüber)",
@@ -2713,7 +3038,7 @@
  {
   "word": "dabei",
   "pos": "adverb",
-  "frequency": 856,
+  "frequency": 932,
   "meanings": [
    {
     "english": "with (you/me), on hand",
@@ -2736,7 +3061,7 @@
  {
   "word": "dafür / dagegen",
   "pos": "adverb",
-  "frequency": 857,
+  "frequency": 933,
   "meanings": [
    {
     "english": "for it / against it",
@@ -2758,7 +3083,7 @@
  {
   "word": "damals",
   "pos": "adverb",
-  "frequency": 858,
+  "frequency": 934,
   "meanings": [
    {
     "english": "back then, at that time",
@@ -2782,7 +3107,7 @@
  {
   "word": "Dank",
   "pos": "noun",
-  "frequency": 859,
+  "frequency": 935,
   "meanings": [
    {
     "english": "thanks",
@@ -2804,7 +3129,7 @@
  {
   "word": "darauf",
   "pos": "adverb",
-  "frequency": 860,
+  "frequency": 936,
   "meanings": [
    {
     "english": "on it, on that, to that",
@@ -2838,7 +3163,7 @@
  {
   "word": "darüber",
   "pos": "adverb",
-  "frequency": 861,
+  "frequency": 937,
   "meanings": [
    {
     "english": "about it, above it, over it",
@@ -2876,7 +3201,7 @@
  {
   "word": "dass",
   "pos": "conjunction",
-  "frequency": 862,
+  "frequency": 938,
   "meanings": [
    {
     "english": "that",
@@ -2903,7 +3228,7 @@
  {
   "word": "Datei",
   "pos": "noun",
-  "frequency": 863,
+  "frequency": 939,
   "meanings": [
    {
     "english": "file (computer)",
@@ -2941,7 +3266,7 @@
  {
   "word": "denken",
   "pos": "verb",
-  "frequency": 864,
+  "frequency": 940,
   "meanings": [
    {
     "english": "to think",
@@ -2993,7 +3318,7 @@
  {
   "word": "deshalb",
   "pos": "conjunction",
-  "frequency": 865,
+  "frequency": 941,
   "meanings": [
    {
     "english": "therefore, that's why",
@@ -3020,7 +3345,7 @@
  {
   "word": "deshalb",
   "pos": "adverb",
-  "frequency": 866,
+  "frequency": 942,
   "meanings": [
    {
     "english": "for that reason, therefore",
@@ -3057,7 +3382,7 @@
  {
   "word": "deutlich",
   "pos": "adjective",
-  "frequency": 867,
+  "frequency": 943,
   "meanings": [
    {
     "english": "clear, distinct",
@@ -3077,9 +3402,38 @@
   ]
  },
  {
+  "word": "Deutsch",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 944,
+  "meanings": [
+   {
+    "english": "German (language)",
+    "examples": [
+     {
+      "de": "Ich lerne Deutsch, weil ich in Berlin arbeiten möchte.",
+      "en": "I am learning German because I want to work in Berlin.",
+      "glosses": {
+       "Ich": "I",
+       "lerne": "learn",
+       "Deutsch": "German",
+       "weil": "because",
+       "ich": "I",
+       "in": "in",
+       "Berlin": "Berlin",
+       "arbeiten": "work",
+       "möchte": "would like"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "dick",
   "pos": "adjective",
-  "frequency": 868,
+  "frequency": 945,
   "meanings": [
    {
     "english": "fat, thick",
@@ -3104,7 +3458,7 @@
  {
   "word": "Ding",
   "pos": "noun",
-  "frequency": 869,
+  "frequency": 946,
   "meanings": [
    {
     "english": "thing",
@@ -3148,7 +3502,7 @@
  {
   "word": "direkt",
   "pos": "adjective",
-  "frequency": 870,
+  "frequency": 947,
   "meanings": [
    {
     "english": "direct, directly",
@@ -3170,9 +3524,37 @@
   ]
  },
  {
+  "word": "Direktor",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 948,
+  "meanings": [
+   {
+    "english": "director, principal",
+    "examples": [
+     {
+      "de": "Der Direktor der Schule begrüßt die neuen Schüler.",
+      "en": "The principal of the school welcomes the new pupils.",
+      "glosses": {
+       "Der": "the",
+       "Direktor": "director",
+       "der": "the",
+       "Schule": "school",
+       "begrüßt": "welcomes",
+       "die": "the",
+       "neuen": "new",
+       "Schüler": "students"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Direktoren"
+ },
+ {
   "word": "diskutieren",
   "pos": "verb",
-  "frequency": 871,
+  "frequency": 949,
   "meanings": [
    {
     "english": "to discuss",
@@ -3198,7 +3580,7 @@
  {
   "word": "doch",
   "pos": "adverb",
-  "frequency": 872,
+  "frequency": 950,
   "meanings": [
    {
     "english": "yes (contradicting a negative), but, though",
@@ -3221,7 +3603,7 @@
  {
   "word": "dringend",
   "pos": "adjective",
-  "frequency": 873,
+  "frequency": 951,
   "meanings": [
    {
     "english": "urgent",
@@ -3246,7 +3628,7 @@
  {
   "word": "drinnen",
   "pos": "adverb",
-  "frequency": 874,
+  "frequency": 952,
   "meanings": [
    {
     "english": "inside, indoors",
@@ -3270,7 +3652,7 @@
  {
   "word": "drüben",
   "pos": "adverb",
-  "frequency": 875,
+  "frequency": 953,
   "meanings": [
    {
     "english": "over there",
@@ -3293,7 +3675,7 @@
  {
   "word": "dumm",
   "pos": "adjective",
-  "frequency": 876,
+  "frequency": 954,
   "meanings": [
    {
     "english": "stupid, dumb",
@@ -3316,7 +3698,7 @@
  {
   "word": "dunkel",
   "pos": "adjective",
-  "frequency": 877,
+  "frequency": 955,
   "meanings": [
    {
     "english": "dark",
@@ -3341,7 +3723,7 @@
  {
   "word": "dünn",
   "pos": "adjective",
-  "frequency": 878,
+  "frequency": 956,
   "meanings": [
    {
     "english": "thin",
@@ -3364,7 +3746,7 @@
  {
   "word": "E-Book",
   "pos": "noun",
-  "frequency": 879,
+  "frequency": 957,
   "meanings": [
    {
     "english": "e-book",
@@ -3404,7 +3786,7 @@
  {
   "word": "echt",
   "pos": "adjective",
-  "frequency": 880,
+  "frequency": 958,
   "meanings": [
    {
     "english": "real, genuine",
@@ -3432,7 +3814,7 @@
  {
   "word": "egal",
   "pos": "adjective",
-  "frequency": 881,
+  "frequency": 959,
   "meanings": [
    {
     "english": "all the same, doesn't matter",
@@ -3454,7 +3836,7 @@
  {
   "word": "egal",
   "pos": "adverb",
-  "frequency": 882,
+  "frequency": 960,
   "meanings": [
    {
     "english": "no matter, doesn't matter",
@@ -3484,9 +3866,37 @@
   ]
  },
  {
+  "word": "Ehepartner",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 961,
+  "meanings": [
+   {
+    "english": "spouse",
+    "examples": [
+     {
+      "de": "Der Ehepartner bekommt eine Karte für das Konzert.",
+      "en": "The spouse receives a ticket for the concert.",
+      "glosses": {
+       "Der": "the",
+       "Ehepartner": "spouse",
+       "bekommt": "gets",
+       "eine": "a",
+       "Karte": "card",
+       "für": "for",
+       "das": "that/the",
+       "Konzert": "concert"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Ehepartner"
+ },
+ {
   "word": "eigen",
   "pos": "adjective",
-  "frequency": 883,
+  "frequency": 962,
   "meanings": [
    {
     "english": "own",
@@ -3509,7 +3919,7 @@
  {
   "word": "eigen-",
   "pos": "adjective",
-  "frequency": 884,
+  "frequency": 963,
   "meanings": [
    {
     "english": "own",
@@ -3534,7 +3944,7 @@
  {
   "word": "eigentlich",
   "pos": "adverb",
-  "frequency": 885,
+  "frequency": 964,
   "meanings": [
    {
     "english": "actually, really",
@@ -3557,7 +3967,7 @@
  {
   "word": "eigentlich",
   "pos": "adjective",
-  "frequency": 886,
+  "frequency": 965,
   "meanings": [
    {
     "english": "actual, real",
@@ -3580,7 +3990,7 @@
  {
   "word": "einige",
   "pos": "adjective",
-  "frequency": 887,
+  "frequency": 966,
   "meanings": [
    {
     "english": "some, a few",
@@ -3604,7 +4014,7 @@
  {
   "word": "Einkaufszentrum",
   "pos": "noun",
-  "frequency": 888,
+  "frequency": 967,
   "meanings": [
    {
     "english": "shopping center, mall",
@@ -3630,7 +4040,7 @@
  {
   "word": "einpacken",
   "pos": "verb",
-  "frequency": 889,
+  "frequency": 968,
   "meanings": [
    {
     "english": "to pack (up), to wrap",
@@ -3667,7 +4077,7 @@
  {
   "word": "eintragen",
   "pos": "verb",
-  "frequency": 890,
+  "frequency": 969,
   "meanings": [
    {
     "english": "to register, to sign in",
@@ -3713,7 +4123,7 @@
  {
   "word": "einverstanden",
   "pos": "adjective",
-  "frequency": 891,
+  "frequency": 970,
   "meanings": [
    {
     "english": "in agreement, agreed",
@@ -3735,7 +4145,7 @@
  {
   "word": "einzeln",
   "pos": "adjective",
-  "frequency": 892,
+  "frequency": 971,
   "meanings": [
    {
     "english": "individual, one by one",
@@ -3758,7 +4168,7 @@
  {
   "word": "einziehen",
   "pos": "verb",
-  "frequency": 893,
+  "frequency": 972,
   "meanings": [
    {
     "english": "to move in",
@@ -3797,7 +4207,7 @@
  {
   "word": "Eis",
   "pos": "noun",
-  "frequency": 894,
+  "frequency": 973,
   "meanings": [
    {
     "english": "ice cream, ice",
@@ -3821,7 +4231,7 @@
  {
   "word": "endlich",
   "pos": "adverb",
-  "frequency": 895,
+  "frequency": 974,
   "meanings": [
    {
     "english": "finally",
@@ -3843,7 +4253,7 @@
  {
   "word": "eng",
   "pos": "adjective",
-  "frequency": 896,
+  "frequency": 975,
   "meanings": [
    {
     "english": "narrow, tight",
@@ -3864,9 +4274,89 @@
   ]
  },
  {
+  "word": "Englisch",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 976,
+  "meanings": [
+   {
+    "english": "English (language)",
+    "examples": [
+     {
+      "de": "Meine Kinder lernen in der Schule Englisch.",
+      "en": "My children learn English at school.",
+      "glosses": {
+       "Meine": "my",
+       "Kinder": "children",
+       "lernen": "learn",
+       "in": "in",
+       "der": "the",
+       "Schule": "school",
+       "Englisch": "English"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Enkel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 977,
+  "meanings": [
+   {
+    "english": "grandson, grandchild",
+    "examples": [
+     {
+      "de": "Mein Enkel besucht mich jedes Wochenende.",
+      "en": "My grandson visits me every weekend.",
+      "glosses": {
+       "Mein": "my",
+       "Enkel": "grandson",
+       "besucht": "visits",
+       "mich": "me/myself",
+       "jedes": "every",
+       "Wochenende": "weekend"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Enkel"
+ },
+ {
+  "word": "Enkelin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 978,
+  "meanings": [
+   {
+    "english": "granddaughter",
+    "examples": [
+     {
+      "de": "Meine Enkelin geht in die erste Klasse.",
+      "en": "My granddaughter is in the first grade.",
+      "glosses": {
+       "Meine": "my",
+       "Enkelin": "granddaughter",
+       "geht": "goes",
+       "in": "in",
+       "die": "the",
+       "erste": "first",
+       "Klasse": "class"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Enkelinnen"
+ },
+ {
   "word": "Erdgeschoss",
   "pos": "noun",
-  "frequency": 897,
+  "frequency": 979,
   "meanings": [
    {
     "english": "ground floor",
@@ -3889,7 +4379,7 @@
  {
   "word": "Erfahrung",
   "pos": "noun",
-  "frequency": 898,
+  "frequency": 980,
   "meanings": [
    {
     "english": "experience",
@@ -3917,7 +4407,7 @@
  {
   "word": "erinnern",
   "pos": "verb",
-  "frequency": 899,
+  "frequency": 981,
   "meanings": [
    {
     "english": "to remember",
@@ -3967,7 +4457,7 @@
  {
   "word": "erkältet",
   "pos": "adjective",
-  "frequency": 900,
+  "frequency": 982,
   "meanings": [
    {
     "english": "having a cold",
@@ -3989,7 +4479,7 @@
  {
   "word": "Erlaubnis",
   "pos": "noun",
-  "frequency": 901,
+  "frequency": 983,
   "meanings": [
    {
     "english": "permission, permit",
@@ -4013,7 +4503,7 @@
  {
   "word": "Ermäßigung",
   "pos": "noun",
-  "frequency": 902,
+  "frequency": 984,
   "meanings": [
    {
     "english": "discount, reduction",
@@ -4042,7 +4532,7 @@
  {
   "word": "erreichen",
   "pos": "verb",
-  "frequency": 903,
+  "frequency": 985,
   "meanings": [
    {
     "english": "to reach, to catch",
@@ -4091,7 +4581,7 @@
  {
   "word": "erst",
   "pos": "adverb",
-  "frequency": 904,
+  "frequency": 986,
   "meanings": [
    {
     "english": "only, not until",
@@ -4116,7 +4606,7 @@
  {
   "word": "etwas",
   "pos": "adverb",
-  "frequency": 905,
+  "frequency": 987,
   "meanings": [
    {
     "english": "somewhat, slightly, a little",
@@ -4149,7 +4639,7 @@
  {
   "word": "euer-",
   "pos": "pronoun",
-  "frequency": 906,
+  "frequency": 988,
   "meanings": [
    {
     "english": "your (plural informal)",
@@ -4172,7 +4662,7 @@
  {
   "word": "Fach",
   "pos": "noun",
-  "frequency": 907,
+  "frequency": 989,
   "meanings": [
    {
     "english": "(school) subject",
@@ -4201,7 +4691,7 @@
  {
   "word": "Fahrplan",
   "pos": "noun",
-  "frequency": 908,
+  "frequency": 990,
   "meanings": [
    {
     "english": "timetable, schedule",
@@ -4226,7 +4716,7 @@
  {
   "word": "fallen",
   "pos": "verb",
-  "frequency": 909,
+  "frequency": 991,
   "meanings": [
    {
     "english": "to fall",
@@ -4253,7 +4743,7 @@
  {
   "word": "Fan",
   "pos": "noun",
-  "frequency": 910,
+  "frequency": 992,
   "meanings": [
    {
     "english": "fan",
@@ -4290,7 +4780,7 @@
  {
   "word": "fantastisch",
   "pos": "adjective",
-  "frequency": 911,
+  "frequency": 993,
   "meanings": [
    {
     "english": "fantastic",
@@ -4314,7 +4804,7 @@
  {
   "word": "fast",
   "pos": "adverb",
-  "frequency": 912,
+  "frequency": 994,
   "meanings": [
    {
     "english": "almost",
@@ -4338,7 +4828,7 @@
  {
   "word": "faul",
   "pos": "adjective",
-  "frequency": 913,
+  "frequency": 995,
   "meanings": [
    {
     "english": "lazy",
@@ -4360,7 +4850,7 @@
  {
   "word": "Feier",
   "pos": "noun",
-  "frequency": 914,
+  "frequency": 996,
   "meanings": [
    {
     "english": "celebration, party",
@@ -4417,7 +4907,7 @@
  {
   "word": "Fenster",
   "pos": "noun",
-  "frequency": 915,
+  "frequency": 997,
   "meanings": [
    {
     "english": "window",
@@ -4443,7 +4933,7 @@
  {
   "word": "Ferien",
   "pos": "noun",
-  "frequency": 916,
+  "frequency": 998,
   "meanings": [
    {
     "english": "school holidays, vacation",
@@ -4482,7 +4972,7 @@
  {
   "word": "Fernseher",
   "pos": "noun",
-  "frequency": 917,
+  "frequency": 999,
   "meanings": [
    {
     "english": "television, TV set",
@@ -4506,7 +4996,7 @@
  {
   "word": "Fest",
   "pos": "noun",
-  "frequency": 918,
+  "frequency": 1000,
   "meanings": [
    {
     "english": "celebration, festival",
@@ -4549,7 +5039,7 @@
  {
   "word": "Festival",
   "pos": "noun",
-  "frequency": 919,
+  "frequency": 1001,
   "meanings": [
    {
     "english": "festival",
@@ -4577,7 +5067,7 @@
  {
   "word": "fett",
   "pos": "adjective",
-  "frequency": 920,
+  "frequency": 1002,
   "meanings": [
    {
     "english": "fatty, greasy",
@@ -4601,7 +5091,7 @@
  {
   "word": "fit",
   "pos": "adjective",
-  "frequency": 921,
+  "frequency": 1003,
   "meanings": [
    {
     "english": "fit",
@@ -4623,7 +5113,7 @@
  {
   "word": "fleißig",
   "pos": "adjective",
-  "frequency": 922,
+  "frequency": 1004,
   "meanings": [
    {
     "english": "hard-working, diligent",
@@ -4645,7 +5135,7 @@
  {
   "word": "Flohmarkt",
   "pos": "noun",
-  "frequency": 923,
+  "frequency": 1005,
   "meanings": [
    {
     "english": "flea market",
@@ -4685,7 +5175,7 @@
  {
   "word": "Flug",
   "pos": "noun",
-  "frequency": 924,
+  "frequency": 1006,
   "meanings": [
    {
     "english": "flight",
@@ -4728,7 +5218,7 @@
  {
   "word": "Fluss",
   "pos": "noun",
-  "frequency": 925,
+  "frequency": 1007,
   "meanings": [
    {
     "english": "river",
@@ -4754,7 +5244,7 @@
  {
   "word": "Fotoapparat",
   "pos": "noun",
-  "frequency": 926,
+  "frequency": 1008,
   "meanings": [
    {
     "english": "camera",
@@ -4780,7 +5270,7 @@
  {
   "word": "fotografieren",
   "pos": "verb",
-  "frequency": 927,
+  "frequency": 1009,
   "meanings": [
    {
     "english": "to photograph, to take pictures",
@@ -4800,9 +5290,33 @@
   "notes": "fotografiert, hat fotografiert"
  },
  {
+  "word": "Französisch",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1010,
+  "meanings": [
+   {
+    "english": "French (language)",
+    "examples": [
+     {
+      "de": "Sie spricht fließend Französisch.",
+      "en": "She speaks fluent French.",
+      "glosses": {
+       "Sie": "she/they/you (formal)",
+       "spricht": "speaks",
+       "fließend": "fluent",
+       "Französisch": "French"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "freiwillig",
   "pos": "adjective",
-  "frequency": 928,
+  "frequency": 1011,
   "meanings": [
    {
     "english": "voluntary, voluntarily",
@@ -4827,7 +5341,7 @@
  {
   "word": "freuen",
   "pos": "verb",
-  "frequency": 929,
+  "frequency": 1012,
   "meanings": [
    {
     "english": "to be happy, to be glad",
@@ -4882,7 +5396,7 @@
  {
   "word": "freundlich",
   "pos": "adjective",
-  "frequency": 930,
+  "frequency": 1013,
   "meanings": [
    {
     "english": "friendly, kind",
@@ -4907,7 +5421,7 @@
  {
   "word": "frisch",
   "pos": "adjective",
-  "frequency": 931,
+  "frequency": 1014,
   "meanings": [
    {
     "english": "fresh",
@@ -4929,9 +5443,34 @@
   ]
  },
  {
+  "word": "Friseur",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1015,
+  "meanings": [
+   {
+    "english": "hairdresser",
+    "examples": [
+     {
+      "de": "Ich gehe morgen zum Friseur.",
+      "en": "I am going to the hairdresser's tomorrow.",
+      "glosses": {
+       "Ich": "I",
+       "gehe": "go",
+       "morgen": "tomorrow",
+       "zum": "to the",
+       "Friseur": "hairdresser"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Friseure"
+ },
+ {
   "word": "froh",
   "pos": "adjective",
-  "frequency": 932,
+  "frequency": 1016,
   "meanings": [
    {
     "english": "glad, happy",
@@ -4956,7 +5495,7 @@
  {
   "word": "früh",
   "pos": "adjective",
-  "frequency": 933,
+  "frequency": 1017,
   "meanings": [
    {
     "english": "early",
@@ -4980,7 +5519,7 @@
  {
   "word": "früh / früher",
   "pos": "adverb",
-  "frequency": 934,
+  "frequency": 1018,
   "meanings": [
    {
     "english": "early",
@@ -5011,9 +5550,36 @@
   ]
  },
  {
+  "word": "Frühjahr",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1019,
+  "meanings": [
+   {
+    "english": "spring",
+    "examples": [
+     {
+      "de": "Im Frühjahr pflanzen wir Blumen im Garten.",
+      "en": "In spring we plant flowers in the garden.",
+      "glosses": {
+       "Im": "in the",
+       "Frühjahr": "spring",
+       "pflanzen": "plants",
+       "wir": "we",
+       "Blumen": "flowers",
+       "im": "in the",
+       "Garten": "garden"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Frühjahre"
+ },
+ {
   "word": "fühlen",
   "pos": "verb",
-  "frequency": 935,
+  "frequency": 1020,
   "meanings": [
    {
     "english": "to feel",
@@ -5042,7 +5608,7 @@
  {
   "word": "Führerschein",
   "pos": "noun",
-  "frequency": 936,
+  "frequency": 1021,
   "meanings": [
    {
     "english": "driver's license",
@@ -5075,9 +5641,34 @@
   "notes": "Plural: die Führerscheine"
  },
  {
+  "word": "Fundsache",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1022,
+  "meanings": [
+   {
+    "english": "lost property item",
+    "examples": [
+     {
+      "de": "Im Fundbüro liegen viele Fundsachen.",
+      "en": "Many lost property items are at the lost-property office.",
+      "glosses": {
+       "Im": "in the",
+       "Fundbüro": "lost-property office",
+       "liegen": "lie",
+       "viele": "many",
+       "Fundsachen": "lost property item"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Fundsachen"
+ },
+ {
   "word": "Fundsachen",
   "pos": "noun",
-  "frequency": 937,
+  "frequency": 1023,
   "meanings": [
    {
     "english": "lost and found",
@@ -5107,7 +5698,7 @@
  {
   "word": "furchtbar",
   "pos": "adjective",
-  "frequency": 938,
+  "frequency": 1024,
   "meanings": [
    {
     "english": "terrible, awful",
@@ -5129,7 +5720,7 @@
  {
   "word": "Gabel",
   "pos": "noun",
-  "frequency": 939,
+  "frequency": 1025,
   "meanings": [
    {
     "english": "fork",
@@ -5155,7 +5746,7 @@
  {
   "word": "ganz",
   "pos": "adverb",
-  "frequency": 940,
+  "frequency": 1026,
   "meanings": [
    {
     "english": "quite, completely",
@@ -5183,7 +5774,7 @@
  {
   "word": "ganz",
   "pos": "adjective",
-  "frequency": 941,
+  "frequency": 1027,
   "meanings": [
    {
     "english": "whole, entire",
@@ -5207,7 +5798,7 @@
  {
   "word": "Garage",
   "pos": "noun",
-  "frequency": 942,
+  "frequency": 1028,
   "meanings": [
    {
     "english": "garage",
@@ -5234,14 +5825,14 @@
  {
   "word": "geehrt",
   "pos": "adjective",
-  "frequency": 943,
+  "frequency": 1029,
   "meanings": [
    {
     "english": "honoured, dear (in letters)",
     "examples": [
      {
-      "de": "Sehr geehrte Frau Meier!",
-      "en": "Dear Mrs Meier!",
+      "de": "Sehr geehrte Frau Meier,",
+      "en": "Dear Mrs Meier,",
       "glosses": {
        "geehrte": "dear",
        "Frau": "Mrs",
@@ -5256,7 +5847,7 @@
  {
   "word": "gefährlich",
   "pos": "adjective",
-  "frequency": 944,
+  "frequency": 1030,
   "meanings": [
    {
     "english": "dangerous",
@@ -5286,7 +5877,7 @@
  {
   "word": "Gegenteil",
   "pos": "noun",
-  "frequency": 945,
+  "frequency": 1031,
   "meanings": [
    {
     "english": "opposite",
@@ -5312,7 +5903,7 @@
  {
   "word": "gegenüber",
   "pos": "preposition",
-  "frequency": 946,
+  "frequency": 1032,
   "meanings": [
    {
     "english": "opposite",
@@ -5336,7 +5927,7 @@
  {
   "word": "Gehalt",
   "pos": "noun",
-  "frequency": 947,
+  "frequency": 1033,
   "meanings": [
    {
     "english": "salary",
@@ -5362,7 +5953,7 @@
  {
   "word": "Geldbörse",
   "pos": "noun",
-  "frequency": 948,
+  "frequency": 1034,
   "meanings": [
    {
     "english": "wallet, purse",
@@ -5387,7 +5978,7 @@
  {
   "word": "genau",
   "pos": "adjective",
-  "frequency": 949,
+  "frequency": 1035,
   "meanings": [
    {
     "english": "exact, precise",
@@ -5414,7 +6005,7 @@
  {
   "word": "genug",
   "pos": "adverb",
-  "frequency": 950,
+  "frequency": 1036,
   "meanings": [
    {
     "english": "enough",
@@ -5436,9 +6027,36 @@
   ]
  },
  {
+  "word": "Geografie",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1037,
+  "meanings": [
+   {
+    "english": "geography",
+    "examples": [
+     {
+      "de": "In Geografie lernen wir viel über Länder.",
+      "en": "In geography we learn a lot about countries.",
+      "glosses": {
+       "In": "in",
+       "Geografie": "geography",
+       "lernen": "learn",
+       "wir": "we",
+       "viel": "much",
+       "über": "about",
+       "Länder": "countries"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Gerät",
   "pos": "noun",
-  "frequency": 951,
+  "frequency": 1038,
   "meanings": [
    {
     "english": "device, appliance",
@@ -5464,7 +6082,7 @@
  {
   "word": "Gericht",
   "pos": "noun",
-  "frequency": 952,
+  "frequency": 1039,
   "meanings": [
    {
     "english": "dish, meal",
@@ -5488,7 +6106,7 @@
  {
   "word": "gern / lieber / am liebsten",
   "pos": "adverb",
-  "frequency": 953,
+  "frequency": 1040,
   "meanings": [
    {
     "english": "gladly, preferably, most of all",
@@ -5515,7 +6133,7 @@
  {
   "word": "Geschichte",
   "pos": "noun",
-  "frequency": 954,
+  "frequency": 1041,
   "meanings": [
    {
     "english": "story",
@@ -5569,7 +6187,7 @@
  {
   "word": "geschieden",
   "pos": "adjective",
-  "frequency": 955,
+  "frequency": 1042,
   "meanings": [
    {
     "english": "divorced",
@@ -5591,7 +6209,7 @@
  {
   "word": "Geschirr",
   "pos": "noun",
-  "frequency": 956,
+  "frequency": 1043,
   "meanings": [
    {
     "english": "dishes, tableware",
@@ -5618,7 +6236,7 @@
  {
   "word": "Gesicht",
   "pos": "noun",
-  "frequency": 957,
+  "frequency": 1044,
   "meanings": [
    {
     "english": "face",
@@ -5654,7 +6272,7 @@
  {
   "word": "gesund",
   "pos": "adjective",
-  "frequency": 958,
+  "frequency": 1045,
   "meanings": [
    {
     "english": "healthy, well",
@@ -5680,7 +6298,7 @@
  {
   "word": "Gesundheit",
   "pos": "noun",
-  "frequency": 959,
+  "frequency": 1046,
   "meanings": [
    {
     "english": "health (also: \"bless you\")",
@@ -5703,7 +6321,7 @@
  {
   "word": "Gesundheit",
   "pos": "interjection",
-  "frequency": 960,
+  "frequency": 1047,
   "meanings": [
    {
     "english": "bless you",
@@ -5734,7 +6352,7 @@
  {
   "word": "getrennt",
   "pos": "adjective",
-  "frequency": 961,
+  "frequency": 1048,
   "meanings": [
    {
     "english": "separate, separated",
@@ -5755,7 +6373,7 @@
  {
   "word": "Gewitter",
   "pos": "noun",
-  "frequency": 962,
+  "frequency": 1049,
   "meanings": [
    {
     "english": "thunderstorm",
@@ -5782,7 +6400,7 @@
  {
   "word": "Gitarre",
   "pos": "noun",
-  "frequency": 963,
+  "frequency": 1050,
   "meanings": [
    {
     "english": "guitar",
@@ -5807,7 +6425,7 @@
  {
   "word": "Grippe",
   "pos": "noun",
-  "frequency": 964,
+  "frequency": 1051,
   "meanings": [
    {
     "english": "flu",
@@ -5836,7 +6454,7 @@
  {
   "word": "gut / besser / am besten",
   "pos": "adjective",
-  "frequency": 965,
+  "frequency": 1052,
   "meanings": [
    {
     "english": "good, better, best",
@@ -5863,7 +6481,7 @@
  {
   "word": "Hals",
   "pos": "noun",
-  "frequency": 966,
+  "frequency": 1053,
   "meanings": [
    {
     "english": "throat, neck",
@@ -5904,7 +6522,7 @@
  {
   "word": "halt",
   "pos": "interjection",
-  "frequency": 967,
+  "frequency": 1054,
   "meanings": [
    {
     "english": "stop, halt",
@@ -5940,7 +6558,7 @@
  {
   "word": "Hamburger",
   "pos": "noun",
-  "frequency": 968,
+  "frequency": 1055,
   "meanings": [
    {
     "english": "hamburger",
@@ -5965,7 +6583,7 @@
  {
   "word": "Handtuch",
   "pos": "noun",
-  "frequency": 969,
+  "frequency": 1056,
   "meanings": [
    {
     "english": "towel",
@@ -5990,9 +6608,34 @@
   "notes": "Plural: die Handtücher"
  },
  {
+  "word": "Handwerker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1057,
+  "meanings": [
+   {
+    "english": "craftsman, tradesman",
+    "examples": [
+     {
+      "de": "Der Handwerker repariert das Dach.",
+      "en": "The tradesman is repairing the roof.",
+      "glosses": {
+       "Der": "the",
+       "Handwerker": "craftsman",
+       "repariert": "repaired",
+       "das": "that/the",
+       "Dach": "roof"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Handwerker"
+ },
+ {
   "word": "hängen",
   "pos": "verb",
-  "frequency": 970,
+  "frequency": 1058,
   "meanings": [
    {
     "english": "to hang (be hanging)",
@@ -6038,7 +6681,7 @@
  {
   "word": "hart",
   "pos": "adjective",
-  "frequency": 971,
+  "frequency": 1059,
   "meanings": [
    {
     "english": "hard",
@@ -6062,7 +6705,7 @@
  {
   "word": "hässlich",
   "pos": "adjective",
-  "frequency": 972,
+  "frequency": 1060,
   "meanings": [
    {
     "english": "ugly",
@@ -6085,7 +6728,7 @@
  {
   "word": "Hauptstadt",
   "pos": "noun",
-  "frequency": 973,
+  "frequency": 1061,
   "meanings": [
    {
     "english": "capital city",
@@ -6111,7 +6754,7 @@
  {
   "word": "Haushalt",
   "pos": "noun",
-  "frequency": 974,
+  "frequency": 1062,
   "meanings": [
    {
     "english": "household, housework",
@@ -6143,7 +6786,7 @@
  {
   "word": "Heft",
   "pos": "noun",
-  "frequency": 975,
+  "frequency": 1063,
   "meanings": [
    {
     "english": "notebook, exercise book",
@@ -6168,7 +6811,7 @@
  {
   "word": "heiß",
   "pos": "adjective",
-  "frequency": 976,
+  "frequency": 1064,
   "meanings": [
    {
     "english": "hot",
@@ -6191,7 +6834,7 @@
  {
   "word": "Heizung",
   "pos": "noun",
-  "frequency": 977,
+  "frequency": 1065,
   "meanings": [
    {
     "english": "heating",
@@ -6218,7 +6861,7 @@
  {
   "word": "Hemd",
   "pos": "noun",
-  "frequency": 978,
+  "frequency": 1066,
   "meanings": [
    {
     "english": "shirt",
@@ -6244,7 +6887,7 @@
  {
   "word": "her / heraus / herein",
   "pos": "adverb",
-  "frequency": 979,
+  "frequency": 1067,
   "meanings": [
    {
     "english": "here, out, in (toward the speaker)",
@@ -6271,7 +6914,7 @@
  {
   "word": "heraus",
   "pos": "adverb",
-  "frequency": 980,
+  "frequency": 1068,
   "meanings": [
    {
     "english": "out",
@@ -6306,7 +6949,7 @@
  {
   "word": "herein",
   "pos": "interjection",
-  "frequency": 981,
+  "frequency": 1069,
   "meanings": [
    {
     "english": "come in",
@@ -6339,7 +6982,7 @@
  {
   "word": "herstellen",
   "pos": "verb",
-  "frequency": 982,
+  "frequency": 1070,
   "meanings": [
    {
     "english": "to produce, to manufacture",
@@ -6365,7 +7008,7 @@
  {
   "word": "herunterladen",
   "pos": "verb",
-  "frequency": 983,
+  "frequency": 1071,
   "meanings": [
    {
     "english": "to download",
@@ -6392,7 +7035,7 @@
  {
   "word": "hey",
   "pos": "interjection",
-  "frequency": 984,
+  "frequency": 1072,
   "meanings": [
    {
     "english": "hey",
@@ -6424,7 +7067,7 @@
  {
   "word": "Himmel",
   "pos": "noun",
-  "frequency": 985,
+  "frequency": 1073,
   "meanings": [
    {
     "english": "sky, heaven",
@@ -6456,7 +7099,7 @@
  {
   "word": "hin / hinaus / hinein",
   "pos": "adverb",
-  "frequency": 986,
+  "frequency": 1074,
   "meanings": [
    {
     "english": "there, out, in (away from the speaker)",
@@ -6478,7 +7121,7 @@
  {
   "word": "hinaus",
   "pos": "adverb",
-  "frequency": 987,
+  "frequency": 1075,
   "meanings": [
    {
     "english": "out",
@@ -6511,7 +7154,7 @@
  {
   "word": "hinter",
   "pos": "preposition",
-  "frequency": 988,
+  "frequency": 1076,
   "meanings": [
    {
     "english": "behind",
@@ -6536,7 +7179,7 @@
  {
   "word": "hoffen",
   "pos": "verb",
-  "frequency": 989,
+  "frequency": 1077,
   "meanings": [
    {
     "english": "to hope",
@@ -6562,7 +7205,7 @@
  {
   "word": "hoffentlich",
   "pos": "adverb",
-  "frequency": 990,
+  "frequency": 1078,
   "meanings": [
    {
     "english": "hopefully",
@@ -6586,7 +7229,7 @@
  {
   "word": "Homepage",
   "pos": "noun",
-  "frequency": 991,
+  "frequency": 1079,
   "meanings": [
    {
     "english": "homepage, website",
@@ -6619,20 +7262,20 @@
  {
   "word": "hoppla",
   "pos": "interjection",
-  "frequency": 992,
+  "frequency": 1080,
   "meanings": [
    {
     "english": "oops, whoops",
     "examples": [
      {
-      "de": "Hoppla, das Glas ist runtergefallen!",
+      "de": "Hoppla, das Glas ist heruntergefallen!",
       "en": "Whoops, the glass has fallen down!",
       "glosses": {
        "Hoppla": "whoops",
        "das": "the",
        "Glas": "glass",
        "ist": "has",
-       "runtergefallen": "fallen down"
+       "heruntergefallen": "fallen down"
       }
      },
      {
@@ -6653,7 +7296,7 @@
  {
   "word": "Hose",
   "pos": "noun",
-  "frequency": 993,
+  "frequency": 1081,
   "meanings": [
    {
     "english": "trousers, pants",
@@ -6678,7 +7321,7 @@
  {
   "word": "husten",
   "pos": "verb",
-  "frequency": 994,
+  "frequency": 1082,
   "meanings": [
    {
     "english": "to cough",
@@ -6704,7 +7347,7 @@
  {
   "word": "Idee",
   "pos": "noun",
-  "frequency": 995,
+  "frequency": 1083,
   "meanings": [
    {
     "english": "idea",
@@ -6734,7 +7377,7 @@
  {
   "word": "ihr-",
   "pos": "pronoun",
-  "frequency": 996,
+  "frequency": 1084,
   "meanings": [
    {
     "english": "her, their",
@@ -6756,7 +7399,7 @@
  {
   "word": "immer",
   "pos": "adverb",
-  "frequency": 997,
+  "frequency": 1085,
   "meanings": [
    {
     "english": "always",
@@ -6780,7 +7423,7 @@
  {
   "word": "informieren",
   "pos": "verb",
-  "frequency": 998,
+  "frequency": 1086,
   "meanings": [
    {
     "english": "to inform (oneself), to find out",
@@ -6822,7 +7465,7 @@
  {
   "word": "Insel",
   "pos": "noun",
-  "frequency": 999,
+  "frequency": 1087,
   "meanings": [
    {
     "english": "island",
@@ -6863,7 +7506,7 @@
  {
   "word": "Instrument",
   "pos": "noun",
-  "frequency": 1000,
+  "frequency": 1088,
   "meanings": [
    {
     "english": "(musical) instrument",
@@ -6891,7 +7534,7 @@
  {
   "word": "intelligent",
   "pos": "adjective",
-  "frequency": 1001,
+  "frequency": 1089,
   "meanings": [
    {
     "english": "intelligent",
@@ -6913,7 +7556,7 @@
  {
   "word": "interessant",
   "pos": "adjective",
-  "frequency": 1002,
+  "frequency": 1090,
   "meanings": [
    {
     "english": "interesting",
@@ -6937,7 +7580,7 @@
  {
   "word": "Interesse",
   "pos": "noun",
-  "frequency": 1003,
+  "frequency": 1091,
   "meanings": [
    {
     "english": "interest",
@@ -6965,7 +7608,7 @@
  {
   "word": "interessieren",
   "pos": "verb",
-  "frequency": 1004,
+  "frequency": 1092,
   "meanings": [
    {
     "english": "to be interested",
@@ -6989,7 +7632,7 @@
  {
   "word": "Interview",
   "pos": "noun",
-  "frequency": 1005,
+  "frequency": 1093,
   "meanings": [
    {
     "english": "interview",
@@ -7019,7 +7662,7 @@
  {
   "word": "Jeans",
   "pos": "noun",
-  "frequency": 1006,
+  "frequency": 1094,
   "meanings": [
    {
     "english": "jeans",
@@ -7045,7 +7688,7 @@
  {
   "word": "jemand",
   "pos": "pronoun",
-  "frequency": 1007,
+  "frequency": 1095,
   "meanings": [
    {
     "english": "someone, anyone",
@@ -7067,7 +7710,7 @@
  {
   "word": "joggen",
   "pos": "verb",
-  "frequency": 1008,
+  "frequency": 1096,
   "meanings": [
    {
     "english": "to jog",
@@ -7089,9 +7732,37 @@
   "notes": "joggt, ist/hat gejoggt"
  },
  {
+  "word": "Journalist",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1097,
+  "meanings": [
+   {
+    "english": "journalist",
+    "examples": [
+     {
+      "de": "Der Journalist schreibt einen Artikel über die Stadt.",
+      "en": "The journalist is writing an article about the city.",
+      "glosses": {
+       "Der": "the",
+       "Journalist": "journalist",
+       "schreibt": "writes",
+       "einen": "a",
+       "Artikel": "articles",
+       "über": "about",
+       "die": "the",
+       "Stadt": "city"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Journalisten · n-Deklination"
+ },
+ {
   "word": "Jugendherberge",
   "pos": "noun",
-  "frequency": 1009,
+  "frequency": 1098,
   "meanings": [
    {
     "english": "youth hostel",
@@ -7116,7 +7787,7 @@
  {
   "word": "Jugendliche",
   "pos": "noun",
-  "frequency": 1010,
+  "frequency": 1099,
   "meanings": [
    {
     "english": "teenager, young person",
@@ -7159,7 +7830,7 @@
  {
   "word": "Kalender",
   "pos": "noun",
-  "frequency": 1011,
+  "frequency": 1100,
   "meanings": [
    {
     "english": "calendar",
@@ -7191,7 +7862,7 @@
  {
   "word": "kalt",
   "pos": "adjective",
-  "frequency": 1012,
+  "frequency": 1101,
   "meanings": [
    {
     "english": "cold",
@@ -7214,7 +7885,7 @@
  {
   "word": "Kamera",
   "pos": "noun",
-  "frequency": 1013,
+  "frequency": 1102,
   "meanings": [
    {
     "english": "camera",
@@ -7237,9 +7908,35 @@
   "notes": "Plural: die Kameras"
  },
  {
+  "word": "Karneval",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1103,
+  "meanings": [
+   {
+    "english": "carnival",
+    "examples": [
+     {
+      "de": "Im Karneval verkleiden sich viele Menschen.",
+      "en": "At carnival many people dress up.",
+      "glosses": {
+       "Im": "in the",
+       "Karneval": "carnival",
+       "verkleiden": "dress up",
+       "sich": "oneself",
+       "viele": "many",
+       "Menschen": "people"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Karnevale"
+ },
+ {
   "word": "Käse",
   "pos": "noun",
-  "frequency": 1014,
+  "frequency": 1104,
   "meanings": [
    {
     "english": "cheese",
@@ -7264,7 +7961,7 @@
  {
   "word": "Katze",
   "pos": "noun",
-  "frequency": 1015,
+  "frequency": 1105,
   "meanings": [
    {
     "english": "cat",
@@ -7288,9 +7985,37 @@
   "notes": "Plural: die Katzen"
  },
  {
+  "word": "Kauffrau",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1106,
+  "meanings": [
+   {
+    "english": "businesswoman",
+    "examples": [
+     {
+      "de": "Sie ist Kauffrau und arbeitet in einem Büro.",
+      "en": "She is a businesswoman and works in an office.",
+      "glosses": {
+       "Sie": "she/they/you (formal)",
+       "ist": "is",
+       "Kauffrau": "businesswoman",
+       "und": "and",
+       "arbeitet": "works",
+       "in": "in",
+       "einem": "a",
+       "Büro": "office"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Kauffrauen"
+ },
+ {
   "word": "Kaufhaus",
   "pos": "noun",
-  "frequency": 1016,
+  "frequency": 1107,
   "meanings": [
    {
     "english": "department store",
@@ -7316,9 +8041,34 @@
   "notes": "Plural: die Kaufhäuser"
  },
  {
+  "word": "Kaufmann",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1108,
+  "meanings": [
+   {
+    "english": "businessman, merchant",
+    "examples": [
+     {
+      "de": "Er ist von Beruf Kaufmann.",
+      "en": "He is a businessman by profession.",
+      "glosses": {
+       "Er": "he",
+       "ist": "is",
+       "von": "from",
+       "Beruf": "profession",
+       "Kaufmann": "businessman"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Kaufleute"
+ },
+ {
   "word": "kein-",
   "pos": "pronoun",
-  "frequency": 1017,
+  "frequency": 1109,
   "meanings": [
    {
     "english": "no, not any",
@@ -7341,7 +8091,7 @@
  {
   "word": "Keller",
   "pos": "noun",
-  "frequency": 1018,
+  "frequency": 1110,
   "meanings": [
    {
     "english": "cellar, basement",
@@ -7366,9 +8116,88 @@
   "notes": "Plural: die Keller"
  },
  {
+  "word": "Kellner",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1111,
+  "meanings": [
+   {
+    "english": "waiter",
+    "examples": [
+     {
+      "de": "Der Kellner bringt uns die Speisekarte.",
+      "en": "The waiter brings us the menu.",
+      "glosses": {
+       "Der": "the",
+       "Kellner": "waiter",
+       "bringt": "brings",
+       "uns": "us/each other",
+       "die": "the",
+       "Speisekarte": "menu"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Kellner"
+ },
+ {
+  "word": "Kellnerin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1112,
+  "meanings": [
+   {
+    "english": "waitress",
+    "examples": [
+     {
+      "de": "Die Kellnerin bringt uns die Rechnung.",
+      "en": "The waitress brings us the bill.",
+      "glosses": {
+       "Die": "the",
+       "Kellnerin": "waitress",
+       "bringt": "brings",
+       "uns": "us/each other",
+       "die": "the",
+       "Rechnung": "bill"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Kellnerinnen"
+ },
+ {
+  "word": "Kenntnis",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1113,
+  "meanings": [
+   {
+    "english": "knowledge",
+    "examples": [
+     {
+      "de": "Für diese Stelle braucht man gute Englischkenntnisse.",
+      "en": "For this job you need good knowledge of English.",
+      "glosses": {
+       "Für": "for",
+       "diese": "this",
+       "Stelle": "job",
+       "braucht": "needs",
+       "man": "one",
+       "gute": "good",
+       "Englischkenntnisse": "knowledge of English"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Kenntnisse"
+ },
+ {
   "word": "Kenntnisse",
   "pos": "noun",
-  "frequency": 1019,
+  "frequency": 1114,
   "meanings": [
    {
     "english": "knowledge, skills",
@@ -7392,7 +8221,7 @@
  {
   "word": "Kette",
   "pos": "noun",
-  "frequency": 1020,
+  "frequency": 1115,
   "meanings": [
    {
     "english": "necklace, chain",
@@ -7420,7 +8249,7 @@
  {
   "word": "Kirche",
   "pos": "noun",
-  "frequency": 1021,
+  "frequency": 1116,
   "meanings": [
    {
     "english": "church",
@@ -7446,7 +8275,7 @@
  {
   "word": "klappen",
   "pos": "verb",
-  "frequency": 1022,
+  "frequency": 1117,
   "meanings": [
    {
     "english": "to work out, to succeed",
@@ -7488,9 +8317,34 @@
   "notes": "klappt, hat geklappt"
  },
  {
+  "word": "Klassenfahrt",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1118,
+  "meanings": [
+   {
+    "english": "school trip",
+    "examples": [
+     {
+      "de": "Unsere Klassenfahrt geht nach Berlin.",
+      "en": "Our school trip goes to Berlin.",
+      "glosses": {
+       "Unsere": "our",
+       "Klassenfahrt": "school trip",
+       "geht": "goes",
+       "nach": "to",
+       "Berlin": "Berlin"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Klassenfahrten"
+ },
+ {
   "word": "Klavier",
   "pos": "noun",
-  "frequency": 1023,
+  "frequency": 1119,
   "meanings": [
    {
     "english": "piano",
@@ -7516,7 +8370,7 @@
  {
   "word": "Kleid",
   "pos": "noun",
-  "frequency": 1024,
+  "frequency": 1120,
   "meanings": [
    {
     "english": "dress",
@@ -7542,7 +8396,7 @@
  {
   "word": "klug",
   "pos": "adjective",
-  "frequency": 1025,
+  "frequency": 1121,
   "meanings": [
    {
     "english": "clever, smart",
@@ -7563,9 +8417,67 @@
   ]
  },
  {
+  "word": "Koch",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1122,
+  "meanings": [
+   {
+    "english": "cook, chef",
+    "examples": [
+     {
+      "de": "Der Koch bereitet das Essen in der Küche zu.",
+      "en": "The cook is preparing the meal in the kitchen.",
+      "glosses": {
+       "Der": "the",
+       "Koch": "cook",
+       "bereitet": "prepares",
+       "das": "that/the",
+       "Essen": "eat",
+       "in": "in",
+       "der": "the",
+       "Küche": "kitchen",
+       "zu": "to"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Köche"
+ },
+ {
+  "word": "Köchin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1123,
+  "meanings": [
+   {
+    "english": "cook (female)",
+    "examples": [
+     {
+      "de": "Die Köchin bereitet das Essen für die Gäste vor.",
+      "en": "The cook prepares the food for the guests.",
+      "glosses": {
+       "Die": "the",
+       "Köchin": "cook",
+       "bereitet": "prepares",
+       "das": "that/the",
+       "Essen": "eat",
+       "für": "for",
+       "die": "the",
+       "Gäste": "guests",
+       "vor": "ago"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Köchinnen"
+ },
+ {
   "word": "komisch",
   "pos": "adjective",
-  "frequency": 1026,
+  "frequency": 1124,
   "meanings": [
    {
     "english": "funny, strange",
@@ -7588,7 +8500,7 @@
  {
   "word": "Kontakt",
   "pos": "noun",
-  "frequency": 1027,
+  "frequency": 1125,
   "meanings": [
    {
     "english": "contact",
@@ -7627,7 +8539,7 @@
  {
   "word": "kontrollieren",
   "pos": "verb",
-  "frequency": 1028,
+  "frequency": 1126,
   "meanings": [
    {
     "english": "to check, to inspect",
@@ -7671,7 +8583,7 @@
  {
   "word": "Konzert",
   "pos": "noun",
-  "frequency": 1029,
+  "frequency": 1127,
   "meanings": [
    {
     "english": "concert",
@@ -7700,7 +8612,7 @@
  {
   "word": "Körper",
   "pos": "noun",
-  "frequency": 1030,
+  "frequency": 1128,
   "meanings": [
    {
     "english": "body",
@@ -7730,7 +8642,7 @@
  {
   "word": "Kosmetik",
   "pos": "noun",
-  "frequency": 1031,
+  "frequency": 1129,
   "meanings": [
    {
     "english": "cosmetics",
@@ -7755,7 +8667,7 @@
  {
   "word": "kostenlos",
   "pos": "adjective",
-  "frequency": 1032,
+  "frequency": 1130,
   "meanings": [
    {
     "english": "free of charge",
@@ -7780,7 +8692,7 @@
  {
   "word": "Krankenhaus",
   "pos": "noun",
-  "frequency": 1033,
+  "frequency": 1131,
   "meanings": [
    {
     "english": "hospital",
@@ -7805,7 +8717,7 @@
  {
   "word": "Krankenkasse",
   "pos": "noun",
-  "frequency": 1034,
+  "frequency": 1132,
   "meanings": [
    {
     "english": "health insurance (company)",
@@ -7828,9 +8740,59 @@
   "notes": "Plural: die Krankenkassen"
  },
  {
+  "word": "Krankenpfleger",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1133,
+  "meanings": [
+   {
+    "english": "nurse (male)",
+    "examples": [
+     {
+      "de": "Der Krankenpfleger hilft dem Patienten.",
+      "en": "The nurse helps the patient.",
+      "glosses": {
+       "Der": "the",
+       "Krankenpfleger": "nurse",
+       "hilft": "helps",
+       "dem": "the",
+       "Patienten": "patient"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Krankenpfleger"
+ },
+ {
+  "word": "Krankenschwester",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1134,
+  "meanings": [
+   {
+    "english": "nurse (female)",
+    "examples": [
+     {
+      "de": "Die Krankenschwester misst meine Temperatur.",
+      "en": "The nurse takes my temperature.",
+      "glosses": {
+       "Die": "the",
+       "Krankenschwester": "nurse",
+       "misst": "measures",
+       "meine": "my",
+       "Temperatur": "temperature"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Krankenschwestern"
+ },
+ {
   "word": "Krankheit",
   "pos": "noun",
-  "frequency": 1035,
+  "frequency": 1135,
   "meanings": [
    {
     "english": "illness, disease",
@@ -7855,7 +8817,7 @@
  {
   "word": "Kredit",
   "pos": "noun",
-  "frequency": 1036,
+  "frequency": 1136,
   "meanings": [
    {
     "english": "loan, credit",
@@ -7882,7 +8844,7 @@
  {
   "word": "Kreuzung",
   "pos": "noun",
-  "frequency": 1037,
+  "frequency": 1137,
   "meanings": [
    {
     "english": "intersection, crossroads",
@@ -7909,7 +8871,7 @@
  {
   "word": "Krimi",
   "pos": "noun",
-  "frequency": 1038,
+  "frequency": 1138,
   "meanings": [
    {
     "english": "crime novel, detective story",
@@ -7934,7 +8896,7 @@
  {
   "word": "kühl",
   "pos": "adjective",
-  "frequency": 1039,
+  "frequency": 1139,
   "meanings": [
    {
     "english": "cool",
@@ -7956,7 +8918,7 @@
  {
   "word": "Kultur",
   "pos": "noun",
-  "frequency": 1040,
+  "frequency": 1140,
   "meanings": [
    {
     "english": "culture",
@@ -7984,7 +8946,7 @@
  {
   "word": "kündigen",
   "pos": "verb",
-  "frequency": 1041,
+  "frequency": 1141,
   "meanings": [
    {
     "english": "to quit, to give notice",
@@ -8013,7 +8975,7 @@
  {
   "word": "Kunst",
   "pos": "noun",
-  "frequency": 1042,
+  "frequency": 1142,
   "meanings": [
    {
     "english": "art",
@@ -8037,9 +8999,63 @@
   "notes": "Plural: die Künste"
  },
  {
+  "word": "Künstler",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1143,
+  "meanings": [
+   {
+    "english": "artist",
+    "examples": [
+     {
+      "de": "Der Künstler stellt seine Bilder in der Galerie aus.",
+      "en": "The artist is exhibiting his pictures in the gallery.",
+      "glosses": {
+       "Der": "the",
+       "Künstler": "artist",
+       "stellt": "puts",
+       "seine": "his",
+       "Bilder": "paintings",
+       "in": "in",
+       "der": "the",
+       "Galerie": "gallery",
+       "aus": "from"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Künstler"
+ },
+ {
+  "word": "Künstlerin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1144,
+  "meanings": [
+   {
+    "english": "artist (female)",
+    "examples": [
+     {
+      "de": "Die Künstlerin malt große Bilder.",
+      "en": "The artist paints large pictures.",
+      "glosses": {
+       "Die": "the",
+       "Künstlerin": "artist",
+       "malt": "paints",
+       "große": "big",
+       "Bilder": "paintings"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Künstlerinnen"
+ },
+ {
   "word": "Lampe",
   "pos": "noun",
-  "frequency": 1043,
+  "frequency": 1145,
   "meanings": [
    {
     "english": "lamp",
@@ -8068,7 +9084,7 @@
  {
   "word": "Landschaft",
   "pos": "noun",
-  "frequency": 1044,
+  "frequency": 1146,
   "meanings": [
    {
     "english": "landscape, scenery",
@@ -8093,7 +9109,7 @@
  {
   "word": "lang / lange",
   "pos": "adjective",
-  "frequency": 1045,
+  "frequency": 1147,
   "meanings": [
    {
     "english": "long",
@@ -8121,7 +9137,7 @@
  {
   "word": "langweilig",
   "pos": "adjective",
-  "frequency": 1046,
+  "frequency": 1148,
   "meanings": [
    {
     "english": "boring",
@@ -8144,7 +9160,7 @@
  {
   "word": "Laptop",
   "pos": "noun",
-  "frequency": 1047,
+  "frequency": 1149,
   "meanings": [
    {
     "english": "laptop",
@@ -8167,9 +9183,36 @@
   "notes": "Plural: die Laptops"
  },
  {
+  "word": "Laptop",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1150,
+  "meanings": [
+   {
+    "english": "laptop",
+    "examples": [
+     {
+      "de": "Ich nehme meinen Laptop mit ins Café.",
+      "en": "I'm taking my laptop with me to the café.",
+      "glosses": {
+       "Ich": "I",
+       "nehme": "take",
+       "meinen": "my",
+       "Laptop": "laptop",
+       "mit": "with",
+       "ins": "to the",
+       "Café": "café"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Laptops"
+ },
+ {
   "word": "lassen",
   "pos": "verb",
-  "frequency": 1048,
+  "frequency": 1151,
   "meanings": [
    {
     "english": "to let, to leave",
@@ -8203,9 +9246,37 @@
   "notes": "lässt, hat gelassen"
  },
  {
+  "word": "Latein",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1152,
+  "meanings": [
+   {
+    "english": "Latin",
+    "examples": [
+     {
+      "de": "Viele Wörter im Deutschen kommen aus dem Latein.",
+      "en": "Many words in German come from Latin.",
+      "glosses": {
+       "Viele": "many",
+       "Wörter": "words",
+       "im": "in the",
+       "Deutschen": "German",
+       "kommen": "come",
+       "aus": "from",
+       "dem": "the",
+       "Latein": "Latin"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "leer",
   "pos": "adjective",
-  "frequency": 1049,
+  "frequency": 1153,
   "meanings": [
    {
     "english": "empty",
@@ -8228,7 +9299,7 @@
  {
   "word": "leidtun",
   "pos": "verb",
-  "frequency": 1050,
+  "frequency": 1154,
   "meanings": [
    {
     "english": "to be sorry",
@@ -8256,7 +9327,7 @@
  {
   "word": "leihen",
   "pos": "verb",
-  "frequency": 1051,
+  "frequency": 1155,
   "meanings": [
    {
     "english": "to lend, to borrow",
@@ -8281,7 +9352,7 @@
  {
   "word": "liefern",
   "pos": "verb",
-  "frequency": 1052,
+  "frequency": 1156,
   "meanings": [
    {
     "english": "to deliver",
@@ -8307,7 +9378,7 @@
  {
   "word": "lila",
   "pos": "adjective",
-  "frequency": 1053,
+  "frequency": 1157,
   "meanings": [
    {
     "english": "purple",
@@ -8330,7 +9401,7 @@
  {
   "word": "Link",
   "pos": "noun",
-  "frequency": 1054,
+  "frequency": 1158,
   "meanings": [
    {
     "english": "link",
@@ -8357,7 +9428,7 @@
  {
   "word": "Löffel",
   "pos": "noun",
-  "frequency": 1055,
+  "frequency": 1159,
   "meanings": [
    {
     "english": "spoon",
@@ -8383,7 +9454,7 @@
  {
   "word": "Lüge",
   "pos": "noun",
-  "frequency": 1056,
+  "frequency": 1160,
   "meanings": [
    {
     "english": "lie",
@@ -8409,7 +9480,7 @@
  {
   "word": "lügen",
   "pos": "verb",
-  "frequency": 1057,
+  "frequency": 1161,
   "meanings": [
    {
     "english": "to lie, to tell a lie",
@@ -8436,7 +9507,7 @@
  {
   "word": "Lust",
   "pos": "noun",
-  "frequency": 1058,
+  "frequency": 1162,
   "meanings": [
    {
     "english": "desire, feeling like (doing something)",
@@ -8478,7 +9549,7 @@
  {
   "word": "Magen",
   "pos": "noun",
-  "frequency": 1059,
+  "frequency": 1163,
   "meanings": [
    {
     "english": "stomach",
@@ -8502,7 +9573,7 @@
  {
   "word": "Mahlzeit",
   "pos": "interjection",
-  "frequency": 1060,
+  "frequency": 1164,
   "meanings": [
    {
     "english": "enjoy your meal, hello (at lunchtime)",
@@ -8536,7 +9607,7 @@
  {
   "word": "Mailbox",
   "pos": "noun",
-  "frequency": 1061,
+  "frequency": 1165,
   "meanings": [
    {
     "english": "voicemail, mailbox",
@@ -8563,7 +9634,7 @@
  {
   "word": "Mal",
   "pos": "noun",
-  "frequency": 1062,
+  "frequency": 1166,
   "meanings": [
    {
     "english": "time, occasion",
@@ -8604,7 +9675,7 @@
  {
   "word": "mal",
   "pos": "adverb",
-  "frequency": 1063,
+  "frequency": 1167,
   "meanings": [
    {
     "english": "once, just (for a moment)",
@@ -8637,7 +9708,7 @@
  {
   "word": "malen",
   "pos": "verb",
-  "frequency": 1064,
+  "frequency": 1168,
   "meanings": [
    {
     "english": "to paint, to draw",
@@ -8661,7 +9732,7 @@
  {
   "word": "manch-",
   "pos": "pronoun",
-  "frequency": 1065,
+  "frequency": 1169,
   "meanings": [
    {
     "english": "some, many a",
@@ -8683,7 +9754,7 @@
  {
   "word": "manchmal",
   "pos": "adverb",
-  "frequency": 1066,
+  "frequency": 1170,
   "meanings": [
    {
     "english": "sometimes",
@@ -8706,7 +9777,7 @@
  {
   "word": "Mannschaft",
   "pos": "noun",
-  "frequency": 1067,
+  "frequency": 1171,
   "meanings": [
    {
     "english": "team",
@@ -8730,7 +9801,7 @@
  {
   "word": "Mantel",
   "pos": "noun",
-  "frequency": 1068,
+  "frequency": 1172,
   "meanings": [
    {
     "english": "coat",
@@ -8757,7 +9828,7 @@
  {
   "word": "Markt",
   "pos": "noun",
-  "frequency": 1069,
+  "frequency": 1173,
   "meanings": [
    {
     "english": "market",
@@ -8791,9 +9862,61 @@
   "notes": "Plural: die Märkte"
  },
  {
+  "word": "Mathematik",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1174,
+  "meanings": [
+   {
+    "english": "mathematics",
+    "examples": [
+     {
+      "de": "Mathematik war in der Schule mein Lieblingsfach.",
+      "en": "Mathematics was my favourite subject at school.",
+      "glosses": {
+       "Mathematik": "mathematics",
+       "war": "was",
+       "in": "in",
+       "der": "the",
+       "Schule": "school",
+       "mein": "my",
+       "Lieblingsfach": "favourite subject"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Mechaniker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1175,
+  "meanings": [
+   {
+    "english": "mechanic",
+    "examples": [
+     {
+      "de": "Der Mechaniker repariert mein Auto.",
+      "en": "The mechanic is repairing my car.",
+      "glosses": {
+       "Der": "the",
+       "Mechaniker": "mechanic",
+       "repariert": "repaired",
+       "mein": "my",
+       "Auto": "car"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Mechaniker"
+ },
+ {
   "word": "Medikament",
   "pos": "noun",
-  "frequency": 1070,
+  "frequency": 1176,
   "meanings": [
    {
     "english": "medication, medicine",
@@ -8820,7 +9943,7 @@
  {
   "word": "mein-",
   "pos": "pronoun",
-  "frequency": 1071,
+  "frequency": 1177,
   "meanings": [
    {
     "english": "my",
@@ -8843,7 +9966,7 @@
  {
   "word": "meinen",
   "pos": "verb",
-  "frequency": 1072,
+  "frequency": 1178,
   "meanings": [
    {
     "english": "to mean",
@@ -8888,7 +10011,7 @@
  {
   "word": "Meinung",
   "pos": "noun",
-  "frequency": 1073,
+  "frequency": 1179,
   "meanings": [
    {
     "english": "opinion",
@@ -8925,7 +10048,7 @@
  {
   "word": "meist- / meistens",
   "pos": "adverb",
-  "frequency": 1074,
+  "frequency": 1180,
   "meanings": [
    {
     "english": "most, mostly",
@@ -8953,7 +10076,7 @@
  {
   "word": "Menge",
   "pos": "noun",
-  "frequency": 1075,
+  "frequency": 1181,
   "meanings": [
    {
     "english": "amount, lot",
@@ -8993,7 +10116,7 @@
  {
   "word": "merken",
   "pos": "verb",
-  "frequency": 1076,
+  "frequency": 1182,
   "meanings": [
    {
     "english": "to remember, to memorize",
@@ -9035,7 +10158,7 @@
  {
   "word": "Messe",
   "pos": "noun",
-  "frequency": 1077,
+  "frequency": 1183,
   "meanings": [
    {
     "english": "trade fair",
@@ -9062,7 +10185,7 @@
  {
   "word": "Messer",
   "pos": "noun",
-  "frequency": 1078,
+  "frequency": 1184,
   "meanings": [
    {
     "english": "knife",
@@ -9087,7 +10210,7 @@
  {
   "word": "mindestens",
   "pos": "adverb",
-  "frequency": 1079,
+  "frequency": 1185,
   "meanings": [
    {
     "english": "at least",
@@ -9110,7 +10233,7 @@
  {
   "word": "Mineralwasser",
   "pos": "noun",
-  "frequency": 1080,
+  "frequency": 1186,
   "meanings": [
    {
     "english": "mineral water",
@@ -9133,7 +10256,7 @@
  {
   "word": "Mitarbeiter",
   "pos": "noun",
-  "frequency": 1081,
+  "frequency": 1187,
   "meanings": [
    {
     "english": "employee, colleague",
@@ -9158,7 +10281,7 @@
  {
   "word": "mitspielen",
   "pos": "verb",
-  "frequency": 1082,
+  "frequency": 1188,
   "meanings": [
    {
     "english": "to join in, to play along",
@@ -9182,7 +10305,7 @@
  {
   "word": "Mittagessen",
   "pos": "noun",
-  "frequency": 1083,
+  "frequency": 1189,
   "meanings": [
    {
     "english": "lunch",
@@ -9207,7 +10330,7 @@
  {
   "word": "Mittel",
   "pos": "noun",
-  "frequency": 1084,
+  "frequency": 1190,
   "meanings": [
    {
     "english": "remedy, means",
@@ -9231,9 +10354,35 @@
   "notes": "Plural: die Mittel"
  },
  {
+  "word": "Mitternacht",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1191,
+  "meanings": [
+   {
+    "english": "midnight",
+    "examples": [
+     {
+      "de": "Um Mitternacht ist das Konzert vorbei.",
+      "en": "At midnight the concert is over.",
+      "glosses": {
+       "Um": "at",
+       "Mitternacht": "midnight",
+       "ist": "is",
+       "das": "that/the",
+       "Konzert": "concert",
+       "vorbei": "over"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Mobiltelefon",
   "pos": "noun",
-  "frequency": 1085,
+  "frequency": 1192,
   "meanings": [
    {
     "english": "mobile phone",
@@ -9261,7 +10410,7 @@
  {
   "word": "Mode",
   "pos": "noun",
-  "frequency": 1086,
+  "frequency": 1193,
   "meanings": [
    {
     "english": "fashion",
@@ -9285,9 +10434,35 @@
   "notes": "Plural: die Moden"
  },
  {
+  "word": "Model",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1194,
+  "meanings": [
+   {
+    "english": "model (fashion)",
+    "examples": [
+     {
+      "de": "Das Model läuft über den Laufsteg.",
+      "en": "The model walks down the catwalk.",
+      "glosses": {
+       "Das": "that/the",
+       "Model": "model",
+       "läuft": "runs",
+       "über": "about",
+       "den": "the",
+       "Laufsteg": "catwalk"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Models"
+ },
+ {
   "word": "modern",
   "pos": "adjective",
-  "frequency": 1087,
+  "frequency": 1195,
   "meanings": [
    {
     "english": "modern",
@@ -9310,7 +10485,7 @@
  {
   "word": "Motor",
   "pos": "noun",
-  "frequency": 1088,
+  "frequency": 1196,
   "meanings": [
    {
     "english": "engine, motor",
@@ -9339,7 +10514,7 @@
  {
   "word": "Motorroller",
   "pos": "noun",
-  "frequency": 1089,
+  "frequency": 1197,
   "meanings": [
    {
     "english": "scooter, moped",
@@ -9366,7 +10541,7 @@
  {
   "word": "Müll",
   "pos": "noun",
-  "frequency": 1090,
+  "frequency": 1198,
   "meanings": [
    {
     "english": "garbage, trash",
@@ -9391,7 +10566,7 @@
  {
   "word": "Museum",
   "pos": "noun",
-  "frequency": 1091,
+  "frequency": 1199,
   "meanings": [
    {
     "english": "museum",
@@ -9418,7 +10593,7 @@
  {
   "word": "Musik",
   "pos": "noun",
-  "frequency": 1092,
+  "frequency": 1200,
   "meanings": [
    {
     "english": "music",
@@ -9440,9 +10615,36 @@
   "article": "die"
  },
  {
+  "word": "Musiker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1201,
+  "meanings": [
+   {
+    "english": "musician",
+    "examples": [
+     {
+      "de": "Der Musiker spielt jeden Abend im Café.",
+      "en": "The musician plays in the café every evening.",
+      "glosses": {
+       "Der": "the",
+       "Musiker": "musician",
+       "spielt": "plays",
+       "jeden": "every",
+       "Abend": "evening",
+       "im": "in the",
+       "Café": "café"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Musiker"
+ },
+ {
   "word": "Mütze",
   "pos": "noun",
-  "frequency": 1093,
+  "frequency": 1202,
   "meanings": [
    {
     "english": "cap, hat",
@@ -9466,7 +10668,7 @@
  {
   "word": "Nachbar",
   "pos": "noun",
-  "frequency": 1094,
+  "frequency": 1203,
   "meanings": [
    {
     "english": "neighbor",
@@ -9494,9 +10696,36 @@
   "notes": "Plural: die Nachbarn"
  },
  {
+  "word": "Nachbarin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1204,
+  "meanings": [
+   {
+    "english": "neighbour (female)",
+    "examples": [
+     {
+      "de": "Meine Nachbarin gießt im Urlaub meine Blumen.",
+      "en": "My neighbour waters my flowers when I'm on holiday.",
+      "glosses": {
+       "Meine": "my",
+       "Nachbarin": "neighbour",
+       "gießt": "waters",
+       "im": "in the",
+       "Urlaub": "vacation",
+       "meine": "my",
+       "Blumen": "flowers"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Nachbarinnen"
+ },
+ {
   "word": "Nachricht",
   "pos": "noun",
-  "frequency": 1095,
+  "frequency": 1205,
   "meanings": [
    {
     "english": "news",
@@ -9541,7 +10770,7 @@
  {
   "word": "Nähe",
   "pos": "noun",
-  "frequency": 1096,
+  "frequency": 1206,
   "meanings": [
    {
     "english": "vicinity, proximity",
@@ -9568,7 +10797,7 @@
  {
   "word": "nass",
   "pos": "adjective",
-  "frequency": 1097,
+  "frequency": 1207,
   "meanings": [
    {
     "english": "wet",
@@ -9594,7 +10823,7 @@
  {
   "word": "Natur",
   "pos": "noun",
-  "frequency": 1098,
+  "frequency": 1208,
   "meanings": [
    {
     "english": "nature",
@@ -9620,7 +10849,7 @@
  {
   "word": "natürlich",
   "pos": "adverb",
-  "frequency": 1099,
+  "frequency": 1209,
   "meanings": [
    {
     "english": "of course, naturally",
@@ -9642,7 +10871,7 @@
  {
   "word": "natürlich",
   "pos": "adjective",
-  "frequency": 1100,
+  "frequency": 1210,
   "meanings": [
    {
     "english": "natural",
@@ -9665,7 +10894,7 @@
  {
   "word": "neben",
   "pos": "preposition",
-  "frequency": 1101,
+  "frequency": 1211,
   "meanings": [
    {
     "english": "next to, beside",
@@ -9690,7 +10919,7 @@
  {
   "word": "nebenan",
   "pos": "adverb",
-  "frequency": 1102,
+  "frequency": 1212,
   "meanings": [
    {
     "english": "next door",
@@ -9714,7 +10943,7 @@
  {
   "word": "neblig",
   "pos": "adjective",
-  "frequency": 1103,
+  "frequency": 1213,
   "meanings": [
    {
     "english": "foggy",
@@ -9737,7 +10966,7 @@
  {
   "word": "nennen",
   "pos": "verb",
-  "frequency": 1104,
+  "frequency": 1214,
   "meanings": [
    {
     "english": "to call, to name",
@@ -9765,7 +10994,7 @@
  {
   "word": "nervös",
   "pos": "adjective",
-  "frequency": 1105,
+  "frequency": 1215,
   "meanings": [
    {
     "english": "nervous",
@@ -9790,7 +11019,7 @@
  {
   "word": "nett",
   "pos": "adjective",
-  "frequency": 1106,
+  "frequency": 1216,
   "meanings": [
    {
     "english": "nice, kind",
@@ -9814,9 +11043,35 @@
   ]
  },
  {
+  "word": "Neujahr",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1217,
+  "meanings": [
+   {
+    "english": "New Year",
+    "examples": [
+     {
+      "de": "An Neujahr bleiben wir zu Hause.",
+      "en": "On New Year's Day we stay at home.",
+      "glosses": {
+       "An": "at",
+       "Neujahr": "New Year",
+       "bleiben": "stay",
+       "wir": "we",
+       "zu": "to",
+       "Hause": "home"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "niemand",
   "pos": "pronoun",
-  "frequency": 1107,
+  "frequency": 1218,
   "meanings": [
    {
     "english": "nobody, no one",
@@ -9837,7 +11092,7 @@
  {
   "word": "nirgends",
   "pos": "adverb",
-  "frequency": 1108,
+  "frequency": 1219,
   "meanings": [
    {
     "english": "nowhere",
@@ -9860,7 +11115,7 @@
  {
   "word": "Note",
   "pos": "noun",
-  "frequency": 1109,
+  "frequency": 1220,
   "meanings": [
    {
     "english": "grade, mark",
@@ -9888,7 +11143,7 @@
  {
   "word": "notieren",
   "pos": "verb",
-  "frequency": 1110,
+  "frequency": 1221,
   "meanings": [
    {
     "english": "to note down",
@@ -9913,7 +11168,7 @@
  {
   "word": "Notiz",
   "pos": "noun",
-  "frequency": 1111,
+  "frequency": 1222,
   "meanings": [
    {
     "english": "note",
@@ -9938,7 +11193,7 @@
  {
   "word": "notwendig",
   "pos": "adjective",
-  "frequency": 1112,
+  "frequency": 1223,
   "meanings": [
    {
     "english": "necessary",
@@ -9961,7 +11216,7 @@
  {
   "word": "Nudel",
   "pos": "noun",
-  "frequency": 1113,
+  "frequency": 1224,
   "meanings": [
    {
     "english": "noodle, pasta",
@@ -9987,7 +11242,7 @@
  {
   "word": "nützlich",
   "pos": "adjective",
-  "frequency": 1114,
+  "frequency": 1225,
   "meanings": [
    {
     "english": "useful",
@@ -10013,7 +11268,7 @@
  {
   "word": "offen",
   "pos": "adjective",
-  "frequency": 1115,
+  "frequency": 1226,
   "meanings": [
    {
     "english": "open",
@@ -10038,7 +11293,7 @@
  {
   "word": "oh",
   "pos": "interjection",
-  "frequency": 1116,
+  "frequency": 1227,
   "meanings": [
    {
     "english": "oh",
@@ -10073,7 +11328,7 @@
  {
   "word": "Ohr",
   "pos": "noun",
-  "frequency": 1117,
+  "frequency": 1228,
   "meanings": [
    {
     "english": "ear",
@@ -10096,7 +11351,7 @@
  {
   "word": "oje",
   "pos": "interjection",
-  "frequency": 1118,
+  "frequency": 1229,
   "meanings": [
    {
     "english": "oh dear",
@@ -10130,7 +11385,7 @@
  {
   "word": "Öl",
   "pos": "noun",
-  "frequency": 1119,
+  "frequency": 1230,
   "meanings": [
    {
     "english": "oil",
@@ -10154,9 +11409,35 @@
   "notes": "Plural: die Öle"
  },
  {
+  "word": "Onkel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1231,
+  "meanings": [
+   {
+    "english": "uncle",
+    "examples": [
+     {
+      "de": "Mein Onkel besucht uns im Sommer.",
+      "en": "My uncle is visiting us in summer.",
+      "glosses": {
+       "Mein": "my",
+       "Onkel": "uncle",
+       "besucht": "visits",
+       "uns": "us/each other",
+       "im": "in the",
+       "Sommer": "summer"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Onkel"
+ },
+ {
   "word": "online",
   "pos": "adjective",
-  "frequency": 1120,
+  "frequency": 1232,
   "meanings": [
    {
     "english": "online",
@@ -10179,7 +11460,7 @@
  {
   "word": "online",
   "pos": "adverb",
-  "frequency": 1121,
+  "frequency": 1233,
   "meanings": [
    {
     "english": "online",
@@ -10210,7 +11491,7 @@
  {
   "word": "Orange",
   "pos": "noun",
-  "frequency": 1122,
+  "frequency": 1234,
   "meanings": [
    {
     "english": "orange",
@@ -10234,7 +11515,7 @@
  {
   "word": "orange",
   "pos": "adjective",
-  "frequency": 1123,
+  "frequency": 1235,
   "meanings": [
    {
     "english": "orange",
@@ -10257,7 +11538,7 @@
  {
   "word": "organisieren",
   "pos": "verb",
-  "frequency": 1124,
+  "frequency": 1236,
   "meanings": [
    {
     "english": "to organize",
@@ -10279,9 +11560,35 @@
   "notes": "organisiert, hat organisiert"
  },
  {
+  "word": "Ostern",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1237,
+  "meanings": [
+   {
+    "english": "Easter",
+    "examples": [
+     {
+      "de": "Zu Ostern besuchen wir meine Großeltern.",
+      "en": "At Easter we visit my grandparents.",
+      "glosses": {
+       "Zu": "to",
+       "Ostern": "Easter",
+       "besuchen": "visit",
+       "wir": "we",
+       "meine": "my",
+       "Großeltern": "grandparents"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Paar",
   "pos": "noun",
-  "frequency": 1125,
+  "frequency": 1238,
   "meanings": [
    {
     "english": "couple, pair",
@@ -10318,7 +11625,7 @@
  {
   "word": "packen",
   "pos": "verb",
-  "frequency": 1126,
+  "frequency": 1239,
   "meanings": [
    {
     "english": "to pack",
@@ -10343,7 +11650,7 @@
  {
   "word": "Paket",
   "pos": "noun",
-  "frequency": 1127,
+  "frequency": 1240,
   "meanings": [
    {
     "english": "parcel, package",
@@ -10370,7 +11677,7 @@
  {
   "word": "Parfüm",
   "pos": "noun",
-  "frequency": 1128,
+  "frequency": 1241,
   "meanings": [
    {
     "english": "perfume",
@@ -10399,7 +11706,7 @@
  {
   "word": "Park",
   "pos": "noun",
-  "frequency": 1129,
+  "frequency": 1242,
   "meanings": [
    {
     "english": "park",
@@ -10425,7 +11732,7 @@
  {
   "word": "parken",
   "pos": "verb",
-  "frequency": 1130,
+  "frequency": 1243,
   "meanings": [
    {
     "english": "to park",
@@ -10448,7 +11755,7 @@
  {
   "word": "passen",
   "pos": "verb",
-  "frequency": 1131,
+  "frequency": 1244,
   "meanings": [
    {
     "english": "to fit, to suit",
@@ -10483,7 +11790,7 @@
  {
   "word": "passieren",
   "pos": "verb",
-  "frequency": 1132,
+  "frequency": 1245,
   "meanings": [
    {
     "english": "to happen",
@@ -10508,7 +11815,7 @@
  {
   "word": "Passwort",
   "pos": "noun",
-  "frequency": 1133,
+  "frequency": 1246,
   "meanings": [
    {
     "english": "password",
@@ -10533,7 +11840,7 @@
  {
   "word": "Person",
   "pos": "noun",
-  "frequency": 1134,
+  "frequency": 1247,
   "meanings": [
    {
     "english": "person",
@@ -10557,7 +11864,7 @@
  {
   "word": "Pferd",
   "pos": "noun",
-  "frequency": 1135,
+  "frequency": 1248,
   "meanings": [
    {
     "english": "horse",
@@ -10580,7 +11887,7 @@
  {
   "word": "Pflanze",
   "pos": "noun",
-  "frequency": 1136,
+  "frequency": 1249,
   "meanings": [
    {
     "english": "plant",
@@ -10606,9 +11913,34 @@
   "notes": "Plural: die Pflanzen"
  },
  {
+  "word": "Physik",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1250,
+  "meanings": [
+   {
+    "english": "physics",
+    "examples": [
+     {
+      "de": "Physik war mein schwerstes Fach.",
+      "en": "Physics was my hardest subject.",
+      "glosses": {
+       "Physik": "physics",
+       "war": "was",
+       "mein": "my",
+       "schwerstes": "hardest",
+       "Fach": "subject"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "Pizza",
   "pos": "noun",
-  "frequency": 1137,
+  "frequency": 1251,
   "meanings": [
    {
     "english": "pizza",
@@ -10632,7 +11964,7 @@
  {
   "word": "Plakat",
   "pos": "noun",
-  "frequency": 1138,
+  "frequency": 1252,
   "meanings": [
    {
     "english": "poster",
@@ -10663,7 +11995,7 @@
  {
   "word": "planen",
   "pos": "verb",
-  "frequency": 1139,
+  "frequency": 1253,
   "meanings": [
    {
     "english": "to plan",
@@ -10688,7 +12020,7 @@
  {
   "word": "plötzlich",
   "pos": "adjective",
-  "frequency": 1140,
+  "frequency": 1254,
   "meanings": [
    {
     "english": "sudden",
@@ -10709,9 +12041,35 @@
   ]
  },
  {
+  "word": "Polizist",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1255,
+  "meanings": [
+   {
+    "english": "police officer",
+    "examples": [
+     {
+      "de": "Der Polizist fragt nach meinem Ausweis.",
+      "en": "The police officer asks for my ID.",
+      "glosses": {
+       "Der": "the",
+       "Polizist": "police officer",
+       "fragt": "asks",
+       "nach": "to",
+       "meinem": "my",
+       "Ausweis": "ID"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Polizisten · n-Deklination"
+ },
+ {
   "word": "Portion",
   "pos": "noun",
-  "frequency": 1141,
+  "frequency": 1256,
   "meanings": [
    {
     "english": "portion, serving",
@@ -10737,7 +12095,7 @@
  {
   "word": "Poster",
   "pos": "noun",
-  "frequency": 1142,
+  "frequency": 1257,
   "meanings": [
    {
     "english": "poster (picture)",
@@ -10763,7 +12121,7 @@
  {
   "word": "Postkarte",
   "pos": "noun",
-  "frequency": 1143,
+  "frequency": 1258,
   "meanings": [
    {
     "english": "postcard",
@@ -10790,7 +12148,7 @@
  {
   "word": "praktisch",
   "pos": "adjective",
-  "frequency": 1144,
+  "frequency": 1259,
   "meanings": [
    {
     "english": "practical",
@@ -10813,7 +12171,7 @@
  {
   "word": "preiswert",
   "pos": "adjective",
-  "frequency": 1145,
+  "frequency": 1260,
   "meanings": [
    {
     "english": "inexpensive, good value",
@@ -10836,7 +12194,7 @@
  {
   "word": "privat",
   "pos": "adjective",
-  "frequency": 1146,
+  "frequency": 1261,
   "meanings": [
    {
     "english": "private",
@@ -10859,7 +12217,7 @@
  {
   "word": "pro",
   "pos": "preposition",
-  "frequency": 1147,
+  "frequency": 1262,
   "meanings": [
    {
     "english": "per",
@@ -10881,7 +12239,7 @@
  {
   "word": "probieren",
   "pos": "verb",
-  "frequency": 1148,
+  "frequency": 1263,
   "meanings": [
    {
     "english": "to try, to taste",
@@ -10918,7 +12276,7 @@
  {
   "word": "Produkt",
   "pos": "noun",
-  "frequency": 1149,
+  "frequency": 1264,
   "meanings": [
    {
     "english": "product",
@@ -10945,7 +12303,7 @@
  {
   "word": "Programm",
   "pos": "noun",
-  "frequency": 1150,
+  "frequency": 1265,
   "meanings": [
    {
     "english": "program",
@@ -10972,7 +12330,7 @@
  {
   "word": "Projekt",
   "pos": "noun",
-  "frequency": 1151,
+  "frequency": 1266,
   "meanings": [
    {
     "english": "project",
@@ -11001,7 +12359,7 @@
  {
   "word": "prüfen",
   "pos": "verb",
-  "frequency": 1152,
+  "frequency": 1267,
   "meanings": [
    {
     "english": "to check, to examine",
@@ -11024,9 +12382,35 @@
   "notes": "prüft, hat geprüft"
  },
  {
+  "word": "Prüfer",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1268,
+  "meanings": [
+   {
+    "english": "examiner",
+    "examples": [
+     {
+      "de": "Der Prüfer stellt mir drei Fragen.",
+      "en": "The examiner asks me three questions.",
+      "glosses": {
+       "Der": "the",
+       "Prüfer": "examiner",
+       "stellt": "puts",
+       "mir": "me",
+       "drei": "three",
+       "Fragen": "questions"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Prüfer"
+ },
+ {
   "word": "Pullover",
   "pos": "noun",
-  "frequency": 1153,
+  "frequency": 1269,
   "meanings": [
    {
     "english": "sweater, pullover",
@@ -11050,9 +12434,36 @@
   "notes": "Plural: die Pullover"
  },
  {
+  "word": "Punkt",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1270,
+  "meanings": [
+   {
+    "english": "point, dot, full stop",
+    "examples": [
+     {
+      "de": "Am Ende des Satzes steht ein Punkt.",
+      "en": "There is a full stop at the end of the sentence.",
+      "glosses": {
+       "Am": "at the",
+       "Ende": "end",
+       "des": "the",
+       "Satzes": "of the sentence",
+       "steht": "stands",
+       "ein": "a",
+       "Punkt": "point"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Punkte"
+ },
+ {
   "word": "putzen",
   "pos": "verb",
-  "frequency": 1154,
+  "frequency": 1271,
   "meanings": [
    {
     "english": "to clean",
@@ -11078,7 +12489,7 @@
  {
   "word": "Qualität",
   "pos": "noun",
-  "frequency": 1155,
+  "frequency": 1272,
   "meanings": [
    {
     "english": "quality",
@@ -11104,7 +12515,7 @@
  {
   "word": "Quiz",
   "pos": "noun",
-  "frequency": 1156,
+  "frequency": 1273,
   "meanings": [
    {
     "english": "quiz",
@@ -11129,7 +12540,7 @@
  {
   "word": "Radio",
   "pos": "noun",
-  "frequency": 1157,
+  "frequency": 1274,
   "meanings": [
    {
     "english": "radio",
@@ -11155,7 +12566,7 @@
  {
   "word": "raten",
   "pos": "verb",
-  "frequency": 1158,
+  "frequency": 1275,
   "meanings": [
    {
     "english": "to advise",
@@ -11196,7 +12607,7 @@
  {
   "word": "Rathaus",
   "pos": "noun",
-  "frequency": 1159,
+  "frequency": 1276,
   "meanings": [
    {
     "english": "town hall",
@@ -11222,7 +12633,7 @@
  {
   "word": "Rätsel",
   "pos": "noun",
-  "frequency": 1160,
+  "frequency": 1277,
   "meanings": [
    {
     "english": "puzzle, riddle",
@@ -11246,7 +12657,7 @@
  {
   "word": "rechnen",
   "pos": "verb",
-  "frequency": 1161,
+  "frequency": 1278,
   "meanings": [
    {
     "english": "to calculate, to do math",
@@ -11269,7 +12680,7 @@
  {
   "word": "reden",
   "pos": "verb",
-  "frequency": 1162,
+  "frequency": 1279,
   "meanings": [
    {
     "english": "to talk",
@@ -11296,7 +12707,7 @@
  {
   "word": "reich",
   "pos": "adjective",
-  "frequency": 1163,
+  "frequency": 1280,
   "meanings": [
    {
     "english": "rich",
@@ -11322,7 +12733,7 @@
  {
   "word": "Reifen",
   "pos": "noun",
-  "frequency": 1164,
+  "frequency": 1281,
   "meanings": [
    {
     "english": "tire",
@@ -11349,7 +12760,7 @@
  {
   "word": "Reihe",
   "pos": "noun",
-  "frequency": 1165,
+  "frequency": 1282,
   "meanings": [
    {
     "english": "row",
@@ -11392,7 +12803,7 @@
  {
   "word": "Reinigung",
   "pos": "noun",
-  "frequency": 1166,
+  "frequency": 1283,
   "meanings": [
    {
     "english": "dry cleaner's",
@@ -11419,7 +12830,7 @@
  {
   "word": "reiten",
   "pos": "verb",
-  "frequency": 1167,
+  "frequency": 1284,
   "meanings": [
    {
     "english": "to ride (a horse)",
@@ -11440,9 +12851,37 @@
   "notes": "reitet, ist/hat geritten"
  },
  {
+  "word": "Religion",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1285,
+  "meanings": [
+   {
+    "english": "religion",
+    "examples": [
+     {
+      "de": "In der Schule gibt es Unterricht in Religion.",
+      "en": "At school there are lessons in religion.",
+      "glosses": {
+       "In": "in",
+       "der": "the",
+       "Schule": "school",
+       "gibt": "gives",
+       "es": "it",
+       "Unterricht": "class",
+       "in": "in",
+       "Religion": "religion"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Religionen"
+ },
+ {
   "word": "renovieren",
   "pos": "verb",
-  "frequency": 1168,
+  "frequency": 1286,
   "meanings": [
    {
     "english": "to renovate",
@@ -11466,7 +12905,7 @@
  {
   "word": "Rentner",
   "pos": "noun",
-  "frequency": 1169,
+  "frequency": 1287,
   "meanings": [
    {
     "english": "pensioner, retiree",
@@ -11492,9 +12931,35 @@
   "notes": "Plural: die Rentner"
  },
  {
+  "word": "Rentnerin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1288,
+  "meanings": [
+   {
+    "english": "pensioner (female)",
+    "examples": [
+     {
+      "de": "Die Rentnerin geht jeden Tag spazieren.",
+      "en": "The pensioner goes for a walk every day.",
+      "glosses": {
+       "Die": "the",
+       "Rentnerin": "pensioner",
+       "geht": "goes",
+       "jeden": "every",
+       "Tag": "day",
+       "spazieren": "for a walk"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Rentnerinnen"
+ },
+ {
   "word": "reservieren",
   "pos": "verb",
-  "frequency": 1170,
+  "frequency": 1289,
   "meanings": [
    {
     "english": "to reserve",
@@ -11518,7 +12983,7 @@
  {
   "word": "Rest",
   "pos": "noun",
-  "frequency": 1171,
+  "frequency": 1290,
   "meanings": [
    {
     "english": "rest, remainder",
@@ -11547,7 +13012,7 @@
  {
   "word": "Rezept",
   "pos": "noun",
-  "frequency": 1172,
+  "frequency": 1291,
   "meanings": [
    {
     "english": "recipe",
@@ -11592,7 +13057,7 @@
  {
   "word": "Rind",
   "pos": "noun",
-  "frequency": 1173,
+  "frequency": 1292,
   "meanings": [
    {
     "english": "cattle, beef",
@@ -11618,7 +13083,7 @@
  {
   "word": "Ring",
   "pos": "noun",
-  "frequency": 1174,
+  "frequency": 1293,
   "meanings": [
    {
     "english": "ring",
@@ -11643,7 +13108,7 @@
  {
   "word": "Rock",
   "pos": "noun",
-  "frequency": 1175,
+  "frequency": 1294,
   "meanings": [
    {
     "english": "skirt",
@@ -11668,7 +13133,7 @@
  {
   "word": "romantisch",
   "pos": "adjective",
-  "frequency": 1176,
+  "frequency": 1295,
   "meanings": [
    {
     "english": "romantic",
@@ -11691,7 +13156,7 @@
  {
   "word": "rosa",
   "pos": "adjective",
-  "frequency": 1177,
+  "frequency": 1296,
   "meanings": [
    {
     "english": "pink",
@@ -11715,7 +13180,7 @@
  {
   "word": "Rose",
   "pos": "noun",
-  "frequency": 1178,
+  "frequency": 1297,
   "meanings": [
    {
     "english": "rose",
@@ -11743,7 +13208,7 @@
  {
   "word": "Rücken",
   "pos": "noun",
-  "frequency": 1179,
+  "frequency": 1298,
   "meanings": [
    {
     "english": "back (body)",
@@ -11768,7 +13233,7 @@
  {
   "word": "Rucksack",
   "pos": "noun",
-  "frequency": 1180,
+  "frequency": 1299,
   "meanings": [
    {
     "english": "backpack",
@@ -11796,7 +13261,7 @@
  {
   "word": "rufen",
   "pos": "verb",
-  "frequency": 1181,
+  "frequency": 1300,
   "meanings": [
    {
     "english": "to call, to shout",
@@ -11831,7 +13296,7 @@
  {
   "word": "Ruhe",
   "pos": "noun",
-  "frequency": 1182,
+  "frequency": 1301,
   "meanings": [
    {
     "english": "quiet, peace",
@@ -11866,7 +13331,7 @@
  {
   "word": "rund",
   "pos": "adjective",
-  "frequency": 1183,
+  "frequency": 1302,
   "meanings": [
    {
     "english": "round",
@@ -11888,7 +13353,7 @@
  {
   "word": "rund",
   "pos": "adverb",
-  "frequency": 1184,
+  "frequency": 1303,
   "meanings": [
    {
     "english": "around, approximately",
@@ -11923,7 +13388,7 @@
  {
   "word": "Rundgang",
   "pos": "noun",
-  "frequency": 1185,
+  "frequency": 1304,
   "meanings": [
    {
     "english": "tour, walk around",
@@ -11952,7 +13417,7 @@
  {
   "word": "Sache",
   "pos": "noun",
-  "frequency": 1186,
+  "frequency": 1305,
   "meanings": [
    {
     "english": "thing, belongings",
@@ -11994,7 +13459,7 @@
  {
   "word": "sammeln",
   "pos": "verb",
-  "frequency": 1187,
+  "frequency": 1306,
   "meanings": [
    {
     "english": "to collect",
@@ -12014,9 +13479,35 @@
   "notes": "sammelt, hat gesammelt"
  },
  {
+  "word": "Sänger",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1307,
+  "meanings": [
+   {
+    "english": "singer",
+    "examples": [
+     {
+      "de": "Der Sänger gibt heute ein Konzert.",
+      "en": "The singer is giving a concert today.",
+      "glosses": {
+       "Der": "the",
+       "Sänger": "singer",
+       "gibt": "gives",
+       "heute": "today",
+       "ein": "a",
+       "Konzert": "concert"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Sänger"
+ },
+ {
   "word": "sauber",
   "pos": "adjective",
-  "frequency": 1188,
+  "frequency": 1308,
   "meanings": [
    {
     "english": "clean",
@@ -12041,7 +13532,7 @@
  {
   "word": "sauer",
   "pos": "adjective",
-  "frequency": 1189,
+  "frequency": 1309,
   "meanings": [
    {
     "english": "sour",
@@ -12070,7 +13561,7 @@
  {
   "word": "schade",
   "pos": "adjective",
-  "frequency": 1190,
+  "frequency": 1310,
   "meanings": [
    {
     "english": "too bad, a pity",
@@ -12094,7 +13585,7 @@
  {
   "word": "schädlich",
   "pos": "adjective",
-  "frequency": 1191,
+  "frequency": 1311,
   "meanings": [
    {
     "english": "harmful",
@@ -12118,7 +13609,7 @@
  {
   "word": "schaffen",
   "pos": "verb",
-  "frequency": 1192,
+  "frequency": 1312,
   "meanings": [
    {
     "english": "to manage, to cope",
@@ -12154,7 +13645,7 @@
  {
   "word": "scharf",
   "pos": "adjective",
-  "frequency": 1193,
+  "frequency": 1313,
   "meanings": [
    {
     "english": "spicy, sharp",
@@ -12176,9 +13667,64 @@
   ]
  },
  {
+  "word": "Schauspieler",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1314,
+  "meanings": [
+   {
+    "english": "actor",
+    "examples": [
+     {
+      "de": "Der Schauspieler spielt im Theater die Hauptrolle.",
+      "en": "The actor plays the lead role at the theatre.",
+      "glosses": {
+       "Der": "the",
+       "Schauspieler": "actor",
+       "spielt": "plays",
+       "im": "in the",
+       "Theater": "theatre",
+       "die": "the",
+       "Hauptrolle": "lead role"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Schauspieler"
+ },
+ {
+  "word": "Schauspielerin",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1315,
+  "meanings": [
+   {
+    "english": "actress",
+    "examples": [
+     {
+      "de": "Die Schauspielerin spielt im neuen Film die Hauptrolle.",
+      "en": "The actress plays the lead role in the new film.",
+      "glosses": {
+       "Die": "the",
+       "Schauspielerin": "actress",
+       "spielt": "plays",
+       "im": "in the",
+       "neuen": "new",
+       "Film": "film",
+       "die": "the",
+       "Hauptrolle": "lead role"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Schauspielerinnen"
+ },
+ {
   "word": "schenken",
   "pos": "verb",
-  "frequency": 1194,
+  "frequency": 1316,
   "meanings": [
    {
     "english": "to give (as a gift)",
@@ -12203,7 +13749,7 @@
  {
   "word": "Schere",
   "pos": "noun",
-  "frequency": 1195,
+  "frequency": 1317,
   "meanings": [
    {
     "english": "scissors",
@@ -12228,7 +13774,7 @@
  {
   "word": "Schiff",
   "pos": "noun",
-  "frequency": 1196,
+  "frequency": 1318,
   "meanings": [
    {
     "english": "ship, boat",
@@ -12257,7 +13803,7 @@
  {
   "word": "schimpfen",
   "pos": "verb",
-  "frequency": 1197,
+  "frequency": 1319,
   "meanings": [
    {
     "english": "to scold, to grumble",
@@ -12282,7 +13828,7 @@
  {
   "word": "Schirm",
   "pos": "noun",
-  "frequency": 1198,
+  "frequency": 1320,
   "meanings": [
    {
     "english": "umbrella",
@@ -12308,7 +13854,7 @@
  {
   "word": "Schlafzimmer",
   "pos": "noun",
-  "frequency": 1199,
+  "frequency": 1321,
   "meanings": [
    {
     "english": "bedroom",
@@ -12332,7 +13878,7 @@
  {
   "word": "schlimm",
   "pos": "adjective",
-  "frequency": 1200,
+  "frequency": 1322,
   "meanings": [
    {
     "english": "bad, serious",
@@ -12357,7 +13903,7 @@
  {
   "word": "Schloss",
   "pos": "noun",
-  "frequency": 1201,
+  "frequency": 1323,
   "meanings": [
    {
     "english": "castle, palace",
@@ -12401,7 +13947,7 @@
  {
   "word": "Schmerz",
   "pos": "noun",
-  "frequency": 1202,
+  "frequency": 1324,
   "meanings": [
    {
     "english": "pain",
@@ -12427,7 +13973,7 @@
  {
   "word": "schmutzig",
   "pos": "adjective",
-  "frequency": 1203,
+  "frequency": 1325,
   "meanings": [
    {
     "english": "dirty",
@@ -12449,7 +13995,7 @@
  {
   "word": "Schnee",
   "pos": "noun",
-  "frequency": 1204,
+  "frequency": 1326,
   "meanings": [
    {
     "english": "snow",
@@ -12474,7 +14020,7 @@
  {
   "word": "schneiden",
   "pos": "verb",
-  "frequency": 1205,
+  "frequency": 1327,
   "meanings": [
    {
     "english": "to cut",
@@ -12509,7 +14055,7 @@
  {
   "word": "schneien",
   "pos": "verb",
-  "frequency": 1206,
+  "frequency": 1328,
   "meanings": [
    {
     "english": "to snow",
@@ -12531,7 +14077,7 @@
  {
   "word": "Schokolade",
   "pos": "noun",
-  "frequency": 1207,
+  "frequency": 1329,
   "meanings": [
    {
     "english": "chocolate",
@@ -12554,7 +14100,7 @@
  {
   "word": "schrecklich",
   "pos": "adjective",
-  "frequency": 1208,
+  "frequency": 1330,
   "meanings": [
    {
     "english": "terrible, awful",
@@ -12577,7 +14123,7 @@
  {
   "word": "schriftlich",
   "pos": "adjective",
-  "frequency": 1209,
+  "frequency": 1331,
   "meanings": [
    {
     "english": "written, in writing",
@@ -12600,7 +14146,7 @@
  {
   "word": "schwach",
   "pos": "adjective",
-  "frequency": 1210,
+  "frequency": 1332,
   "meanings": [
    {
     "english": "weak",
@@ -12623,7 +14169,7 @@
  {
   "word": "schwanger",
   "pos": "adjective",
-  "frequency": 1211,
+  "frequency": 1333,
   "meanings": [
    {
     "english": "pregnant",
@@ -12644,7 +14190,7 @@
  {
   "word": "Schwein",
   "pos": "noun",
-  "frequency": 1212,
+  "frequency": 1334,
   "meanings": [
    {
     "english": "pig",
@@ -12668,7 +14214,7 @@
  {
   "word": "schwierig",
   "pos": "adjective",
-  "frequency": 1213,
+  "frequency": 1335,
   "meanings": [
    {
     "english": "difficult",
@@ -12691,7 +14237,7 @@
  {
   "word": "See",
   "pos": "noun",
-  "frequency": 1214,
+  "frequency": 1336,
   "meanings": [
    {
     "english": "sea",
@@ -12721,7 +14267,7 @@
  {
   "word": "Seife",
   "pos": "noun",
-  "frequency": 1215,
+  "frequency": 1337,
   "meanings": [
    {
     "english": "soap",
@@ -12746,7 +14292,7 @@
  {
   "word": "sein-",
   "pos": "pronoun",
-  "frequency": 1216,
+  "frequency": 1338,
   "meanings": [
    {
     "english": "his, its",
@@ -12768,7 +14314,7 @@
  {
   "word": "selbst",
   "pos": "adverb",
-  "frequency": 1217,
+  "frequency": 1339,
   "meanings": [
    {
     "english": "even, oneself",
@@ -12801,7 +14347,7 @@
  {
   "word": "Sendung",
   "pos": "noun",
-  "frequency": 1218,
+  "frequency": 1340,
   "meanings": [
    {
     "english": "(TV/radio) show, broadcast",
@@ -12827,7 +14373,7 @@
  {
   "word": "Service",
   "pos": "noun",
-  "frequency": 1219,
+  "frequency": 1341,
   "meanings": [
    {
     "english": "service",
@@ -12853,7 +14399,7 @@
  {
   "word": "sicher",
   "pos": "adjective",
-  "frequency": 1220,
+  "frequency": 1342,
   "meanings": [
    {
     "english": "safe, secure, certain",
@@ -12874,9 +14420,60 @@
   ]
  },
  {
+  "word": "Silvester",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1343,
+  "meanings": [
+   {
+    "english": "New Year's Eve",
+    "examples": [
+     {
+      "de": "An Silvester gibt es ein Feuerwerk.",
+      "en": "On New Year's Eve there are fireworks.",
+      "glosses": {
+       "An": "at",
+       "Silvester": "New Year's Eve",
+       "gibt": "gives",
+       "es": "it",
+       "ein": "a",
+       "Feuerwerk": "fireworks"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Ski",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1344,
+  "meanings": [
+   {
+    "english": "ski",
+    "examples": [
+     {
+      "de": "Im Winter fahre ich Ski.",
+      "en": "In winter I go skiing.",
+      "glosses": {
+       "Im": "in the",
+       "Winter": "winter",
+       "fahre": "travel",
+       "ich": "I",
+       "Ski": "ski"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Skier · Also: Ski"
+ },
+ {
   "word": "sogar",
   "pos": "adverb",
-  "frequency": 1221,
+  "frequency": 1345,
   "meanings": [
    {
     "english": "even, actually",
@@ -12909,7 +14506,7 @@
  {
   "word": "sonnig",
   "pos": "adjective",
-  "frequency": 1222,
+  "frequency": 1346,
   "meanings": [
    {
     "english": "sunny",
@@ -12931,7 +14528,7 @@
  {
   "word": "sonst",
   "pos": "adverb",
-  "frequency": 1223,
+  "frequency": 1347,
   "meanings": [
    {
     "english": "otherwise, else, usually",
@@ -12963,9 +14560,35 @@
   ]
  },
  {
+  "word": "Sozialkunde",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1348,
+  "meanings": [
+   {
+    "english": "social studies",
+    "examples": [
+     {
+      "de": "In Sozialkunde sprechen wir über Politik.",
+      "en": "In social studies we talk about politics.",
+      "glosses": {
+       "In": "in",
+       "Sozialkunde": "social studies",
+       "sprechen": "speak",
+       "wir": "we",
+       "über": "about",
+       "Politik": "politics"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "spannend",
   "pos": "adjective",
-  "frequency": 1224,
+  "frequency": 1349,
   "meanings": [
    {
     "english": "exciting",
@@ -12985,9 +14608,65 @@
   ]
  },
  {
+  "word": "Spaß",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1350,
+  "meanings": [
+   {
+    "english": "fun, joke",
+    "examples": [
+     {
+      "de": "Das Spiel hat uns allen viel Spaß gemacht.",
+      "en": "The game was a lot of fun for all of us.",
+      "glosses": {
+       "Das": "that/the",
+       "Spiel": "game",
+       "hat": "has",
+       "uns": "us/each other",
+       "allen": "all",
+       "viel": "much",
+       "Spaß": "fun",
+       "gemacht": "done"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Späße"
+ },
+ {
+  "word": "Spaziergang",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1351,
+  "meanings": [
+   {
+    "english": "walk, stroll",
+    "examples": [
+     {
+      "de": "Nach dem Essen machen wir einen kurzen Spaziergang.",
+      "en": "After eating we go for a short walk.",
+      "glosses": {
+       "Nach": "to",
+       "dem": "the",
+       "Essen": "eat",
+       "machen": "make",
+       "wir": "we",
+       "einen": "a",
+       "kurzen": "short",
+       "Spaziergang": "walk"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Spaziergänge"
+ },
+ {
   "word": "sportlich",
   "pos": "adjective",
-  "frequency": 1225,
+  "frequency": 1352,
   "meanings": [
    {
     "english": "athletic, sporty",
@@ -13007,9 +14686,118 @@
   ]
  },
  {
+  "word": "Sportplatz",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1353,
+  "meanings": [
+   {
+    "english": "sports ground",
+    "examples": [
+     {
+      "de": "Die Kinder spielen auf dem Sportplatz Fußball.",
+      "en": "The children play football on the sports ground.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "spielen": "play",
+       "auf": "on",
+       "dem": "the",
+       "Sportplatz": "sports ground",
+       "Fußball": "soccer"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Sportplätze"
+ },
+ {
+  "word": "Sprechstunde",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1354,
+  "meanings": [
+   {
+    "english": "consultation hours, surgery",
+    "examples": [
+     {
+      "de": "Die Sprechstunde des Arztes beginnt um acht Uhr.",
+      "en": "The doctor's consultation hours begin at eight o'clock.",
+      "glosses": {
+       "Die": "the",
+       "Sprechstunde": "consultation hours",
+       "des": "the",
+       "Arztes": "of the doctor",
+       "beginnt": "begins",
+       "um": "at",
+       "acht": "eight",
+       "Uhr": "o'clock"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Sprechstunden"
+ },
+ {
+  "word": "Stadtplan",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1355,
+  "meanings": [
+   {
+    "english": "city map",
+    "examples": [
+     {
+      "de": "Ich suche die Straße auf dem Stadtplan.",
+      "en": "I look for the street on the city map.",
+      "glosses": {
+       "Ich": "I",
+       "suche": "search",
+       "die": "the",
+       "Straße": "street",
+       "auf": "on",
+       "dem": "the",
+       "Stadtplan": "city map"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stadtpläne"
+ },
+ {
+  "word": "Star",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1356,
+  "meanings": [
+   {
+    "english": "star (celebrity)",
+    "examples": [
+     {
+      "de": "Der Star des Films kommt zur Premiere.",
+      "en": "The star of the film is coming to the premiere.",
+      "glosses": {
+       "Der": "the",
+       "Star": "star",
+       "des": "the",
+       "Films": "film",
+       "kommt": "comes",
+       "zur": "to the",
+       "Premiere": "premiere"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stars"
+ },
+ {
   "word": "stark",
   "pos": "adjective",
-  "frequency": 1226,
+  "frequency": 1357,
   "meanings": [
    {
     "english": "strong",
@@ -13029,9 +14817,142 @@
   ]
  },
  {
+  "word": "Stiefel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1358,
+  "meanings": [
+   {
+    "english": "boot",
+    "examples": [
+     {
+      "de": "Im Winter trage ich warme Stiefel.",
+      "en": "In winter I wear warm boots.",
+      "glosses": {
+       "Im": "in the",
+       "Winter": "winter",
+       "trage": "wear",
+       "ich": "I",
+       "warme": "warm",
+       "Stiefel": "boot"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stiefel"
+ },
+ {
+  "word": "Stift",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1359,
+  "meanings": [
+   {
+    "english": "pen, pencil",
+    "examples": [
+     {
+      "de": "Hast du einen Stift für mich?",
+      "en": "Do you have a pen for me?",
+      "glosses": {
+       "Hast": "have",
+       "du": "you",
+       "einen": "a",
+       "Stift": "pen",
+       "für": "for",
+       "mich": "me/myself"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stifte"
+ },
+ {
+  "word": "Stipendium",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1360,
+  "meanings": [
+   {
+    "english": "scholarship",
+    "examples": [
+     {
+      "de": "Sie hat ein Stipendium für ihr Studium bekommen.",
+      "en": "She has received a scholarship for her studies.",
+      "glosses": {
+       "Sie": "she/they/you (formal)",
+       "hat": "has",
+       "ein": "a",
+       "Stipendium": "scholarship",
+       "für": "for",
+       "ihr": "your",
+       "Studium": "studies",
+       "bekommen": "get"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stipendien"
+ },
+ {
+  "word": "Stockwerk",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1361,
+  "meanings": [
+   {
+    "english": "floor, storey",
+    "examples": [
+     {
+      "de": "Das Büro ist im dritten Stockwerk.",
+      "en": "The office is on the third floor.",
+      "glosses": {
+       "Das": "that/the",
+       "Büro": "office",
+       "ist": "is",
+       "im": "in the",
+       "dritten": "third",
+       "Stockwerk": "floor"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stockwerke"
+ },
+ {
+  "word": "Strand",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1362,
+  "meanings": [
+   {
+    "english": "beach",
+    "examples": [
+     {
+      "de": "Wir liegen den ganzen Tag am Strand.",
+      "en": "We lie on the beach all day.",
+      "glosses": {
+       "Wir": "we",
+       "liegen": "lie",
+       "den": "the",
+       "ganzen": "whole",
+       "Tag": "day",
+       "am": "at the",
+       "Strand": "beach"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Strände"
+ },
+ {
   "word": "streng",
   "pos": "adjective",
-  "frequency": 1227,
+  "frequency": 1363,
   "meanings": [
    {
     "english": "strict",
@@ -13052,9 +14973,37 @@
   ]
  },
  {
+  "word": "Stress",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1364,
+  "meanings": [
+   {
+    "english": "stress",
+    "examples": [
+     {
+      "de": "Vor der Prüfung habe ich immer viel Stress.",
+      "en": "Before an exam I always have a lot of stress.",
+      "glosses": {
+       "Vor": "ago",
+       "der": "the",
+       "Prüfung": "exam",
+       "habe": "have",
+       "ich": "I",
+       "immer": "always",
+       "viel": "much",
+       "Stress": "stress"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "stressig",
   "pos": "adjective",
-  "frequency": 1228,
+  "frequency": 1365,
   "meanings": [
    {
     "english": "stressful",
@@ -13075,9 +15024,90 @@
   "notes": "informal"
  },
  {
+  "word": "Stück",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1366,
+  "meanings": [
+   {
+    "english": "piece, play",
+    "examples": [
+     {
+      "de": "Möchten Sie noch ein Stück Kuchen?",
+      "en": "Would you like another piece of cake?",
+      "glosses": {
+       "Möchten": "would like",
+       "Sie": "she/they/you (formal)",
+       "noch": "still",
+       "ein": "a",
+       "Stück": "piece",
+       "Kuchen": "cake"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stücke"
+ },
+ {
+  "word": "Stuhl",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1367,
+  "meanings": [
+   {
+    "english": "chair",
+    "examples": [
+     {
+      "de": "Bitte nehmen Sie auf dem Stuhl Platz.",
+      "en": "Please take a seat on the chair.",
+      "glosses": {
+       "Bitte": "please",
+       "nehmen": "take",
+       "Sie": "she/they/you (formal)",
+       "auf": "on",
+       "dem": "the",
+       "Stuhl": "chair",
+       "Platz": "seat"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stühle"
+ },
+ {
+  "word": "Stundenplan",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1368,
+  "meanings": [
+   {
+    "english": "timetable (school)",
+    "examples": [
+     {
+      "de": "Mein Stundenplan ist für das neue Schuljahr fertig.",
+      "en": "My timetable for the new school year is ready.",
+      "glosses": {
+       "Mein": "my",
+       "Stundenplan": "timetable",
+       "ist": "is",
+       "für": "for",
+       "das": "that/the",
+       "neue": "new",
+       "Schuljahr": "school year",
+       "fertig": "ready"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Stundenpläne"
+ },
+ {
   "word": "super",
   "pos": "adjective",
-  "frequency": 1229,
+  "frequency": 1369,
   "meanings": [
    {
     "english": "super, great",
@@ -13097,9 +15127,62 @@
   ]
  },
  {
+  "word": "Supermarkt",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1370,
+  "meanings": [
+   {
+    "english": "supermarket",
+    "examples": [
+     {
+      "de": "Der Supermarkt ist bis 22 Uhr geöffnet.",
+      "en": "The supermarket is open until 10 p.m.",
+      "glosses": {
+       "Der": "the",
+       "Supermarkt": "supermarket",
+       "ist": "is",
+       "bis": "until",
+       "Uhr": "o'clock",
+       "geöffnet": "open"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Supermärkte"
+ },
+ {
+  "word": "Suppe",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1371,
+  "meanings": [
+   {
+    "english": "soup",
+    "examples": [
+     {
+      "de": "Zum Mittagessen gibt es eine heiße Suppe.",
+      "en": "For lunch there is a hot soup.",
+      "glosses": {
+       "Zum": "to the",
+       "Mittagessen": "lunch",
+       "gibt": "gives",
+       "es": "it",
+       "eine": "a",
+       "heiße": "am called",
+       "Suppe": "soup"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Suppen"
+ },
+ {
   "word": "süß",
   "pos": "adjective",
-  "frequency": 1230,
+  "frequency": 1372,
   "meanings": [
    {
     "english": "sweet, cute",
@@ -13120,9 +15203,35 @@
   ]
  },
  {
+  "word": "Süßigkeit",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1373,
+  "meanings": [
+   {
+    "english": "sweet, candy",
+    "examples": [
+     {
+      "de": "Die Kinder essen zu viele Süßigkeiten.",
+      "en": "The children eat too many sweets.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "essen": "eat",
+       "zu": "to",
+       "viele": "many",
+       "Süßigkeiten": "sweet"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Süßigkeiten"
+ },
+ {
   "word": "sympathisch",
   "pos": "adjective",
-  "frequency": 1231,
+  "frequency": 1374,
   "meanings": [
    {
     "english": "likeable, nice",
@@ -13143,9 +15252,119 @@
   ]
  },
  {
+  "word": "T-Shirt",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1375,
+  "meanings": [
+   {
+    "english": "T-shirt",
+    "examples": [
+     {
+      "de": "Im Sommer trage ich gern ein weißes T-Shirt.",
+      "en": "In summer I like wearing a white T-shirt.",
+      "glosses": {
+       "Im": "in the",
+       "Sommer": "summer",
+       "trage": "wear",
+       "ich": "I",
+       "gern": "gladly",
+       "ein": "a",
+       "weißes": "white",
+       "T-Shirt": "T-shirt"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die T-Shirts"
+ },
+ {
+  "word": "Tablet",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1376,
+  "meanings": [
+   {
+    "english": "tablet (computer)",
+    "examples": [
+     {
+      "de": "Ich lese die Zeitung auf meinem Tablet.",
+      "en": "I read the newspaper on my tablet.",
+      "glosses": {
+       "Ich": "I",
+       "lese": "read",
+       "die": "the",
+       "Zeitung": "newspaper",
+       "auf": "on",
+       "meinem": "my",
+       "Tablet": "tablet"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tablets"
+ },
+ {
+  "word": "Tablette",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1377,
+  "meanings": [
+   {
+    "english": "tablet, pill",
+    "examples": [
+     {
+      "de": "Nehmen Sie die Tablette nach dem Essen.",
+      "en": "Take the tablet after eating.",
+      "glosses": {
+       "Nehmen": "take",
+       "Sie": "she/they/you (formal)",
+       "die": "the",
+       "Tablette": "tablet",
+       "nach": "to",
+       "dem": "the",
+       "Essen": "eat"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tabletten"
+ },
+ {
+  "word": "Tafel",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1378,
+  "meanings": [
+   {
+    "english": "board; bar (of chocolate)",
+    "examples": [
+     {
+      "de": "Der Lehrer schreibt das Wort an die Tafel.",
+      "en": "The teacher writes the word on the board.",
+      "glosses": {
+       "Der": "the",
+       "Lehrer": "teacher",
+       "schreibt": "writes",
+       "das": "that/the",
+       "Wort": "word",
+       "an": "at",
+       "die": "the",
+       "Tafel": "board"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tafeln"
+ },
+ {
   "word": "täglich",
   "pos": "adjective",
-  "frequency": 1232,
+  "frequency": 1379,
   "meanings": [
    {
     "english": "daily",
@@ -13165,9 +15384,217 @@
   ]
  },
  {
+  "word": "Tante",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1380,
+  "meanings": [
+   {
+    "english": "aunt",
+    "examples": [
+     {
+      "de": "Meine Tante wohnt in Hamburg.",
+      "en": "My aunt lives in Hamburg.",
+      "glosses": {
+       "Meine": "my",
+       "Tante": "aunt",
+       "wohnt": "lives",
+       "in": "in",
+       "Hamburg": "Hamburg"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tanten"
+ },
+ {
+  "word": "Taschengeld",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1381,
+  "meanings": [
+   {
+    "english": "pocket money",
+    "examples": [
+     {
+      "de": "Meine Tochter bekommt zehn Euro Taschengeld pro Woche.",
+      "en": "My daughter gets ten euros of pocket money per week.",
+      "glosses": {
+       "Meine": "my",
+       "Tochter": "daughter",
+       "bekommt": "gets",
+       "zehn": "ten",
+       "Euro": "euros",
+       "Taschengeld": "pocket money",
+       "pro": "per",
+       "Woche": "week"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Tasse",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1382,
+  "meanings": [
+   {
+    "english": "cup",
+    "examples": [
+     {
+      "de": "Ich hätte gern eine Tasse Tee.",
+      "en": "I would like a cup of tea.",
+      "glosses": {
+       "Ich": "I",
+       "hätte": "would have",
+       "gern": "gladly",
+       "eine": "a",
+       "Tasse": "cup",
+       "Tee": "tea"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tassen"
+ },
+ {
+  "word": "Team",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1383,
+  "meanings": [
+   {
+    "english": "team",
+    "examples": [
+     {
+      "de": "Unser Team trifft sich jeden Montag.",
+      "en": "Our team meets every Monday.",
+      "glosses": {
+       "Unser": "our",
+       "Team": "team",
+       "trifft": "meets",
+       "sich": "oneself",
+       "jeden": "every",
+       "Montag": "Monday"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Teams"
+ },
+ {
+  "word": "Techniker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1384,
+  "meanings": [
+   {
+    "english": "technician",
+    "examples": [
+     {
+      "de": "Der Techniker repariert die Heizung.",
+      "en": "The technician is repairing the heating.",
+      "glosses": {
+       "Der": "the",
+       "Techniker": "technician",
+       "repariert": "repaired",
+       "die": "the",
+       "Heizung": "heating"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Techniker"
+ },
+ {
+  "word": "Teller",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1385,
+  "meanings": [
+   {
+    "english": "plate",
+    "examples": [
+     {
+      "de": "Bitte stell die Teller auf den Tisch.",
+      "en": "Please put the plates on the table.",
+      "glosses": {
+       "Bitte": "please",
+       "stell": "put",
+       "die": "the",
+       "Teller": "plate",
+       "auf": "on",
+       "den": "the",
+       "Tisch": "table"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Teller"
+ },
+ {
+  "word": "Tennis",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1386,
+  "meanings": [
+   {
+    "english": "tennis",
+    "examples": [
+     {
+      "de": "Am Wochenende spiele ich Tennis.",
+      "en": "At the weekend I play tennis.",
+      "glosses": {
+       "Am": "at the",
+       "Wochenende": "weekend",
+       "spiele": "play",
+       "ich": "I",
+       "Tennis": "tennis"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Theater",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1387,
+  "meanings": [
+   {
+    "english": "theatre",
+    "examples": [
+     {
+      "de": "Wir gehen heute Abend ins Theater.",
+      "en": "We are going to the theatre this evening.",
+      "glosses": {
+       "Wir": "we",
+       "gehen": "go",
+       "heute": "today",
+       "Abend": "evening",
+       "ins": "to the",
+       "Theater": "theatre"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Theater"
+ },
+ {
   "word": "tief",
   "pos": "adjective",
-  "frequency": 1233,
+  "frequency": 1388,
   "meanings": [
    {
     "english": "deep, low",
@@ -13188,9 +15615,91 @@
   ]
  },
  {
+  "word": "Tier",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1389,
+  "meanings": [
+   {
+    "english": "animal",
+    "examples": [
+     {
+      "de": "Welches Tier gefällt dir im Zoo am besten?",
+      "en": "Which animal do you like best at the zoo?",
+      "glosses": {
+       "Welches": "which",
+       "Tier": "animal",
+       "gefällt": "pleases",
+       "dir": "you",
+       "im": "in the",
+       "Zoo": "zoo",
+       "am": "at the",
+       "besten": "best"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tiere"
+ },
+ {
+  "word": "Tipp",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1390,
+  "meanings": [
+   {
+    "english": "tip, hint",
+    "examples": [
+     {
+      "de": "Ich gebe dir einen Tipp: Frag den Lehrer.",
+      "en": "I'll give you a tip: ask the teacher.",
+      "glosses": {
+       "Ich": "I",
+       "gebe": "give",
+       "dir": "you",
+       "einen": "a",
+       "Tipp": "tip",
+       "Frag": "ask",
+       "den": "the",
+       "Lehrer": "teacher"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Tipps"
+ },
+ {
+  "word": "Titel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1391,
+  "meanings": [
+   {
+    "english": "title",
+    "examples": [
+     {
+      "de": "Wie lautet der Titel des Buches?",
+      "en": "What is the title of the book?",
+      "glosses": {
+       "Wie": "how",
+       "lautet": "reads",
+       "der": "the",
+       "Titel": "title",
+       "des": "the",
+       "Buches": "of the book"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Titel"
+ },
+ {
   "word": "toll",
   "pos": "adjective",
-  "frequency": 1234,
+  "frequency": 1392,
   "meanings": [
    {
     "english": "great, fantastic",
@@ -13211,9 +15720,60 @@
   ]
  },
  {
+  "word": "Topf",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1393,
+  "meanings": [
+   {
+    "english": "pot",
+    "examples": [
+     {
+      "de": "Die Suppe kocht im Topf.",
+      "en": "The soup is cooking in the pot.",
+      "glosses": {
+       "Die": "the",
+       "Suppe": "soup",
+       "kocht": "cooks",
+       "im": "in the",
+       "Topf": "pot"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Töpfe"
+ },
+ {
+  "word": "Torte",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1394,
+  "meanings": [
+   {
+    "english": "cake, gateau",
+    "examples": [
+     {
+      "de": "Zum Geburtstag gibt es eine Torte.",
+      "en": "There is a cake for the birthday.",
+      "glosses": {
+       "Zum": "to the",
+       "Geburtstag": "birthday",
+       "gibt": "gives",
+       "es": "it",
+       "eine": "a",
+       "Torte": "cake"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Torten"
+ },
+ {
   "word": "total",
   "pos": "adjective",
-  "frequency": 1235,
+  "frequency": 1395,
   "meanings": [
    {
     "english": "total, complete",
@@ -13234,9 +15794,117 @@
   ]
  },
  {
+  "word": "Tour",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1396,
+  "meanings": [
+   {
+    "english": "tour, trip",
+    "examples": [
+     {
+      "de": "Wir machen morgen eine Tour mit dem Fahrrad.",
+      "en": "Tomorrow we are going on a bike tour.",
+      "glosses": {
+       "Wir": "we",
+       "machen": "make",
+       "morgen": "tomorrow",
+       "eine": "a",
+       "Tour": "tour",
+       "mit": "with",
+       "dem": "the",
+       "Fahrrad": "bicycle"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Touren"
+ },
+ {
+  "word": "Tourist",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1397,
+  "meanings": [
+   {
+    "english": "tourist",
+    "examples": [
+     {
+      "de": "Im Sommer kommen viele Touristen in die Stadt.",
+      "en": "In summer many tourists come to the city.",
+      "glosses": {
+       "Im": "in the",
+       "Sommer": "summer",
+       "kommen": "come",
+       "viele": "many",
+       "Touristen": "tourist",
+       "in": "in",
+       "die": "the",
+       "Stadt": "city"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Touristen · n-Deklination"
+ },
+ {
+  "word": "Training",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1398,
+  "meanings": [
+   {
+    "english": "training",
+    "examples": [
+     {
+      "de": "Das Training beginnt um 18 Uhr.",
+      "en": "Training starts at 6 p.m.",
+      "glosses": {
+       "Das": "that/the",
+       "Training": "training",
+       "beginnt": "begins",
+       "um": "at",
+       "Uhr": "o'clock"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Trainings"
+ },
+ {
+  "word": "Traum",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1399,
+  "meanings": [
+   {
+    "english": "dream",
+    "examples": [
+     {
+      "de": "Ich hatte letzte Nacht einen seltsamen Traum.",
+      "en": "I had a strange dream last night.",
+      "glosses": {
+       "Ich": "I",
+       "hatte": "had",
+       "letzte": "last",
+       "Nacht": "night",
+       "einen": "a",
+       "seltsamen": "strange",
+       "Traum": "dream"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Träume"
+ },
+ {
   "word": "traurig",
   "pos": "adjective",
-  "frequency": 1236,
+  "frequency": 1400,
   "meanings": [
    {
     "english": "sad",
@@ -13259,7 +15927,7 @@
  {
   "word": "trocken",
   "pos": "adjective",
-  "frequency": 1237,
+  "frequency": 1401,
   "meanings": [
    {
     "english": "dry",
@@ -13280,9 +15948,35 @@
   ]
  },
  {
+  "word": "Tür",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1402,
+  "meanings": [
+   {
+    "english": "door",
+    "examples": [
+     {
+      "de": "Bitte schließen Sie die Tür leise.",
+      "en": "Please close the door quietly.",
+      "glosses": {
+       "Bitte": "please",
+       "schließen": "close",
+       "Sie": "she/they/you (formal)",
+       "die": "the",
+       "Tür": "door",
+       "leise": "quiet"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Türen"
+ },
+ {
   "word": "typisch",
   "pos": "adjective",
-  "frequency": 1238,
+  "frequency": 1403,
   "meanings": [
    {
     "english": "typical",
@@ -13305,7 +15999,7 @@
  {
   "word": "überall",
   "pos": "adverb",
-  "frequency": 1239,
+  "frequency": 1404,
   "meanings": [
    {
     "english": "everywhere, anywhere",
@@ -13334,9 +16028,63 @@
   ]
  },
  {
+  "word": "Übersetzung",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1405,
+  "meanings": [
+   {
+    "english": "translation",
+    "examples": [
+     {
+      "de": "Die Übersetzung des Textes dauert zwei Stunden.",
+      "en": "The translation of the text takes two hours.",
+      "glosses": {
+       "Die": "the",
+       "Übersetzung": "translation",
+       "des": "the",
+       "Textes": "of the text",
+       "dauert": "lasts",
+       "zwei": "two",
+       "Stunden": "hours"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Übersetzungen"
+ },
+ {
+  "word": "Umzug",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1406,
+  "meanings": [
+   {
+    "english": "move (house); parade",
+    "examples": [
+     {
+      "de": "Beim Umzug haben uns viele Freunde geholfen.",
+      "en": "Many friends helped us with the move.",
+      "glosses": {
+       "Beim": "at the",
+       "Umzug": "move",
+       "haben": "have",
+       "uns": "us/each other",
+       "viele": "many",
+       "Freunde": "friends",
+       "geholfen": "helped"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Umzüge"
+ },
+ {
   "word": "unbedingt",
   "pos": "adverb",
-  "frequency": 1240,
+  "frequency": 1407,
   "meanings": [
    {
     "english": "absolutely, by all means",
@@ -13368,9 +16116,122 @@
   ]
  },
  {
+  "word": "Unfall",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1408,
+  "meanings": [
+   {
+    "english": "accident",
+    "examples": [
+     {
+      "de": "Auf der Autobahn gab es einen schweren Unfall.",
+      "en": "There was a serious accident on the motorway.",
+      "glosses": {
+       "Auf": "on",
+       "der": "the",
+       "Autobahn": "motorway",
+       "gab": "was",
+       "es": "it",
+       "einen": "a",
+       "schweren": "heavy",
+       "Unfall": "accident"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Unfälle"
+ },
+ {
+  "word": "Universität",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1409,
+  "meanings": [
+   {
+    "english": "university",
+    "examples": [
+     {
+      "de": "Meine Schwester studiert an der Universität in Wien.",
+      "en": "My sister studies at the university in Vienna.",
+      "glosses": {
+       "Meine": "my",
+       "Schwester": "sister",
+       "studiert": "studies",
+       "an": "at",
+       "der": "the",
+       "Universität": "university",
+       "in": "in",
+       "Wien": "Vienna"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Universitäten · Also: Uni"
+ },
+ {
+  "word": "Unterkunft",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1410,
+  "meanings": [
+   {
+    "english": "accommodation",
+    "examples": [
+     {
+      "de": "Wir haben schon eine Unterkunft für den Urlaub gebucht.",
+      "en": "We have already booked accommodation for the holiday.",
+      "glosses": {
+       "Wir": "we",
+       "haben": "have",
+       "schon": "already",
+       "eine": "a",
+       "Unterkunft": "accommodation",
+       "für": "for",
+       "den": "the",
+       "Urlaub": "vacation",
+       "gebucht": "booked"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Unterkünfte"
+ },
+ {
+  "word": "Unterschied",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1411,
+  "meanings": [
+   {
+    "english": "difference",
+    "examples": [
+     {
+      "de": "Ich sehe keinen Unterschied zwischen den beiden Bildern.",
+      "en": "I can't see any difference between the two pictures.",
+      "glosses": {
+       "Ich": "I",
+       "sehe": "watch",
+       "keinen": "no",
+       "Unterschied": "difference",
+       "zwischen": "between",
+       "den": "the",
+       "beiden": "two",
+       "Bildern": "pictures"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Unterschiede"
+ },
+ {
   "word": "unterwegs",
   "pos": "adverb",
-  "frequency": 1241,
+  "frequency": 1412,
   "meanings": [
    {
     "english": "on the way, on the go, en route",
@@ -13404,7 +16265,7 @@
  {
   "word": "verabredet",
   "pos": "adjective",
-  "frequency": 1242,
+  "frequency": 1413,
   "meanings": [
    {
     "english": "having an appointment, arranged to meet",
@@ -13425,9 +16286,89 @@
   ]
  },
  {
+  "word": "Veranstaltung",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1414,
+  "meanings": [
+   {
+    "english": "event",
+    "examples": [
+     {
+      "de": "Die Veranstaltung beginnt um 19 Uhr.",
+      "en": "The event begins at 7 p.m.",
+      "glosses": {
+       "Die": "the",
+       "Veranstaltung": "event",
+       "beginnt": "begins",
+       "um": "at",
+       "Uhr": "o'clock"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Veranstaltungen"
+ },
+ {
+  "word": "Verkehr",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1415,
+  "meanings": [
+   {
+    "english": "traffic",
+    "examples": [
+     {
+      "de": "Am Morgen ist der Verkehr in der Stadt sehr dicht.",
+      "en": "In the morning the traffic in the city is very heavy.",
+      "glosses": {
+       "Am": "at the",
+       "Morgen": "tomorrow",
+       "ist": "is",
+       "der": "the",
+       "Verkehr": "traffic",
+       "in": "in",
+       "Stadt": "city",
+       "sehr": "very",
+       "dicht": "thick"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Verkehrsmittel",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1416,
+  "meanings": [
+   {
+    "english": "means of transport",
+    "examples": [
+     {
+      "de": "Welches Verkehrsmittel benutzt du am häufigsten?",
+      "en": "Which means of transport do you use most often?",
+      "glosses": {
+       "Welches": "which",
+       "Verkehrsmittel": "means of transport",
+       "benutzt": "uses",
+       "du": "you",
+       "am": "at the",
+       "häufigsten": "most common"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Verkehrsmittel"
+ },
+ {
   "word": "verschieden",
   "pos": "adjective",
-  "frequency": 1243,
+  "frequency": 1417,
   "meanings": [
    {
     "english": "different, various",
@@ -13447,9 +16388,92 @@
   ]
  },
  {
+  "word": "Verspätung",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1418,
+  "meanings": [
+   {
+    "english": "delay",
+    "examples": [
+     {
+      "de": "Der Zug hat zehn Minuten Verspätung.",
+      "en": "The train is ten minutes late.",
+      "glosses": {
+       "Der": "the",
+       "Zug": "train",
+       "hat": "has",
+       "zehn": "ten",
+       "Minuten": "minutes",
+       "Verspätung": "delay"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Verspätungen"
+ },
+ {
+  "word": "Vertrag",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1419,
+  "meanings": [
+   {
+    "english": "contract",
+    "examples": [
+     {
+      "de": "Bitte lesen Sie den Vertrag genau durch, bevor Sie unterschreiben.",
+      "en": "Please read the contract carefully before you sign.",
+      "glosses": {
+       "Bitte": "please",
+       "lesen": "reading",
+       "Sie": "she/they/you (formal)",
+       "den": "the",
+       "Vertrag": "contract",
+       "genau": "exactly",
+       "durch": "through",
+       "bevor": "before",
+       "unterschreiben": "sign"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Verträge"
+ },
+ {
+  "word": "Vogel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1420,
+  "meanings": [
+   {
+    "english": "bird",
+    "examples": [
+     {
+      "de": "Ein Vogel sitzt auf dem Baum und singt.",
+      "en": "A bird is sitting in the tree singing.",
+      "glosses": {
+       "Ein": "a",
+       "Vogel": "bird",
+       "sitzt": "sits",
+       "auf": "on",
+       "dem": "the",
+       "Baum": "tree",
+       "und": "and",
+       "singt": "sings"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Vögel"
+ },
+ {
   "word": "voll",
   "pos": "adjective",
-  "frequency": 1244,
+  "frequency": 1421,
   "meanings": [
    {
     "english": "full",
@@ -13469,9 +16493,34 @@
   ]
  },
  {
+  "word": "Volleyball",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1422,
+  "meanings": [
+   {
+    "english": "volleyball",
+    "examples": [
+     {
+      "de": "Am Strand spielen wir Volleyball.",
+      "en": "We play volleyball on the beach.",
+      "glosses": {
+       "Am": "at the",
+       "Strand": "beach",
+       "spielen": "play",
+       "wir": "we",
+       "Volleyball": "volleyball"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "vorbei",
   "pos": "adverb",
-  "frequency": 1245,
+  "frequency": 1423,
   "meanings": [
    {
     "english": "past, over, by",
@@ -13505,7 +16554,7 @@
  {
   "word": "vorher",
   "pos": "adverb",
-  "frequency": 1246,
+  "frequency": 1424,
   "meanings": [
    {
     "english": "beforehand, earlier, before",
@@ -13540,7 +16589,7 @@
  {
   "word": "vorn",
   "pos": "adverb",
-  "frequency": 1247,
+  "frequency": 1425,
   "meanings": [
    {
     "english": "in front, at the front",
@@ -13574,7 +16623,7 @@
  {
   "word": "vorne",
   "pos": "adverb",
-  "frequency": 1248,
+  "frequency": 1426,
   "meanings": [
    {
     "english": "in front, at the front",
@@ -13607,9 +16656,36 @@
   "notes": "also \"vorn\""
  },
  {
+  "word": "Vorschlag",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1427,
+  "meanings": [
+   {
+    "english": "suggestion, proposal",
+    "examples": [
+     {
+      "de": "Ich habe einen Vorschlag: Wir gehen essen.",
+      "en": "I have a suggestion: let's go and eat.",
+      "glosses": {
+       "Ich": "I",
+       "habe": "have",
+       "einen": "a",
+       "Vorschlag": "suggestion",
+       "Wir": "we",
+       "gehen": "go",
+       "essen": "eat"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Vorschläge"
+ },
+ {
   "word": "vorsichtig",
   "pos": "adjective",
-  "frequency": 1249,
+  "frequency": 1428,
   "meanings": [
    {
     "english": "careful, cautious",
@@ -13630,7 +16706,7 @@
  {
   "word": "wach",
   "pos": "adjective",
-  "frequency": 1250,
+  "frequency": 1429,
   "meanings": [
    {
     "english": "awake",
@@ -13650,9 +16726,35 @@
   ]
  },
  {
+  "word": "Wagen",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1430,
+  "meanings": [
+   {
+    "english": "car; carriage",
+    "examples": [
+     {
+      "de": "Unser Wagen steht vor dem Haus.",
+      "en": "Our car is parked in front of the house.",
+      "glosses": {
+       "Unser": "our",
+       "Wagen": "car",
+       "steht": "stands",
+       "vor": "ago",
+       "dem": "the",
+       "Haus": "house"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wagen"
+ },
+ {
   "word": "wahr",
   "pos": "adjective",
-  "frequency": 1251,
+  "frequency": 1431,
   "meanings": [
    {
     "english": "true",
@@ -13674,7 +16776,7 @@
  {
   "word": "wahrscheinlich",
   "pos": "adjective",
-  "frequency": 1252,
+  "frequency": 1432,
   "meanings": [
    {
     "english": "probable, likely",
@@ -13697,7 +16799,7 @@
  {
   "word": "wahrscheinlich",
   "pos": "adverb",
-  "frequency": 1253,
+  "frequency": 1433,
   "meanings": [
    {
     "english": "probably",
@@ -13727,9 +16829,37 @@
   ]
  },
  {
+  "word": "Wald",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1434,
+  "meanings": [
+   {
+    "english": "forest, wood",
+    "examples": [
+     {
+      "de": "Wir machen am Sonntag einen Spaziergang im Wald.",
+      "en": "On Sunday we are going for a walk in the forest.",
+      "glosses": {
+       "Wir": "we",
+       "machen": "make",
+       "am": "at the",
+       "Sonntag": "Sunday",
+       "einen": "a",
+       "Spaziergang": "walk",
+       "im": "in the",
+       "Wald": "forest"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wälder"
+ },
+ {
   "word": "warm",
   "pos": "adjective",
-  "frequency": 1254,
+  "frequency": 1435,
   "meanings": [
    {
     "english": "warm",
@@ -13750,9 +16880,62 @@
   ]
  },
  {
+  "word": "Wäsche",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1436,
+  "meanings": [
+   {
+    "english": "laundry, washing",
+    "examples": [
+     {
+      "de": "Ich muss noch die Wäsche aufhängen.",
+      "en": "I still have to hang up the laundry.",
+      "glosses": {
+       "Ich": "I",
+       "muss": "must",
+       "noch": "still",
+       "die": "the",
+       "Wäsche": "laundry",
+       "aufhängen": "hang up"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
+  "word": "Website",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1437,
+  "meanings": [
+   {
+    "english": "website",
+    "examples": [
+     {
+      "de": "Die Website der Firma ist sehr übersichtlich.",
+      "en": "The company's website is very clear.",
+      "glosses": {
+       "Die": "the",
+       "Website": "website",
+       "der": "the",
+       "Firma": "company",
+       "ist": "is",
+       "sehr": "very",
+       "übersichtlich": "clear"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Websites"
+ },
+ {
   "word": "weg",
   "pos": "adverb",
-  "frequency": 1255,
+  "frequency": 1438,
   "meanings": [
    {
     "english": "away, gone, off",
@@ -13784,7 +16967,7 @@
  {
   "word": "wegen",
   "pos": "preposition",
-  "frequency": 1256,
+  "frequency": 1439,
   "meanings": [
    {
     "english": "because of, due to",
@@ -13823,7 +17006,7 @@
  {
   "word": "weich",
   "pos": "adjective",
-  "frequency": 1257,
+  "frequency": 1440,
   "meanings": [
    {
     "english": "soft",
@@ -13844,9 +17027,35 @@
   ]
  },
  {
+  "word": "Weihnachten",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1441,
+  "meanings": [
+   {
+    "english": "Christmas",
+    "examples": [
+     {
+      "de": "An Weihnachten besuchen wir meine Eltern.",
+      "en": "At Christmas we visit my parents.",
+      "glosses": {
+       "An": "at",
+       "Weihnachten": "Christmas",
+       "besuchen": "visit",
+       "wir": "we",
+       "meine": "my",
+       "Eltern": "parents"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "weil",
   "pos": "conjunction",
-  "frequency": 1258,
+  "frequency": 1442,
   "meanings": [
    {
     "english": "because",
@@ -13886,7 +17095,7 @@
  {
   "word": "wenigstens",
   "pos": "adverb",
-  "frequency": 1259,
+  "frequency": 1443,
   "meanings": [
    {
     "english": "at least",
@@ -13918,7 +17127,7 @@
  {
   "word": "wenn",
   "pos": "conjunction",
-  "frequency": 1260,
+  "frequency": 1444,
   "meanings": [
    {
     "english": "if, when, whenever",
@@ -13955,9 +17164,94 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "Werkstatt",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1445,
+  "meanings": [
+   {
+    "english": "workshop, garage",
+    "examples": [
+     {
+      "de": "Mein Auto ist zur Reparatur in der Werkstatt.",
+      "en": "My car is in the garage for repair.",
+      "glosses": {
+       "Mein": "my",
+       "Auto": "car",
+       "ist": "is",
+       "zur": "to the",
+       "Reparatur": "repair",
+       "in": "in",
+       "der": "the",
+       "Werkstatt": "workshop"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Werkstätten"
+ },
+ {
+  "word": "Werktag",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1446,
+  "meanings": [
+   {
+    "english": "working day, weekday",
+    "examples": [
+     {
+      "de": "An Werktagen ist das Geschäft bis 18 Uhr geöffnet.",
+      "en": "On weekdays the shop is open until 6 p.m.",
+      "glosses": {
+       "An": "at",
+       "Werktagen": "weekdays",
+       "ist": "is",
+       "das": "that/the",
+       "Geschäft": "shop",
+       "bis": "until",
+       "Uhr": "o'clock",
+       "geöffnet": "open"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Werktage"
+ },
+ {
+  "word": "Wettbewerb",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1447,
+  "meanings": [
+   {
+    "english": "competition, contest",
+    "examples": [
+     {
+      "de": "Sie hat bei einem Wettbewerb den ersten Preis gewonnen.",
+      "en": "She won first prize in a competition.",
+      "glosses": {
+       "Sie": "she/they/you (formal)",
+       "hat": "has",
+       "bei": "at",
+       "einem": "a",
+       "Wettbewerb": "competition",
+       "den": "the",
+       "ersten": "first",
+       "Preis": "price",
+       "gewonnen": "won"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wettbewerbe"
+ },
+ {
   "word": "windig",
   "pos": "adjective",
-  "frequency": 1261,
+  "frequency": 1448,
   "meanings": [
    {
     "english": "windy",
@@ -13980,7 +17274,7 @@
  {
   "word": "wirklich",
   "pos": "adjective",
-  "frequency": 1262,
+  "frequency": 1449,
   "meanings": [
    {
     "english": "real, actual",
@@ -14003,7 +17297,7 @@
  {
   "word": "wirklich",
   "pos": "adverb",
-  "frequency": 1263,
+  "frequency": 1450,
   "meanings": [
    {
     "english": "really, truly, actually",
@@ -14034,9 +17328,33 @@
   ]
  },
  {
+  "word": "Witz",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1451,
+  "meanings": [
+   {
+    "english": "joke",
+    "examples": [
+     {
+      "de": "Er erzählt gern Witze.",
+      "en": "He likes telling jokes.",
+      "glosses": {
+       "Er": "he",
+       "erzählt": "tells",
+       "gern": "gladly",
+       "Witze": "joke"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Witze"
+ },
+ {
   "word": "witzig",
   "pos": "adjective",
-  "frequency": 1264,
+  "frequency": 1452,
   "meanings": [
    {
     "english": "funny, witty",
@@ -14056,9 +17374,463 @@
   ]
  },
  {
+  "word": "Wohnzimmer",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1453,
+  "meanings": [
+   {
+    "english": "living room",
+    "examples": [
+     {
+      "de": "Wir sitzen abends im Wohnzimmer.",
+      "en": "In the evening we sit in the living room.",
+      "glosses": {
+       "Wir": "we",
+       "sitzen": "sit",
+       "abends": "in the evening",
+       "im": "in the",
+       "Wohnzimmer": "living room"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wohnzimmer"
+ },
+ {
+  "word": "Wolke",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1454,
+  "meanings": [
+   {
+    "english": "cloud",
+    "examples": [
+     {
+      "de": "Am Himmel sind keine Wolken.",
+      "en": "There are no clouds in the sky.",
+      "glosses": {
+       "Am": "at the",
+       "Himmel": "sky",
+       "sind": "are",
+       "keine": "no",
+       "Wolken": "cloud"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wolken"
+ },
+ {
+  "word": "Workshop",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1455,
+  "meanings": [
+   {
+    "english": "workshop",
+    "examples": [
+     {
+      "de": "Der Workshop dauert zwei Tage.",
+      "en": "The workshop lasts two days.",
+      "glosses": {
+       "Der": "the",
+       "Workshop": "workshop",
+       "dauert": "lasts",
+       "zwei": "two",
+       "Tage": "days"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Workshops"
+ },
+ {
+  "word": "Wörterbuch",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1456,
+  "meanings": [
+   {
+    "english": "dictionary",
+    "examples": [
+     {
+      "de": "Ich schlage das Wort im Wörterbuch nach.",
+      "en": "I look the word up in the dictionary.",
+      "glosses": {
+       "Ich": "I",
+       "schlage": "hit",
+       "das": "that/the",
+       "Wort": "word",
+       "im": "in the",
+       "Wörterbuch": "dictionary",
+       "nach": "to"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wörterbücher"
+ },
+ {
+  "word": "Wunsch",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1457,
+  "meanings": [
+   {
+    "english": "wish",
+    "examples": [
+     {
+      "de": "Hast du einen Wunsch zum Geburtstag?",
+      "en": "Do you have a wish for your birthday?",
+      "glosses": {
+       "Hast": "have",
+       "du": "you",
+       "einen": "a",
+       "Wunsch": "wish",
+       "zum": "to the",
+       "Geburtstag": "birthday"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Wünsche"
+ },
+ {
+  "word": "Wurst",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1458,
+  "meanings": [
+   {
+    "english": "sausage",
+    "examples": [
+     {
+      "de": "Zum Frühstück esse ich Brot mit Wurst.",
+      "en": "For breakfast I eat bread with sausage.",
+      "glosses": {
+       "Zum": "to the",
+       "Frühstück": "breakfast",
+       "esse": "eat",
+       "ich": "I",
+       "Brot": "bread",
+       "mit": "with",
+       "Wurst": "sausage"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Würste"
+ },
+ {
+  "word": "Zahl",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1459,
+  "meanings": [
+   {
+    "english": "number, figure",
+    "examples": [
+     {
+      "de": "Die Zahl der Teilnehmer steigt jedes Jahr.",
+      "en": "The number of participants rises every year.",
+      "glosses": {
+       "Die": "the",
+       "Zahl": "number",
+       "der": "the",
+       "Teilnehmer": "participant",
+       "steigt": "rises",
+       "jedes": "every",
+       "Jahr": "year"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zahlen"
+ },
+ {
+  "word": "Zahn",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1460,
+  "meanings": [
+   {
+    "english": "tooth",
+    "examples": [
+     {
+      "de": "Ich muss zum Zahnarzt, weil mir ein Zahn wehtut.",
+      "en": "I have to go to the dentist because I have a toothache.",
+      "glosses": {
+       "Ich": "I",
+       "muss": "must",
+       "zum": "to the",
+       "Zahnarzt": "dentist",
+       "weil": "because",
+       "mir": "me",
+       "ein": "a",
+       "Zahn": "tooth",
+       "wehtut": "hurts"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zähne"
+ },
+ {
+  "word": "Zeitschrift",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1461,
+  "meanings": [
+   {
+    "english": "magazine, journal",
+    "examples": [
+     {
+      "de": "Im Wartezimmer liegen viele Zeitschriften.",
+      "en": "There are many magazines in the waiting room.",
+      "glosses": {
+       "Im": "in the",
+       "Wartezimmer": "waiting room",
+       "liegen": "lie",
+       "viele": "many",
+       "Zeitschriften": "magazine"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zeitschriften"
+ },
+ {
+  "word": "Zelt",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1462,
+  "meanings": [
+   {
+    "english": "tent",
+    "examples": [
+     {
+      "de": "Wir schlafen im Urlaub im Zelt.",
+      "en": "On holiday we sleep in a tent.",
+      "glosses": {
+       "Wir": "we",
+       "schlafen": "sleep",
+       "im": "in the",
+       "Urlaub": "vacation",
+       "Zelt": "tent"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zelte"
+ },
+ {
+  "word": "Zentrum",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1463,
+  "meanings": [
+   {
+    "english": "centre",
+    "examples": [
+     {
+      "de": "Das Hotel liegt direkt im Zentrum der Stadt.",
+      "en": "The hotel is right in the centre of the city.",
+      "glosses": {
+       "Das": "that/the",
+       "Hotel": "hotel",
+       "liegt": "lies",
+       "direkt": "directly",
+       "im": "in the",
+       "Zentrum": "centre",
+       "der": "the",
+       "Stadt": "city"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zentren"
+ },
+ {
+  "word": "Zettel",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1464,
+  "meanings": [
+   {
+    "english": "slip of paper, note",
+    "examples": [
+     {
+      "de": "Ich schreibe die Adresse auf einen Zettel.",
+      "en": "I write the address on a slip of paper.",
+      "glosses": {
+       "Ich": "I",
+       "schreibe": "write",
+       "die": "the",
+       "Adresse": "address",
+       "auf": "on",
+       "einen": "a",
+       "Zettel": "slip of paper"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zettel"
+ },
+ {
+  "word": "Zeugnis",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1465,
+  "meanings": [
+   {
+    "english": "certificate, report card",
+    "examples": [
+     {
+      "de": "Das Zeugnis kommt am Ende des Schuljahres.",
+      "en": "The report card comes at the end of the school year.",
+      "glosses": {
+       "Das": "that/the",
+       "Zeugnis": "certificate",
+       "kommt": "comes",
+       "am": "at the",
+       "Ende": "end",
+       "des": "the",
+       "Schuljahres": "of the school year"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zeugnisse"
+ },
+ {
+  "word": "Ziel",
+  "pos": "noun",
+  "article": "das",
+  "frequency": 1466,
+  "meanings": [
+   {
+    "english": "goal, target, destination",
+    "examples": [
+     {
+      "de": "Unser Ziel ist es, bis Ende des Jahres Deutsch zu sprechen.",
+      "en": "Our goal is to speak German by the end of the year.",
+      "glosses": {
+       "Unser": "our",
+       "Ziel": "goal",
+       "ist": "is",
+       "es": "it",
+       "bis": "until",
+       "Ende": "end",
+       "des": "the",
+       "Jahres": "of the year",
+       "Deutsch": "German",
+       "zu": "to",
+       "sprechen": "speak"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Ziele"
+ },
+ {
+  "word": "Zirkus",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1467,
+  "meanings": [
+   {
+    "english": "circus",
+    "examples": [
+     {
+      "de": "Die Kinder freuen sich auf den Zirkus.",
+      "en": "The children are looking forward to the circus.",
+      "glosses": {
+       "Die": "the",
+       "Kinder": "children",
+       "freuen": "look forward",
+       "sich": "oneself",
+       "auf": "on",
+       "den": "the",
+       "Zirkus": "circus"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zirkusse"
+ },
+ {
+  "word": "Zitrone",
+  "pos": "noun",
+  "article": "die",
+  "frequency": 1468,
+  "meanings": [
+   {
+    "english": "lemon",
+    "examples": [
+     {
+      "de": "Ich gebe etwas Zitrone in den Tee.",
+      "en": "I put some lemon in the tea.",
+      "glosses": {
+       "Ich": "I",
+       "gebe": "give",
+       "etwas": "something",
+       "Zitrone": "lemon",
+       "in": "in",
+       "den": "the",
+       "Tee": "tea"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "Plural: die Zitronen"
+ },
+ {
+  "word": "Zucker",
+  "pos": "noun",
+  "article": "der",
+  "frequency": 1469,
+  "meanings": [
+   {
+    "english": "sugar",
+    "examples": [
+     {
+      "de": "Möchtest du Zucker in den Tee?",
+      "en": "Would you like sugar in your tea?",
+      "glosses": {
+       "Möchtest": "would like",
+       "du": "you",
+       "Zucker": "sugar",
+       "in": "in",
+       "den": "the",
+       "Tee": "tea"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "No plural"
+ },
+ {
   "word": "zuerst",
   "pos": "adverb",
-  "frequency": 1265,
+  "frequency": 1470,
   "meanings": [
    {
     "english": "first, at first",
@@ -14091,7 +17863,7 @@
  {
   "word": "zuletzt",
   "pos": "adverb",
-  "frequency": 1266,
+  "frequency": 1471,
   "meanings": [
    {
     "english": "last, in the end, lastly",

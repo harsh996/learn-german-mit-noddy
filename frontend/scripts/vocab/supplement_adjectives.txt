@@ -149,7 +149,7 @@ A2 | rosa | invariable | pink
 x Sie trägt ein rosa Kleid. ## She is wearing a pink dress. ## rosa=pink|trägt=wears|Kleid=dress
 
 A2 | geehrt | | honoured, dear (in letters)
-x Sehr geehrte Frau Meier! ## Dear Mrs Meier! ## geehrte=dear|Frau=Mrs|Meier=Meier
+x Sehr geehrte Frau Meier, ## Dear Mrs Meier, ## geehrte=dear|Frau=Mrs|Meier=Meier
 
 A2 | orange | invariable | orange
 x Der Pullover ist orange. ## The sweater is orange. ## orange=orange|Pullover=sweater
