@@ -11,6 +11,11 @@ function dir() {
   return path.join(process.cwd(), "data", "vocab");
 }
 
+/** Lookup keys for a headword: "unterer, untere, unteres" matches each listed form. */
+function headwords(word: string) {
+  return word.split(/,\s*/).map((w) => w.toLowerCase());
+}
+
 function slug(s: string) {
   return s.toLowerCase().replace(/\s+/g, "-");
 }
@@ -66,8 +71,7 @@ export function getVocab() {
 export function buildLookup(entries: VocabEntry[]) {
   const map: Record<string, string> = {};
   for (const e of entries) {
-    const k = e.word.toLowerCase();
-    if (!(k in map)) map[k] = e.meanings[0].english;
+    for (const k of headwords(e.word)) if (!(k in map)) map[k] = e.meanings[0].english;
   }
   return map;
 }
@@ -80,8 +84,7 @@ export function findVocabEntry(word: string): VocabEntry | undefined {
   if (!byWord || byWord.entries !== entries) {
     const map = new Map<string, VocabEntry>();
     for (const e of entries) {
-      const k = e.word.toLowerCase();
-      if (!map.has(k)) map.set(k, e);
+      for (const k of headwords(e.word)) if (!map.has(k)) map.set(k, e);
     }
     byWord = { entries, map };
   }

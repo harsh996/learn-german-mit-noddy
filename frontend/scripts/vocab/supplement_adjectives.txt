@@ -1,0 +1,2543 @@
+# Adjectives missing from the Goethe word lists. Same block format as supplement_prepositions.txt,
+# but one example per word. Common-word glosses are filled in by build_data.py.
+
+A1 | besser | comparative of "gut" | better
+x Heute geht es mir besser. ## I am feeling better today. ## besser=better|geht=goes
+
+A1 | bester, beste, bestes | superlative of "gut" | best
+x Sie ist meine beste Freundin. ## She is my best friend. ## beste=best|Freundin=friend
+
+A1 | nächste | declined: nächster, nächste, nächstes | next, nearest
+x Die nächste Haltestelle ist hier. ## The next stop is here. ## nächste=next|Haltestelle=stop
+
+A1 | möglich | | possible
+x Ist das möglich? ## Is that possible? ## möglich=possible
+
+A1 | gerade | | straight, direct; even (number)
+x Die Straße ist ganz gerade. ## The road is completely straight. ## gerade=straight|Straße=road
+
+A1 | gleich | | same, equal
+x Wir haben das gleiche Auto. ## We have the same car. ## gleiche=same|Auto=car
+
+A1 | später | comparative of "spät" | later
+x Wir treffen uns zu einem späteren Zeitpunkt. ## We will meet at a later time. ## späteren=later|Zeitpunkt=time
+
+A1 | letzter, letzte, letztes | | last, final
+x Das ist mein letzter Tag hier. ## This is my last day here. ## letzter=last|Tag=day
+
+A1 | meist | | most
+x Die meisten Leute arbeiten hier. ## Most people work here. ## meisten=most|Leute=people|arbeiten=work
+
+A1 | halb | | half
+x Ich möchte nur ein halbes Brot. ## I only want half a loaf of bread. ## halbes=half|Brot=bread
+
+A1 | lieb | | dear, nice, kind
+x Meine liebe Oma kommt morgen. ## My dear grandma is coming tomorrow. ## liebe=dear|Oma=grandma|kommt=comes
+
+A1 | automatisch | | automatic
+x Die Tür öffnet sich automatisch. ## The door opens automatically. ## automatisch=automatically|öffnet=opens|sich=itself
+
+A1 | willkommen | | welcome
+x Herzlich willkommen in Berlin! ## A warm welcome to Berlin! ## willkommen=welcome|Herzlich=warmly
+
+A1 | geschlossen | | closed
+x Das Geschäft ist heute geschlossen. ## The shop is closed today. ## geschlossen=closed|Geschäft=shop
+
+A1 | selb(st)ständig | also: selbständig, selbstständig | independent, self-employed
+x Sie arbeitet selbstständig. ## She works independently. ## selbstständig=independently|arbeitet=works
+
+A1 | geöffnet | | open
+x Das Museum ist montags geöffnet. ## The museum is open on Mondays. ## geöffnet=open|Museum=museum|montags=on Mondays
+
+A2 | ganz | | whole, entire
+x Ich habe den ganzen Tag gearbeitet. ## I worked the whole day. ## ganzen=whole|Tag=day|gearbeitet=worked
+
+A2 | eigen | | own
+x Ich habe ein eigenes Zimmer. ## I have my own room. ## eigenes=own|Zimmer=room
+
+A2 | stark | | strong
+x Er ist sehr stark. ## He is very strong. ## stark=strong
+
+A2 | natürlich | | natural
+x Das ist ein natürlicher Vorgang. ## That is a natural process. ## natürlicher=natural|Vorgang=process
+
+A2 | sicher | | safe, secure, certain
+x Der Weg ist nicht sicher. ## The path is not safe. ## sicher=safe|Weg=path
+
+A2 | eigentlich | | actual, real
+x Was ist der eigentliche Grund? ## What is the actual reason? ## eigentliche=actual|Grund=reason
+
+A2 | wirklich | | real, actual
+x Das ist ein wirkliches Problem. ## That is a real problem. ## wirkliches=real|Problem=problem
+
+A2 | früh | | early
+x Am frühen Morgen ist es still. ## In the early morning it is quiet. ## frühen=early|Morgen=morning|still=quiet
+
+A2 | voll | | full
+x Der Bus ist voll. ## The bus is full. ## voll=full|Bus=bus
+
+A2 | verschieden | | different, various
+x Wir haben verschiedene Meinungen. ## We have different opinions. ## verschiedene=different|Meinungen=opinions
+
+A2 | wahrscheinlich | | probable, likely
+x Das ist die wahrscheinlichste Lösung. ## That is the most likely solution. ## wahrscheinlichste=most likely|Lösung=solution
+
+A2 | plötzlich | | sudden
+x Es gab einen plötzlichen Regen. ## There was a sudden rain. ## plötzlichen=sudden|Regen=rain|gab=was
+
+A2 | modern | | modern
+x Die Wohnung ist sehr modern. ## The flat is very modern. ## modern=modern|Wohnung=flat
+
+A2 | tief | | deep, low
+x Der See ist sehr tief. ## The lake is very deep. ## tief=deep|See=lake
+
+A2 | wahr | | true
+x Das ist nicht wahr! ## That is not true! ## wahr=true
+
+A2 | toll | | great, fantastic
+x Das ist eine tolle Idee! ## That is a great idea! ## tolle=great|Idee=idea
+
+A2 | täglich | | daily
+x Ich mache täglich Sport. ## I do sport every day. ## täglich=daily|Sport=sport
+
+A2 | typisch | | typical
+x Das ist typisch für ihn. ## That is typical of him. ## typisch=typical|ihn=him
+
+A2 | warm | | warm
+x Heute ist es sehr warm. ## It is very warm today. ## warm=warm
+
+A2 | streng | | strict
+x Unser Lehrer ist sehr streng. ## Our teacher is very strict. ## streng=strict|Lehrer=teacher
+
+A2 | total | | total, complete
+x Das ist ein totaler Fehler. ## That is a total mistake. ## totaler=total|Fehler=mistake
+
+A2 | trocken | | dry
+x Die Wäsche ist schon trocken. ## The laundry is already dry. ## trocken=dry|Wäsche=laundry
+
+A2 | sportlich | | athletic, sporty
+x Er ist sehr sportlich. ## He is very athletic. ## sportlich=athletic
+
+A2 | spannend | | exciting
+x Der Film war spannend. ## The film was exciting. ## spannend=exciting|Film=film
+
+A2 | super | | super, great
+x Das Wetter ist super. ## The weather is great. ## super=great|Wetter=weather
+
+A2 | vorsichtig | | careful, cautious
+x Sei bitte vorsichtig! ## Please be careful! ## vorsichtig=careful|Sei=be
+
+A2 | weich | | soft
+x Das Bett ist schön weich. ## The bed is nice and soft. ## weich=soft|Bett=bed
+
+A2 | traurig | | sad
+x Warum bist du so traurig? ## Why are you so sad? ## traurig=sad
+
+A2 | süß | | sweet, cute
+x Der Kuchen ist sehr süß. ## The cake is very sweet. ## süß=sweet|Kuchen=cake
+
+A2 | einverstanden | | in agreement, agreed
+x Bist du damit einverstanden? ## Do you agree with that? ## einverstanden=in agreement|damit=with that
+
+A2 | wach | | awake
+x Ich bin schon wach. ## I am already awake. ## wach=awake
+
+A2 | sonnig | | sunny
+x Morgen wird es sonnig. ## Tomorrow it will be sunny. ## sonnig=sunny|wird=becomes
+
+A2 | rosa | invariable | pink
+x Sie trägt ein rosa Kleid. ## She is wearing a pink dress. ## rosa=pink|trägt=wears|Kleid=dress
+
+A2 | geehrt | | honoured, dear (in letters)
+x Sehr geehrte Frau Meier! ## Dear Mrs Meier! ## geehrte=dear|Frau=Mrs|Meier=Meier
+
+A2 | orange | invariable | orange
+x Ich mag den orange Pullover. ## I like the orange sweater. ## orange=orange|Pullover=sweater
+
+A2 | sympathisch | | likeable, nice
+x Der neue Kollege ist sympathisch. ## The new colleague is likeable. ## sympathisch=likeable|Kollege=colleague
+
+A2 | stressig | informal | stressful
+x Die Woche war stressig. ## The week was stressful. ## stressig=stressful|Woche=week
+
+A2 | witzig | | funny, witty
+x Das ist wirklich witzig! ## That is really funny! ## witzig=funny
+
+A2 | getrennt | | separate, separated
+x Wir bezahlen getrennt. ## We are paying separately. ## getrennt=separately|bezahlen=pay
+
+A2 | geschieden | | divorced
+x Seine Eltern sind geschieden. ## His parents are divorced. ## geschieden=divorced|Eltern=parents
+
+A2 | verabredet | | having an appointment, arranged to meet
+x Ich bin heute Abend verabredet. ## I have plans this evening. ## verabredet=with plans|Abend=evening
+
+A2 | lila | invariable | purple
+x Sie hat lila Haare. ## She has purple hair. ## lila=purple|Haare=hair
+
+A2 | erkältet | | having a cold
+x Ich bin leider erkältet. ## Unfortunately I have a cold. ## erkältet=with a cold|leider=unfortunately
+
+A2 | windig | | windy
+x Heute ist es sehr windig. ## It is very windy today. ## windig=windy
+
+B1 | unterer, untere, unteres | attributive only | lower, bottom
+x Das Buch liegt im unteren Regal. ## The book is on the lower shelf. ## unteren=lower|Regal=shelf|liegt=lies
+
+B1 | weiterer, weitere, weiteres | attributive only | further, additional
+x Haben Sie weitere Fragen? ## Do you have any further questions? ## weitere=further|Fragen=questions
+
+B1 | unterschiedlich | | different, varying
+x Die Preise sind unterschiedlich. ## The prices are different. ## unterschiedlich=different|Preise=prices
+
+B1 | einzig | | only, sole
+x Das ist der einzige Weg. ## That is the only way. ## einzige=only|Weg=way
+
+B1 | rechter, rechte, rechtes | attributive only | right
+x Er verletzte sich am rechten Arm. ## He hurt his right arm. ## rechten=right|Arm=arm|verletzte=hurt|sich=himself
+
+B1 | gemeinsam | | common, joint, shared
+x Wir haben gemeinsame Interessen. ## We have shared interests. ## gemeinsame=shared|Interessen=interests
+
+B1 | nahe, nah | | near, close
+x Der Bahnhof ist ganz nah. ## The station is very close. ## nah=close|Bahnhof=station
+
+B1 | sozial | | social
+x Sie arbeitet in einem sozialen Beruf. ## She works in a social profession. ## sozialen=social|Beruf=profession
+
+B1 | besonderer, besondere, besonderes | | special, particular
+x Heute ist ein besonderer Tag. ## Today is a special day. ## besonderer=special|Tag=day
+
+B1 | öffentlich | | public
+x Das ist ein öffentlicher Park. ## That is a public park. ## öffentlicher=public|Park=park
+
+B1 | häufig | | frequent, common
+x Das ist ein häufiger Fehler. ## That is a common mistake. ## häufiger=common|Fehler=mistake
+
+B1 | völlig | | complete, total
+x Das ist völlig unmöglich. ## That is completely impossible. ## völlig=completely|unmöglich=impossible
+
+B1 | gering | | small, low, slight
+x Das Risiko ist gering. ## The risk is low. ## gering=low|Risiko=risk
+
+B1 | persönlich | | personal
+x Das ist eine persönliche Frage. ## That is a personal question. ## persönliche=personal|Frage=question
+
+B1 | tatsächlich | | actual, real
+x Die tatsächlichen Kosten sind höher. ## The actual costs are higher. ## tatsächlichen=actual|Kosten=costs|höher=higher
+
+B1 | zusätzlich | | additional, extra
+x Dafür brauchen wir zusätzliche Hilfe. ## For that we need additional help. ## zusätzliche=additional|Hilfe=help|brauchen=need
+
+B1 | relativ | | relative
+x Die Preise sind relativ niedrig. ## The prices are relatively low. ## relativ=relatively|Preise=prices|niedrig=low
+
+B1 | gleichzeitig | | simultaneous, at the same time
+x Das geschah gleichzeitig. ## That happened at the same time. ## gleichzeitig=at the same time|geschah=happened
+
+B1 | speziell | | special, specific
+x Wir haben ein spezielles Angebot. ## We have a special offer. ## spezielles=special|Angebot=offer
+
+B1 | gesamt | | whole, entire, total
+x Die gesamte Familie kam. ## The whole family came. ## gesamte=whole|Familie=family|kam=came
+
+B1 | bloß | | bare, mere
+x Das ist eine bloße Vermutung. ## That is a mere assumption. ## bloße=mere|Vermutung=assumption
+
+B1 | technisch | | technical
+x Es gibt ein technisches Problem. ## There is a technical problem. ## technisches=technical|Problem=problem|gibt=gives
+
+B1 | ständig | | constant, permanent
+x Er hat ständig neue Ideen. ## He constantly has new ideas. ## ständig=constantly|Ideen=ideas
+
+B1 | rein | | pure, clean
+x Das ist reines Gold. ## That is pure gold. ## reines=pure|Gold=gold
+
+B1 | selten | | rare
+x Solche Tiere sind selten. ## Such animals are rare. ## selten=rare|Solche=such|Tiere=animals
+
+B1 | fest | | firm, solid, fixed
+x Ich habe einen festen Job. ## I have a permanent job. ## festen=permanent|Job=job
+
+B1 | positiv | | positive
+x Das Ergebnis ist positiv. ## The result is positive. ## positiv=positive|Ergebnis=result
+
+B1 | zentral | | central
+x Das Hotel liegt sehr zentral. ## The hotel is very central. ## zentral=central|Hotel=hotel
+
+B1 | knapp | | scarce, tight, narrow
+x Das Geld ist knapp. ## Money is tight. ## knapp=tight|Geld=money
+
+B1 | bestimmt | | certain, particular, specific
+x Ich suche ein bestimmtes Buch. ## I am looking for a particular book. ## bestimmtes=particular|suche=look for|Buch=book
+
+B1 | historisch | | historical
+x Die Stadt hat ein historisches Zentrum. ## The city has a historic centre. ## historisches=historic|Stadt=city|Zentrum=centre
+
+B1 | übrig | | remaining, left over
+x Ist noch etwas Suppe übrig? ## Is there any soup left over? ## übrig=left over|Suppe=soup
+
+B1 | offenbar | | obvious, apparent
+x Das ist ein offenbarer Irrtum. ## That is an obvious mistake. ## offenbarer=obvious|Irrtum=mistake
+
+B1 | erfolgreich | | successful
+x Sie ist eine erfolgreiche Ärztin. ## She is a successful doctor. ## erfolgreiche=successful|Ärztin=doctor
+
+B1 | zahlreich | | numerous
+x Zahlreiche Gäste kamen. ## Numerous guests came. ## Zahlreiche=numerous|Gäste=guests|kamen=came
+
+B1 | weltweit | | worldwide
+x Das ist ein weltweites Problem. ## That is a worldwide problem. ## weltweites=worldwide|Problem=problem
+
+B1 | regelmäßig | | regular
+x Er macht regelmäßig Sport. ## He does sport regularly. ## regelmäßig=regularly|Sport=sport
+
+B1 | menschlich | | human
+x Das ist ein menschlicher Fehler. ## That is a human error. ## menschlicher=human|Fehler=error
+
+B1 | erforderlich | | required, necessary
+x Dafür ist eine Anmeldung erforderlich. ## A registration is required for that. ## erforderlich=required|Anmeldung=registration
+
+B1 | heutig | attributive only | today's, present-day
+x Die heutige Lektion ist leicht. ## Today's lesson is easy. ## heutige=today's|Lektion=lesson|leicht=easy
+
+B1 | finanziell | | financial
+x Wir haben finanzielle Probleme. ## We have financial problems. ## finanzielle=financial|Probleme=problems
+
+B1 | nötig | | necessary
+x Das ist nicht nötig. ## That is not necessary. ## nötig=necessary
+
+B1 | üblich | | usual, customary
+x Das ist hier so üblich. ## That is usual here. ## üblich=usual|hier=here
+
+B1 | national | | national
+x Das ist ein nationaler Feiertag. ## That is a national holiday. ## nationaler=national|Feiertag=holiday
+
+B1 | individuell | | individual
+x Jeder braucht eine individuelle Lösung. ## Everyone needs an individual solution. ## individuelle=individual|Jeder=everyone|Lösung=solution|braucht=needs
+
+B1 | verantwortlich | | responsible
+x Wer ist dafür verantwortlich? ## Who is responsible for that? ## verantwortlich=responsible|dafür=for that
+
+B1 | zuständig | | responsible, in charge, competent
+x Dafür bin ich nicht zuständig. ## I am not in charge of that. ## zuständig=in charge|dafür=of that
+
+B1 | ernst | | serious
+x Das ist ein ernstes Problem. ## That is a serious problem. ## ernstes=serious|Problem=problem
+
+B1 | niedrig | | low
+x Die Preise sind sehr niedrig. ## The prices are very low. ## niedrig=low|Preise=prices
+
+B1 | negativ | | negative
+x Er hat eine negative Meinung. ## He has a negative opinion. ## negative=negative|Meinung=opinion
+
+B1 | beruflich | | professional, work-related
+x Ich bin beruflich in Berlin. ## I am in Berlin on business. ## beruflich=on business
+
+B1 | selbstverständlich | | obvious, a matter of course
+x Das ist doch selbstverständlich! ## That goes without saying! ## selbstverständlich=obvious
+
+B1 | ausschließlich | | exclusive
+x Das Angebot gilt ausschließlich für Kunden. ## The offer is valid exclusively for customers. ## ausschließlich=exclusively|gilt=applies|Kunden=customers
+
+B1 | sinnvoll | | sensible, meaningful
+x Das ist eine sinnvolle Idee. ## That is a sensible idea. ## sinnvolle=sensible|Idee=idea
+
+B1 | ursprünglich | | original
+x Das ist der ursprüngliche Plan. ## That is the original plan. ## ursprüngliche=original|Plan=plan
+
+B1 | jährlich | | annual, yearly
+x Das Fest findet jährlich statt. ## The festival takes place every year. ## jährlich=yearly|Fest=festival|findet=finds|statt=place
+
+B1 | intensiv | | intensive
+x Wir machen einen intensiven Kurs. ## We are doing an intensive course. ## intensiven=intensive|Kurs=course
+
+B1 | eindeutig | | clear, unambiguous
+x Die Antwort ist eindeutig. ## The answer is clear. ## eindeutig=clear|Antwort=answer
+
+B1 | politisch | | political
+x Er interessiert sich für Politik. ## He is interested in politics. ## Politik=politics|interessiert=interested|sich=himself
+
+B1 | still | | quiet, still
+x Es ist ganz still im Haus. ## It is completely quiet in the house. ## still=quiet|Haus=house
+
+B1 | kritisch | | critical
+x Er ist ein kritischer Leser. ## He is a critical reader. ## kritischer=critical|Leser=reader
+
+B1 | riesig | | huge, enormous
+x Das ist ein riesiges Haus. ## That is a huge house. ## riesiges=huge|Haus=house
+
+B1 | dicht | | dense, thick
+x Der Nebel ist sehr dicht. ## The fog is very thick. ## dicht=thick|Nebel=fog
+
+B1 | westlich | | western, west
+x Wir fahren in westlicher Richtung. ## We are driving in a westerly direction. ## westlicher=westerly|Richtung=direction
+
+B1 | extrem | | extreme
+x Es ist extrem heiß heute. ## It is extremely hot today. ## extrem=extremely|heiß=hot
+
+B1 | stolz | | proud
+x Die Eltern sind stolz auf ihr Kind. ## The parents are proud of their child. ## stolz=proud|Kind=child|ihr=their
+
+B1 | endgültig | | final, definitive
+x Das ist meine endgültige Entscheidung. ## That is my final decision. ## endgültige=final|Entscheidung=decision
+
+B1 | elektronisch | | electronic
+x Ich habe ein elektronisches Wörterbuch. ## I have an electronic dictionary. ## elektronisches=electronic|Wörterbuch=dictionary
+
+B1 | sichtbar | | visible
+x Der Fehler ist deutlich sichtbar. ## The mistake is clearly visible. ## sichtbar=visible|deutlich=clearly
+
+B1 | doppelt | | double, twice
+x Ich möchte einen doppelten Espresso. ## I would like a double espresso. ## doppelten=double|Espresso=espresso
+
+B1 | rechtlich | | legal
+x Es gibt rechtliche Probleme. ## There are legal problems. ## rechtliche=legal|Probleme=problems
+
+B1 | kräftig | | strong, powerful
+x Er hat kräftige Arme. ## He has strong arms. ## kräftige=strong|Arme=arms
+
+B1 | wild | | wild
+x Im Wald leben wilde Tiere. ## Wild animals live in the forest. ## wilde=wild|Wald=forest|Tiere=animals
+
+B1 | ideal | | ideal
+x Das Wetter ist ideal zum Wandern. ## The weather is ideal for hiking. ## ideal=ideal|Wandern=hiking
+
+B1 | regional | | regional
+x Wir kaufen regionale Produkte. ## We buy regional products. ## regionale=regional|Produkte=products
+
+B1 | eventuell | | possible, potential
+x Eventuelle Fragen beantworte ich gern. ## I will gladly answer any questions. ## Eventuelle=any|Fragen=questions|beantworte=answer
+
+B1 | ehrlich | | honest
+x Sei bitte ehrlich zu mir. ## Please be honest with me. ## ehrlich=honest|Sei=be
+
+B1 | ordentlich | | tidy, proper, orderly
+x Sein Zimmer ist immer ordentlich. ## His room is always tidy. ## ordentlich=tidy|Zimmer=room
+
+B1 | perfekt | | perfect
+x Dein Deutsch ist perfekt. ## Your German is perfect. ## perfekt=perfect|Deutsch=German
+
+B1 | maximal | | maximum
+x Die maximale Teilnehmerzahl ist zwanzig. ## The maximum number of participants is twenty. ## maximale=maximum|Teilnehmerzahl=number of participants|zwanzig=twenty
+
+B1 | gerecht | | just, fair
+x Das ist nicht gerecht! ## That is not fair! ## gerecht=fair
+
+B1 | digital | | digital
+x Wir nutzen digitale Medien. ## We use digital media. ## digitale=digital|Medien=media|nutzen=use
+
+B1 | komplett | | complete
+x Das Zimmer ist komplett eingerichtet. ## The room is completely furnished. ## komplett=completely|eingerichtet=furnished
+
+B1 | zukünftig | | future
+x Meine zukünftige Frau heißt Anna. ## My future wife is called Anna. ## zukünftige=future|Frau=wife|heißt=is called
+
+B1 | musikalisch | | musical
+x Sie ist sehr musikalisch. ## She is very musical. ## musikalisch=musical
+
+B1 | unglaublich | | incredible, unbelievable
+x Das ist unglaublich! ## That is unbelievable! ## unglaublich=unbelievable
+
+B1 | durchschnittlich | | average
+x Die durchschnittliche Temperatur liegt bei zwanzig Grad. ## The average temperature is twenty degrees. ## durchschnittliche=average|Temperatur=temperature|zwanzig=twenty|Grad=degrees|liegt=lies
+
+B1 | städtisch | | urban, municipal
+x Das ist eine städtische Schule. ## That is a municipal school. ## städtische=municipal|Schule=school
+
+B1 | ungewöhnlich | | unusual
+x Das ist ein ungewöhnlicher Name. ## That is an unusual name. ## ungewöhnlicher=unusual|Name=name
+
+B1 | wunderschön | | beautiful, gorgeous
+x Der Garten ist wunderschön. ## The garden is gorgeous. ## wunderschön=gorgeous|Garten=garden
+
+B1 | kreativ | | creative
+x Sie hat kreative Ideen. ## She has creative ideas. ## kreative=creative|Ideen=ideas
+
+B1 | monatlich | | monthly
+x Die Miete ist monatlich fällig. ## The rent is due monthly. ## monatlich=monthly|Miete=rent|fällig=due
+
+B1 | gemütlich | | cosy, comfortable
+x Das Café ist sehr gemütlich. ## The café is very cosy. ## gemütlich=cosy|Café=café
+
+B1 | gespannt | | eager, curious, tense
+x Ich bin gespannt auf das Ergebnis. ## I am eager to see the result. ## gespannt=eager|Ergebnis=result
+
+B1 | mobil | | mobile
+x Mein Opa ist noch sehr mobil. ## My grandpa is still very mobile. ## mobil=mobile|Opa=grandpa
+
+B1 | voraussichtlich | | expected, anticipated
+x Der Zug kommt voraussichtlich um acht. ## The train is expected at eight. ## voraussichtlich=expected|Zug=train|kommt=arrives
+
+B1 | interessiert | | interested
+x Er ist sehr an Musik interessiert. ## He is very interested in music. ## interessiert=interested|Musik=music
+
+B1 | ausreichend | | sufficient
+x Wir haben ausreichend Zeit. ## We have sufficient time. ## ausreichend=sufficient|Zeit=time
+
+B1 | folgend | | following
+x Bitte beachten Sie die folgenden Hinweise. ## Please note the following instructions. ## folgenden=following|Hinweise=instructions|beachten=note
+
+B1 | geeignet | | suitable
+x Das Buch ist für Anfänger geeignet. ## The book is suitable for beginners. ## geeignet=suitable|Anfänger=beginners
+
+B1 | begeistert | | enthusiastic
+x Die Kinder sind begeistert. ## The children are enthusiastic. ## begeistert=enthusiastic|Kinder=children
+
+B1 | sogenannt | | so-called
+x Er ist ein sogenannter Experte. ## He is a so-called expert. ## sogenannter=so-called|Experte=expert
+
+B1 | gar | | cooked, done
+x Das Fleisch ist noch nicht gar. ## The meat is not cooked through yet. ## gar=cooked|Fleisch=meat
+
+B1 | wert | | worth, valuable
+x Das Buch ist viel Geld wert. ## The book is worth a lot of money. ## wert=worth|Buch=book|Geld=money
+
+B1 | -jährig | suffix, e.g. dreijährig | -year-old, -year
+x Sie hat einen dreijährigen Sohn. ## She has a three-year-old son. ## dreijährigen=three-year-old|Sohn=son
+
+B1 | innerer, innere, inneres | attributive only | inner, internal
+x Das Zimmer hat einen inneren Hof. ## The room has an inner courtyard. ## inneren=inner|Hof=courtyard
+
+B1 | ungefähr | | approximate, rough
+x Das ist nur eine ungefähre Zahl. ## That is only a rough figure. ## ungefähre=rough|Zahl=figure
+
+B1 | oberer, obere, oberes | attributive only | upper, top
+x Das Buch liegt im oberen Regal. ## The book is on the top shelf. ## oberen=top|Regal=shelf
+
+B1 | außen | | outside, exterior
+x Die Tür öffnet sich nach außen. ## The door opens outwards. ## außen=outwards|Tür=door|öffnet=opens
+
+B1 | theoretisch | | theoretical
+x Das ist theoretisch möglich. ## That is theoretically possible. ## theoretisch=theoretically|möglich=possible
+
+B1 | mittlerer, mittlere, mittleres | attributive only | middle, medium
+x Er ist ein Mann mittleren Alters. ## He is a middle-aged man. ## mittleren=middle|Alters=age|Mann=man
+
+B1 | elektrisch | | electric
+x Wir haben ein elektrisches Auto. ## We have an electric car. ## elektrisches=electric|Auto=car
+
+B1 | biologisch | | biological, organic
+x Wir kaufen biologisches Gemüse. ## We buy organic vegetables. ## biologisches=organic|Gemüse=vegetables
+
+B1 | abhängig | | dependent
+x Das ist vom Wetter abhängig. ## That depends on the weather. ## abhängig=dependent|vom=on the|Wetter=weather
+
+B1 | schuld | predicative: schuld sein | to blame, at fault
+x Wer ist schuld daran? ## Who is to blame for that? ## schuld=to blame|daran=for that
+
+B1 | umgekehrt | | reversed, the other way round
+x Es war genau umgekehrt. ## It was exactly the other way round. ## umgekehrt=the other way round|genau=exactly
+
+B1 | körperlich | | physical, bodily
+x Sie macht eine körperlich harte Arbeit. ## She does physically hard work. ## körperlich=physically|harte=hard|Arbeit=work
+
+B1 | schmal | | narrow, slim
+x Die Straße ist sehr schmal. ## The street is very narrow. ## schmal=narrow|Straße=street
+
+B1 | ewig | | eternal, forever
+x Ich warte schon ewig. ## I have been waiting forever. ## ewig=forever|warte=wait
+
+B1 | unheimlich | | eerie, creepy
+x Der Wald ist nachts unheimlich. ## The forest is eerie at night. ## unheimlich=eerie|Wald=forest|nachts=at night
+
+B1 | künstlich | | artificial
+x Das ist künstliches Licht. ## That is artificial light. ## künstliches=artificial|Licht=light
+
+B1 | gewohnt | | accustomed, usual
+x Ich bin an den Lärm gewohnt. ## I am used to the noise. ## gewohnt=used|Lärm=noise|an=to
+
+B1 | parallel | | parallel
+x Die Straßen verlaufen parallel. ## The streets run parallel. ## parallel=parallel|Straßen=streets|verlaufen=run
+
+B1 | flach | | flat, shallow
+x Das Wasser ist hier ganz flach. ## The water is quite shallow here. ## flach=shallow|Wasser=water
+
+B1 | kompliziert | | complicated
+x Das ist eine komplizierte Frage. ## That is a complicated question. ## komplizierte=complicated|Frage=question
+
+B1 | gewöhnlich | | usual, ordinary
+x Das war ein ganz gewöhnlicher Tag. ## That was a completely ordinary day. ## gewöhnlicher=ordinary|Tag=day|ganz=completely
+
+B1 | einheitlich | | uniform, consistent
+x Wir tragen einheitliche Kleidung. ## We wear uniform clothing. ## einheitliche=uniform|Kleidung=clothing|tragen=wear
+
+B1 | statistisch | | statistical
+x Das sind statistische Daten. ## Those are statistical data. ## statistische=statistical|Daten=data
+
+B1 | zufällig | | accidental, by chance
+x Wir haben uns zufällig getroffen. ## We met by chance. ## zufällig=by chance|getroffen=met|uns=each other
+
+B1 | seltsam | | strange, odd
+x Das ist ein seltsames Geräusch. ## That is a strange noise. ## seltsames=strange|Geräusch=noise
+
+B1 | vernünftig | | sensible, reasonable
+x Das ist ein vernünftiger Vorschlag. ## That is a sensible suggestion. ## vernünftiger=sensible|Vorschlag=suggestion
+
+B1 | verrückt | | crazy, mad
+x Du bist doch verrückt! ## You are crazy! ## verrückt=crazy|doch=really
+
+B1 | ernsthaft | | serious, earnest
+x Das ist ein ernsthaftes Problem. ## That is a serious problem. ## ernsthaftes=serious|Problem=problem
+
+B1 | glatt | | smooth, slippery
+x Die Straße ist glatt. ## The road is slippery. ## glatt=slippery|Straße=road
+
+B1 | hübsch | | pretty
+x Das ist ein hübsches Kleid. ## That is a pretty dress. ## hübsches=pretty|Kleid=dress
+
+B1 | rechtzeitig | | punctual, on time
+x Wir sind rechtzeitig angekommen. ## We arrived on time. ## rechtzeitig=on time|angekommen=arrived
+
+B1 | verständlich | | understandable, comprehensible
+x Das ist doch verständlich. ## That is understandable. ## verständlich=understandable
+
+B1 | ökologisch | | ecological
+x Wir leben ökologisch. ## We live in an eco-friendly way. ## ökologisch=ecologically|leben=live
+
+B1 | geheim | | secret
+x Das ist mein geheimer Plan. ## That is my secret plan. ## geheimer=secret|Plan=plan
+
+B1 | heimlich | | secret, covert
+x Er hat heimlich geraucht. ## He smoked secretly. ## heimlich=secretly|geraucht=smoked
+
+B1 | locker | | loose, relaxed
+x Die Schraube ist locker. ## The screw is loose. ## locker=loose|Schraube=screw
+
+B1 | steil | | steep
+x Der Weg ist sehr steil. ## The path is very steep. ## steil=steep|Weg=path
+
+B1 | südlich | | southern, south
+x Wir fahren in südlicher Richtung. ## We are driving in a southerly direction. ## südlicher=southerly|Richtung=direction
+
+B1 | wahnsinnig | | insane, crazy; extremely
+x Das ist wahnsinnig teuer. ## That is insanely expensive. ## wahnsinnig=insanely|teuer=expensive
+
+B1 | virtuell | | virtual
+x Wir treffen uns virtuell. ## We are meeting virtually. ## virtuell=virtually|treffen=meet|uns=each other
+
+B1 | zugänglich | | accessible
+x Das Gebäude ist barrierefrei zugänglich. ## The building is accessible without barriers. ## zugänglich=accessible|Gebäude=building|barrierefrei=barrier-free
+
+B1 | blind | | blind
+x Der alte Hund ist blind. ## The old dog is blind. ## blind=blind|Hund=dog
+
+B1 | feucht | | damp, moist
+x Die Wäsche ist noch feucht. ## The laundry is still damp. ## feucht=damp|Wäsche=laundry
+
+B1 | korrekt | | correct
+x Ihre Antwort ist korrekt. ## Your answer is correct. ## korrekt=correct|Antwort=answer
+
+B1 | merkwürdig | | strange, peculiar
+x Das ist eine merkwürdige Geschichte. ## That is a strange story. ## merkwürdige=strange|Geschichte=story
+
+B1 | mündlich | | oral, spoken
+x Die mündliche Prüfung ist morgen. ## The oral exam is tomorrow. ## mündliche=oral|Prüfung=exam
+
+B1 | neugierig | | curious, nosy
+x Die Kinder sind sehr neugierig. ## The children are very curious. ## neugierig=curious|Kinder=children
+
+B1 | verdächtig | | suspicious
+x Der Mann sieht verdächtig aus. ## The man looks suspicious. ## verdächtig=suspicious|Mann=man|sieht=looks|aus=out
+
+B1 | gründlich | | thorough
+x Er putzt sehr gründlich. ## He cleans very thoroughly. ## gründlich=thoroughly|putzt=cleans
+
+B1 | einsam | | lonely
+x Ich fühle mich oft einsam. ## I often feel lonely. ## einsam=lonely|fühle=feel|mich=myself|oft=often
+
+B1 | schief | | crooked, slanted
+x Das Bild hängt schief. ## The picture is hanging crooked. ## schief=crooked|Bild=picture|hängt=hangs
+
+B1 | peinlich | | embarrassing
+x Das ist mir sehr peinlich. ## I am very embarrassed about that. ## peinlich=embarrassing|mir=me
+
+B1 | wütend | | furious, angry
+x Er war sehr wütend. ## He was very angry. ## wütend=angry|war=was
+
+B1 | flexibel | | flexible
+x Wir haben flexible Arbeitszeiten. ## We have flexible working hours. ## flexible=flexible|Arbeitszeiten=working hours
+
+B1 | vorläufig | | temporary, provisional
+x Das ist nur eine vorläufige Lösung. ## That is only a temporary solution. ## vorläufige=temporary|Lösung=solution
+
+B1 | elegant | | elegant
+x Sie trägt ein elegantes Kleid. ## She is wearing an elegant dress. ## elegantes=elegant|trägt=wears|Kleid=dress
+
+B1 | schuldig | | guilty; owing
+x Er ist schuldig. ## He is guilty. ## schuldig=guilty
+
+B1 | vergeblich | | futile, in vain
+x Alle Mühe war vergeblich. ## All the effort was in vain. ## vergeblich=in vain|Mühe=effort|alle=all
+
+B1 | fröhlich | | cheerful
+x Die Kinder singen fröhliche Lieder. ## The children sing cheerful songs. ## fröhliche=cheerful|Lieder=songs|singen=sing
+
+B1 | nördlich | | northern, north
+x Wir fahren in nördlicher Richtung. ## We are driving in a northerly direction. ## nördlicher=northerly|Richtung=direction
+
+B1 | stumm | | mute, silent
+x Er stand stumm da. ## He stood there silently. ## stumm=silently|stand=stood|da=there
+
+B1 | dauernd | | constant, continuous
+x Er ruft dauernd an. ## He keeps calling constantly. ## dauernd=constantly|ruft=calls|an=up
+
+B1 | dankbar | | grateful, thankful
+x Ich bin dir sehr dankbar. ## I am very grateful to you. ## dankbar=grateful|dir=you
+
+B1 | fließend | | fluent, flowing
+x Sie spricht fließend Deutsch. ## She speaks fluent German. ## fließend=fluent|spricht=speaks|Deutsch=German
+
+B1 | treu | | faithful, loyal
+x Hunde sind treue Tiere. ## Dogs are loyal animals. ## treue=loyal|Hunde=dogs|Tiere=animals
+
+B1 | alternativ | | alternative
+x Gibt es eine alternative Lösung? ## Is there an alternative solution? ## alternative=alternative|Lösung=solution
+
+B1 | realistisch | | realistic
+x Das ist kein realistischer Plan. ## That is not a realistic plan. ## realistischer=realistic|Plan=plan
+
+B1 | berufstätig | | employed, working
+x Meine Mutter ist berufstätig. ## My mother is employed. ## berufstätig=employed|Mutter=mother
+
+B1 | illegal | | illegal
+x Das ist illegal. ## That is illegal. ## illegal=illegal
+
+B1 | mild | | mild
+x Der Winter war mild. ## The winter was mild. ## mild=mild|Winter=winter
+
+B1 | tödlich | | deadly, fatal
+x Das Gift ist tödlich. ## The poison is deadly. ## tödlich=deadly|Gift=poison
+
+B1 | blass | | pale
+x Du siehst blass aus. ## You look pale. ## blass=pale|siehst=look|aus=out
+
+B1 | fällig | | due, payable
+x Die Rechnung ist morgen fällig. ## The invoice is due tomorrow. ## fällig=due|Rechnung=invoice
+
+B1 | interkulturell | | intercultural
+x Wir machen ein interkulturelles Training. ## We are doing intercultural training. ## interkulturelles=intercultural|Training=training
+
+B1 | optimistisch | | optimistic
+x Ich bin optimistisch. ## I am optimistic. ## optimistisch=optimistic
+
+B1 | östlich | | eastern, east
+x Wir fahren in östlicher Richtung. ## We are driving in an easterly direction. ## östlicher=easterly|Richtung=direction
+
+B1 | mutig | | brave
+x Das war ein mutiger Schritt. ## That was a brave step. ## mutiger=brave|Schritt=step
+
+B1 | farbig | | coloured
+x Ich habe farbige Stifte gekauft. ## I bought coloured pencils. ## farbige=coloured|Stifte=pencils|gekauft=bought
+
+B1 | begrenzt | | limited
+x Die Plätze sind begrenzt. ## The places are limited. ## begrenzt=limited|Plätze=places
+
+B1 | frech | | cheeky, impudent
+x Sei nicht so frech! ## Don't be so cheeky! ## frech=cheeky|Sei=be
+
+B1 | strafbar | | punishable
+x Das ist strafbar. ## That is punishable by law. ## strafbar=punishable
+
+B1 | vegetarisch | | vegetarian
+x Ich esse vegetarisch. ## I eat vegetarian. ## vegetarisch=vegetarian|esse=eat
+
+B1 | fair | | fair
+x Das ist nicht fair! ## That is not fair! ## fair=fair
+
+B1 | roh | | raw
+x Das Fleisch ist noch roh. ## The meat is still raw. ## roh=raw|Fleisch=meat
+
+B1 | schick | | chic, stylish
+x Du siehst sehr schick aus. ## You look very smart. ## schick=smart|siehst=look|aus=out
+
+B1 | populär | | popular
+x Der Sänger ist sehr populär. ## The singer is very popular. ## populär=popular|Sänger=singer
+
+B1 | spitz | | pointed, sharp
+x Das Messer ist sehr spitz. ## The knife is very sharp. ## spitz=sharp|Messer=knife
+
+B1 | gratis | | free (of charge)
+x Der Eintritt ist gratis. ## Admission is free. ## gratis=free|Eintritt=admission
+
+B1 | reif | | ripe, mature
+x Die Birnen sind reif. ## The pears are ripe. ## reif=ripe|Birnen=pears
+
+B1 | verwandt | | related
+x Wir sind miteinander verwandt. ## We are related to each other. ## verwandt=related|miteinander=to each other
+
+B1 | lecker | | delicious
+x Der Kuchen ist lecker. ## The cake is delicious. ## lecker=delicious|Kuchen=cake
+
+B1 | mager | | lean, thin
+x Ich esse mageres Fleisch. ## I eat lean meat. ## mageres=lean|Fleisch=meat|esse=eat
+
+B1 | pauschal | | flat-rate, general
+x Der Preis ist pauschal. ## The price is a flat rate. ## pauschal=flat-rate|Preis=price
+
+B1 | haltbar | | durable, long-lasting
+x Die Milch ist lange haltbar. ## The milk keeps for a long time. ## haltbar=durable|Milch=milk|lange=long
+
+B1 | klasse | invariable, informal | great, super
+x Das Konzert war klasse! ## The concert was great! ## klasse=great|Konzert=concert
+
+B1 | zweifach | | double, twofold
+x Wir haben das zweifach geprüft. ## We checked that twice over. ## zweifach=twice over|geprüft=checked
+
+B1 | hungrig | | hungry
+x Ich bin sehr hungrig. ## I am very hungry. ## hungrig=hungry
+
+B1 | erwachsen | | grown-up, adult
+x Meine Kinder sind schon erwachsen. ## My children are already grown up. ## erwachsen=grown up|Kinder=children
+
+B1 | entschlossen | | determined, resolute
+x Sie ist fest entschlossen. ## She is firmly determined. ## entschlossen=determined|fest=firmly
+
+B1 | satt | | full (after eating)
+x Danke, ich bin satt. ## Thanks, I am full. ## satt=full|Danke=thanks
+
+B1 | gleichberechtigt | | having equal rights
+x Frauen und Männer sind gleichberechtigt. ## Women and men have equal rights. ## gleichberechtigt=with equal rights|Frauen=women|Männer=men
+
+B1 | befriedigend | | satisfactory
+x Das Ergebnis ist befriedigend. ## The result is satisfactory. ## befriedigend=satisfactory|Ergebnis=result
+
+B1 | sinnlos | | pointless, senseless
+x Das ist doch sinnlos. ## That is pointless. ## sinnlos=pointless
+
+B1 | prima | invariable, informal | great, excellent
+x Das ist eine prima Idee! ## That is a great idea! ## prima=great|Idee=idea
+
+B1 | untersagt | | prohibited
+x Rauchen ist hier untersagt. ## Smoking is prohibited here. ## untersagt=prohibited|Rauchen=smoking|hier=here
+
+B1 | passiv | | passive
+x Er ist sehr passiv. ## He is very passive. ## passiv=passive
+
+B1 | vorderer, vordere, vorderes | attributive only | front
+x Wir sitzen in der vorderen Reihe. ## We are sitting in the front row. ## vorderen=front|Reihe=row|sitzen=sit
+
+B1 | betrunken | | drunk
+x Er war völlig betrunken. ## He was completely drunk. ## betrunken=drunk|völlig=completely
+
+B1 | sparsam | | economical, thrifty
+x Das Auto ist sehr sparsam. ## The car is very economical. ## sparsam=economical|Auto=car
+
+B1 | höflich | | polite
+x Er ist immer höflich. ## He is always polite. ## höflich=polite|immer=always
+
+B1 | original | | original
+x Das ist das originale Foto. ## That is the original photo. ## originale=original|Foto=photo
+
+B1 | stilistisch | | stylistic
+x Der Text hat stilistische Fehler. ## The text has stylistic errors. ## stilistische=stylistic|Text=text|Fehler=errors
+
+B1 | wöchentlich | | weekly
+x Der Kurs findet wöchentlich statt. ## The course takes place weekly. ## wöchentlich=weekly|Kurs=course|findet=finds|statt=place
+
+B1 | vergnügt | | cheerful, merry
+x Die Kinder spielen vergnügt. ## The children play merrily. ## vergnügt=merrily|Kinder=children|spielen=play
+
+B1 | tolerant | | tolerant
+x Er ist sehr tolerant. ## He is very tolerant. ## tolerant=tolerant
+
+B1 | befreit | | freed, exempt, relieved
+x Sie ist von der Steuer befreit. ## She is exempt from the tax. ## befreit=exempt|Steuer=tax|von=from
+
+B1 | süchtig | | addicted
+x Er ist süchtig nach Schokolade. ## He is addicted to chocolate. ## süchtig=addicted|Schokolade=chocolate
+
+B1 | unentschieden | | undecided, drawn
+x Das Spiel endete unentschieden. ## The game ended in a draw. ## unentschieden=drawn|Spiel=game|endete=ended
+
+B1 | taub | | deaf, numb
+x Mein Fuß ist taub. ## My foot is numb. ## taub=numb|Fuß=foot
+
+B1 | durstig | | thirsty
+x Ich bin sehr durstig. ## I am very thirsty. ## durstig=thirsty
+
+B1 | senkrecht | | vertical, perpendicular
+x Die Linie ist senkrecht. ## The line is vertical. ## senkrecht=vertical|Linie=line
+
+B1 | waagerecht | | horizontal
+x Zeichne eine waagerechte Linie. ## Draw a horizontal line. ## waagerechte=horizontal|Zeichne=draw|Linie=line
+
+B1 | eckig | | angular, square
+x Der Tisch ist eckig. ## The table is square. ## eckig=angular|Tisch=table
+
+B1 | entspannend | | relaxing
+x Das war ein entspannendes Wochenende. ## That was a relaxing weekend. ## entspannendes=relaxing|Wochenende=weekend
+
+B1 | verpflichtet | | obliged
+x Wir sind dazu verpflichtet. ## We are obliged to do so. ## verpflichtet=obliged|dazu=to that
+
+B1 | wertlos | | worthless
+x Das Papier ist wertlos. ## The paper is worthless. ## wertlos=worthless|Papier=paper
+
+B1 | erschöpft | | exhausted
+x Ich bin völlig erschöpft. ## I am completely exhausted. ## erschöpft=exhausted|völlig=completely
+
+B1 | verliebt | | in love
+x Sie ist in ihn verliebt. ## She is in love with him. ## verliebt=in love|ihn=him
+
+B1 | salzig | | salty
+x Die Suppe ist zu salzig. ## The soup is too salty. ## salzig=salty|Suppe=soup|zu=too
+
+B2 | eben | | flat, even, level
+x Das Gelände ist völlig eben. ## The terrain is completely flat. ## eben=flat|Gelände=terrain|völlig=completely
+
+B2 | hinterer, hintere, hinteres | attributive only | rear, back
+x Wir sitzen im hinteren Teil des Busses. ## We are sitting in the back of the bus. ## hinteren=back|Teil=part|Busses=bus
+
+B2 | gewiss | | certain, sure
+x Er hat eine gewisse Erfahrung. ## He has a certain amount of experience. ## gewisse=certain|Erfahrung=experience
+
+B2 | wesentlich | | essential, significant
+x Das ist ein wesentlicher Unterschied. ## That is an essential difference. ## wesentlicher=essential|Unterschied=difference
+
+B2 | amerikanisch | | American
+x Er mag amerikanische Filme. ## He likes American films. ## amerikanische=American|Filme=films|mag=likes
+
+B2 | wirtschaftlich | | economic
+x Das Land hat wirtschaftliche Probleme. ## The country has economic problems. ## wirtschaftliche=economic|Land=country|Probleme=problems
+
+B2 | entscheidend | | decisive
+x Das war der entscheidende Moment. ## That was the decisive moment. ## entscheidende=decisive|Moment=moment
+
+B2 | englisch | | English
+x Sie spricht englisch. ## She speaks English. ## englisch=English
+
+B2 | wissenschaftlich | | scientific
+x Das ist eine wissenschaftliche Studie. ## That is a scientific study. ## wissenschaftliche=scientific|Studie=study
+
+B2 | französisch | | French
+x Ich esse gern französischen Käse. ## I like eating French cheese. ## französischen=French|Käse=cheese|esse=eat
+
+B2 | vorhanden | | available, existing
+x Es sind noch Plätze vorhanden. ## There are still places available. ## vorhanden=available|Plätze=places
+
+B2 | grundsätzlich | | fundamental, in principle
+x Das ist grundsätzlich möglich. ## That is possible in principle. ## grundsätzlich=in principle|möglich=possible
+
+B2 | künftig | | future, in the future
+x Künftig müssen wir vorsichtiger sein. ## In future we must be more careful. ## Künftig=in future|vorsichtiger=more careful|müssen=must
+
+B2 | schlimmer | comparative of "schlimm" | worse
+x Es wird immer schlimmer. ## It is getting worse and worse. ## schlimmer=worse|wird=gets|immer=always
+
+B2 | konkret | | concrete, specific
+x Haben Sie konkrete Fragen? ## Do you have any specific questions? ## konkrete=specific|Fragen=questions
+
+B2 | ehemalig | | former
+x Das ist mein ehemaliger Lehrer. ## That is my former teacher. ## ehemaliger=former|Lehrer=teacher
+
+B2 | jeweilig | attributive only | respective
+x Die jeweiligen Preise stehen im Katalog. ## The respective prices are in the catalogue. ## jeweiligen=respective|Preise=prices|Katalog=catalogue|stehen=stand
+
+B2 | unabhängig | | independent
+x Das Land ist seit 1990 unabhängig. ## The country has been independent since 1990. ## unabhängig=independent|Land=country|seit=since
+
+B2 | Schweizer | invariable, from "Schweiz" | Swiss
+x Wir essen Schweizer Käse. ## We are eating Swiss cheese. ## Schweizer=Swiss|Käse=cheese
+
+B2 | unmittelbar | | immediate, direct
+x Das Hotel liegt in unmittelbarer Nähe. ## The hotel is in the immediate vicinity. ## unmittelbarer=immediate|Nähe=vicinity|liegt=is located
+
+B2 | klassisch | | classical, classic
+x Ich höre gern klassische Musik. ## I like listening to classical music. ## klassische=classical|Musik=music|höre=listen
+
+B2 | bewusst | | conscious, aware
+x Ich bin mir der Gefahr bewusst. ## I am aware of the danger. ## bewusst=aware|Gefahr=danger|mir=myself
+
+B2 | erneut | | renewed, repeated
+x Es gab einen erneuten Versuch. ## There was a renewed attempt. ## erneuten=renewed|Versuch=attempt|gab=was
+
+B2 | gesellschaftlich | | social, societal
+x Das ist ein gesellschaftliches Problem. ## That is a social problem. ## gesellschaftliches=social|Problem=problem
+
+B2 | rasch | | quick, swift
+x Wir brauchen eine rasche Lösung. ## We need a quick solution. ## rasche=quick|Lösung=solution|brauchen=need
+
+B2 | russisch | | Russian
+x Sie lernt russisch. ## She is learning Russian. ## russisch=Russian|lernt=learns
+
+B2 | erheblich | | considerable, substantial
+x Die Kosten sind erheblich gestiegen. ## The costs have risen considerably. ## erheblich=considerably|Kosten=costs|gestiegen=risen
+
+B2 | linker, linke, linkes | attributive only | left
+x Er hat sich den linken Arm gebrochen. ## He broke his left arm. ## linken=left|Arm=arm|gebrochen=broken|sich=himself
+
+B2 | gesetzlich | | legal, statutory
+x Es gibt eine gesetzliche Regelung. ## There is a legal regulation. ## gesetzliche=legal|Regelung=regulation|gibt=gives
+
+B2 | österreichisch | | Austrian
+x Das ist ein österreichisches Rezept. ## That is an Austrian recipe. ## österreichisches=Austrian|Rezept=recipe
+
+B2 | offiziell | | official
+x Das ist eine offizielle Mitteilung. ## That is an official announcement. ## offizielle=official|Mitteilung=announcement
+
+B2 | fein | | fine, delicate
+x Das Mehl ist sehr fein. ## The flour is very fine. ## fein=fine|Mehl=flour
+
+B2 | bisherig | attributive only | previous, hitherto
+x Die bisherigen Ergebnisse sind gut. ## The results so far are good. ## bisherigen=previous|Ergebnisse=results
+
+B2 | tätig | | active, employed
+x Er ist als Lehrer tätig. ## He works as a teacher. ## tätig=employed|Lehrer=teacher
+
+B2 | weitgehend | | extensive, far-reaching
+x Wir haben weitgehende Änderungen geplant. ## We have planned far-reaching changes. ## weitgehende=far-reaching|Änderungen=changes|geplant=planned
+
+B2 | heftig | | violent, intense
+x Es gab einen heftigen Streit. ## There was a violent argument. ## heftigen=violent|Streit=argument|gab=was
+
+B2 | vollständig | | complete
+x Die Liste ist vollständig. ## The list is complete. ## vollständig=complete|Liste=list
+
+B2 | offensichtlich | | obvious, evident
+x Das ist ein offensichtlicher Fehler. ## That is an obvious mistake. ## offensichtlicher=obvious|Fehler=mistake
+
+B2 | britisch | | British
+x Er trinkt britischen Tee. ## He drinks British tea. ## britischen=British|Tee=tea|trinkt=drinks
+
+B2 | italienisch | | Italian
+x Wir essen heute italienisch. ## We are eating Italian food today. ## italienisch=Italian|essen=eat
+
+B2 | staatlich | | state, governmental
+x Das ist eine staatliche Schule. ## That is a state school. ## staatliche=state|Schule=school
+
+B2 | unbekannt | | unknown
+x Der Täter ist noch unbekannt. ## The culprit is still unknown. ## unbekannt=unknown|Täter=culprit
+
+B2 | damalig | attributive only | then, of that time
+x Der damalige Präsident war beliebt. ## The then president was popular. ## damalige=then|Präsident=president|beliebt=popular
+
+B2 | angeblich | | alleged, supposed
+x Der angebliche Dieb wurde verhaftet. ## The alleged thief was arrested. ## angebliche=alleged|Dieb=thief|verhaftet=arrested
+
+B2 | heilig | | holy, sacred
+x Das ist ein heiliger Ort. ## That is a holy place. ## heiliger=holy|Ort=place
+
+B2 | medizinisch | | medical
+x Er braucht medizinische Hilfe. ## He needs medical help. ## medizinische=medical|Hilfe=help|braucht=needs
+
+B2 | global | | global
+x Das ist ein globales Problem. ## That is a global problem. ## globales=global|Problem=problem
+
+B2 | spanisch | | Spanish
+x Sie spricht fließend spanisch. ## She speaks fluent Spanish. ## spanisch=Spanish|fließend=fluently
+
+B2 | vielfältig | | diverse, varied
+x Das Angebot ist sehr vielfältig. ## The range is very varied. ## vielfältig=varied|Angebot=range
+
+B2 | türkisch | | Turkish
+x Ich mag türkischen Tee. ## I like Turkish tea. ## türkischen=Turkish|Tee=tea|mag=like
+
+B2 | katholisch | | Catholic
+x Sie geht in eine katholische Kirche. ## She goes to a Catholic church. ## katholische=Catholic|Kirche=church|geht=goes
+
+B2 | langfristig | | long-term
+x Wir brauchen eine langfristige Lösung. ## We need a long-term solution. ## langfristige=long-term|Lösung=solution|brauchen=need
+
+B2 | äußerer, äußere, äußeres | attributive only | outer, external
+x Das ist nur der äußere Schein. ## That is only outward appearance. ## äußere=outer|Schein=appearance
+
+B2 | demokratisch | | democratic
+x Wir leben in einem demokratischen Land. ## We live in a democratic country. ## demokratischen=democratic|Land=country|leben=live
+
+B2 | enorm | | enormous
+x Das ist ein enormer Erfolg. ## That is an enormous success. ## enormer=enormous|Erfolg=success
+
+B2 | kurzfristig | | short-term, at short notice
+x Das ging sehr kurzfristig. ## That happened at very short notice. ## kurzfristig=at short notice|ging=went
+
+B2 | optimal | | optimal
+x Die Bedingungen sind optimal. ## The conditions are optimal. ## optimal=optimal|Bedingungen=conditions
+
+B2 | massiv | | massive, solid
+x Das ist ein massiver Holztisch. ## That is a solid wooden table. ## massiver=solid|Holztisch=wooden table
+
+B2 | umfangreich | | extensive
+x Das ist ein umfangreiches Buch. ## That is an extensive book. ## umfangreiches=extensive|Buch=book
+
+B2 | generell | | general
+x Das gilt generell für alle. ## That applies generally to everyone. ## generell=generally|gilt=applies|alle=everyone
+
+B2 | lokal | | local
+x Wir kaufen lokale Produkte. ## We buy local products. ## lokale=local|Produkte=products|kaufen=buy
+
+B2 | gezielt | | targeted, specific
+x Das war eine gezielte Aktion. ## That was a targeted action. ## gezielte=targeted|Aktion=action
+
+B2 | stabil | | stable
+x Die Lage ist stabil. ## The situation is stable. ## stabil=stable|Lage=situation
+
+B2 | golden | | golden
+x Sie trägt einen goldenen Ring. ## She is wearing a gold ring. ## goldenen=gold|Ring=ring|trägt=wears
+
+B2 | attraktiv | | attractive
+x Das ist ein attraktives Angebot. ## That is an attractive offer. ## attraktives=attractive|Angebot=offer
+
+B2 | ausdrücklich | | explicit, express
+x Er hat es ausdrücklich verboten. ## He expressly forbade it. ## ausdrücklich=expressly|verboten=forbidden
+
+B2 | intern | | internal
+x Das ist eine interne Angelegenheit. ## That is an internal matter. ## interne=internal|Angelegenheit=matter
+
+B2 | mehrfach | | multiple, repeated
+x Ich habe ihn mehrfach angerufen. ## I called him several times. ## mehrfach=several times|angerufen=called|ihn=him
+
+B2 | ausführlich | | detailed
+x Er gab eine ausführliche Antwort. ## He gave a detailed answer. ## ausführliche=detailed|Antwort=answer|gab=gave
+
+B2 | hervorragend | | outstanding, excellent
+x Das Essen war hervorragend. ## The food was excellent. ## hervorragend=excellent|Essen=food
+
+B2 | stellvertretend | | deputy, representative
+x Sie ist die stellvertretende Direktorin. ## She is the deputy director. ## stellvertretende=deputy|Direktorin=director
+
+B2 | evangelisch | | Protestant
+x Das ist eine evangelische Kirche. ## That is a Protestant church. ## evangelische=Protestant|Kirche=church
+
+B2 | nachhaltig | | sustainable, lasting
+x Wir setzen auf nachhaltige Energie. ## We rely on sustainable energy. ## nachhaltige=sustainable|Energie=energy|setzen=put|auf=on
+
+B2 | wertvoll | | valuable
+x Das ist ein wertvoller Ring. ## That is a valuable ring. ## wertvoller=valuable|Ring=ring
+
+B2 | verfügbar | | available
+x Das Produkt ist sofort verfügbar. ## The product is available immediately. ## verfügbar=available|Produkt=product|sofort=immediately
+
+B2 | divers | | diverse, various
+x Es gibt diverse Möglichkeiten. ## There are various possibilities. ## diverse=various|Möglichkeiten=possibilities|gibt=gives
+
+B2 | extern | | external
+x Wir haben einen externen Berater. ## We have an external consultant. ## externen=external|Berater=consultant
+
+B2 | heimisch | | native, local, domestic
+x Das ist eine heimische Pflanze. ## That is a native plant. ## heimische=native|Pflanze=plant
+
+B2 | professionell | | professional
+x Das war sehr professionell. ## That was very professional. ## professionell=professional
+
+B2 | chinesisch | | Chinese
+x Ich esse gern chinesisch. ## I like eating Chinese food. ## chinesisch=Chinese|esse=eat
+
+B2 | erhältlich | | available, obtainable
+x Das Buch ist im Handel erhältlich. ## The book is available in shops. ## erhältlich=available|Handel=trade|Buch=book
+
+B2 | olympisch | | Olympic
+x Sie hat eine olympische Medaille. ## She has an Olympic medal. ## olympische=Olympic|Medaille=medal
+
+B2 | langjährig | | long-standing, many years of
+x Er hat langjährige Erfahrung. ## He has many years of experience. ## langjährige=many years of|Erfahrung=experience
+
+B2 | hochwertig | | high-quality
+x Das ist ein hochwertiges Produkt. ## That is a high-quality product. ## hochwertiges=high-quality|Produkt=product
+
+B2 | konzentriert | | concentrated, focused
+x Sie arbeitet sehr konzentriert. ## She works in a very focused way. ## konzentriert=focused|arbeitet=works
+
+B2 | beschäftigt | | busy, employed
+x Ich bin gerade beschäftigt. ## I am busy right now. ## beschäftigt=busy|gerade=right now
+
+B2 | überlegen | | superior
+x Er ist ihr überlegen. ## He is superior to her. ## überlegen=superior|ihr=her
+
+B2 | vergangen | | past, last
+x Im vergangenen Jahr war ich in Italien. ## Last year I was in Italy. ## vergangenen=last|Jahr=year|Italien=Italy
+
+B2 | erfahren | | experienced
+x Sie ist eine erfahrene Ärztin. ## She is an experienced doctor. ## erfahrene=experienced|Ärztin=doctor
+
+B2 | bundesweit | | nationwide
+x Das gilt bundesweit. ## That applies nationwide. ## bundesweit=nationwide|gilt=applies
+
+B2 | ehrenamtlich | | voluntary, unpaid
+x Sie arbeitet ehrenamtlich. ## She works as a volunteer. ## ehrenamtlich=as a volunteer|arbeitet=works
+
+B2 | beteiligt | | involved
+x Wer war daran beteiligt? ## Who was involved in that? ## beteiligt=involved|daran=in that
+
+B2 | erledigt | | done, finished
+x Die Arbeit ist erledigt. ## The work is done. ## erledigt=done|Arbeit=work
+
+B2 | ansprechend | | appealing
+x Das Design ist sehr ansprechend. ## The design is very appealing. ## ansprechend=appealing|Design=design
+
+B2 | komplex | | complex
+x Das ist ein komplexes Thema. ## That is a complex topic. ## komplexes=complex|Thema=topic
+
+B2 | geistig | | mental, intellectual
+x Sie ist geistig sehr fit. ## She is mentally very fit. ## geistig=mentally|fit=fit
+
+B2 | militärisch | | military
+x Das ist ein militärisches Gebiet. ## That is a military area. ## militärisches=military|Gebiet=area
+
+B2 | hauptsächlich | | main, chiefly
+x Das Hauptproblem ist die Zeit. ## The main problem is time. ## Hauptproblem=main problem|Zeit=time
+
+B2 | gegenwärtig | | present, current
+x Die gegenwärtige Lage ist schwierig. ## The current situation is difficult. ## gegenwärtige=current|Lage=situation|schwierig=difficult
+
+B2 | zeitlich | | temporal, time-related
+x Das ist zeitlich nicht möglich. ## That is not possible time-wise. ## zeitlich=time-wise|möglich=possible
+
+B2 | spezifisch | | specific
+x Wir haben spezifische Anforderungen. ## We have specific requirements. ## spezifische=specific|Anforderungen=requirements
+
+B2 | chemisch | | chemical
+x Das ist eine chemische Reaktion. ## That is a chemical reaction. ## chemische=chemical|Reaktion=reaction
+
+B2 | künstlerisch | | artistic
+x Er hat künstlerisches Talent. ## He has artistic talent. ## künstlerisches=artistic|Talent=talent
+
+B2 | ökonomisch | | economic
+x Das ist ökonomisch sinnvoll. ## That makes economic sense. ## ökonomisch=economically|sinnvoll=sensible
+
+B2 | religiös | | religious
+x Sie ist sehr religiös. ## She is very religious. ## religiös=religious
+
+B2 | mächtig | | powerful
+x Der König war mächtig. ## The king was powerful. ## mächtig=powerful|König=king
+
+B2 | unmöglich | | impossible
+x Das ist unmöglich! ## That is impossible! ## unmöglich=impossible
+
+B2 | überwiegend | | predominant, mostly
+x Das Wetter ist überwiegend sonnig. ## The weather is mostly sunny. ## überwiegend=mostly|sonnig=sunny|Wetter=weather
+
+B2 | bedeutend | | significant, important
+x Er ist ein bedeutender Künstler. ## He is an important artist. ## bedeutender=important|Künstler=artist
+
+B2 | christlich | | Christian
+x Weihnachten ist ein christliches Fest. ## Christmas is a Christian festival. ## christliches=Christian|Fest=festival|Weihnachten=Christmas
+
+B2 | räumlich | | spatial
+x Wir haben räumliche Probleme. ## We have space problems. ## räumliche=spatial|Probleme=problems
+
+B2 | angemessen | | appropriate, reasonable
+x Der Preis ist angemessen. ## The price is reasonable. ## angemessen=reasonable|Preis=price
+
+B2 | sprachlich | | linguistic
+x Er hat sprachliche Schwierigkeiten. ## He has language difficulties. ## sprachliche=language|Schwierigkeiten=difficulties
+
+B2 | sonstig | | other, miscellaneous
+x Sonstige Fragen beantworte ich später. ## I will answer other questions later. ## Sonstige=other|Fragen=questions|beantworte=answer|später=later
+
+B2 | entfernt | | distant, remote
+x Das Dorf ist weit entfernt. ## The village is far away. ## entfernt=away|Dorf=village|weit=far
+
+B2 | derartig | | such, of that kind
+x Eine derartige Situation ist selten. ## Such a situation is rare. ## derartige=such|Situation=situation|selten=rare
+
+B2 | arabisch | | Arabic
+x Er lernt arabisch. ## He is learning Arabic. ## arabisch=Arabic|lernt=learns
+
+B2 | gewaltig | | enormous, mighty
+x Das war ein gewaltiger Sturm. ## That was an enormous storm. ## gewaltiger=enormous|Sturm=storm
+
+B2 | gegenseitig | | mutual
+x Wir helfen uns gegenseitig. ## We help each other. ## gegenseitig=mutually|helfen=help|uns=each other
+
+B2 | grundlegend | | fundamental
+x Das ist eine grundlegende Frage. ## That is a fundamental question. ## grundlegende=fundamental|Frage=question
+
+B2 | inhaltlich | | regarding content
+x Der Text ist inhaltlich interessant. ## The text is interesting in terms of content. ## inhaltlich=in terms of content|Text=text|interessant=interesting
+
+B2 | exakt | | exact
+x Das ist die exakte Zahl. ## That is the exact number. ## exakte=exact|Zahl=number
+
+B2 | gelegentlich | | occasional
+x Er raucht gelegentlich eine Zigarre. ## He occasionally smokes a cigar. ## gelegentlich=occasionally|raucht=smokes|Zigarre=cigar
+
+B2 | bay(e)risch | | Bavarian
+x Ich liebe das bayerische Bier. ## I love Bavarian beer. ## bayerische=Bavarian|Bier=beer|liebe=love
+
+B2 | grob | | coarse, rough
+x Das Papier ist grob. ## The paper is rough. ## grob=rough|Papier=paper
+
+B2 | vergleichbar | | comparable
+x Das ist nicht vergleichbar. ## That is not comparable. ## vergleichbar=comparable
+
+B2 | allmählich | | gradual
+x Es gab eine allmähliche Besserung. ## There was a gradual improvement. ## allmähliche=gradual|Besserung=improvement|gab=was
+
+B2 | strategisch | | strategic
+x Das war eine strategische Entscheidung. ## That was a strategic decision. ## strategische=strategic|Entscheidung=decision
+
+B2 | konservativ | | conservative
+x Er ist sehr konservativ. ## He is very conservative. ## konservativ=conservative
+
+B2 | nackt | | naked, bare
+x Das Kind lief nackt herum. ## The child ran around naked. ## nackt=naked|Kind=child|lief=ran|herum=around
+
+B2 | physikalisch | | physical (physics)
+x Das ist ein physikalisches Gesetz. ## That is a law of physics. ## physikalisches=physical|Gesetz=law
+
+B2 | touristisch | | tourist, touristic
+x Das ist ein touristischer Ort. ## That is a tourist spot. ## touristischer=tourist|Ort=place
+
+B2 | vielfach | | multiple, frequent
+x Das wurde vielfach kritisiert. ## That was criticised many times. ## vielfach=many times|kritisiert=criticised|wurde=was
+
+B2 | israelisch | | Israeli
+x Er isst gern israelisches Essen. ## He likes eating Israeli food. ## israelisches=Israeli|Essen=food|isst=eats
+
+B2 | real | | real
+x Das ist ein reales Problem. ## That is a real problem. ## reales=real|Problem=problem
+
+B2 | dramatisch | | dramatic
+x Die Lage ist dramatisch. ## The situation is dramatic. ## dramatisch=dramatic|Lage=situation
+
+B2 | erkennbar | | recognisable, visible
+x Der Fehler ist deutlich erkennbar. ## The mistake is clearly recognisable. ## erkennbar=recognisable|Fehler=mistake|deutlich=clearly
+
+B2 | fern | | far, distant
+x Das ist in ferner Zukunft. ## That is in the distant future. ## ferner=distant|Zukunft=future
+
+B2 | objektiv | | objective
+x Sei bitte objektiv. ## Please be objective. ## objektiv=objective|Sei=be
+
+B2 | sorgfältig | | careful, thorough
+x Er arbeitet sehr sorgfältig. ## He works very carefully. ## sorgfältig=carefully|arbeitet=works
+
+B2 | gefangen | | captured, trapped
+x Der Vogel ist im Käfig gefangen. ## The bird is trapped in the cage. ## gefangen=trapped|Vogel=bird|Käfig=cage
+
+B2 | mathematisch | | mathematical
+x Das ist ein mathematisches Problem. ## That is a mathematical problem. ## mathematisches=mathematical|Problem=problem
+
+B2 | griechisch | | Greek
+x Wir essen heute griechisch. ## We are eating Greek food today. ## griechisch=Greek|essen=eat
+
+B2 | radikal | | radical
+x Das ist eine radikale Idee. ## That is a radical idea. ## radikale=radical|Idee=idea
+
+B2 | winzig | | tiny
+x Die Wohnung ist winzig. ## The flat is tiny. ## winzig=tiny|Wohnung=flat
+
+B2 | systematisch | | systematic
+x Er arbeitet sehr systematisch. ## He works very systematically. ## systematisch=systematically|arbeitet=works
+
+B2 | vertraut | | familiar
+x Die Gegend ist mir vertraut. ## The area is familiar to me. ## vertraut=familiar|Gegend=area|mir=me
+
+B2 | erstaunlich | | astonishing
+x Das ist erstaunlich! ## That is astonishing! ## erstaunlich=astonishing
+
+B2 | scheinbar | | apparent, seeming
+x Er ist scheinbar müde. ## He is apparently tired. ## scheinbar=apparently|müde=tired
+
+B2 | sanft | | gentle, soft
+x Sie hat eine sanfte Stimme. ## She has a gentle voice. ## sanfte=gentle|Stimme=voice
+
+B2 | wirksam | | effective
+x Das ist ein wirksames Mittel. ## That is an effective remedy. ## wirksames=effective|Mittel=remedy
+
+B2 | akademisch | | academic
+x Er hat einen akademischen Titel. ## He has an academic title. ## akademischen=academic|Titel=title
+
+B2 | experimentell | | experimental
+x Das ist eine experimentelle Methode. ## That is an experimental method. ## experimentelle=experimental|Methode=method
+
+B2 | primär | | primary
+x Das ist unser primäres Ziel. ## That is our primary goal. ## primäres=primary|Ziel=goal
+
+B2 | übel | | bad, foul, nasty
+x Das Essen riecht übel. ## The food smells foul. ## übel=foul|Essen=food|riecht=smells
+
+B2 | vorübergehend | | temporary
+x Die Straße ist vorübergehend gesperrt. ## The road is temporarily closed. ## vorübergehend=temporarily|Straße=road|gesperrt=closed
+
+B2 | schlicht | | simple, plain
+x Das Zimmer ist schlicht eingerichtet. ## The room is simply furnished. ## schlicht=simply|Zimmer=room|eingerichtet=furnished
+
+B2 | vollkommen | | perfect, complete
+x Das ist vollkommen richtig. ## That is completely right. ## vollkommen=completely|richtig=right
+
+B2 | unendlich | | infinite, endless
+x Das Universum ist unendlich. ## The universe is infinite. ## unendlich=infinite|Universum=universe
+
+B2 | abstrakt | | abstract
+x Das ist ein abstraktes Bild. ## That is an abstract picture. ## abstraktes=abstract|Bild=picture
+
+B2 | lebendig | | alive, lively
+x Die Stadt ist sehr lebendig. ## The city is very lively. ## lebendig=lively|Stadt=city
+
+B2 | indirekt | | indirect
+x Das ist eine indirekte Frage. ## That is an indirect question. ## indirekte=indirect|Frage=question
+
+B2 | subjektiv | | subjective
+x Das ist nur meine subjektive Meinung. ## That is only my subjective opinion. ## subjektive=subjective|Meinung=opinion
+
+B2 | relevant | | relevant
+x Das ist nicht relevant. ## That is not relevant. ## relevant=relevant
+
+B2 | analog | | analogue
+x Ich habe eine analoge Uhr. ## I have an analogue watch. ## analoge=analogue|Uhr=watch
+
+B2 | dynamisch | | dynamic
+x Er ist ein dynamischer Chef. ## He is a dynamic boss. ## dynamischer=dynamic|Chef=boss
+
+B2 | moralisch | | moral
+x Das ist eine moralische Frage. ## That is a moral question. ## moralische=moral|Frage=question
+
+B2 | indisch | | Indian
+x Ich liebe indisches Essen. ## I love Indian food. ## indisches=Indian|Essen=food|liebe=love
+
+B2 | prinzipiell | | in principle
+x Das ist prinzipiell möglich. ## That is possible in principle. ## prinzipiell=in principle|möglich=possible
+
+B2 | potenziell | | potential
+x Das ist ein potenzieller Kunde. ## That is a potential customer. ## potenzieller=potential|Kunde=customer
+
+B2 | Münchner | invariable, from "München" | of Munich, Munich
+x Das ist ein Münchner Bier. ## That is a Munich beer. ## Münchner=Munich|Bier=beer
+
+B2 | problematisch | | problematic
+x Die Situation ist problematisch. ## The situation is problematic. ## problematisch=problematic|Situation=situation
+
+B2 | akut | | acute, urgent
+x Das ist ein akutes Problem. ## That is an acute problem. ## akutes=acute|Problem=problem
+
+B2 | ausgeprägt | | pronounced
+x Sie hat einen ausgeprägten Sinn für Humor. ## She has a pronounced sense of humour. ## ausgeprägten=pronounced|Sinn=sense|Humor=humour
+
+B2 | einig | | agreed, united
+x Wir sind uns einig. ## We are agreed. ## einig=agreed|uns=each other
+
+B2 | jetzig | attributive only | current, present
+x Die jetzige Lage ist schwierig. ## The present situation is difficult. ## jetzige=present|Lage=situation|schwierig=difficult
+
+B2 | außerordentlich | | extraordinary
+x Das war eine außerordentliche Leistung. ## That was an extraordinary achievement. ## außerordentliche=extraordinary|Leistung=achievement
+
+B2 | eigenständig | | independent
+x Sie arbeitet eigenständig. ## She works independently. ## eigenständig=independently|arbeitet=works
+
+B2 | denkbar | | conceivable
+x Das ist durchaus denkbar. ## That is quite conceivable. ## denkbar=conceivable|durchaus=quite
+
+B2 | intellektuell | | intellectual
+x Er ist sehr intellektuell. ## He is very intellectual. ## intellektuell=intellectual
+
+B2 | materiell | | material, financial
+x Das ist eine materielle Frage. ## That is a material question. ## materielle=material|Frage=question
+
+B2 | kontinuierlich | | continuous
+x Das passiert kontinuierlich. ## That happens continuously. ## kontinuierlich=continuously|passiert=happens
+
+B2 | konsequent | | consistent
+x Sie bleibt konsequent. ## She remains consistent. ## konsequent=consistent|bleibt=remains
+
+B2 | psychisch | | mental, psychological
+x Er hat psychische Probleme. ## He has mental health problems. ## psychische=mental|Probleme=problems
+
+B2 | pädagogisch | | educational
+x Das ist ein pädagogisches Konzept. ## That is an educational concept. ## pädagogisches=educational|Konzept=concept
+
+B2 | unsicher | | uncertain, unsafe
+x Ich bin mir unsicher. ## I am not sure. ## unsicher=unsure|mir=myself
+
+B2 | beliebig | | any, arbitrary
+x Wähle eine beliebige Zahl. ## Choose any number. ## beliebige=any|Wähle=choose|Zahl=number
+
+B2 | derzeitig | attributive only | current, present
+x Die derzeitige Lage ist gut. ## The current situation is good. ## derzeitige=current|Lage=situation
+
+B2 | friedlich | | peaceful
+x Es war ein friedlicher Abend. ## It was a peaceful evening. ## friedlicher=peaceful|Abend=evening
+
+B2 | genetisch | | genetic
+x Das ist genetisch bedingt. ## That is genetically determined. ## genetisch=genetically|bedingt=determined
+
+B2 | restlich | | remaining
+x Das restliche Geld spare ich. ## I am saving the remaining money. ## restliche=remaining|Geld=money|spare=save
+
+B2 | umstritten | | controversial
+x Das Thema ist umstritten. ## The topic is controversial. ## umstritten=controversial|Thema=topic
+
+B2 | effektiv | | effective
+x Das ist eine effektive Methode. ## That is an effective method. ## effektive=effective|Methode=method
+
+B2 | konstant | | constant
+x Die Temperatur bleibt konstant. ## The temperature stays constant. ## konstant=constant|Temperatur=temperature|bleibt=stays
+
+B2 | jahrelang | | for years, years-long
+x Wir haben jahrelang gewartet. ## We waited for years. ## jahrelang=for years|gewartet=waited
+
+B2 | liberal | | liberal
+x Er hat liberale Ansichten. ## He has liberal views. ## liberale=liberal|Ansichten=views
+
+B2 | japanisch | | Japanese
+x Ich esse gern japanisch. ## I like eating Japanese food. ## japanisch=Japanese|esse=eat
+
+B2 | optisch | | optical, visual
+x Das ist optisch ansprechend. ## That is visually appealing. ## optisch=visually|ansprechend=appealing
+
+B2 | logisch | | logical
+x Das ist logisch. ## That is logical. ## logisch=logical
+
+B2 | organisch | | organic
+x Das ist organisches Material. ## That is organic material. ## organisches=organic|Material=material
+
+B2 | spontan | | spontaneous
+x Wir fahren spontan ans Meer. ## We are spontaneously going to the sea. ## spontan=spontaneously|fahren=go|ans=to the|Meer=sea
+
+B2 | unzählig | | countless
+x Es gibt unzählige Möglichkeiten. ## There are countless possibilities. ## unzählige=countless|Möglichkeiten=possibilities|gibt=gives
+
+B2 | bescheiden | | modest
+x Er ist sehr bescheiden. ## He is very modest. ## bescheiden=modest
+
+B2 | deutschsprachig | | German-speaking
+x Wir leben in einem deutschsprachigen Land. ## We live in a German-speaking country. ## deutschsprachigen=German-speaking|Land=country|leben=live
+
+B2 | dauerhaft | | lasting, permanent
+x Wir suchen eine dauerhafte Lösung. ## We are looking for a lasting solution. ## dauerhafte=lasting|Lösung=solution|suchen=look for
+
+B2 | nachfolgend | | following
+x Beachten Sie die nachfolgenden Hinweise. ## Note the following instructions. ## nachfolgenden=following|Hinweise=instructions|Beachten=note
+
+B2 | kirchlich | | church, ecclesiastical
+x Sie haben eine kirchliche Hochzeit. ## They are having a church wedding. ## kirchliche=church|Hochzeit=wedding
+
+B2 | herrlich | | marvellous, glorious
+x Das Wetter ist herrlich. ## The weather is glorious. ## herrlich=glorious|Wetter=weather
+
+B2 | unangenehm | | unpleasant
+x Das ist eine unangenehme Situation. ## That is an unpleasant situation. ## unangenehme=unpleasant|Situation=situation
+
+B2 | behindert | | disabled
+x Das Gebäude hat Zugang für behinderte Menschen. ## The building has access for disabled people. ## behinderte=disabled|Menschen=people|Zugang=access|Gebäude=building
+
+B2 | angewiesen | | dependent
+x Ich bin auf deine Hilfe angewiesen. ## I am dependent on your help. ## angewiesen=dependent|Hilfe=help|auf=on
+
+B2 | einmalig | | unique, one-off
+x Das ist eine einmalige Chance. ## That is a unique chance. ## einmalige=unique|Chance=chance
+
+B2 | formal | | formal
+x Das ist nur eine formale Frage. ## That is only a formal question. ## formale=formal|Frage=question
+
+B2 | klinisch | | clinical
+x Das ist ein klinischer Test. ## That is a clinical test. ## klinischer=clinical|Test=test
+
+B2 | stetig | | steady, constant
+x Die Zahl steigt stetig. ## The number is rising steadily. ## stetig=steadily|Zahl=number|steigt=rises
+
+B2 | organisatorisch | | organisational
+x Wir haben organisatorische Probleme. ## We have organisational problems. ## organisatorische=organisational|Probleme=problems
+
+B2 | unklar | | unclear
+x Die Lage ist noch unklar. ## The situation is still unclear. ## unklar=unclear|Lage=situation
+
+B2 | sexuell | | sexual
+x Das ist ein sexuelles Thema. ## That is a sexual topic. ## sexuelles=sexual|Thema=topic
+
+B2 | empfindlich | | sensitive
+x Meine Haut ist sehr empfindlich. ## My skin is very sensitive. ## empfindlich=sensitive|Haut=skin
+
+B2 | einheimisch | | native, local
+x Die einheimische Bevölkerung ist freundlich. ## The local population is friendly. ## einheimische=local|Bevölkerung=population|freundlich=friendly
+
+B2 | betrieblich | | company, operational
+x Das ist eine betriebliche Entscheidung. ## That is an operational decision. ## betriebliche=operational|Entscheidung=decision
+
+B2 | bürgerlich | | civil, middle-class
+x Das ist das bürgerliche Gesetzbuch. ## That is the civil code. ## bürgerliche=civil|Gesetzbuch=code
+
+B2 | großzügig | | generous
+x Er ist sehr großzügig. ## He is very generous. ## großzügig=generous
+
+B2 | konventionell | | conventional
+x Das ist eine konventionelle Methode. ## That is a conventional method. ## konventionelle=conventional|Methode=method
+
+B2 | mühsam | | laborious, arduous
+x Der Aufstieg war mühsam. ## The climb was arduous. ## mühsam=arduous|Aufstieg=climb
+
+B2 | qualitativ | | qualitative
+x Das ist ein qualitativer Unterschied. ## That is a qualitative difference. ## qualitativer=qualitative|Unterschied=difference
+
+B2 | reichlich | | ample, plentiful
+x Es gibt reichlich zu essen. ## There is plenty to eat. ## reichlich=plenty|gibt=gives|essen=eat
+
+B2 | psychologisch | | psychological
+x Das ist ein psychologisches Problem. ## That is a psychological problem. ## psychologisches=psychological|Problem=problem
+
+B2 | vermehrt | | increased
+x Es gibt vermehrt Beschwerden. ## There are increasing complaints. ## vermehrt=increasingly|Beschwerden=complaints|gibt=gives
+
+B2 | strukturell | | structural
+x Das ist ein strukturelles Problem. ## That is a structural problem. ## strukturelles=structural|Problem=problem
+
+B2 | zulässig | | permissible
+x Das ist nicht zulässig. ## That is not permissible. ## zulässig=permissible
+
+B2 | charakteristisch | | characteristic
+x Das ist charakteristisch für ihn. ## That is characteristic of him. ## charakteristisch=characteristic|ihn=him
+
+B2 | detailliert | | detailed
+x Wir brauchen eine detaillierte Planung. ## We need detailed planning. ## detaillierte=detailed|Planung=planning|brauchen=need
+
+B2 | beträchtlich | | considerable
+x Das kostet beträchtlich mehr. ## That costs considerably more. ## beträchtlich=considerably|kostet=costs|mehr=more
+
+B2 | einseitig | | one-sided
+x Das ist eine einseitige Sicht. ## That is a one-sided view. ## einseitige=one-sided|Sicht=view
+
+B2 | diskret | | discreet
+x Sie ist sehr diskret. ## She is very discreet. ## diskret=discreet
+
+B2 | mechanisch | | mechanical
+x Das ist ein mechanischer Fehler. ## That is a mechanical fault. ## mechanischer=mechanical|Fehler=fault
+
+B2 | lauter | invariable | nothing but, pure
+x Er hat lauter Unsinn geredet. ## He talked nothing but nonsense. ## lauter=nothing but|Unsinn=nonsense|geredet=talked
+
+B2 | örtlich | | local
+x Es gibt örtliche Unterschiede. ## There are local differences. ## örtliche=local|Unterschiede=differences|gibt=gives
+
+B2 | polnisch | | Polish
+x Er spricht polnisch. ## He speaks Polish. ## polnisch=Polish|spricht=speaks
+
+B2 | physisch | | physical
+x Das ist physisch anstrengend. ## That is physically strenuous. ## physisch=physically|anstrengend=strenuous
+
+B2 | präzise | | precise
+x Sie gibt präzise Antworten. ## She gives precise answers. ## präzise=precise|Antworten=answers|gibt=gives
+
+B2 | symbolisch | | symbolic
+x Das ist ein symbolischer Preis. ## That is a symbolic price. ## symbolischer=symbolic|Preis=price
+
+B2 | voriger, vorige, voriges | attributive only | previous, last
+x Vorige Woche war ich krank. ## Last week I was ill. ## Vorige=last|Woche=week|krank=ill
+
+B2 | vermeintlich | | supposed, alleged
+x Der vermeintliche Fehler war keiner. ## The supposed mistake was none. ## vermeintliche=supposed|Fehler=mistake|keiner=none
+
+B2 | ärztlich | | medical
+x Er braucht ärztliche Hilfe. ## He needs medical help. ## ärztliche=medical|Hilfe=help|braucht=needs
+
+B2 | aufwändig, aufwendig | | complex, elaborate, costly
+x Die Reparatur ist sehr aufwendig. ## The repair is very elaborate. ## aufwendig=elaborate|Reparatur=repair
+
+B2 | bemerkenswert | | remarkable
+x Das ist eine bemerkenswerte Leistung. ## That is a remarkable achievement. ## bemerkenswerte=remarkable|Leistung=achievement
+
+B2 | besorgt | | concerned, worried
+x Sie ist sehr besorgt. ## She is very worried. ## besorgt=worried
+
+B2 | effizient | | efficient
+x Wir arbeiten sehr effizient. ## We work very efficiently. ## effizient=efficiently|arbeiten=work
+
+B2 | düster | | gloomy, dark
+x Das Zimmer ist düster. ## The room is gloomy. ## düster=gloomy|Zimmer=room
+
+B2 | chronisch | | chronic
+x Er hat eine chronische Krankheit. ## He has a chronic illness. ## chronische=chronic|Krankheit=illness
+
+B2 | erreichbar | | reachable, accessible
+x Ich bin telefonisch erreichbar. ## I can be reached by phone. ## erreichbar=reachable|telefonisch=by phone
+
+B2 | emotional | | emotional
+x Das war ein emotionaler Moment. ## That was an emotional moment. ## emotionaler=emotional|Moment=moment
+
+B2 | landwirtschaftlich | | agricultural
+x Das ist ein landwirtschaftlicher Betrieb. ## That is an agricultural business. ## landwirtschaftlicher=agricultural|Betrieb=business
+
+B2 | maßgeblich | | decisive, significant
+x Er hatte einen maßgeblichen Einfluss. ## He had a decisive influence. ## maßgeblichen=decisive|Einfluss=influence
+
+B2 | operativ | | operational
+x Das ist ein operatives Ziel. ## That is an operational goal. ## operatives=operational|Ziel=goal
+
+B2 | sachlich | | objective, factual
+x Bitte bleib sachlich. ## Please stay objective. ## sachlich=objective|bleib=stay
+
+B2 | philosophisch | | philosophical
+x Das ist eine philosophische Frage. ## That is a philosophical question. ## philosophische=philosophical|Frage=question
+
+B2 | überflüssig | | superfluous
+x Das ist völlig überflüssig. ## That is completely superfluous. ## überflüssig=superfluous|völlig=completely
+
+B2 | unsichtbar | | invisible
+x Die Schrift ist fast unsichtbar. ## The writing is almost invisible. ## unsichtbar=invisible|Schrift=writing|fast=almost
+
+B2 | verbindlich | | binding
+x Das ist eine verbindliche Zusage. ## That is a binding commitment. ## verbindliche=binding|Zusage=commitment
+
+B2 | zwangsläufig | | inevitable
+x Das führt zwangsläufig zu Problemen. ## That inevitably leads to problems. ## zwangsläufig=inevitably|führt=leads|Problemen=problems
+
+B2 | verlegen | | embarrassed
+x Er wurde verlegen. ## He became embarrassed. ## verlegen=embarrassed|wurde=became
+
+B2 | aufrecht | | upright
+x Sie sitzt aufrecht. ## She sits upright. ## aufrecht=upright|sitzt=sits
+
+B2 | auffällig | | conspicuous
+x Er trägt auffällige Kleidung. ## He wears conspicuous clothing. ## auffällige=conspicuous|Kleidung=clothing|trägt=wears
+
+B2 | drastisch | | drastic
+x Das ist eine drastische Maßnahme. ## That is a drastic measure. ## drastische=drastic|Maßnahme=measure
+
+B2 | endlos | | endless
+x Die Straße scheint endlos. ## The road seems endless. ## endlos=endless|Straße=road|scheint=seems
+
+B2 | explizit | | explicit
+x Das steht explizit im Vertrag. ## That is explicitly stated in the contract. ## explizit=explicitly|steht=stands|Vertrag=contract
+
+B2 | fotografisch | | photographic
+x Er hat ein fotografisches Gedächtnis. ## He has a photographic memory. ## fotografisches=photographic|Gedächtnis=memory
+
+B2 | gleichmäßig | | even, steady
+x Atme gleichmäßig. ## Breathe evenly. ## gleichmäßig=evenly|Atme=breathe
+
+B2 | industriell | | industrial
+x Das ist eine industrielle Anlage. ## That is an industrial plant. ## industrielle=industrial|Anlage=plant
+
+B2 | identisch | | identical
+x Die beiden Bilder sind identisch. ## The two pictures are identical. ## identisch=identical|Bilder=pictures|beiden=two
+
+B2 | permanent | | permanent
+x Das Licht ist permanent an. ## The light is permanently on. ## permanent=permanently|Licht=light|an=on
+
+B2 | regelrecht | | downright, proper
+x Das war ein regelrechter Skandal. ## That was a downright scandal. ## regelrechter=downright|Skandal=scandal
+
+B2 | spürbar | | noticeable
+x Die Besserung ist spürbar. ## The improvement is noticeable. ## spürbar=noticeable|Besserung=improvement
+
+B2 | steuerlich | | tax-related
+x Es gibt steuerliche Vorteile. ## There are tax advantages. ## steuerliche=tax|Vorteile=advantages|gibt=gives
+
+B2 | unverändert | | unchanged
+x Die Lage ist unverändert. ## The situation is unchanged. ## unverändert=unchanged|Lage=situation
+
+B2 | starr | | rigid, stiff
+x Seine Haltung ist starr. ## His attitude is rigid. ## starr=rigid|Haltung=attitude
+
+B2 | unverzüglich | | immediate, without delay
+x Bitte antworten Sie unverzüglich. ## Please reply without delay. ## unverzüglich=without delay|antworten=reply
+
+B2 | unwahrscheinlich | | unlikely, improbable
+x Das ist sehr unwahrscheinlich. ## That is very unlikely. ## unwahrscheinlich=unlikely
+
+B2 | vertraglich | | contractual
+x Es gibt eine vertragliche Regelung. ## There is a contractual arrangement. ## vertragliche=contractual|Regelung=arrangement|gibt=gives
+
+B2 | amtlich | | official
+x Das ist ein amtliches Dokument. ## That is an official document. ## amtliches=official|Dokument=document
+
+B2 | außergewöhnlich | | extraordinary
+x Das war ein außergewöhnlicher Tag. ## That was an extraordinary day. ## außergewöhnlicher=extraordinary|Tag=day
+
+B2 | belgisch | | Belgian
+x Ich mag belgische Schokolade. ## I like Belgian chocolate. ## belgische=Belgian|Schokolade=chocolate|mag=like
+
+B2 | vorzeitig | | premature, early
+x Er hat den Vertrag vorzeitig beendet. ## He ended the contract early. ## vorzeitig=early|Vertrag=contract|beendet=ended
+
+B2 | ästhetisch | | aesthetic
+x Das ist ästhetisch ansprechend. ## That is aesthetically pleasing. ## ästhetisch=aesthetically|ansprechend=pleasing
+
+B2 | einstig | attributive only | former, one-time
+x Das ist mein einstiger Nachbar. ## That is my former neighbour. ## einstiger=former|Nachbar=neighbour
+
+B2 | flüssig | | liquid, fluid
+x Das Wasser ist flüssig. ## The water is liquid. ## flüssig=liquid|Wasser=water
+
+B2 | harmlos | | harmless
+x Der Hund ist harmlos. ## The dog is harmless. ## harmlos=harmless|Hund=dog
+
+B2 | glänzend | | shining, brilliant
+x Er hatte einen glänzenden Erfolg. ## He had a brilliant success. ## glänzenden=brilliant|Erfolg=success
+
+B2 | nachdenklich | | thoughtful, pensive
+x Er wirkte nachdenklich. ## He seemed thoughtful. ## nachdenklich=thoughtful|wirkte=seemed
+
+B2 | ländlich | | rural
+x Wir wohnen in einer ländlichen Gegend. ## We live in a rural area. ## ländlichen=rural|Gegend=area|wohnen=live
+
+B2 | schräg | | slanted, diagonal
+x Das Dach ist schräg. ## The roof is slanted. ## schräg=slanted|Dach=roof
+
+B2 | unerwartet | | unexpected
+x Das war eine unerwartete Nachricht. ## That was unexpected news. ## unerwartete=unexpected|Nachricht=news
+
+B2 | absurd | | absurd
+x Das ist völlig absurd. ## That is completely absurd. ## absurd=absurd|völlig=completely
+
+B2 | hilflos | | helpless
+x Das Kind stand hilflos da. ## The child stood there helplessly. ## hilflos=helplessly|Kind=child|stand=stood|da=there
+
+B2 | großartig | | magnificent, great
+x Das ist eine großartige Idee! ## That is a great idea! ## großartige=great|Idee=idea
+
+B2 | niederländisch | | Dutch
+x Er spricht niederländisch. ## He speaks Dutch. ## niederländisch=Dutch|spricht=speaks
+
+B2 | radioaktiv | | radioactive
+x Das Material ist radioaktiv. ## The material is radioactive. ## radioaktiv=radioactive|Material=material
+
+B2 | technologisch | | technological
+x Das ist ein technologischer Fortschritt. ## That is technological progress. ## technologischer=technological|Fortschritt=progress
+
+B2 | solide | | solid, sound
+x Das ist eine solide Arbeit. ## That is solid work. ## solide=solid|Arbeit=work
+
+B2 | unerträglich | | unbearable
+x Die Hitze ist unerträglich. ## The heat is unbearable. ## unerträglich=unbearable|Hitze=heat
+
+B2 | geschmeidig | | supple, smooth
+x Das Leder ist sehr geschmeidig. ## The leather is very supple. ## geschmeidig=supple|Leder=leather
+
+B2 | nervig | informal | annoying
+x Das ist echt nervig! ## That is really annoying! ## nervig=annoying|echt=really
+
+B2 | fraglich | | questionable, doubtful
+x Das ist noch fraglich. ## That is still doubtful. ## fraglich=doubtful|noch=still
+
+B2 | erleichtert | | relieved
+x Sie war sehr erleichtert. ## She was very relieved. ## erleichtert=relieved
+
+B2 | schmerzhaft | | painful
+x Die Behandlung ist schmerzhaft. ## The treatment is painful. ## schmerzhaft=painful|Behandlung=treatment
+
+B2 | schwul | | gay
+x Er ist schwul. ## He is gay. ## schwul=gay
+
+B2 | unweigerlich | | inevitable, unavoidable
+x Das führt unweigerlich zu Streit. ## That inevitably leads to arguments. ## unweigerlich=inevitably|führt=leads|Streit=arguments
+
+B2 | rau | | rough, harsh, hoarse
+x Das Klima ist hier sehr rau. ## The climate here is very harsh. ## rau=harsh|Klima=climate
+
+B2 | unverständlich | | incomprehensible
+x Seine Erklärung ist unverständlich. ## His explanation is incomprehensible. ## unverständlich=incomprehensible|Erklärung=explanation
+
+B2 | niedlich | | cute
+x Das Baby ist so niedlich! ## The baby is so cute! ## niedlich=cute|Baby=baby
+
+B2 | dezent | | discreet, subtle
+x Sie trägt dezentes Make-up. ## She wears subtle make-up. ## dezentes=subtle|Make-up=make-up|trägt=wears
+
+B2 | förmlich | | formal
+x Der Brief ist sehr förmlich. ## The letter is very formal. ## förmlich=formal|Brief=letter
+
+B2 | köstlich | | delicious
+x Die Suppe ist köstlich. ## The soup is delicious. ## köstlich=delicious|Suppe=soup
+
+B2 | kahl | | bald, bare
+x Der Baum ist im Winter kahl. ## The tree is bare in winter. ## kahl=bare|Baum=tree|Winter=winter
+
+B2 | trist | | dreary, bleak
+x Das Wetter ist heute trist. ## The weather is dreary today. ## trist=dreary|Wetter=weather
+
+B2 | hoffnungslos | | hopeless
+x Die Lage ist hoffnungslos. ## The situation is hopeless. ## hoffnungslos=hopeless|Lage=situation
+
+B2 | defekt | | faulty, defective
+x Der Fernseher ist defekt. ## The TV is faulty. ## defekt=faulty|Fernseher=TV
+
+B2 | motiviert | | motivated
+x Er ist sehr motiviert. ## He is very motivated. ## motiviert=motivated
+
+B2 | feige | | cowardly
+x Das war feige von dir. ## That was cowardly of you. ## feige=cowardly|dir=you
+
+B2 | verzweifelt | | desperate
+x Sie war verzweifelt. ## She was desperate. ## verzweifelt=desperate
+
+B2 | kompetent | | competent
+x Er ist ein kompetenter Arzt. ## He is a competent doctor. ## kompetenter=competent|Arzt=doctor
+
+B2 | lose | | loose
+x Die Schraube ist lose. ## The screw is loose. ## lose=loose|Schraube=screw
+
+B2 | lautstark | | loud, vocal
+x Sie protestierten lautstark. ## They protested loudly. ## lautstark=loudly|protestierten=protested
+
+B2 | deutschlandweit | | nationwide (Germany)
+x Das Angebot gilt deutschlandweit. ## The offer is valid across Germany. ## deutschlandweit=across Germany|Angebot=offer|gilt=applies
+
+B2 | zügig | | swift, quick
+x Wir kommen zügig voran. ## We are making swift progress. ## zügig=swiftly|kommen=come|voran=forward
+
+B2 | aufrichtig | | sincere
+x Ich danke Ihnen aufrichtig. ## I thank you sincerely. ## aufrichtig=sincerely|danke=thank
+
+B2 | misstrauisch | | suspicious, distrustful
+x Er ist misstrauisch. ## He is suspicious. ## misstrauisch=suspicious
+
+B2 | einzigartig | | unique
+x Das ist ein einzigartiger Ort. ## That is a unique place. ## einzigartiger=unique|Ort=place
+
+B2 | unterhaltsam | | entertaining
+x Der Film war sehr unterhaltsam. ## The film was very entertaining. ## unterhaltsam=entertaining|Film=film
+
+B2 | überzeugend | | convincing
+x Das Argument ist überzeugend. ## The argument is convincing. ## überzeugend=convincing|Argument=argument
+
+B2 | schlau | | clever, smart
+x Du bist ein schlauer Kopf. ## You are a clever person. ## schlauer=clever|Kopf=head
+
+B2 | aggressiv | | aggressive
+x Der Hund ist aggressiv. ## The dog is aggressive. ## aggressiv=aggressive|Hund=dog
+
+B2 | albern | | silly
+x Sei nicht so albern! ## Don't be so silly! ## albern=silly|Sei=be
+
+B2 | verwirrt | | confused
+x Ich bin total verwirrt. ## I am totally confused. ## verwirrt=confused|total=totally
+
+B2 | dubios | | dubious
+x Das ist ein dubioses Angebot. ## That is a dubious offer. ## dubioses=dubious|Angebot=offer
+
+B2 | matt | | dull, matt, exhausted
+x Das Foto hat eine matte Oberfläche. ## The photo has a matt finish. ## matte=matt|Oberfläche=surface|Foto=photo
+
+B2 | ratlos | | helpless, at a loss
+x Er stand ratlos da. ## He stood there at a loss. ## ratlos=at a loss|stand=stood|da=there
+
+B2 | verpflichtend | | mandatory, binding
+x Die Teilnahme ist verpflichtend. ## Participation is mandatory. ## verpflichtend=mandatory|Teilnahme=participation
+
+B2 | hartnäckig | | persistent, stubborn
+x Er ist sehr hartnäckig. ## He is very persistent. ## hartnäckig=persistent
+
+B2 | angespannt | | tense
+x Die Stimmung ist angespannt. ## The mood is tense. ## angespannt=tense|Stimmung=mood
+
+B2 | telefonisch | | by telephone
+x Sie können telefonisch buchen. ## You can book by telephone. ## telefonisch=by telephone|buchen=book
+
+B2 | heil | | unhurt, intact
+x Wir sind heil angekommen. ## We arrived safe and sound. ## heil=safe|angekommen=arrived
+
+B2 | tatkräftig | | energetic, active
+x Wir brauchen tatkräftige Hilfe. ## We need energetic help. ## tatkräftige=energetic|Hilfe=help|brauchen=need
+
+B2 | nüchtern | | sober, on an empty stomach
+x Er ist wieder nüchtern. ## He is sober again. ## nüchtern=sober|wieder=again
+
+B2 | spitze | invariable, informal | great, top
+x Das Essen war spitze! ## The food was top-notch! ## spitze=top-notch|Essen=food
+
+B2 | farbenfroh | | colourful
+x Das ist ein farbenfrohes Bild. ## That is a colourful picture. ## farbenfrohes=colourful|Bild=picture
+
+B2 | lächerlich | | ridiculous
+x Das ist doch lächerlich. ## That is ridiculous. ## lächerlich=ridiculous
+
+B2 | markant | | striking, distinctive
+x Er hat ein markantes Gesicht. ## He has a striking face. ## markantes=striking|Gesicht=face
+
+B2 | vertikal | | vertical
+x Zeichne eine vertikale Linie. ## Draw a vertical line. ## vertikale=vertical|Linie=line|Zeichne=draw
+
+B2 | oberflächlich | | superficial
+x Das ist nur oberflächlich. ## That is only superficial. ## oberflächlich=superficial
+
+B2 | skeptisch | | sceptical
+x Ich bin da skeptisch. ## I am sceptical about that. ## skeptisch=sceptical|da=about that
+
+B2 | vorherig | attributive only | previous, prior
+x Die vorherige Version war besser. ## The previous version was better. ## vorherige=previous|Version=version|besser=better
+
+B2 | passend | | fitting, suitable
+x Ich suche ein passendes Geschenk. ## I am looking for a suitable present. ## passendes=suitable|Geschenk=present|suche=look for
+
+B2 | eiskalt | | ice-cold
+x Das Wasser ist eiskalt. ## The water is ice-cold. ## eiskalt=ice-cold|Wasser=water
+
+B2 | europaweit | | Europe-wide
+x Das gilt europaweit. ## That applies across Europe. ## europaweit=across Europe|gilt=applies
+
+B2 | dreckig | informal | dirty, filthy
+x Deine Schuhe sind dreckig. ## Your shoes are dirty. ## dreckig=dirty|Schuhe=shoes
+
+B2 | verletzt | | hurt, injured
+x Der Fahrer wurde verletzt. ## The driver was injured. ## verletzt=injured|Fahrer=driver|wurde=was
+
+B2 | riskant | | risky
+x Das ist zu riskant. ## That is too risky. ## riskant=risky|zu=too
+
+B2 | bedingungslos | | unconditional
+x Sie liebt ihn bedingungslos. ## She loves him unconditionally. ## bedingungslos=unconditionally|liebt=loves|ihn=him
+
+B2 | gebraucht | | used, second-hand
+x Wir haben ein gebrauchtes Auto gekauft. ## We bought a used car. ## gebrauchtes=used|Auto=car|gekauft=bought
+
+B2 | darauffolgend | attributive only | following, subsequent
+x Am darauffolgenden Tag regnete es. ## On the following day it rained. ## darauffolgenden=following|Tag=day|regnete=rained
+
+B2 | geschickt | | skilful, clever
+x Er ist sehr geschickt. ## He is very skilful. ## geschickt=skilful
+
+B2 | weise | | wise
+x Sie ist eine weise Frau. ## She is a wise woman. ## weise=wise|Frau=woman
+
+B2 | verkehrt | | wrong, the wrong way round
+x Du hast den Pullover verkehrt angezogen. ## You put the sweater on the wrong way round. ## verkehrt=the wrong way round|Pullover=sweater|angezogen=put on
+
+B2 | heiter | | cheerful, bright
+x Das Wetter ist heiter. ## The weather is bright. ## heiter=bright|Wetter=weather
+
+B2 | leiblich | | biological, physical
+x Das sind ihre leiblichen Eltern. ## Those are her biological parents. ## leiblichen=biological|Eltern=parents
+
+B2 | -stündig | suffix, e.g. dreistündig | -hour, lasting … hours
+x Wir hatten einen dreistündigen Unterricht. ## We had a three-hour lesson. ## dreistündigen=three-hour|Unterricht=lesson
+
+B2 | imposant | | impressive, imposing
+x Das Gebäude ist imposant. ## The building is imposing. ## imposant=imposing|Gebäude=building
+
+B2 | ehrgeizig | | ambitious
+x Sie ist sehr ehrgeizig. ## She is very ambitious. ## ehrgeizig=ambitious
+
+B2 | begabt | | gifted, talented
+x Er ist ein begabter Musiker. ## He is a gifted musician. ## begabter=gifted|Musiker=musician
+
+B2 | formell | | formal
+x Das war ein formelles Gespräch. ## That was a formal conversation. ## formelles=formal|Gespräch=conversation
+
+B2 | umweltfreundlich | | environmentally friendly
+x Das Auto ist umweltfreundlich. ## The car is environmentally friendly. ## umweltfreundlich=environmentally friendly|Auto=car
+
+B2 | stundenlang | | for hours
+x Wir haben stundenlang gewartet. ## We waited for hours. ## stundenlang=for hours|gewartet=waited
+
+B2 | parat | | ready, at hand
+x Hast du die Unterlagen parat? ## Do you have the documents ready? ## parat=ready|Unterlagen=documents
+
+B2 | ersichtlich | | evident, apparent
+x Der Grund ist nicht ersichtlich. ## The reason is not apparent. ## ersichtlich=apparent|Grund=reason
+
+B2 | aufgeregt | | excited, nervous
+x Die Kinder sind sehr aufgeregt. ## The children are very excited. ## aufgeregt=excited|Kinder=children
+
+B2 | feierlich | | solemn, festive
+x Es war eine feierliche Zeremonie. ## It was a solemn ceremony. ## feierliche=solemn|Zeremonie=ceremony
+
+B2 | schüchtern | | shy
+x Sie ist sehr schüchtern. ## She is very shy. ## schüchtern=shy
+
+B2 | fragwürdig | | questionable
+x Das ist eine fragwürdige Methode. ## That is a questionable method. ## fragwürdige=questionable|Methode=method
+
+B2 | steif | | stiff
+x Mein Nacken ist steif. ## My neck is stiff. ## steif=stiff|Nacken=neck
+
+B2 | tragbar | | portable, wearable
+x Das ist ein tragbarer Computer. ## That is a portable computer. ## tragbarer=portable|Computer=computer
+
+B2 | erneuerbar | | renewable
+x Wir nutzen erneuerbare Energie. ## We use renewable energy. ## erneuerbare=renewable|Energie=energy|nutzen=use
+
+B2 | regenerativ | | renewable, regenerative
+x Das ist regenerative Energie. ## That is renewable energy. ## regenerative=renewable|Energie=energy
+
+B2 | durchsichtig | | transparent, see-through
+x Das Glas ist durchsichtig. ## The glass is transparent. ## durchsichtig=transparent|Glas=glass
+
+B2 | transparent | | transparent
+x Das Verfahren ist transparent. ## The procedure is transparent. ## transparent=transparent|Verfahren=procedure
+
+B2 | separat | | separate
+x Wir bekommen separate Rechnungen. ## We get separate bills. ## separate=separate|Rechnungen=bills|bekommen=get
+
+B2 | überhöht | | excessive, inflated
+x Die Preise sind überhöht. ## The prices are inflated. ## überhöht=inflated|Preise=prices
+
+B2 | berechtigt | | entitled, justified
+x Die Kritik ist berechtigt. ## The criticism is justified. ## berechtigt=justified|Kritik=criticism
+
+B2 | gegnerisch | | opposing, hostile
+x Das gegnerische Team gewann. ## The opposing team won. ## gegnerische=opposing|Team=team|gewann=won
+
+B2 | vertraulich | | confidential
+x Das ist vertraulich. ## That is confidential. ## vertraulich=confidential
+
+B2 | kostenfrei | | free of charge
+x Die Teilnahme ist kostenfrei. ## Participation is free of charge. ## kostenfrei=free of charge|Teilnahme=participation
+
+B2 | tragisch | | tragic
+x Das war ein tragischer Unfall. ## That was a tragic accident. ## tragischer=tragic|Unfall=accident
+
+B2 | kostbar | | precious
+x Das ist ein kostbarer Stein. ## That is a precious stone. ## kostbarer=precious|Stein=stone
+
+B2 | zuversichtlich | | confident, optimistic
+x Ich bin zuversichtlich. ## I am confident. ## zuversichtlich=confident
+
+B2 | doof | informal | stupid, silly
+x Das ist doch doof! ## That is silly! ## doof=silly
+
+B2 | erfolglos | | unsuccessful
+x Die Suche war erfolglos. ## The search was unsuccessful. ## erfolglos=unsuccessful|Suche=search
+
+B2 | unzufrieden | | dissatisfied
+x Er ist unzufrieden mit seinem Job. ## He is dissatisfied with his job. ## unzufrieden=dissatisfied|Job=job|seinem=his
+
+B2 | trüb | | dull, cloudy, murky
+x Das Wasser ist trüb. ## The water is murky. ## trüb=murky|Wasser=water
+
+B2 | unzureichend | | insufficient
+x Die Informationen sind unzureichend. ## The information is insufficient. ## unzureichend=insufficient|Informationen=information
+
+B2 | interaktiv | | interactive
+x Das ist ein interaktives Spiel. ## That is an interactive game. ## interaktives=interactive|Spiel=game
+
+B2 | unauffällig | | inconspicuous
+x Er verhielt sich unauffällig. ## He behaved inconspicuously. ## unauffällig=inconspicuously|verhielt=behaved|sich=himself
+
+B2 | respektvoll | | respectful
+x Sie behandelt alle respektvoll. ## She treats everyone respectfully. ## respektvoll=respectfully|behandelt=treats|alle=everyone
+
+B2 | umgehend | | immediate, prompt
+x Bitte antworten Sie umgehend. ## Please reply immediately. ## umgehend=immediately|antworten=reply
+
+B2 | zeitlos | | timeless
+x Das ist ein zeitloses Design. ## That is a timeless design. ## zeitloses=timeless|Design=design
+
+B2 | gelaunt | usually with gut/schlecht | in a (good/bad) mood
+x Er ist heute gut gelaunt. ## He is in a good mood today. ## gelaunt=in a mood|gut=good
+
+B2 | gelassen | | calm, composed
+x Sie blieb ganz gelassen. ## She stayed completely calm. ## gelassen=calm|blieb=stayed|ganz=completely
+
+B2 | regulär | | regular, normal
+x Das ist der reguläre Preis. ## That is the regular price. ## reguläre=regular|Preis=price
+
+B2 | temporär | | temporary
+x Das ist nur eine temporäre Lösung. ## That is only a temporary solution. ## temporäre=temporary|Lösung=solution
+
+B2 | unerwünscht | | undesirable, unwelcome
+x Er ist hier unerwünscht. ## He is unwelcome here. ## unerwünscht=unwelcome|hier=here
+
+B2 | genial | | brilliant, ingenious
+x Das ist eine geniale Idee! ## That is a brilliant idea! ## geniale=brilliant|Idee=idea
+
+B2 | gängig | | common, customary
+x Das ist ein gängiger Begriff. ## That is a common term. ## gängiger=common|Begriff=term
+
+B2 | liebevoll | | loving, affectionate
+x Sie ist eine liebevolle Mutter. ## She is a loving mother. ## liebevolle=loving|Mutter=mother
+
+B2 | pur | | pure, straight
+x Ich trinke den Whisky pur. ## I drink the whisky neat. ## pur=neat|trinke=drink|Whisky=whisky
+
+B2 | selbstbewusst | | self-confident
+x Sie ist sehr selbstbewusst. ## She is very self-confident. ## selbstbewusst=self-confident
+
+B2 | unbemerkt | | unnoticed
+x Er verließ den Raum unbemerkt. ## He left the room unnoticed. ## unbemerkt=unnoticed|verließ=left|Raum=room
+
+B2 | überdurchschnittlich | | above average
+x Er ist überdurchschnittlich intelligent. ## He is above-average intelligent. ## überdurchschnittlich=above average|intelligent=intelligent
+
+B2 | magnetisch | | magnetic
+x Das Metall ist magnetisch. ## The metal is magnetic. ## magnetisch=magnetic|Metall=metal
+
+B2 | faszinierend | | fascinating
+x Das ist ein faszinierendes Thema. ## That is a fascinating topic. ## faszinierendes=fascinating|Thema=topic
+
+B2 | autoritär | | authoritarian
+x Sein Stil ist autoritär. ## His style is authoritarian. ## autoritär=authoritarian|Stil=style
+
+B2 | unkompliziert | | uncomplicated, straightforward
+x Die Anmeldung ist unkompliziert. ## The registration is straightforward. ## unkompliziert=straightforward|Anmeldung=registration
+
+B2 | prächtig | | splendid, magnificent
+x Das ist ein prächtiges Schloss. ## That is a magnificent castle. ## prächtiges=magnificent|Schloss=castle
+
+B2 | gehoben | | elevated, upscale
+x Das ist ein gehobenes Restaurant. ## That is an upscale restaurant. ## gehobenes=upscale|Restaurant=restaurant
+
+B2 | gesundheitlich | | health-related
+x Er hat gesundheitliche Probleme. ## He has health problems. ## gesundheitliche=health|Probleme=problems
+
+B2 | vertretbar | | justifiable, defensible
+x Der Preis ist vertretbar. ## The price is justifiable. ## vertretbar=justifiable|Preis=price
+
+B2 | vage | | vague
+x Seine Antwort war vage. ## His answer was vague. ## vage=vague|Antwort=answer
+
+B2 | abwechslungsreich | | varied, full of variety
+x Das Programm ist abwechslungsreich. ## The programme is varied. ## abwechslungsreich=varied|Programm=programme
+
+B2 | talentiert | | talented
+x Sie ist eine talentierte Sängerin. ## She is a talented singer. ## talentierte=talented|Sängerin=singer
+
+B2 | giftig | | toxic, poisonous
+x Der Pilz ist giftig. ## The mushroom is poisonous. ## giftig=poisonous|Pilz=mushroom
+
+B2 | legal | | legal
+x Das ist völlig legal. ## That is completely legal. ## legal=legal|völlig=completely
+
+B2 | spektakulär | | spectacular
+x Das war ein spektakuläres Tor. ## That was a spectacular goal. ## spektakuläres=spectacular|Tor=goal
+
+B2 | absehbar | | foreseeable
+x In absehbarer Zeit passiert nichts. ## Nothing will happen in the foreseeable future. ## absehbarer=foreseeable|Zeit=time|passiert=happens|nichts=nothing
+
+B2 | aufgeschlossen | | open-minded
+x Sie ist sehr aufgeschlossen. ## She is very open-minded. ## aufgeschlossen=open-minded
+
+B2 | portugiesisch | | Portuguese
+x Sie spricht portugiesisch. ## She speaks Portuguese. ## portugiesisch=Portuguese|spricht=speaks
+
+B2 | leistungsfähig | | efficient, capable
+x Der Computer ist sehr leistungsfähig. ## The computer is very powerful. ## leistungsfähig=powerful|Computer=computer
+
+B2 | ungesund | | unhealthy
+x Das Essen ist ungesund. ## The food is unhealthy. ## ungesund=unhealthy|Essen=food
+
+B2 | einwandfrei | | flawless
+x Das Gerät funktioniert einwandfrei. ## The device works flawlessly. ## einwandfrei=flawlessly|Gerät=device|funktioniert=works
+
+B2 | gelernt | | trained, skilled
+x Er ist gelernter Koch. ## He is a trained cook. ## gelernter=trained|Koch=cook
+
+B2 | zurückhaltend | | reserved, restrained
+x Er ist eher zurückhaltend. ## He is rather reserved. ## zurückhaltend=reserved|eher=rather
+
+B2 | römisch | | Roman
+x Das ist eine römische Münze. ## That is a Roman coin. ## römische=Roman|Münze=coin
+
+B2 | ungemein | | tremendous, extremely
+x Das ist ungemein wichtig. ## That is tremendously important. ## ungemein=tremendously|wichtig=important
+
+B2 | palästinensisch | | Palestinian
+x Sie spricht mit einem palästinensischen Kollegen. ## She is talking to a Palestinian colleague. ## palästinensischen=Palestinian|Kollegen=colleague|spricht=talks
+
+B2 | abwechselnd | | alternating
+x Wir kochen abwechselnd. ## We take turns cooking. ## abwechselnd=in turns|kochen=cook
+
+B2 | -tägig | suffix, e.g. dreitägig | -day, lasting … days
+x Wir machen eine dreitägige Reise. ## We are taking a three-day trip. ## dreitägige=three-day|Reise=trip|machen=make
+
+B2 | gemein | | mean, nasty
+x Das war gemein von dir! ## That was mean of you! ## gemein=mean|dir=you
+
+B2 | rasant | | fast, rapid
+x Die Entwicklung ist rasant. ## The development is rapid. ## rasant=rapid|Entwicklung=development
+
+B2 | essenziell | | essential
+x Das ist essenziell. ## That is essential. ## essenziell=essential
+
+B2 | baldig | attributive only | early, soon
+x Auf baldiges Wiedersehen! ## See you again soon! ## baldiges=early|Wiedersehen=reunion|Auf=to
+
+B2 | wettbewerbsfähig | | competitive
+x Die Firma ist wettbewerbsfähig. ## The company is competitive. ## wettbewerbsfähig=competitive|Firma=company
+
+B2 | bezahlbar | | affordable
+x Die Wohnung ist bezahlbar. ## The flat is affordable. ## bezahlbar=affordable|Wohnung=flat
+
+B2 | absichtlich | | intentional, deliberate
+x Das war nicht absichtlich. ## That was not intentional. ## absichtlich=intentional
+
+B2 | fachlich | | professional, technical
+x Er ist fachlich sehr kompetent. ## He is professionally very competent. ## fachlich=professionally|kompetent=competent
+
+B2 | vorzüglich | | excellent, superb
+x Das Essen war vorzüglich. ## The food was superb. ## vorzüglich=superb|Essen=food
+
+B2 | beeindruckend | | impressive
+x Das ist eine beeindruckende Leistung. ## That is an impressive achievement. ## beeindruckende=impressive|Leistung=achievement
+
+B2 | funktional | | functional
+x Das Design ist sehr funktional. ## The design is very functional. ## funktional=functional|Design=design
+
+B2 | neutral | | neutral
+x Bleib bitte neutral. ## Please stay neutral. ## neutral=neutral|Bleib=stay
+
+B2 | autonom | | autonomous
+x Das ist ein autonomes Fahrzeug. ## That is an autonomous vehicle. ## autonomes=autonomous|Fahrzeug=vehicle
+
+B2 | genervt | | annoyed
+x Ich bin total genervt. ## I am totally annoyed. ## genervt=annoyed|total=totally
+
+B2 | widersprüchlich | | contradictory
+x Die Aussagen sind widersprüchlich. ## The statements are contradictory. ## widersprüchlich=contradictory|Aussagen=statements
+
+B2 | häuslich | | domestic, home-loving
+x Er ist sehr häuslich. ## He is very home-loving. ## häuslich=home-loving
+
+B2 | edel | | noble, fine
+x Das ist ein edles Material. ## That is a fine material. ## edles=fine|Material=material
+
+B2 | geographisch, geografisch | | geographical
+x Das ist eine geografische Frage. ## That is a geographical question. ## geografische=geographical|Frage=question
+
+B2 | kommunikativ | | communicative
+x Sie ist sehr kommunikativ. ## She is very communicative. ## kommunikativ=communicative
+
+B2 | linear | | linear
+x Das ist eine lineare Entwicklung. ## That is a linear development. ## lineare=linear|Entwicklung=development
+
+B2 | gentechnisch | | genetically engineered
+x Das ist ein gentechnisch verändertes Produkt. ## That is a genetically modified product. ## gentechnisch=genetically|verändertes=modified|Produkt=product
+
+B2 | verschwenderisch | | wasteful, lavish
+x Das ist sehr verschwenderisch. ## That is very wasteful. ## verschwenderisch=wasteful
+
+B2 | geizig | | stingy, mean
+x Er ist sehr geizig. ## He is very stingy. ## geizig=stingy
+
+B2 | todkrank | | terminally ill
+x Der Patient ist todkrank. ## The patient is terminally ill. ## todkrank=terminally ill|Patient=patient
+
+B2 | rutschig | | slippery
+x Die Straße ist rutschig. ## The road is slippery. ## rutschig=slippery|Straße=road
+
+B2 | stumpf | | blunt, dull
+x Das Messer ist stumpf. ## The knife is blunt. ## stumpf=blunt|Messer=knife
+
+B2 | dumpf | | dull, muffled
+x Ich hörte ein dumpfes Geräusch. ## I heard a dull noise. ## dumpfes=dull|Geräusch=noise|hörte=heard
+
+B2 | schlapp | informal | limp, listless
+x Ich fühle mich heute schlapp. ## I feel listless today. ## schlapp=listless|fühle=feel|mich=myself
+
+B2 | altmodisch | | old-fashioned
+x Das ist ein altmodischer Hut. ## That is an old-fashioned hat. ## altmodischer=old-fashioned|Hut=hat
+
+B2 | gierig | | greedy
+x Er ist gierig nach Geld. ## He is greedy for money. ## gierig=greedy|Geld=money
+
+B2 | ahnungslos | | clueless, unsuspecting
+x Er ist völlig ahnungslos. ## He is completely clueless. ## ahnungslos=clueless|völlig=completely
+
+B2 | unzuverlässig | | unreliable
+x Der Bus ist unzuverlässig. ## The bus is unreliable. ## unzuverlässig=unreliable|Bus=bus
+
+B2 | möbliert | | furnished
+x Wir suchen ein möbliertes Zimmer. ## We are looking for a furnished room. ## möbliertes=furnished|Zimmer=room|suchen=look for
+
+B2 | beige | invariable | beige
+x Die Wand ist beige. ## The wall is beige. ## beige=beige|Wand=wall
+
+B2 | horizontal | | horizontal
+x Zeichne eine horizontale Linie. ## Draw a horizontal line. ## horizontale=horizontal|Linie=line|Zeichne=draw
+
+B2 | synonym | | synonymous
+x Die beiden Wörter sind synonym. ## The two words are synonymous. ## synonym=synonymous|Wörter=words|beiden=two
+
+B2 | füllig | | plump, full-figured
+x Er ist etwas füllig. ## He is a little plump. ## füllig=plump|etwas=a little
+
+B2 | unschlüssig | | indecisive
+x Ich bin noch unschlüssig. ## I am still undecided. ## unschlüssig=undecided|noch=still
+
+B2 | beengt | | cramped
+x Die Wohnung ist sehr beengt. ## The flat is very cramped. ## beengt=cramped|Wohnung=flat
+
+B2 | teilbar | | divisible
+x Zehn ist durch zwei teilbar. ## Ten is divisible by two. ## teilbar=divisible|Zehn=ten|zwei=two
+
+B2 | stur | | stubborn
+x Er ist so stur! ## He is so stubborn! ## stur=stubborn
+
+B2 | regnerisch | | rainy
+x Das Wetter ist regnerisch. ## The weather is rainy. ## regnerisch=rainy|Wetter=weather
+
+B2 | allergisch | | allergic
+x Ich bin allergisch gegen Katzen. ## I am allergic to cats. ## allergisch=allergic|gegen=to|Katzen=cats
+
+B2 | brünett | | brunette
+x Sie hat brünette Haare. ## She has brunette hair. ## brünette=brunette|Haare=hair
+
+B2 | dunkelhaarig | | dark-haired
+x Er ist groß und dunkelhaarig. ## He is tall and dark-haired. ## dunkelhaarig=dark-haired|groß=tall
+
+B2 | unzertrennlich | | inseparable
+x Die beiden sind unzertrennlich. ## The two are inseparable. ## unzertrennlich=inseparable|beiden=two
+
+B2 | behaart | | hairy
+x Seine Arme sind stark behaart. ## His arms are very hairy. ## behaart=hairy|Arme=arms|stark=very
+
+B2 | unpersönlich | | impersonal
+x Der Brief wirkt unpersönlich. ## The letter seems impersonal. ## unpersönlich=impersonal|Brief=letter|wirkt=seems
+
+B2 | haarig | | hairy
+x Die Situation war haarig. ## The situation was hairy. ## haarig=hairy|Situation=situation
+
+B2 | sprudelnd | | sparkling, bubbling
+x Ich trinke sprudelndes Wasser. ## I drink sparkling water. ## sprudelndes=sparkling|Wasser=water|trinke=drink
+
+B2 | zweifelsfrei | | unquestionable
+x Das ist zweifelsfrei richtig. ## That is unquestionably right. ## zweifelsfrei=unquestionably|richtig=right
+
+B2 | pleite | informal | broke
+x Ich bin total pleite. ## I am completely broke. ## pleite=broke|total=completely
+
+B2 | unhöflich | | impolite
+x Das war sehr unhöflich. ## That was very impolite. ## unhöflich=impolite
+
+B2 | hilfsbereit | | helpful, ready to help
+x Die Nachbarn sind hilfsbereit. ## The neighbours are helpful. ## hilfsbereit=helpful|Nachbarn=neighbours
+
+B2 | ansteckend | | contagious
+x Die Krankheit ist ansteckend. ## The illness is contagious. ## ansteckend=contagious|Krankheit=illness
+
+B2 | ekelhaft | | disgusting
+x Das Essen ist ekelhaft. ## The food is disgusting. ## ekelhaft=disgusting|Essen=food
+
+B2 | unheilbar | | incurable
+x Die Krankheit ist unheilbar. ## The illness is incurable. ## unheilbar=incurable|Krankheit=illness
+
+B2 | missmutig | | sullen, grumpy
+x Er schaut missmutig. ## He looks grumpy. ## missmutig=grumpy|schaut=looks
+
+B2 | umgangssprachlich | | colloquial
+x Das ist ein umgangssprachlicher Ausdruck. ## That is a colloquial expression. ## umgangssprachlicher=colloquial|Ausdruck=expression
+
+B2 | geräumig | | spacious
+x Die Wohnung ist geräumig. ## The flat is spacious. ## geräumig=spacious|Wohnung=flat
+
+B2 | violett | | violet
+x Sie trägt ein violettes Kleid. ## She is wearing a violet dress. ## violettes=violet|Kleid=dress|trägt=wears
+
+B2 | pessimistisch | | pessimistic
+x Er ist sehr pessimistisch. ## He is very pessimistic. ## pessimistisch=pessimistic
+
+B2 | ungemütlich | | uncomfortable, unpleasant
+x Das Wetter ist ungemütlich. ## The weather is unpleasant. ## ungemütlich=unpleasant|Wetter=weather
+
+B2 | fabelhaft | | fabulous
+x Das ist fabelhaft! ## That is fabulous! ## fabelhaft=fabulous
+
+B2 | pflegeleicht | | easy-care
+x Die Pflanze ist pflegeleicht. ## The plant is easy to look after. ## pflegeleicht=easy to look after|Pflanze=plant
+
+B2 | wohnungslos | | homeless
+x Er ist seit Jahren wohnungslos. ## He has been homeless for years. ## wohnungslos=homeless|Jahren=years|seit=for
+
+B2 | volljährig | | of age
+x Sie ist seit gestern volljährig. ## She has been of age since yesterday. ## volljährig=of age|gestern=yesterday|seit=since
+
+B2 | unentschlossen | | undecided
+x Er ist noch unentschlossen. ## He is still undecided. ## unentschlossen=undecided|noch=still
+
+B2 | unordentlich | | messy, untidy
+x Dein Zimmer ist unordentlich. ## Your room is untidy. ## unordentlich=untidy|Zimmer=room
+
+B2 | rothaarig | | red-haired
+x Sie ist rothaarig. ## She is red-haired. ## rothaarig=red-haired
+
+B2 | beleidigt | | offended
+x Er ist beleidigt. ## He is offended. ## beleidigt=offended
+
+B2 | blitzschnell | | lightning-fast
+x Er reagierte blitzschnell. ## He reacted lightning-fast. ## blitzschnell=lightning-fast|reagierte=reacted
+
+B2 | gelenkig | | flexible, agile
+x Die Katze ist sehr gelenkig. ## The cat is very agile. ## gelenkig=agile|Katze=cat
+
+B2 | wehmütig | | wistful
+x Er sah sie wehmütig an. ## He looked at her wistfully. ## wehmütig=wistfully|sah=looked|an=at
+
+B2 | ungeduldig | | impatient
+x Sei nicht so ungeduldig! ## Don't be so impatient! ## ungeduldig=impatient|Sei=be
+
+B2 | krumm | | crooked, bent
+x Der Baum ist krumm gewachsen. ## The tree has grown crooked. ## krumm=crooked|Baum=tree|gewachsen=grown
+
+B2 | widerlich | | disgusting, repulsive
+x Der Geruch ist widerlich. ## The smell is disgusting. ## widerlich=disgusting|Geruch=smell
+
+B2 | verwitwet | | widowed
+x Sie ist seit Jahren verwitwet. ## She has been widowed for years. ## verwitwet=widowed|Jahren=years|seit=for
+
+B2 | abergläubisch | | superstitious
+x Er ist sehr abergläubisch. ## He is very superstitious. ## abergläubisch=superstitious
+
+B2 | mollig | | plump, cosy
+x Sie ist ein bisschen mollig. ## She is a bit plump. ## mollig=plump|bisschen=bit
+
+B2 | schlagfertig | | quick-witted
+x Er ist sehr schlagfertig. ## He is very quick-witted. ## schlagfertig=quick-witted
+
+B2 | erlaubt | | allowed, permitted
+x Rauchen ist hier nicht erlaubt. ## Smoking is not allowed here. ## erlaubt=allowed|Rauchen=smoking|hier=here
+
+B2 | vulgär | | vulgar
+x Das war ein vulgärer Witz. ## That was a vulgar joke. ## vulgärer=vulgar|Witz=joke
+
+B2 | obdachlos | | homeless
+x Der Mann ist obdachlos. ## The man is homeless. ## obdachlos=homeless|Mann=man
+
+B2 | quadratisch | | square
+x Der Tisch ist quadratisch. ## The table is square. ## quadratisch=square|Tisch=table
+
+B2 | zahm | | tame
+x Der Vogel ist ganz zahm. ## The bird is completely tame. ## zahm=tame|Vogel=bird|ganz=completely
+
+B2 | eifersüchtig | | jealous
+x Er ist eifersüchtig. ## He is jealous. ## eifersüchtig=jealous
+
+B2 | nutzlos | | useless
+x Das Werkzeug ist nutzlos. ## The tool is useless. ## nutzlos=useless|Werkzeug=tool
+
+B2 | gebräuchlich | | common, in common use
+x Das ist ein gebräuchliches Wort. ## That is a common word. ## gebräuchliches=common|Wort=word
+
+B2 | alleinerziehend | | single-parent
+x Sie ist alleinerziehend. ## She is a single parent. ## alleinerziehend=single parent
+
+B2 | geläufig | | familiar, common
+x Das Wort ist mir nicht geläufig. ## The word is not familiar to me. ## geläufig=familiar|Wort=word|mir=me
+
+B2 | ungefragt | | unasked
+x Er hat ungefragt mitgemacht. ## He joined in without being asked. ## ungefragt=without being asked|mitgemacht=joined in
+
+B2 | erblich | | hereditary
+x Die Krankheit ist erblich. ## The illness is hereditary. ## erblich=hereditary|Krankheit=illness
+
+B2 | motorisch | | motor
+x Das Kind hat motorische Probleme. ## The child has motor problems. ## motorische=motor|Probleme=problems|Kind=child
+
+B2 | scheu | | shy, timid
+x Das Reh ist sehr scheu. ## The deer is very timid. ## scheu=timid|Reh=deer
+
+B2 | abwertend | | pejorative
+x Das Wort ist abwertend. ## The word is pejorative. ## abwertend=pejorative|Wort=word
+
+B2 | maßlos | | excessive, immoderate
+x Er ist maßlos in seinen Forderungen. ## He is excessive in his demands. ## maßlos=excessive|Forderungen=demands|seinen=his
+
+B2 | beleidigend | | offensive, insulting
+x Das ist beleidigend! ## That is insulting! ## beleidigend=insulting
+
+B2 | alphabetisch | | alphabetical
+x Die Namen stehen in alphabetischer Reihenfolge. ## The names are in alphabetical order. ## alphabetischer=alphabetical|Reihenfolge=order|Namen=names|stehen=stand
+
+B2 | unfreundlich | | unfriendly
+x Der Kellner war unfreundlich. ## The waiter was unfriendly. ## unfreundlich=unfriendly|Kellner=waiter
+
+B2 | unverheiratet | | unmarried
+x Sie ist unverheiratet. ## She is unmarried. ## unverheiratet=unmarried
+
+B2 | veraltet | | obsolete, outdated
+x Das Wort ist veraltet. ## The word is obsolete. ## veraltet=obsolete|Wort=word
+
+B2 | kindisch | | childish
+x Sei nicht so kindisch! ## Don't be so childish! ## kindisch=childish|Sei=be
+
+B2 | derb | | coarse, rough
+x Er hat einen derben Humor. ## He has a coarse sense of humour. ## derben=coarse|Humor=humour
+
+B2 | stechend | | sharp, stabbing, pungent
+x Der Geruch ist stechend. ## The smell is pungent. ## stechend=pungent|Geruch=smell
+
+B2 | unantastbar | | inviolable
+x Die Würde des Menschen ist unantastbar. ## Human dignity is inviolable. ## unantastbar=inviolable|Würde=dignity|Menschen=human being
+
+B2 | eineiig | | identical (twins)
+x Sie sind eineiige Zwillinge. ## They are identical twins. ## eineiige=identical|Zwillinge=twins

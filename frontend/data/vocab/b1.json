@@ -1,8 +1,32 @@
 [
  {
+  "word": "-jährig",
+  "pos": "adjective",
+  "frequency": 1267,
+  "meanings": [
+   {
+    "english": "-year-old, -year",
+    "examples": [
+     {
+      "de": "Sie hat einen dreijährigen Sohn.",
+      "en": "She has a three-year-old son.",
+      "glosses": {
+       "dreijährigen": "three-year-old",
+       "Sohn": "son",
+       "Sie": "she/they/you (formal)",
+       "hat": "has",
+       "einen": "a"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "suffix, e.g. dreijährig"
+ },
+ {
   "word": "abbiegen",
   "pos": "verb",
-  "frequency": 1207,
+  "frequency": 1268,
   "meanings": [
    {
     "english": "to turn (off a road)",
@@ -29,7 +53,7 @@
  {
   "word": "Abbildung",
   "pos": "noun",
-  "frequency": 1208,
+  "frequency": 1269,
   "meanings": [
    {
     "english": "illustration, figure",
@@ -59,7 +83,7 @@
  {
   "word": "abbrechen",
   "pos": "verb",
-  "frequency": 1209,
+  "frequency": 1270,
   "meanings": [
    {
     "english": "to break off, to drop out of",
@@ -83,7 +107,7 @@
  {
   "word": "Abenteuer",
   "pos": "noun",
-  "frequency": 1210,
+  "frequency": 1271,
   "meanings": [
    {
     "english": "adventure",
@@ -119,7 +143,7 @@
  {
   "word": "Abfall",
   "pos": "noun",
-  "frequency": 1211,
+  "frequency": 1272,
   "meanings": [
    {
     "english": "waste, rubbish",
@@ -148,7 +172,7 @@
  {
   "word": "Abfalleimer",
   "pos": "noun",
-  "frequency": 1212,
+  "frequency": 1273,
   "meanings": [
    {
     "english": "trash can, waste bin",
@@ -174,7 +198,7 @@
  {
   "word": "Abgase",
   "pos": "noun",
-  "frequency": 1213,
+  "frequency": 1274,
   "meanings": [
    {
     "english": "exhaust fumes, emissions",
@@ -202,7 +226,7 @@
  {
   "word": "abhängen",
   "pos": "verb",
-  "frequency": 1214,
+  "frequency": 1275,
   "meanings": [
    {
     "english": "to depend (on)",
@@ -231,9 +255,32 @@
   "notes": "hängt ab, hing ab, hat abgehangen (von)"
  },
  {
+  "word": "abhängig",
+  "pos": "adjective",
+  "frequency": 1276,
+  "meanings": [
+   {
+    "english": "dependent",
+    "examples": [
+     {
+      "de": "Das ist vom Wetter abhängig.",
+      "en": "That depends on the weather.",
+      "glosses": {
+       "abhängig": "dependent",
+       "vom": "on the",
+       "Wetter": "weather",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "abheben",
   "pos": "verb",
-  "frequency": 1215,
+  "frequency": 1277,
   "meanings": [
    {
     "english": "to withdraw (money)",
@@ -262,7 +309,7 @@
  {
   "word": "Abitur",
   "pos": "noun",
-  "frequency": 1216,
+  "frequency": 1278,
   "meanings": [
    {
     "english": "Abitur (German school-leaving exam)",
@@ -287,7 +334,7 @@
  {
   "word": "ablehnen",
   "pos": "verb",
-  "frequency": 1217,
+  "frequency": 1279,
   "meanings": [
    {
     "english": "to decline, to reject",
@@ -314,7 +361,7 @@
  {
   "word": "abmachen",
   "pos": "verb",
-  "frequency": 1218,
+  "frequency": 1280,
   "meanings": [
    {
     "english": "to arrange, to agree",
@@ -342,7 +389,7 @@
  {
   "word": "abnehmen",
   "pos": "verb",
-  "frequency": 1219,
+  "frequency": 1281,
   "meanings": [
    {
     "english": "to take off, to remove",
@@ -383,7 +430,7 @@
  {
   "word": "abonnieren",
   "pos": "verb",
-  "frequency": 1220,
+  "frequency": 1282,
   "meanings": [
    {
     "english": "to subscribe to",
@@ -408,7 +455,7 @@
  {
   "word": "absagen",
   "pos": "verb",
-  "frequency": 1221,
+  "frequency": 1283,
   "meanings": [
    {
     "english": "to cancel, to call off",
@@ -438,7 +485,7 @@
  {
   "word": "abschreiben",
   "pos": "verb",
-  "frequency": 1222,
+  "frequency": 1284,
   "meanings": [
    {
     "english": "to copy (from someone)",
@@ -464,7 +511,7 @@
  {
   "word": "absolut",
   "pos": "adjective",
-  "frequency": 1223,
+  "frequency": 1285,
   "meanings": [
    {
     "english": "absolute, absolutely",
@@ -501,7 +548,7 @@
  {
   "word": "abstimmen",
   "pos": "verb",
-  "frequency": 1224,
+  "frequency": 1286,
   "meanings": [
    {
     "english": "to vote",
@@ -526,7 +573,7 @@
  {
   "word": "abwärts",
   "pos": "adverb",
-  "frequency": 1225,
+  "frequency": 1287,
   "meanings": [
    {
     "english": "downward",
@@ -552,7 +599,7 @@
  {
   "word": "abwaschen",
   "pos": "verb",
-  "frequency": 1226,
+  "frequency": 1288,
   "meanings": [
    {
     "english": "to wash up",
@@ -577,7 +624,7 @@
  {
   "word": "abwesend",
   "pos": "adjective",
-  "frequency": 1227,
+  "frequency": 1289,
   "meanings": [
    {
     "english": "absent",
@@ -602,7 +649,7 @@
  {
   "word": "achten",
   "pos": "verb",
-  "frequency": 1228,
+  "frequency": 1290,
   "meanings": [
    {
     "english": "to pay attention (to)",
@@ -629,7 +676,7 @@
  {
   "word": "ähnlich",
   "pos": "adjective",
-  "frequency": 1229,
+  "frequency": 1291,
   "meanings": [
    {
     "english": "similar",
@@ -668,7 +715,7 @@
  {
   "word": "allerdings",
   "pos": "adverb",
-  "frequency": 1230,
+  "frequency": 1292,
   "meanings": [
    {
     "english": "however, though",
@@ -698,7 +745,7 @@
  {
   "word": "allgemein",
   "pos": "adjective",
-  "frequency": 1231,
+  "frequency": 1293,
   "meanings": [
    {
     "english": "general",
@@ -759,7 +806,7 @@
  {
   "word": "alltäglich",
   "pos": "adjective",
-  "frequency": 1232,
+  "frequency": 1294,
   "meanings": [
    {
     "english": "everyday, ordinary",
@@ -796,7 +843,7 @@
  {
   "word": "als ob",
   "pos": "conjunction",
-  "frequency": 1233,
+  "frequency": 1295,
   "meanings": [
    {
     "english": "as if",
@@ -822,9 +869,32 @@
   ]
  },
  {
+  "word": "alternativ",
+  "pos": "adjective",
+  "frequency": 1296,
+  "meanings": [
+   {
+    "english": "alternative",
+    "examples": [
+     {
+      "de": "Gibt es eine alternative Lösung?",
+      "en": "Is there an alternative solution?",
+      "glosses": {
+       "alternative": "alternative",
+       "Lösung": "solution",
+       "Gibt": "gives",
+       "es": "it",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "am",
   "pos": "preposition",
-  "frequency": 1234,
+  "frequency": 1297,
   "meanings": [
    {
     "english": "at the, on the, in the (an + dem)",
@@ -901,7 +971,7 @@
  {
   "word": "analysieren",
   "pos": "verb",
-  "frequency": 1235,
+  "frequency": 1298,
   "meanings": [
    {
     "english": "to analyze",
@@ -928,7 +998,7 @@
  {
   "word": "Anbieter",
   "pos": "noun",
-  "frequency": 1236,
+  "frequency": 1299,
   "meanings": [
    {
     "english": "provider, supplier",
@@ -953,7 +1023,7 @@
  {
   "word": "andererseits",
   "pos": "adverb",
-  "frequency": 1237,
+  "frequency": 1300,
   "meanings": [
    {
     "english": "on the other hand",
@@ -982,7 +1052,7 @@
  {
   "word": "anerkennen",
   "pos": "verb",
-  "frequency": 1238,
+  "frequency": 1301,
   "meanings": [
    {
     "english": "to recognize, to accept (a qualification)",
@@ -1007,7 +1077,7 @@
  {
   "word": "Angabe",
   "pos": "noun",
-  "frequency": 1239,
+  "frequency": 1302,
   "meanings": [
    {
     "english": "information, details",
@@ -1036,7 +1106,7 @@
  {
   "word": "angeben",
   "pos": "verb",
-  "frequency": 1240,
+  "frequency": 1303,
   "meanings": [
    {
     "english": "to state, to indicate",
@@ -1062,7 +1132,7 @@
  {
   "word": "Angehörige",
   "pos": "noun",
-  "frequency": 1241,
+  "frequency": 1304,
   "meanings": [
    {
     "english": "relative, family member",
@@ -1089,7 +1159,7 @@
  {
   "word": "angenehm",
   "pos": "adjective",
-  "frequency": 1242,
+  "frequency": 1305,
   "meanings": [
    {
     "english": "pleasant",
@@ -1113,7 +1183,7 @@
  {
   "word": "Angestellte",
   "pos": "noun",
-  "frequency": 1243,
+  "frequency": 1306,
   "meanings": [
    {
     "english": "employee",
@@ -1139,7 +1209,7 @@
  {
   "word": "ängstlich",
   "pos": "adjective",
-  "frequency": 1244,
+  "frequency": 1307,
   "meanings": [
    {
     "english": "anxious, fearful",
@@ -1170,7 +1240,7 @@
  {
   "word": "anhaben",
   "pos": "verb",
-  "frequency": 1245,
+  "frequency": 1308,
   "meanings": [
    {
     "english": "to be wearing",
@@ -1196,7 +1266,7 @@
  {
   "word": "ankündigen",
   "pos": "verb",
-  "frequency": 1246,
+  "frequency": 1309,
   "meanings": [
    {
     "english": "to announce",
@@ -1220,7 +1290,7 @@
  {
   "word": "Anlage",
   "pos": "noun",
-  "frequency": 1247,
+  "frequency": 1310,
   "meanings": [
    {
     "english": "system, equipment",
@@ -1263,7 +1333,7 @@
  {
   "word": "Anleitung",
   "pos": "noun",
-  "frequency": 1248,
+  "frequency": 1311,
   "meanings": [
    {
     "english": "instructions, manual",
@@ -1293,7 +1363,7 @@
  {
   "word": "annehmen",
   "pos": "verb",
-  "frequency": 1249,
+  "frequency": 1312,
   "meanings": [
    {
     "english": "to accept",
@@ -1339,7 +1409,7 @@
  {
   "word": "Annonce",
   "pos": "noun",
-  "frequency": 1250,
+  "frequency": 1313,
   "meanings": [
    {
     "english": "advertisement, classified ad",
@@ -1370,7 +1440,7 @@
  {
   "word": "anschaffen",
   "pos": "verb",
-  "frequency": 1251,
+  "frequency": 1314,
   "meanings": [
    {
     "english": "to acquire, to buy (for oneself)",
@@ -1395,7 +1465,7 @@
  {
   "word": "anschließen",
   "pos": "verb",
-  "frequency": 1252,
+  "frequency": 1315,
   "meanings": [
    {
     "english": "to connect, to plug in",
@@ -1420,7 +1490,7 @@
  {
   "word": "anschnallen",
   "pos": "verb",
-  "frequency": 1253,
+  "frequency": 1316,
   "meanings": [
    {
     "english": "to fasten one's seat belt",
@@ -1443,7 +1513,7 @@
  {
   "word": "ansprechen",
   "pos": "verb",
-  "frequency": 1254,
+  "frequency": 1317,
   "meanings": [
    {
     "english": "to speak to, to approach",
@@ -1471,7 +1541,7 @@
  {
   "word": "Anspruch",
   "pos": "noun",
-  "frequency": 1255,
+  "frequency": 1318,
   "meanings": [
    {
     "english": "claim, entitlement",
@@ -1501,7 +1571,7 @@
  {
   "word": "anstellen",
   "pos": "verb",
-  "frequency": 1256,
+  "frequency": 1319,
   "meanings": [
    {
     "english": "to turn on",
@@ -1564,7 +1634,7 @@
  {
   "word": "anstrengen",
   "pos": "verb",
-  "frequency": 1257,
+  "frequency": 1320,
   "meanings": [
    {
     "english": "to tire out, to strain",
@@ -1610,7 +1680,7 @@
  {
   "word": "anstrengend",
   "pos": "adjective",
-  "frequency": 1258,
+  "frequency": 1321,
   "meanings": [
    {
     "english": "tiring, strenuous",
@@ -1634,7 +1704,7 @@
  {
   "word": "Antrag",
   "pos": "noun",
-  "frequency": 1259,
+  "frequency": 1322,
   "meanings": [
    {
     "english": "application, request",
@@ -1663,7 +1733,7 @@
  {
   "word": "Anwalt",
   "pos": "noun",
-  "frequency": 1260,
+  "frequency": 1323,
   "meanings": [
    {
     "english": "lawyer",
@@ -1694,7 +1764,7 @@
  {
   "word": "anwenden",
   "pos": "verb",
-  "frequency": 1261,
+  "frequency": 1324,
   "meanings": [
    {
     "english": "to apply, to use",
@@ -1721,7 +1791,7 @@
  {
   "word": "anwesend",
   "pos": "adjective",
-  "frequency": 1262,
+  "frequency": 1325,
   "meanings": [
    {
     "english": "present, attending",
@@ -1746,7 +1816,7 @@
  {
   "word": "anzeigen",
   "pos": "verb",
-  "frequency": 1263,
+  "frequency": 1326,
   "meanings": [
    {
     "english": "to report (to the police)",
@@ -1772,7 +1842,7 @@
  {
   "word": "Aprikose",
   "pos": "noun",
-  "frequency": 1264,
+  "frequency": 1327,
   "meanings": [
    {
     "english": "apricot",
@@ -1796,7 +1866,7 @@
  {
   "word": "Arbeiter",
   "pos": "noun",
-  "frequency": 1265,
+  "frequency": 1328,
   "meanings": [
    {
     "english": "worker",
@@ -1824,7 +1894,7 @@
  {
   "word": "Arbeitserlaubnis",
   "pos": "noun",
-  "frequency": 1266,
+  "frequency": 1329,
   "meanings": [
    {
     "english": "work permit",
@@ -1848,7 +1918,7 @@
  {
   "word": "Arbeitslosigkeit",
   "pos": "noun",
-  "frequency": 1267,
+  "frequency": 1330,
   "meanings": [
    {
     "english": "unemployment",
@@ -1871,7 +1941,7 @@
  {
   "word": "Arbeitsstelle",
   "pos": "noun",
-  "frequency": 1268,
+  "frequency": 1331,
   "meanings": [
    {
     "english": "job, position",
@@ -1898,7 +1968,7 @@
  {
   "word": "Architekt",
   "pos": "noun",
-  "frequency": 1269,
+  "frequency": 1332,
   "meanings": [
    {
     "english": "architect",
@@ -1925,7 +1995,7 @@
  {
   "word": "Ärger",
   "pos": "noun",
-  "frequency": 1270,
+  "frequency": 1333,
   "meanings": [
    {
     "english": "trouble, annoyance",
@@ -1956,7 +2026,7 @@
  {
   "word": "ärgerlich",
   "pos": "adjective",
-  "frequency": 1271,
+  "frequency": 1334,
   "meanings": [
    {
     "english": "annoying",
@@ -1984,7 +2054,7 @@
  {
   "word": "Art",
   "pos": "noun",
-  "frequency": 1272,
+  "frequency": 1335,
   "meanings": [
    {
     "english": "kind, type",
@@ -2044,7 +2114,7 @@
  {
   "word": "Asyl",
   "pos": "noun",
-  "frequency": 1273,
+  "frequency": 1336,
   "meanings": [
    {
     "english": "asylum",
@@ -2073,7 +2143,7 @@
  {
   "word": "Atem",
   "pos": "noun",
-  "frequency": 1274,
+  "frequency": 1337,
   "meanings": [
    {
     "english": "breath",
@@ -2096,7 +2166,7 @@
  {
   "word": "atmen",
   "pos": "verb",
-  "frequency": 1275,
+  "frequency": 1338,
   "meanings": [
    {
     "english": "to breathe",
@@ -2126,7 +2196,7 @@
  {
   "word": "Aufenthalt",
   "pos": "noun",
-  "frequency": 1276,
+  "frequency": 1339,
   "meanings": [
    {
     "english": "stop, stay",
@@ -2166,7 +2236,7 @@
  {
   "word": "auffallen",
   "pos": "verb",
-  "frequency": 1277,
+  "frequency": 1340,
   "meanings": [
    {
     "english": "to notice, to stand out",
@@ -2192,7 +2262,7 @@
  {
   "word": "auffordern",
   "pos": "verb",
-  "frequency": 1278,
+  "frequency": 1341,
   "meanings": [
    {
     "english": "to ask, to urge",
@@ -2236,7 +2306,7 @@
  {
   "word": "Aufforderung",
   "pos": "noun",
-  "frequency": 1279,
+  "frequency": 1342,
   "meanings": [
    {
     "english": "request, demand, notice",
@@ -2266,7 +2336,7 @@
  {
   "word": "aufführen",
   "pos": "verb",
-  "frequency": 1280,
+  "frequency": 1343,
   "meanings": [
    {
     "english": "to perform",
@@ -2293,7 +2363,7 @@
  {
   "word": "aufgeben",
   "pos": "verb",
-  "frequency": 1281,
+  "frequency": 1344,
   "meanings": [
    {
     "english": "to post, to hand in (a parcel)",
@@ -2340,7 +2410,7 @@
  {
   "word": "aufhalten",
   "pos": "verb",
-  "frequency": 1282,
+  "frequency": 1345,
   "meanings": [
    {
     "english": "to stay, to be (somewhere)",
@@ -2402,7 +2472,7 @@
  {
   "word": "aufheben",
   "pos": "verb",
-  "frequency": 1283,
+  "frequency": 1346,
   "meanings": [
    {
     "english": "to pick up",
@@ -2451,7 +2521,7 @@
  {
   "word": "aufladen",
   "pos": "verb",
-  "frequency": 1284,
+  "frequency": 1347,
   "meanings": [
    {
     "english": "to charge (a battery)",
@@ -2479,7 +2549,7 @@
  {
   "word": "auflösen",
   "pos": "verb",
-  "frequency": 1285,
+  "frequency": 1348,
   "meanings": [
    {
     "english": "to dissolve",
@@ -2504,7 +2574,7 @@
  {
   "word": "aufmerksam",
   "pos": "adjective",
-  "frequency": 1286,
+  "frequency": 1349,
   "meanings": [
    {
     "english": "attentive",
@@ -2550,7 +2620,7 @@
  {
   "word": "Aufnahme",
   "pos": "noun",
-  "frequency": 1287,
+  "frequency": 1350,
   "meanings": [
    {
     "english": "recording",
@@ -2577,7 +2647,7 @@
  {
   "word": "aufnehmen",
   "pos": "verb",
-  "frequency": 1288,
+  "frequency": 1351,
   "meanings": [
    {
     "english": "to take in, to admit",
@@ -2621,7 +2691,7 @@
  {
   "word": "aufregen",
   "pos": "verb",
-  "frequency": 1289,
+  "frequency": 1352,
   "meanings": [
    {
     "english": "to upset, to get upset",
@@ -2665,7 +2735,7 @@
  {
   "word": "aufregend",
   "pos": "adjective",
-  "frequency": 1290,
+  "frequency": 1353,
   "meanings": [
    {
     "english": "exciting",
@@ -2690,7 +2760,7 @@
  {
   "word": "auftreten",
   "pos": "verb",
-  "frequency": 1291,
+  "frequency": 1354,
   "meanings": [
    {
     "english": "to appear, to perform",
@@ -2719,7 +2789,7 @@
  {
   "word": "aufwachen",
   "pos": "verb",
-  "frequency": 1292,
+  "frequency": 1355,
   "meanings": [
    {
     "english": "to wake up",
@@ -2744,7 +2814,7 @@
  {
   "word": "aufwärts",
   "pos": "adverb",
-  "frequency": 1293,
+  "frequency": 1356,
   "meanings": [
    {
     "english": "upward, uphill",
@@ -2793,7 +2863,7 @@
  {
   "word": "Ausdruck",
   "pos": "noun",
-  "frequency": 1294,
+  "frequency": 1357,
   "meanings": [
    {
     "english": "expression, phrase",
@@ -2840,7 +2910,7 @@
  {
   "word": "ausdrucken",
   "pos": "verb",
-  "frequency": 1295,
+  "frequency": 1358,
   "meanings": [
    {
     "english": "to print out",
@@ -2866,7 +2936,7 @@
  {
   "word": "Ausfahrt",
   "pos": "noun",
-  "frequency": 1296,
+  "frequency": 1359,
   "meanings": [
    {
     "english": "exit, driveway",
@@ -2910,7 +2980,7 @@
  {
   "word": "ausfallen",
   "pos": "verb",
-  "frequency": 1297,
+  "frequency": 1360,
   "meanings": [
    {
     "english": "to be cancelled",
@@ -2935,7 +3005,7 @@
  {
   "word": "Ausgabe",
   "pos": "noun",
-  "frequency": 1298,
+  "frequency": 1361,
   "meanings": [
    {
     "english": "expense, expenditure",
@@ -2998,7 +3068,7 @@
  {
   "word": "ausgebildet",
   "pos": "adjective",
-  "frequency": 1299,
+  "frequency": 1362,
   "meanings": [
    {
     "english": "trained, qualified",
@@ -3024,7 +3094,7 @@
  {
   "word": "ausgezeichnet",
   "pos": "adjective",
-  "frequency": 1300,
+  "frequency": 1363,
   "meanings": [
    {
     "english": "excellent",
@@ -3047,7 +3117,7 @@
  {
   "word": "Aushilfe",
   "pos": "noun",
-  "frequency": 1301,
+  "frequency": 1364,
   "meanings": [
    {
     "english": "temporary help, part-time worker",
@@ -3075,7 +3145,7 @@
  {
   "word": "Ausnahme",
   "pos": "noun",
-  "frequency": 1302,
+  "frequency": 1365,
   "meanings": [
    {
     "english": "exception",
@@ -3106,7 +3176,7 @@
  {
   "word": "ausreichen",
   "pos": "verb",
-  "frequency": 1303,
+  "frequency": 1366,
   "meanings": [
    {
     "english": "to be enough, to suffice",
@@ -3142,9 +3212,31 @@
   "notes": "reicht aus, reichte aus, hat ausgereicht"
  },
  {
+  "word": "ausreichend",
+  "pos": "adjective",
+  "frequency": 1367,
+  "meanings": [
+   {
+    "english": "sufficient",
+    "examples": [
+     {
+      "de": "Wir haben ausreichend Zeit.",
+      "en": "We have sufficient time.",
+      "glosses": {
+       "ausreichend": "sufficient",
+       "Zeit": "time",
+       "Wir": "we",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "ausrichten",
   "pos": "verb",
-  "frequency": 1304,
+  "frequency": 1368,
   "meanings": [
    {
     "english": "to pass on (a message)",
@@ -3173,7 +3265,7 @@
  {
   "word": "ausschließen",
   "pos": "verb",
-  "frequency": 1305,
+  "frequency": 1369,
   "meanings": [
    {
     "english": "to rule out, to exclude",
@@ -3198,7 +3290,7 @@
  {
   "word": "ausschließlich",
   "pos": "adverb",
-  "frequency": 1306,
+  "frequency": 1370,
   "meanings": [
    {
     "english": "exclusively, only",
@@ -3221,9 +3313,33 @@
   ]
  },
  {
+  "word": "ausschließlich",
+  "pos": "adjective",
+  "frequency": 1371,
+  "meanings": [
+   {
+    "english": "exclusive",
+    "examples": [
+     {
+      "de": "Das Angebot gilt ausschließlich für Kunden.",
+      "en": "The offer is valid exclusively for customers.",
+      "glosses": {
+       "ausschließlich": "exclusively",
+       "gilt": "applies",
+       "Kunden": "customers",
+       "Das": "that/the",
+       "Angebot": "offer",
+       "für": "for"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "außen",
   "pos": "adverb",
-  "frequency": 1307,
+  "frequency": 1372,
   "meanings": [
    {
     "english": "outside, on the outside",
@@ -3260,9 +3376,33 @@
   ]
  },
  {
+  "word": "außen",
+  "pos": "adjective",
+  "frequency": 1373,
+  "meanings": [
+   {
+    "english": "outside, exterior",
+    "examples": [
+     {
+      "de": "Die Tür öffnet sich nach außen.",
+      "en": "The door opens outwards.",
+      "glosses": {
+       "außen": "outwards",
+       "Tür": "door",
+       "öffnet": "opens",
+       "Die": "the",
+       "sich": "oneself",
+       "nach": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "außerdem",
   "pos": "adverb",
-  "frequency": 1308,
+  "frequency": 1374,
   "meanings": [
    {
     "english": "besides, in addition",
@@ -3302,7 +3442,7 @@
  {
   "word": "äußerlich",
   "pos": "adjective",
-  "frequency": 1309,
+  "frequency": 1375,
   "meanings": [
    {
     "english": "external, for external use",
@@ -3327,7 +3467,7 @@
  {
   "word": "Aussicht",
   "pos": "noun",
-  "frequency": 1310,
+  "frequency": 1376,
   "meanings": [
    {
     "english": "view",
@@ -3375,7 +3515,7 @@
  {
   "word": "Aussprache",
   "pos": "noun",
-  "frequency": 1311,
+  "frequency": 1377,
   "meanings": [
    {
     "english": "pronunciation",
@@ -3399,7 +3539,7 @@
  {
   "word": "ausstellen",
   "pos": "verb",
-  "frequency": 1312,
+  "frequency": 1378,
   "meanings": [
    {
     "english": "to display, to exhibit",
@@ -3441,7 +3581,7 @@
  {
   "word": "aussuchen",
   "pos": "verb",
-  "frequency": 1313,
+  "frequency": 1379,
   "meanings": [
    {
     "english": "to choose, to pick out",
@@ -3469,7 +3609,7 @@
  {
   "word": "Auswahl",
   "pos": "noun",
-  "frequency": 1314,
+  "frequency": 1380,
   "meanings": [
    {
     "english": "selection, choice",
@@ -3509,7 +3649,7 @@
  {
   "word": "auswählen",
   "pos": "verb",
-  "frequency": 1315,
+  "frequency": 1381,
   "meanings": [
    {
     "english": "to choose, to select",
@@ -3537,7 +3677,7 @@
  {
   "word": "Autor",
   "pos": "noun",
-  "frequency": 1316,
+  "frequency": 1382,
   "meanings": [
    {
     "english": "author",
@@ -3567,7 +3707,7 @@
  {
   "word": "bäh",
   "pos": "interjection",
-  "frequency": 1317,
+  "frequency": 1383,
   "meanings": [
    {
     "english": "yuck, ugh",
@@ -3599,9 +3739,99 @@
   ]
  },
  {
+  "word": "befreit",
+  "pos": "adjective",
+  "frequency": 1384,
+  "meanings": [
+   {
+    "english": "freed, exempt, relieved",
+    "examples": [
+     {
+      "de": "Sie ist von der Steuer befreit.",
+      "en": "She is exempt from the tax.",
+      "glosses": {
+       "befreit": "exempt",
+       "Steuer": "tax",
+       "von": "from",
+       "Sie": "she/they/you (formal)",
+       "ist": "is",
+       "der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "befriedigend",
+  "pos": "adjective",
+  "frequency": 1385,
+  "meanings": [
+   {
+    "english": "satisfactory",
+    "examples": [
+     {
+      "de": "Das Ergebnis ist befriedigend.",
+      "en": "The result is satisfactory.",
+      "glosses": {
+       "befriedigend": "satisfactory",
+       "Ergebnis": "result",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "begeistert",
+  "pos": "adjective",
+  "frequency": 1386,
+  "meanings": [
+   {
+    "english": "enthusiastic",
+    "examples": [
+     {
+      "de": "Die Kinder sind begeistert.",
+      "en": "The children are enthusiastic.",
+      "glosses": {
+       "begeistert": "enthusiastic",
+       "Kinder": "children",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "begrenzt",
+  "pos": "adjective",
+  "frequency": 1387,
+  "meanings": [
+   {
+    "english": "limited",
+    "examples": [
+     {
+      "de": "Die Plätze sind begrenzt.",
+      "en": "The places are limited.",
+      "glosses": {
+       "begrenzt": "limited",
+       "Plätze": "places",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "bereits",
   "pos": "adverb",
-  "frequency": 1318,
+  "frequency": 1388,
   "meanings": [
    {
     "english": "already",
@@ -3631,9 +3861,122 @@
   ]
  },
  {
+  "word": "beruflich",
+  "pos": "adjective",
+  "frequency": 1389,
+  "meanings": [
+   {
+    "english": "professional, work-related",
+    "examples": [
+     {
+      "de": "Ich bin beruflich in Berlin.",
+      "en": "I am in Berlin on business.",
+      "glosses": {
+       "beruflich": "on business",
+       "Ich": "I",
+       "bin": "am",
+       "in": "in",
+       "Berlin": "Berlin"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "berufstätig",
+  "pos": "adjective",
+  "frequency": 1390,
+  "meanings": [
+   {
+    "english": "employed, working",
+    "examples": [
+     {
+      "de": "Meine Mutter ist berufstätig.",
+      "en": "My mother is employed.",
+      "glosses": {
+       "berufstätig": "employed",
+       "Mutter": "mother",
+       "Meine": "my",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "besonderer, besondere, besonderes",
+  "pos": "adjective",
+  "frequency": 1391,
+  "meanings": [
+   {
+    "english": "special, particular",
+    "examples": [
+     {
+      "de": "Heute ist ein besonderer Tag.",
+      "en": "Today is a special day.",
+      "glosses": {
+       "besonderer": "special",
+       "Tag": "day",
+       "Heute": "today",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "bestimmt",
+  "pos": "adjective",
+  "frequency": 1392,
+  "meanings": [
+   {
+    "english": "certain, particular, specific",
+    "examples": [
+     {
+      "de": "Ich suche ein bestimmtes Buch.",
+      "en": "I am looking for a particular book.",
+      "glosses": {
+       "bestimmtes": "particular",
+       "suche": "look for",
+       "Buch": "book",
+       "Ich": "I",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "betrunken",
+  "pos": "adjective",
+  "frequency": 1393,
+  "meanings": [
+   {
+    "english": "drunk",
+    "examples": [
+     {
+      "de": "Er war völlig betrunken.",
+      "en": "He was completely drunk.",
+      "glosses": {
+       "betrunken": "drunk",
+       "völlig": "completely",
+       "Er": "he",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "bevor",
   "pos": "conjunction",
-  "frequency": 1319,
+  "frequency": 1394,
   "meanings": [
    {
     "english": "before",
@@ -3667,9 +4010,31 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "biologisch",
+  "pos": "adjective",
+  "frequency": 1395,
+  "meanings": [
+   {
+    "english": "biological, organic",
+    "examples": [
+     {
+      "de": "Wir kaufen biologisches Gemüse.",
+      "en": "We buy organic vegetables.",
+      "glosses": {
+       "biologisches": "organic",
+       "Gemüse": "vegetables",
+       "Wir": "we",
+       "kaufen": "buy"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "bisher",
   "pos": "adverb",
-  "frequency": 1320,
+  "frequency": 1396,
   "meanings": [
    {
     "english": "so far, until now",
@@ -3692,7 +4057,7 @@
        "bisher": "so far",
        "bester": "best",
        "Urlaub": "holiday",
-       "Das": "the",
+       "Das": "that/the",
        "war": "was",
        "mein": "my"
       }
@@ -3702,9 +4067,77 @@
   ]
  },
  {
+  "word": "blass",
+  "pos": "adjective",
+  "frequency": 1397,
+  "meanings": [
+   {
+    "english": "pale",
+    "examples": [
+     {
+      "de": "Du siehst blass aus.",
+      "en": "You look pale.",
+      "glosses": {
+       "blass": "pale",
+       "siehst": "look",
+       "aus": "out",
+       "Du": "you"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "blind",
+  "pos": "adjective",
+  "frequency": 1398,
+  "meanings": [
+   {
+    "english": "blind",
+    "examples": [
+     {
+      "de": "Der alte Hund ist blind.",
+      "en": "The old dog is blind.",
+      "glosses": {
+       "blind": "blind",
+       "Hund": "dog",
+       "Der": "the",
+       "alte": "old",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "bloß",
+  "pos": "adjective",
+  "frequency": 1399,
+  "meanings": [
+   {
+    "english": "bare, mere",
+    "examples": [
+     {
+      "de": "Das ist eine bloße Vermutung.",
+      "en": "That is a mere assumption.",
+      "glosses": {
+       "bloße": "mere",
+       "Vermutung": "assumption",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "bloß",
   "pos": "adverb",
-  "frequency": 1321,
+  "frequency": 1400,
   "meanings": [
    {
     "english": "only, simply, just",
@@ -3715,7 +4148,7 @@
       "glosses": {
        "bloß": "only",
        "Scherz": "joke",
-       "Das": "the",
+       "Das": "that/the",
        "war": "was",
        "ein": "a"
       }
@@ -3728,7 +4161,7 @@
        "passieren": "happen",
        "Wie": "how",
        "kann": "can",
-       "das": "the"
+       "das": "that/the"
       }
      }
     ]
@@ -3738,7 +4171,7 @@
  {
   "word": "dafür",
   "pos": "adverb",
-  "frequency": 1322,
+  "frequency": 1401,
   "meanings": [
    {
     "english": "for it, for that, instead",
@@ -3774,7 +4207,7 @@
  {
   "word": "dagegen",
   "pos": "adverb",
-  "frequency": 1323,
+  "frequency": 1402,
   "meanings": [
    {
     "english": "against it, on the other hand, in contrast",
@@ -3798,7 +4231,7 @@
        "laut": "loud",
        "Er": "he",
        "ist": "is",
-       "sie": "you",
+       "sie": "she/they/you (formal)",
        "sehr": "very"
       }
      }
@@ -3809,7 +4242,7 @@
  {
   "word": "daher",
   "pos": "adverb",
-  "frequency": 1324,
+  "frequency": 1403,
   "meanings": [
    {
     "english": "therefore, from there, hence",
@@ -3845,7 +4278,7 @@
  {
   "word": "dahin",
   "pos": "adverb",
-  "frequency": 1325,
+  "frequency": 1404,
   "meanings": [
    {
     "english": "there, to that place",
@@ -3880,7 +4313,7 @@
  {
   "word": "damit",
   "pos": "adverb",
-  "frequency": 1326,
+  "frequency": 1405,
   "meanings": [
    {
     "english": "with it, with that",
@@ -3915,7 +4348,7 @@
  {
   "word": "damit",
   "pos": "conjunction",
-  "frequency": 1327,
+  "frequency": 1406,
   "meanings": [
    {
     "english": "so that, in order that",
@@ -3954,7 +4387,7 @@
  {
   "word": "danach",
   "pos": "adverb",
-  "frequency": 1328,
+  "frequency": 1407,
   "meanings": [
    {
     "english": "afterwards, after that",
@@ -3987,9 +4420,32 @@
   ]
  },
  {
+  "word": "dankbar",
+  "pos": "adjective",
+  "frequency": 1408,
+  "meanings": [
+   {
+    "english": "grateful, thankful",
+    "examples": [
+     {
+      "de": "Ich bin dir sehr dankbar.",
+      "en": "I am very grateful to you.",
+      "glosses": {
+       "dankbar": "grateful",
+       "dir": "you",
+       "Ich": "I",
+       "bin": "am",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "darin",
   "pos": "adverb",
-  "frequency": 1329,
+  "frequency": 1409,
   "meanings": [
    {
     "english": "in it, therein",
@@ -4024,9 +4480,31 @@
   "notes": "colloquially \"drin\""
  },
  {
+  "word": "dauernd",
+  "pos": "adjective",
+  "frequency": 1410,
+  "meanings": [
+   {
+    "english": "constant, continuous",
+    "examples": [
+     {
+      "de": "Er ruft dauernd an.",
+      "en": "He keeps calling constantly.",
+      "glosses": {
+       "dauernd": "constantly",
+       "ruft": "calls",
+       "an": "up",
+       "Er": "he"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "deswegen",
   "pos": "adverb",
-  "frequency": 1330,
+  "frequency": 1411,
   "meanings": [
    {
     "english": "therefore, that's why",
@@ -4060,9 +4538,32 @@
   ]
  },
  {
+  "word": "dicht",
+  "pos": "adjective",
+  "frequency": 1412,
+  "meanings": [
+   {
+    "english": "dense, thick",
+    "examples": [
+     {
+      "de": "Der Nebel ist sehr dicht.",
+      "en": "The fog is very thick.",
+      "glosses": {
+       "dicht": "thick",
+       "Nebel": "fog",
+       "Der": "the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "diesmal",
   "pos": "adverb",
-  "frequency": 1331,
+  "frequency": 1413,
   "meanings": [
    {
     "english": "this time",
@@ -4091,9 +4592,101 @@
   ]
  },
  {
+  "word": "digital",
+  "pos": "adjective",
+  "frequency": 1414,
+  "meanings": [
+   {
+    "english": "digital",
+    "examples": [
+     {
+      "de": "Wir nutzen digitale Medien.",
+      "en": "We use digital media.",
+      "glosses": {
+       "digitale": "digital",
+       "Medien": "media",
+       "nutzen": "use",
+       "Wir": "we"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "doppelt",
+  "pos": "adjective",
+  "frequency": 1415,
+  "meanings": [
+   {
+    "english": "double, twice",
+    "examples": [
+     {
+      "de": "Ich möchte einen doppelten Espresso.",
+      "en": "I would like a double espresso.",
+      "glosses": {
+       "doppelten": "double",
+       "Espresso": "espresso",
+       "Ich": "I",
+       "möchte": "would like",
+       "einen": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "durchschnittlich",
+  "pos": "adjective",
+  "frequency": 1416,
+  "meanings": [
+   {
+    "english": "average",
+    "examples": [
+     {
+      "de": "Die durchschnittliche Temperatur liegt bei zwanzig Grad.",
+      "en": "The average temperature is twenty degrees.",
+      "glosses": {
+       "durchschnittliche": "average",
+       "Temperatur": "temperature",
+       "zwanzig": "twenty",
+       "Grad": "degrees",
+       "liegt": "lies",
+       "Die": "the",
+       "bei": "at"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "durstig",
+  "pos": "adjective",
+  "frequency": 1417,
+  "meanings": [
+   {
+    "english": "thirsty",
+    "examples": [
+     {
+      "de": "Ich bin sehr durstig.",
+      "en": "I am very thirsty.",
+      "glosses": {
+       "durstig": "thirsty",
+       "Ich": "I",
+       "bin": "am",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "eben",
   "pos": "adverb",
-  "frequency": 1332,
+  "frequency": 1418,
   "meanings": [
    {
     "english": "just, just now, simply",
@@ -4114,7 +4707,7 @@
       "glosses": {
        "eben": "simply",
        "so": "so",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is"
       }
      }
@@ -4125,7 +4718,7 @@
  {
   "word": "ebenfalls",
   "pos": "adverb",
-  "frequency": 1333,
+  "frequency": 1419,
   "meanings": [
    {
     "english": "also, likewise, as well",
@@ -4144,7 +4737,7 @@
       "glosses": {
        "ebenfalls": "also",
        "Party": "party",
-       "Sie": "you",
+       "Sie": "she/they/you (formal)",
        "kommt": "comes",
        "zur": "to the"
       }
@@ -4156,7 +4749,7 @@
  {
   "word": "ebenso",
   "pos": "adverb",
-  "frequency": 1334,
+  "frequency": 1420,
   "meanings": [
    {
     "english": "just as, equally, likewise",
@@ -4188,9 +4781,31 @@
   ]
  },
  {
+  "word": "eckig",
+  "pos": "adjective",
+  "frequency": 1421,
+  "meanings": [
+   {
+    "english": "angular, square",
+    "examples": [
+     {
+      "de": "Der Tisch ist eckig.",
+      "en": "The table is square.",
+      "glosses": {
+       "eckig": "angular",
+       "Tisch": "table",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "eher",
   "pos": "adverb",
-  "frequency": 1335,
+  "frequency": 1422,
   "meanings": [
    {
     "english": "rather, sooner, earlier, more likely",
@@ -4221,9 +4836,99 @@
   ]
  },
  {
+  "word": "ehrlich",
+  "pos": "adjective",
+  "frequency": 1423,
+  "meanings": [
+   {
+    "english": "honest",
+    "examples": [
+     {
+      "de": "Sei bitte ehrlich zu mir.",
+      "en": "Please be honest with me.",
+      "glosses": {
+       "ehrlich": "honest",
+       "Sei": "be",
+       "bitte": "please",
+       "zu": "to",
+       "mir": "me"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "eindeutig",
+  "pos": "adjective",
+  "frequency": 1424,
+  "meanings": [
+   {
+    "english": "clear, unambiguous",
+    "examples": [
+     {
+      "de": "Die Antwort ist eindeutig.",
+      "en": "The answer is clear.",
+      "glosses": {
+       "eindeutig": "clear",
+       "Antwort": "answer",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "einheitlich",
+  "pos": "adjective",
+  "frequency": 1425,
+  "meanings": [
+   {
+    "english": "uniform, consistent",
+    "examples": [
+     {
+      "de": "Wir tragen einheitliche Kleidung.",
+      "en": "We wear uniform clothing.",
+      "glosses": {
+       "einheitliche": "uniform",
+       "Kleidung": "clothing",
+       "tragen": "wear",
+       "Wir": "we"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "einsam",
+  "pos": "adjective",
+  "frequency": 1426,
+  "meanings": [
+   {
+    "english": "lonely",
+    "examples": [
+     {
+      "de": "Ich fühle mich oft einsam.",
+      "en": "I often feel lonely.",
+      "glosses": {
+       "einsam": "lonely",
+       "fühle": "feel",
+       "mich": "myself",
+       "oft": "often",
+       "Ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "einschließlich",
   "pos": "preposition",
-  "frequency": 1336,
+  "frequency": 1427,
   "meanings": [
    {
     "english": "including, inclusive of",
@@ -4261,9 +4966,124 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "einzig",
+  "pos": "adjective",
+  "frequency": 1428,
+  "meanings": [
+   {
+    "english": "only, sole",
+    "examples": [
+     {
+      "de": "Das ist der einzige Weg.",
+      "en": "That is the only way.",
+      "glosses": {
+       "einzige": "only",
+       "Weg": "way",
+       "Das": "that/the",
+       "ist": "is",
+       "der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "elegant",
+  "pos": "adjective",
+  "frequency": 1429,
+  "meanings": [
+   {
+    "english": "elegant",
+    "examples": [
+     {
+      "de": "Sie trägt ein elegantes Kleid.",
+      "en": "She is wearing an elegant dress.",
+      "glosses": {
+       "elegantes": "elegant",
+       "trägt": "wears",
+       "Kleid": "dress",
+       "Sie": "she/they/you (formal)",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "elektrisch",
+  "pos": "adjective",
+  "frequency": 1430,
+  "meanings": [
+   {
+    "english": "electric",
+    "examples": [
+     {
+      "de": "Wir haben ein elektrisches Auto.",
+      "en": "We have an electric car.",
+      "glosses": {
+       "elektrisches": "electric",
+       "Auto": "car",
+       "Wir": "we",
+       "haben": "have",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "elektronisch",
+  "pos": "adjective",
+  "frequency": 1431,
+  "meanings": [
+   {
+    "english": "electronic",
+    "examples": [
+     {
+      "de": "Ich habe ein elektronisches Wörterbuch.",
+      "en": "I have an electronic dictionary.",
+      "glosses": {
+       "elektronisches": "electronic",
+       "Wörterbuch": "dictionary",
+       "Ich": "I",
+       "habe": "have",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "endgültig",
+  "pos": "adjective",
+  "frequency": 1432,
+  "meanings": [
+   {
+    "english": "final, definitive",
+    "examples": [
+     {
+      "de": "Das ist meine endgültige Entscheidung.",
+      "en": "That is my final decision.",
+      "glosses": {
+       "endgültige": "final",
+       "Entscheidung": "decision",
+       "Das": "that/the",
+       "ist": "is",
+       "meine": "my"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "entlang",
   "pos": "preposition",
-  "frequency": 1337,
+  "frequency": 1433,
   "meanings": [
    {
     "english": "along",
@@ -4297,9 +5117,54 @@
   "notes": "+ Akkusativ (after the noun)"
  },
  {
+  "word": "entschlossen",
+  "pos": "adjective",
+  "frequency": 1434,
+  "meanings": [
+   {
+    "english": "determined, resolute",
+    "examples": [
+     {
+      "de": "Sie ist fest entschlossen.",
+      "en": "She is firmly determined.",
+      "glosses": {
+       "entschlossen": "determined",
+       "fest": "firmly",
+       "Sie": "she/they/you (formal)",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "entspannend",
+  "pos": "adjective",
+  "frequency": 1435,
+  "meanings": [
+   {
+    "english": "relaxing",
+    "examples": [
+     {
+      "de": "Das war ein entspannendes Wochenende.",
+      "en": "That was a relaxing weekend.",
+      "glosses": {
+       "entspannendes": "relaxing",
+       "Wochenende": "weekend",
+       "Das": "that/the",
+       "war": "was",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "entweder … oder",
   "pos": "conjunction",
-  "frequency": 1338,
+  "frequency": 1436,
   "meanings": [
    {
     "english": "either … or",
@@ -4337,9 +5202,146 @@
   "notes": "two-part conjunction"
  },
  {
+  "word": "erfolgreich",
+  "pos": "adjective",
+  "frequency": 1437,
+  "meanings": [
+   {
+    "english": "successful",
+    "examples": [
+     {
+      "de": "Sie ist eine erfolgreiche Ärztin.",
+      "en": "She is a successful doctor.",
+      "glosses": {
+       "erfolgreiche": "successful",
+       "Ärztin": "doctor",
+       "Sie": "she/they/you (formal)",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "erforderlich",
+  "pos": "adjective",
+  "frequency": 1438,
+  "meanings": [
+   {
+    "english": "required, necessary",
+    "examples": [
+     {
+      "de": "Dafür ist eine Anmeldung erforderlich.",
+      "en": "A registration is required for that.",
+      "glosses": {
+       "erforderlich": "required",
+       "Anmeldung": "registration",
+       "Dafür": "for it",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ernst",
+  "pos": "adjective",
+  "frequency": 1439,
+  "meanings": [
+   {
+    "english": "serious",
+    "examples": [
+     {
+      "de": "Das ist ein ernstes Problem.",
+      "en": "That is a serious problem.",
+      "glosses": {
+       "ernstes": "serious",
+       "Problem": "problem",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ernsthaft",
+  "pos": "adjective",
+  "frequency": 1440,
+  "meanings": [
+   {
+    "english": "serious, earnest",
+    "examples": [
+     {
+      "de": "Das ist ein ernsthaftes Problem.",
+      "en": "That is a serious problem.",
+      "glosses": {
+       "ernsthaftes": "serious",
+       "Problem": "problem",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "erschöpft",
+  "pos": "adjective",
+  "frequency": 1441,
+  "meanings": [
+   {
+    "english": "exhausted",
+    "examples": [
+     {
+      "de": "Ich bin völlig erschöpft.",
+      "en": "I am completely exhausted.",
+      "glosses": {
+       "erschöpft": "exhausted",
+       "völlig": "completely",
+       "Ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "erwachsen",
+  "pos": "adjective",
+  "frequency": 1442,
+  "meanings": [
+   {
+    "english": "grown-up, adult",
+    "examples": [
+     {
+      "de": "Meine Kinder sind schon erwachsen.",
+      "en": "My children are already grown up.",
+      "glosses": {
+       "erwachsen": "grown up",
+       "Kinder": "children",
+       "Meine": "my",
+       "sind": "are",
+       "schon": "already"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "etwa",
   "pos": "adverb",
-  "frequency": 1339,
+  "frequency": 1443,
   "meanings": [
    {
     "english": "about, approximately, for example",
@@ -4370,9 +5372,122 @@
   ]
  },
  {
+  "word": "eventuell",
+  "pos": "adjective",
+  "frequency": 1444,
+  "meanings": [
+   {
+    "english": "possible, potential",
+    "examples": [
+     {
+      "de": "Eventuelle Fragen beantworte ich gern.",
+      "en": "I will gladly answer any questions.",
+      "glosses": {
+       "Eventuelle": "any",
+       "Fragen": "questions",
+       "beantworte": "answer",
+       "ich": "I",
+       "gern": "gladly"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ewig",
+  "pos": "adjective",
+  "frequency": 1445,
+  "meanings": [
+   {
+    "english": "eternal, forever",
+    "examples": [
+     {
+      "de": "Ich warte schon ewig.",
+      "en": "I have been waiting forever.",
+      "glosses": {
+       "ewig": "forever",
+       "warte": "wait",
+       "Ich": "I",
+       "schon": "already"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "extrem",
+  "pos": "adjective",
+  "frequency": 1446,
+  "meanings": [
+   {
+    "english": "extreme",
+    "examples": [
+     {
+      "de": "Es ist extrem heiß heute.",
+      "en": "It is extremely hot today.",
+      "glosses": {
+       "extrem": "extremely",
+       "heiß": "hot",
+       "Es": "it",
+       "ist": "is",
+       "heute": "today"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "fair",
+  "pos": "adjective",
+  "frequency": 1447,
+  "meanings": [
+   {
+    "english": "fair",
+    "examples": [
+     {
+      "de": "Das ist nicht fair!",
+      "en": "That is not fair!",
+      "glosses": {
+       "fair": "fair",
+       "Das": "that/the",
+       "ist": "is",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "fällig",
+  "pos": "adjective",
+  "frequency": 1448,
+  "meanings": [
+   {
+    "english": "due, payable",
+    "examples": [
+     {
+      "de": "Die Rechnung ist morgen fällig.",
+      "en": "The invoice is due tomorrow.",
+      "glosses": {
+       "fällig": "due",
+       "Rechnung": "invoice",
+       "Die": "the",
+       "ist": "is",
+       "morgen": "tomorrow"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "falls",
   "pos": "conjunction",
-  "frequency": 1340,
+  "frequency": 1449,
   "meanings": [
    {
     "english": "in case, if",
@@ -4409,9 +5524,261 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "farbig",
+  "pos": "adjective",
+  "frequency": 1450,
+  "meanings": [
+   {
+    "english": "coloured",
+    "examples": [
+     {
+      "de": "Ich habe farbige Stifte gekauft.",
+      "en": "I bought coloured pencils.",
+      "glosses": {
+       "farbige": "coloured",
+       "Stifte": "pencils",
+       "gekauft": "bought",
+       "Ich": "I",
+       "habe": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "fest",
+  "pos": "adjective",
+  "frequency": 1451,
+  "meanings": [
+   {
+    "english": "firm, solid, fixed",
+    "examples": [
+     {
+      "de": "Ich habe einen festen Job.",
+      "en": "I have a permanent job.",
+      "glosses": {
+       "festen": "permanent",
+       "Job": "job",
+       "Ich": "I",
+       "habe": "have",
+       "einen": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "feucht",
+  "pos": "adjective",
+  "frequency": 1452,
+  "meanings": [
+   {
+    "english": "damp, moist",
+    "examples": [
+     {
+      "de": "Die Wäsche ist noch feucht.",
+      "en": "The laundry is still damp.",
+      "glosses": {
+       "feucht": "damp",
+       "Wäsche": "laundry",
+       "Die": "the",
+       "ist": "is",
+       "noch": "still"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "finanziell",
+  "pos": "adjective",
+  "frequency": 1453,
+  "meanings": [
+   {
+    "english": "financial",
+    "examples": [
+     {
+      "de": "Wir haben finanzielle Probleme.",
+      "en": "We have financial problems.",
+      "glosses": {
+       "finanzielle": "financial",
+       "Probleme": "problems",
+       "Wir": "we",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "flach",
+  "pos": "adjective",
+  "frequency": 1454,
+  "meanings": [
+   {
+    "english": "flat, shallow",
+    "examples": [
+     {
+      "de": "Das Wasser ist hier ganz flach.",
+      "en": "The water is quite shallow here.",
+      "glosses": {
+       "flach": "shallow",
+       "Wasser": "water",
+       "Das": "that/the",
+       "ist": "is",
+       "hier": "here",
+       "ganz": "quite"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "flexibel",
+  "pos": "adjective",
+  "frequency": 1455,
+  "meanings": [
+   {
+    "english": "flexible",
+    "examples": [
+     {
+      "de": "Wir haben flexible Arbeitszeiten.",
+      "en": "We have flexible working hours.",
+      "glosses": {
+       "flexible": "flexible",
+       "Arbeitszeiten": "working hours",
+       "Wir": "we",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "fließend",
+  "pos": "adjective",
+  "frequency": 1456,
+  "meanings": [
+   {
+    "english": "fluent, flowing",
+    "examples": [
+     {
+      "de": "Sie spricht fließend Deutsch.",
+      "en": "She speaks fluent German.",
+      "glosses": {
+       "fließend": "fluent",
+       "spricht": "speaks",
+       "Deutsch": "German",
+       "Sie": "she/they/you (formal)"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "folgend",
+  "pos": "adjective",
+  "frequency": 1457,
+  "meanings": [
+   {
+    "english": "following",
+    "examples": [
+     {
+      "de": "Bitte beachten Sie die folgenden Hinweise.",
+      "en": "Please note the following instructions.",
+      "glosses": {
+       "folgenden": "following",
+       "Hinweise": "instructions",
+       "beachten": "note",
+       "Bitte": "please",
+       "Sie": "she/they/you (formal)",
+       "die": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "frech",
+  "pos": "adjective",
+  "frequency": 1458,
+  "meanings": [
+   {
+    "english": "cheeky, impudent",
+    "examples": [
+     {
+      "de": "Sei nicht so frech!",
+      "en": "Don't be so cheeky!",
+      "glosses": {
+       "frech": "cheeky",
+       "Sei": "be",
+       "nicht": "not",
+       "so": "so"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "fröhlich",
+  "pos": "adjective",
+  "frequency": 1459,
+  "meanings": [
+   {
+    "english": "cheerful",
+    "examples": [
+     {
+      "de": "Die Kinder singen fröhliche Lieder.",
+      "en": "The children sing cheerful songs.",
+      "glosses": {
+       "fröhliche": "cheerful",
+       "Lieder": "songs",
+       "singen": "sing",
+       "Die": "the",
+       "Kinder": "children"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gar",
+  "pos": "adjective",
+  "frequency": 1460,
+  "meanings": [
+   {
+    "english": "cooked, done",
+    "examples": [
+     {
+      "de": "Das Fleisch ist noch nicht gar.",
+      "en": "The meat is not cooked through yet.",
+      "glosses": {
+       "gar": "cooked",
+       "Fleisch": "meat",
+       "Das": "that/the",
+       "ist": "is",
+       "noch": "still",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "gar",
   "pos": "adverb",
-  "frequency": 1341,
+  "frequency": 1461,
   "meanings": [
    {
     "english": "at all, even",
@@ -4422,7 +5789,7 @@
       "glosses": {
        "gar": "at all",
        "gefällt": "pleases",
-       "Das": "the",
+       "Das": "that/the",
        "mir": "me",
        "nicht": "not"
       }
@@ -4444,9 +5811,78 @@
   "notes": "often \"gar nicht\", \"gar kein\""
  },
  {
+  "word": "geeignet",
+  "pos": "adjective",
+  "frequency": 1462,
+  "meanings": [
+   {
+    "english": "suitable",
+    "examples": [
+     {
+      "de": "Das Buch ist für Anfänger geeignet.",
+      "en": "The book is suitable for beginners.",
+      "glosses": {
+       "geeignet": "suitable",
+       "Anfänger": "beginners",
+       "Das": "that/the",
+       "Buch": "book",
+       "ist": "is",
+       "für": "for"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "geheim",
+  "pos": "adjective",
+  "frequency": 1463,
+  "meanings": [
+   {
+    "english": "secret",
+    "examples": [
+     {
+      "de": "Das ist mein geheimer Plan.",
+      "en": "That is my secret plan.",
+      "glosses": {
+       "geheimer": "secret",
+       "Plan": "plan",
+       "Das": "that/the",
+       "ist": "is",
+       "mein": "my"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gemeinsam",
+  "pos": "adjective",
+  "frequency": 1464,
+  "meanings": [
+   {
+    "english": "common, joint, shared",
+    "examples": [
+     {
+      "de": "Wir haben gemeinsame Interessen.",
+      "en": "We have shared interests.",
+      "glosses": {
+       "gemeinsame": "shared",
+       "Interessen": "interests",
+       "Wir": "we",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "gemeinsam",
   "pos": "adverb",
-  "frequency": 1342,
+  "frequency": 1465,
   "meanings": [
    {
     "english": "together, jointly, in common",
@@ -4459,7 +5895,7 @@
        "lösen": "solve",
        "Problem": "problem",
        "Wir": "we",
-       "das": "the"
+       "das": "that/the"
       }
      },
      {
@@ -4468,8 +5904,31 @@
       "glosses": {
        "gemeinsam": "together",
        "gegessen": "eaten",
-       "Sie": "you",
+       "Sie": "she/they/you (formal)",
        "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gemütlich",
+  "pos": "adjective",
+  "frequency": 1466,
+  "meanings": [
+   {
+    "english": "cosy, comfortable",
+    "examples": [
+     {
+      "de": "Das Café ist sehr gemütlich.",
+      "en": "The café is very cosy.",
+      "glosses": {
+       "gemütlich": "cosy",
+       "Café": "café",
+       "Das": "that/the",
+       "ist": "is",
+       "sehr": "very"
       }
      }
     ]
@@ -4479,7 +5938,7 @@
  {
   "word": "genauso",
   "pos": "adverb",
-  "frequency": 1343,
+  "frequency": 1467,
   "meanings": [
    {
     "english": "just as, just the same, equally",
@@ -4500,7 +5959,7 @@
       "glosses": {
        "genauso": "just as",
        "alt": "old",
-       "Sie": "you",
+       "Sie": "she/they/you (formal)",
        "ist": "is",
        "wie": "how",
        "er": "he"
@@ -4511,9 +5970,257 @@
   ]
  },
  {
+  "word": "gerecht",
+  "pos": "adjective",
+  "frequency": 1468,
+  "meanings": [
+   {
+    "english": "just, fair",
+    "examples": [
+     {
+      "de": "Das ist nicht gerecht!",
+      "en": "That is not fair!",
+      "glosses": {
+       "gerecht": "fair",
+       "Das": "that/the",
+       "ist": "is",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gering",
+  "pos": "adjective",
+  "frequency": 1469,
+  "meanings": [
+   {
+    "english": "small, low, slight",
+    "examples": [
+     {
+      "de": "Das Risiko ist gering.",
+      "en": "The risk is low.",
+      "glosses": {
+       "gering": "low",
+       "Risiko": "risk",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gesamt",
+  "pos": "adjective",
+  "frequency": 1470,
+  "meanings": [
+   {
+    "english": "whole, entire, total",
+    "examples": [
+     {
+      "de": "Die gesamte Familie kam.",
+      "en": "The whole family came.",
+      "glosses": {
+       "gesamte": "whole",
+       "Familie": "family",
+       "kam": "came",
+       "Die": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gespannt",
+  "pos": "adjective",
+  "frequency": 1471,
+  "meanings": [
+   {
+    "english": "eager, curious, tense",
+    "examples": [
+     {
+      "de": "Ich bin gespannt auf das Ergebnis.",
+      "en": "I am eager to see the result.",
+      "glosses": {
+       "gespannt": "eager",
+       "Ergebnis": "result",
+       "Ich": "I",
+       "bin": "am",
+       "auf": "on",
+       "das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gewöhnlich",
+  "pos": "adjective",
+  "frequency": 1472,
+  "meanings": [
+   {
+    "english": "usual, ordinary",
+    "examples": [
+     {
+      "de": "Das war ein ganz gewöhnlicher Tag.",
+      "en": "That was a completely ordinary day.",
+      "glosses": {
+       "gewöhnlicher": "ordinary",
+       "Tag": "day",
+       "ganz": "completely",
+       "Das": "that/the",
+       "war": "was",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gewohnt",
+  "pos": "adjective",
+  "frequency": 1473,
+  "meanings": [
+   {
+    "english": "accustomed, usual",
+    "examples": [
+     {
+      "de": "Ich bin an den Lärm gewohnt.",
+      "en": "I am used to the noise.",
+      "glosses": {
+       "gewohnt": "used",
+       "Lärm": "noise",
+       "an": "to",
+       "Ich": "I",
+       "bin": "am",
+       "den": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "glatt",
+  "pos": "adjective",
+  "frequency": 1474,
+  "meanings": [
+   {
+    "english": "smooth, slippery",
+    "examples": [
+     {
+      "de": "Die Straße ist glatt.",
+      "en": "The road is slippery.",
+      "glosses": {
+       "glatt": "slippery",
+       "Straße": "road",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gleichberechtigt",
+  "pos": "adjective",
+  "frequency": 1475,
+  "meanings": [
+   {
+    "english": "having equal rights",
+    "examples": [
+     {
+      "de": "Frauen und Männer sind gleichberechtigt.",
+      "en": "Women and men have equal rights.",
+      "glosses": {
+       "gleichberechtigt": "with equal rights",
+       "Frauen": "women",
+       "Männer": "men",
+       "und": "and",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gleichzeitig",
+  "pos": "adjective",
+  "frequency": 1476,
+  "meanings": [
+   {
+    "english": "simultaneous, at the same time",
+    "examples": [
+     {
+      "de": "Das geschah gleichzeitig.",
+      "en": "That happened at the same time.",
+      "glosses": {
+       "gleichzeitig": "at the same time",
+       "geschah": "happened",
+       "Das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gratis",
+  "pos": "adjective",
+  "frequency": 1477,
+  "meanings": [
+   {
+    "english": "free (of charge)",
+    "examples": [
+     {
+      "de": "Der Eintritt ist gratis.",
+      "en": "Admission is free.",
+      "glosses": {
+       "gratis": "free",
+       "Eintritt": "admission",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "gründlich",
+  "pos": "adjective",
+  "frequency": 1478,
+  "meanings": [
+   {
+    "english": "thorough",
+    "examples": [
+     {
+      "de": "Er putzt sehr gründlich.",
+      "en": "He cleans very thoroughly.",
+      "glosses": {
+       "gründlich": "thoroughly",
+       "putzt": "cleans",
+       "Er": "he",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "hä",
   "pos": "interjection",
-  "frequency": 1344,
+  "frequency": 1479,
   "meanings": [
    {
     "english": "huh, eh",
@@ -4548,7 +6255,7 @@
  {
   "word": "halt",
   "pos": "adverb",
-  "frequency": 1345,
+  "frequency": 1480,
   "meanings": [
    {
     "english": "simply, just",
@@ -4559,7 +6266,7 @@
       "glosses": {
        "halt": "just",
        "so": "so",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is"
       }
      },
@@ -4581,9 +6288,170 @@
   "notes": "spoken-German filler"
  },
  {
+  "word": "haltbar",
+  "pos": "adjective",
+  "frequency": 1481,
+  "meanings": [
+   {
+    "english": "durable, long-lasting",
+    "examples": [
+     {
+      "de": "Die Milch ist lange haltbar.",
+      "en": "The milk keeps for a long time.",
+      "glosses": {
+       "haltbar": "durable",
+       "Milch": "milk",
+       "lange": "long",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "häufig",
+  "pos": "adjective",
+  "frequency": 1482,
+  "meanings": [
+   {
+    "english": "frequent, common",
+    "examples": [
+     {
+      "de": "Das ist ein häufiger Fehler.",
+      "en": "That is a common mistake.",
+      "glosses": {
+       "häufiger": "common",
+       "Fehler": "mistake",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "heimlich",
+  "pos": "adjective",
+  "frequency": 1483,
+  "meanings": [
+   {
+    "english": "secret, covert",
+    "examples": [
+     {
+      "de": "Er hat heimlich geraucht.",
+      "en": "He smoked secretly.",
+      "glosses": {
+       "heimlich": "secretly",
+       "geraucht": "smoked",
+       "Er": "he",
+       "hat": "has"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "heutig",
+  "pos": "adjective",
+  "frequency": 1484,
+  "meanings": [
+   {
+    "english": "today's, present-day",
+    "examples": [
+     {
+      "de": "Die heutige Lektion ist leicht.",
+      "en": "Today's lesson is easy.",
+      "glosses": {
+       "heutige": "today's",
+       "Lektion": "lesson",
+       "leicht": "easy",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
+  "word": "historisch",
+  "pos": "adjective",
+  "frequency": 1485,
+  "meanings": [
+   {
+    "english": "historical",
+    "examples": [
+     {
+      "de": "Die Stadt hat ein historisches Zentrum.",
+      "en": "The city has a historic centre.",
+      "glosses": {
+       "historisches": "historic",
+       "Stadt": "city",
+       "Zentrum": "centre",
+       "Die": "the",
+       "hat": "has",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "höflich",
+  "pos": "adjective",
+  "frequency": 1486,
+  "meanings": [
+   {
+    "english": "polite",
+    "examples": [
+     {
+      "de": "Er ist immer höflich.",
+      "en": "He is always polite.",
+      "glosses": {
+       "höflich": "polite",
+       "immer": "always",
+       "Er": "he",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "hübsch",
+  "pos": "adjective",
+  "frequency": 1487,
+  "meanings": [
+   {
+    "english": "pretty",
+    "examples": [
+     {
+      "de": "Das ist ein hübsches Kleid.",
+      "en": "That is a pretty dress.",
+      "glosses": {
+       "hübsches": "pretty",
+       "Kleid": "dress",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "hui",
   "pos": "interjection",
-  "frequency": 1346,
+  "frequency": 1488,
   "meanings": [
    {
     "english": "whoosh, wow, oh",
@@ -4614,9 +6482,55 @@
   ]
  },
  {
+  "word": "hungrig",
+  "pos": "adjective",
+  "frequency": 1489,
+  "meanings": [
+   {
+    "english": "hungry",
+    "examples": [
+     {
+      "de": "Ich bin sehr hungrig.",
+      "en": "I am very hungry.",
+      "glosses": {
+       "hungrig": "hungry",
+       "Ich": "I",
+       "bin": "am",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ideal",
+  "pos": "adjective",
+  "frequency": 1490,
+  "meanings": [
+   {
+    "english": "ideal",
+    "examples": [
+     {
+      "de": "Das Wetter ist ideal zum Wandern.",
+      "en": "The weather is ideal for hiking.",
+      "glosses": {
+       "ideal": "ideal",
+       "Wandern": "hiking",
+       "Das": "that/the",
+       "Wetter": "weather",
+       "ist": "is",
+       "zum": "to the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "igitt",
   "pos": "interjection",
-  "frequency": 1347,
+  "frequency": 1491,
   "meanings": [
    {
     "english": "yuck, ugh",
@@ -4648,9 +6562,30 @@
   ]
  },
  {
+  "word": "illegal",
+  "pos": "adjective",
+  "frequency": 1492,
+  "meanings": [
+   {
+    "english": "illegal",
+    "examples": [
+     {
+      "de": "Das ist illegal.",
+      "en": "That is illegal.",
+      "glosses": {
+       "illegal": "illegal",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "indem",
   "pos": "conjunction",
-  "frequency": 1348,
+  "frequency": 1493,
   "meanings": [
    {
     "english": "by (doing), while",
@@ -4686,9 +6621,32 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "individuell",
+  "pos": "adjective",
+  "frequency": 1494,
+  "meanings": [
+   {
+    "english": "individual",
+    "examples": [
+     {
+      "de": "Jeder braucht eine individuelle Lösung.",
+      "en": "Everyone needs an individual solution.",
+      "glosses": {
+       "individuelle": "individual",
+       "Jeder": "everyone",
+       "Lösung": "solution",
+       "braucht": "needs",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "inklusive",
   "pos": "preposition",
-  "frequency": 1349,
+  "frequency": 1495,
   "meanings": [
    {
     "english": "including, inclusive of",
@@ -4723,9 +6681,34 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "innerer, innere, inneres",
+  "pos": "adjective",
+  "frequency": 1496,
+  "meanings": [
+   {
+    "english": "inner, internal",
+    "examples": [
+     {
+      "de": "Das Zimmer hat einen inneren Hof.",
+      "en": "The room has an inner courtyard.",
+      "glosses": {
+       "inneren": "inner",
+       "Hof": "courtyard",
+       "Das": "that/the",
+       "Zimmer": "room",
+       "hat": "has",
+       "einen": "a"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
   "word": "innerhalb",
   "pos": "preposition",
-  "frequency": 1350,
+  "frequency": 1497,
   "meanings": [
    {
     "english": "within, inside",
@@ -4763,7 +6746,7 @@
  {
   "word": "insgesamt",
   "pos": "adverb",
-  "frequency": 1351,
+  "frequency": 1498,
   "meanings": [
    {
     "english": "in all, overall, altogether",
@@ -4794,9 +6777,79 @@
   ]
  },
  {
+  "word": "intensiv",
+  "pos": "adjective",
+  "frequency": 1499,
+  "meanings": [
+   {
+    "english": "intensive",
+    "examples": [
+     {
+      "de": "Wir machen einen intensiven Kurs.",
+      "en": "We are doing an intensive course.",
+      "glosses": {
+       "intensiven": "intensive",
+       "Kurs": "course",
+       "Wir": "we",
+       "machen": "make",
+       "einen": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "interessiert",
+  "pos": "adjective",
+  "frequency": 1500,
+  "meanings": [
+   {
+    "english": "interested",
+    "examples": [
+     {
+      "de": "Er ist sehr an Musik interessiert.",
+      "en": "He is very interested in music.",
+      "glosses": {
+       "interessiert": "interested",
+       "Musik": "music",
+       "Er": "he",
+       "ist": "is",
+       "sehr": "very",
+       "an": "at"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "interkulturell",
+  "pos": "adjective",
+  "frequency": 1501,
+  "meanings": [
+   {
+    "english": "intercultural",
+    "examples": [
+     {
+      "de": "Wir machen ein interkulturelles Training.",
+      "en": "We are doing intercultural training.",
+      "glosses": {
+       "interkulturelles": "intercultural",
+       "Training": "training",
+       "Wir": "we",
+       "machen": "make",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "inzwischen",
   "pos": "adverb",
-  "frequency": 1352,
+  "frequency": 1502,
   "meanings": [
    {
     "english": "in the meantime, meanwhile, by now",
@@ -4828,7 +6881,7 @@
  {
   "word": "irgendwann",
   "pos": "adverb",
-  "frequency": 1353,
+  "frequency": 1503,
   "meanings": [
    {
     "english": "sometime, one day, at some point",
@@ -4853,7 +6906,30 @@
        "sehen": "see",
        "wieder": "again",
        "Wir": "we",
-       "uns": "us/ourselves"
+       "uns": "us/each other"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "jährlich",
+  "pos": "adjective",
+  "frequency": 1504,
+  "meanings": [
+   {
+    "english": "annual, yearly",
+    "examples": [
+     {
+      "de": "Das Fest findet jährlich statt.",
+      "en": "The festival takes place every year.",
+      "glosses": {
+       "jährlich": "yearly",
+       "Fest": "festival",
+       "findet": "finds",
+       "statt": "place",
+       "Das": "that/the"
       }
      }
     ]
@@ -4863,7 +6939,7 @@
  {
   "word": "je",
   "pos": "adverb",
-  "frequency": 1354,
+  "frequency": 1505,
   "meanings": [
    {
     "english": "ever, each, per",
@@ -4898,7 +6974,7 @@
  {
   "word": "je … desto/umso",
   "pos": "conjunction",
-  "frequency": 1355,
+  "frequency": 1506,
   "meanings": [
    {
     "english": "the more … the more",
@@ -4936,7 +7012,7 @@
  {
   "word": "jedoch",
   "pos": "adverb",
-  "frequency": 1356,
+  "frequency": 1507,
   "meanings": [
    {
     "english": "however, but, though",
@@ -4960,7 +7036,7 @@
        "jedoch": "however",
        "Angebot": "offer",
        "teuer": "expensive",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is",
        "gut": "well",
        "zu": "to"
@@ -4973,7 +7049,7 @@
  {
   "word": "jeweils",
   "pos": "adverb",
-  "frequency": 1357,
+  "frequency": 1508,
   "meanings": [
    {
     "english": "each, each time, respectively",
@@ -4998,7 +7074,7 @@
        "treffen": "meet",
        "montags": "on Mondays",
        "Wir": "we",
-       "uns": "us/ourselves"
+       "uns": "us/each other"
       }
      }
     ]
@@ -5008,7 +7084,7 @@
  {
   "word": "juhu",
   "pos": "interjection",
-  "frequency": 1358,
+  "frequency": 1509,
   "meanings": [
    {
     "english": "yippee, hooray, yay",
@@ -5039,7 +7115,7 @@
  {
   "word": "kaum",
   "pos": "adverb",
-  "frequency": 1359,
+  "frequency": 1510,
   "meanings": [
    {
     "english": "hardly, barely, scarcely",
@@ -5070,9 +7146,235 @@
   ]
  },
  {
+  "word": "klasse",
+  "pos": "adjective",
+  "frequency": 1511,
+  "meanings": [
+   {
+    "english": "great, super",
+    "examples": [
+     {
+      "de": "Das Konzert war klasse!",
+      "en": "The concert was great!",
+      "glosses": {
+       "klasse": "great",
+       "Konzert": "concert",
+       "Das": "that/the",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "invariable, informal"
+ },
+ {
+  "word": "knapp",
+  "pos": "adjective",
+  "frequency": 1512,
+  "meanings": [
+   {
+    "english": "scarce, tight, narrow",
+    "examples": [
+     {
+      "de": "Das Geld ist knapp.",
+      "en": "Money is tight.",
+      "glosses": {
+       "knapp": "tight",
+       "Geld": "money",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "komplett",
+  "pos": "adjective",
+  "frequency": 1513,
+  "meanings": [
+   {
+    "english": "complete",
+    "examples": [
+     {
+      "de": "Das Zimmer ist komplett eingerichtet.",
+      "en": "The room is completely furnished.",
+      "glosses": {
+       "komplett": "completely",
+       "eingerichtet": "furnished",
+       "Das": "that/the",
+       "Zimmer": "room",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "kompliziert",
+  "pos": "adjective",
+  "frequency": 1514,
+  "meanings": [
+   {
+    "english": "complicated",
+    "examples": [
+     {
+      "de": "Das ist eine komplizierte Frage.",
+      "en": "That is a complicated question.",
+      "glosses": {
+       "komplizierte": "complicated",
+       "Frage": "question",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "körperlich",
+  "pos": "adjective",
+  "frequency": 1515,
+  "meanings": [
+   {
+    "english": "physical, bodily",
+    "examples": [
+     {
+      "de": "Sie macht eine körperlich harte Arbeit.",
+      "en": "She does physically hard work.",
+      "glosses": {
+       "körperlich": "physically",
+       "harte": "hard",
+       "Arbeit": "work",
+       "Sie": "she/they/you (formal)",
+       "macht": "makes",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "korrekt",
+  "pos": "adjective",
+  "frequency": 1516,
+  "meanings": [
+   {
+    "english": "correct",
+    "examples": [
+     {
+      "de": "Ihre Antwort ist korrekt.",
+      "en": "Your answer is correct.",
+      "glosses": {
+       "korrekt": "correct",
+       "Antwort": "answer",
+       "Ihre": "your",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "kräftig",
+  "pos": "adjective",
+  "frequency": 1517,
+  "meanings": [
+   {
+    "english": "strong, powerful",
+    "examples": [
+     {
+      "de": "Er hat kräftige Arme.",
+      "en": "He has strong arms.",
+      "glosses": {
+       "kräftige": "strong",
+       "Arme": "arms",
+       "Er": "he",
+       "hat": "has"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "kreativ",
+  "pos": "adjective",
+  "frequency": 1518,
+  "meanings": [
+   {
+    "english": "creative",
+    "examples": [
+     {
+      "de": "Sie hat kreative Ideen.",
+      "en": "She has creative ideas.",
+      "glosses": {
+       "kreative": "creative",
+       "Ideen": "ideas",
+       "Sie": "she/they/you (formal)",
+       "hat": "has"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "kritisch",
+  "pos": "adjective",
+  "frequency": 1519,
+  "meanings": [
+   {
+    "english": "critical",
+    "examples": [
+     {
+      "de": "Er ist ein kritischer Leser.",
+      "en": "He is a critical reader.",
+      "glosses": {
+       "kritischer": "critical",
+       "Leser": "reader",
+       "Er": "he",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "künstlich",
+  "pos": "adjective",
+  "frequency": 1520,
+  "meanings": [
+   {
+    "english": "artificial",
+    "examples": [
+     {
+      "de": "Das ist künstliches Licht.",
+      "en": "That is artificial light.",
+      "glosses": {
+       "künstliches": "artificial",
+       "Licht": "light",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "längst",
   "pos": "adverb",
-  "frequency": 1360,
+  "frequency": 1521,
   "meanings": [
    {
     "english": "long since, a long time ago",
@@ -5083,7 +7385,7 @@
       "glosses": {
        "längst": "long ago",
        "vergessen": "forgotten",
-       "Das": "the",
+       "Das": "that/the",
        "habe": "have",
        "ich": "I"
       }
@@ -5104,9 +7406,53 @@
   ]
  },
  {
+  "word": "lecker",
+  "pos": "adjective",
+  "frequency": 1522,
+  "meanings": [
+   {
+    "english": "delicious",
+    "examples": [
+     {
+      "de": "Der Kuchen ist lecker.",
+      "en": "The cake is delicious.",
+      "glosses": {
+       "lecker": "delicious",
+       "Kuchen": "cake",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "locker",
+  "pos": "adjective",
+  "frequency": 1523,
+  "meanings": [
+   {
+    "english": "loose, relaxed",
+    "examples": [
+     {
+      "de": "Die Schraube ist locker.",
+      "en": "The screw is loose.",
+      "glosses": {
+       "locker": "loose",
+       "Schraube": "screw",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "los",
   "pos": "adverb",
-  "frequency": 1361,
+  "frequency": 1524,
   "meanings": [
    {
     "english": "off, going on, loose, rid of",
@@ -5133,9 +7479,122 @@
   ]
  },
  {
+  "word": "mager",
+  "pos": "adjective",
+  "frequency": 1525,
+  "meanings": [
+   {
+    "english": "lean, thin",
+    "examples": [
+     {
+      "de": "Ich esse mageres Fleisch.",
+      "en": "I eat lean meat.",
+      "glosses": {
+       "mageres": "lean",
+       "Fleisch": "meat",
+       "esse": "eat",
+       "Ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "maximal",
+  "pos": "adjective",
+  "frequency": 1526,
+  "meanings": [
+   {
+    "english": "maximum",
+    "examples": [
+     {
+      "de": "Die maximale Teilnehmerzahl ist zwanzig.",
+      "en": "The maximum number of participants is twenty.",
+      "glosses": {
+       "maximale": "maximum",
+       "Teilnehmerzahl": "number of participants",
+       "zwanzig": "twenty",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "menschlich",
+  "pos": "adjective",
+  "frequency": 1527,
+  "meanings": [
+   {
+    "english": "human",
+    "examples": [
+     {
+      "de": "Das ist ein menschlicher Fehler.",
+      "en": "That is a human error.",
+      "glosses": {
+       "menschlicher": "human",
+       "Fehler": "error",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "merkwürdig",
+  "pos": "adjective",
+  "frequency": 1528,
+  "meanings": [
+   {
+    "english": "strange, peculiar",
+    "examples": [
+     {
+      "de": "Das ist eine merkwürdige Geschichte.",
+      "en": "That is a strange story.",
+      "glosses": {
+       "merkwürdige": "strange",
+       "Geschichte": "story",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "mild",
+  "pos": "adjective",
+  "frequency": 1529,
+  "meanings": [
+   {
+    "english": "mild",
+    "examples": [
+     {
+      "de": "Der Winter war mild.",
+      "en": "The winter was mild.",
+      "glosses": {
+       "mild": "mild",
+       "Winter": "winter",
+       "Der": "the",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "miteinander",
   "pos": "adverb",
-  "frequency": 1362,
+  "frequency": 1530,
   "meanings": [
    {
     "english": "together, with each other",
@@ -5156,7 +7615,7 @@
       "glosses": {
        "miteinander": "together",
        "arbeiten": "work",
-       "Sie": "you",
+       "Sie": "she/they/you (formal)",
        "gut": "well"
       }
      }
@@ -5165,9 +7624,34 @@
   ]
  },
  {
+  "word": "mittlerer, mittlere, mittleres",
+  "pos": "adjective",
+  "frequency": 1531,
+  "meanings": [
+   {
+    "english": "middle, medium",
+    "examples": [
+     {
+      "de": "Er ist ein Mann mittleren Alters.",
+      "en": "He is a middle-aged man.",
+      "glosses": {
+       "mittleren": "middle",
+       "Alters": "age",
+       "Mann": "man",
+       "Er": "he",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
   "word": "mittlerweile",
   "pos": "adverb",
-  "frequency": 1363,
+  "frequency": 1532,
   "meanings": [
    {
     "english": "in the meantime, meanwhile, by now",
@@ -5199,9 +7683,33 @@
   ]
  },
  {
+  "word": "mobil",
+  "pos": "adjective",
+  "frequency": 1533,
+  "meanings": [
+   {
+    "english": "mobile",
+    "examples": [
+     {
+      "de": "Mein Opa ist noch sehr mobil.",
+      "en": "My grandpa is still very mobile.",
+      "glosses": {
+       "mobil": "mobile",
+       "Opa": "grandpa",
+       "Mein": "my",
+       "ist": "is",
+       "noch": "still",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "möglicherweise",
   "pos": "adverb",
-  "frequency": 1364,
+  "frequency": 1534,
   "meanings": [
    {
     "english": "possibly, perhaps",
@@ -5233,7 +7741,7 @@
  {
   "word": "möglichst",
   "pos": "adverb",
-  "frequency": 1365,
+  "frequency": 1535,
   "meanings": [
    {
     "english": "as … as possible, if possible",
@@ -5255,7 +7763,98 @@
        "antworten": "answer",
        "schnell": "quickly",
        "Bitte": "please",
-       "Sie": "you"
+       "Sie": "she/they/you (formal)"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "monatlich",
+  "pos": "adjective",
+  "frequency": 1536,
+  "meanings": [
+   {
+    "english": "monthly",
+    "examples": [
+     {
+      "de": "Die Miete ist monatlich fällig.",
+      "en": "The rent is due monthly.",
+      "glosses": {
+       "monatlich": "monthly",
+       "Miete": "rent",
+       "fällig": "due",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "mündlich",
+  "pos": "adjective",
+  "frequency": 1537,
+  "meanings": [
+   {
+    "english": "oral, spoken",
+    "examples": [
+     {
+      "de": "Die mündliche Prüfung ist morgen.",
+      "en": "The oral exam is tomorrow.",
+      "glosses": {
+       "mündliche": "oral",
+       "Prüfung": "exam",
+       "Die": "the",
+       "ist": "is",
+       "morgen": "tomorrow"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "musikalisch",
+  "pos": "adjective",
+  "frequency": 1538,
+  "meanings": [
+   {
+    "english": "musical",
+    "examples": [
+     {
+      "de": "Sie ist sehr musikalisch.",
+      "en": "She is very musical.",
+      "glosses": {
+       "musikalisch": "musical",
+       "Sie": "she/they/you (formal)",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "mutig",
+  "pos": "adjective",
+  "frequency": 1539,
+  "meanings": [
+   {
+    "english": "brave",
+    "examples": [
+     {
+      "de": "Das war ein mutiger Schritt.",
+      "en": "That was a brave step.",
+      "glosses": {
+       "mutiger": "brave",
+       "Schritt": "step",
+       "Das": "that/the",
+       "war": "was",
+       "ein": "a"
       }
      }
     ]
@@ -5265,7 +7864,7 @@
  {
   "word": "nachdem",
   "pos": "conjunction",
-  "frequency": 1366,
+  "frequency": 1540,
   "meanings": [
    {
     "english": "after",
@@ -5302,7 +7901,7 @@
  {
   "word": "nahe",
   "pos": "preposition",
-  "frequency": 1367,
+  "frequency": 1541,
   "meanings": [
    {
     "english": "near, close to",
@@ -5336,9 +7935,124 @@
   "notes": "+ Dativ"
  },
  {
+  "word": "nahe, nah",
+  "pos": "adjective",
+  "frequency": 1542,
+  "meanings": [
+   {
+    "english": "near, close",
+    "examples": [
+     {
+      "de": "Der Bahnhof ist ganz nah.",
+      "en": "The station is very close.",
+      "glosses": {
+       "nah": "close",
+       "Bahnhof": "station",
+       "Der": "the",
+       "ist": "is",
+       "ganz": "quite"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "national",
+  "pos": "adjective",
+  "frequency": 1543,
+  "meanings": [
+   {
+    "english": "national",
+    "examples": [
+     {
+      "de": "Das ist ein nationaler Feiertag.",
+      "en": "That is a national holiday.",
+      "glosses": {
+       "nationaler": "national",
+       "Feiertag": "holiday",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "negativ",
+  "pos": "adjective",
+  "frequency": 1544,
+  "meanings": [
+   {
+    "english": "negative",
+    "examples": [
+     {
+      "de": "Er hat eine negative Meinung.",
+      "en": "He has a negative opinion.",
+      "glosses": {
+       "negative": "negative",
+       "Meinung": "opinion",
+       "Er": "he",
+       "hat": "has",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "neugierig",
+  "pos": "adjective",
+  "frequency": 1545,
+  "meanings": [
+   {
+    "english": "curious, nosy",
+    "examples": [
+     {
+      "de": "Die Kinder sind sehr neugierig.",
+      "en": "The children are very curious.",
+      "glosses": {
+       "neugierig": "curious",
+       "Kinder": "children",
+       "Die": "the",
+       "sind": "are",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "niedrig",
+  "pos": "adjective",
+  "frequency": 1546,
+  "meanings": [
+   {
+    "english": "low",
+    "examples": [
+     {
+      "de": "Die Preise sind sehr niedrig.",
+      "en": "The prices are very low.",
+      "glosses": {
+       "niedrig": "low",
+       "Preise": "prices",
+       "Die": "the",
+       "sind": "are",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "nochmal",
   "pos": "adverb",
-  "frequency": 1368,
+  "frequency": 1547,
   "meanings": [
    {
     "english": "again, once more",
@@ -5349,7 +8063,7 @@
       "glosses": {
        "nochmal": "again",
        "Sag": "say",
-       "das": "the",
+       "das": "that/the",
        "bitte": "please"
       }
      }
@@ -5361,7 +8075,7 @@
  {
   "word": "nochmals",
   "pos": "adverb",
-  "frequency": 1369,
+  "frequency": 1548,
   "meanings": [
    {
     "english": "again, once more",
@@ -5373,8 +8087,8 @@
        "nochmals": "once more",
        "erklären": "explain",
        "Bitte": "please",
-       "Sie": "you",
-       "das": "the"
+       "Sie": "she/they/you (formal)",
+       "das": "that/the"
       }
      },
      {
@@ -5393,9 +8107,54 @@
   "notes": "also \"nochmal\""
  },
  {
+  "word": "nördlich",
+  "pos": "adjective",
+  "frequency": 1549,
+  "meanings": [
+   {
+    "english": "northern, north",
+    "examples": [
+     {
+      "de": "Wir fahren in nördlicher Richtung.",
+      "en": "We are driving in a northerly direction.",
+      "glosses": {
+       "nördlicher": "northerly",
+       "Richtung": "direction",
+       "Wir": "we",
+       "fahren": "drive",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "nötig",
+  "pos": "adjective",
+  "frequency": 1550,
+  "meanings": [
+   {
+    "english": "necessary",
+    "examples": [
+     {
+      "de": "Das ist nicht nötig.",
+      "en": "That is not necessary.",
+      "glosses": {
+       "nötig": "necessary",
+       "Das": "that/the",
+       "ist": "is",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "nun",
   "pos": "adverb",
-  "frequency": 1370,
+  "frequency": 1551,
   "meanings": [
    {
     "english": "now, well",
@@ -5425,7 +8184,7 @@
  {
   "word": "ob",
   "pos": "conjunction",
-  "frequency": 1371,
+  "frequency": 1552,
   "meanings": [
    {
     "english": "whether, if",
@@ -5463,9 +8222,34 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "oberer, obere, oberes",
+  "pos": "adjective",
+  "frequency": 1553,
+  "meanings": [
+   {
+    "english": "upper, top",
+    "examples": [
+     {
+      "de": "Das Buch liegt im oberen Regal.",
+      "en": "The book is on the top shelf.",
+      "glosses": {
+       "oberen": "top",
+       "Regal": "shelf",
+       "Das": "that/the",
+       "Buch": "book",
+       "liegt": "lies",
+       "im": "in the"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
   "word": "obwohl",
   "pos": "conjunction",
-  "frequency": 1372,
+  "frequency": 1554,
   "meanings": [
    {
     "english": "although, even though",
@@ -5500,9 +8284,55 @@
   "notes": "subordinating: verb at the end"
  },
  {
+  "word": "offenbar",
+  "pos": "adjective",
+  "frequency": 1555,
+  "meanings": [
+   {
+    "english": "obvious, apparent",
+    "examples": [
+     {
+      "de": "Das ist ein offenbarer Irrtum.",
+      "en": "That is an obvious mistake.",
+      "glosses": {
+       "offenbarer": "obvious",
+       "Irrtum": "mistake",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "öffentlich",
+  "pos": "adjective",
+  "frequency": 1556,
+  "meanings": [
+   {
+    "english": "public",
+    "examples": [
+     {
+      "de": "Das ist ein öffentlicher Park.",
+      "en": "That is a public park.",
+      "glosses": {
+       "öffentlicher": "public",
+       "Park": "park",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "ojemine",
   "pos": "interjection",
-  "frequency": 1373,
+  "frequency": 1557,
   "meanings": [
    {
     "english": "oh dear, goodness me",
@@ -5536,9 +8366,209 @@
   "notes": "old-fashioned or humorous"
  },
  {
+  "word": "ökologisch",
+  "pos": "adjective",
+  "frequency": 1558,
+  "meanings": [
+   {
+    "english": "ecological",
+    "examples": [
+     {
+      "de": "Wir leben ökologisch.",
+      "en": "We live in an eco-friendly way.",
+      "glosses": {
+       "ökologisch": "ecologically",
+       "leben": "live",
+       "Wir": "we"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "optimistisch",
+  "pos": "adjective",
+  "frequency": 1559,
+  "meanings": [
+   {
+    "english": "optimistic",
+    "examples": [
+     {
+      "de": "Ich bin optimistisch.",
+      "en": "I am optimistic.",
+      "glosses": {
+       "optimistisch": "optimistic",
+       "Ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ordentlich",
+  "pos": "adjective",
+  "frequency": 1560,
+  "meanings": [
+   {
+    "english": "tidy, proper, orderly",
+    "examples": [
+     {
+      "de": "Sein Zimmer ist immer ordentlich.",
+      "en": "His room is always tidy.",
+      "glosses": {
+       "ordentlich": "tidy",
+       "Zimmer": "room",
+       "Sein": "his",
+       "ist": "is",
+       "immer": "always"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "original",
+  "pos": "adjective",
+  "frequency": 1561,
+  "meanings": [
+   {
+    "english": "original",
+    "examples": [
+     {
+      "de": "Das ist das originale Foto.",
+      "en": "That is the original photo.",
+      "glosses": {
+       "originale": "original",
+       "Foto": "photo",
+       "Das": "that/the",
+       "ist": "is",
+       "das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "östlich",
+  "pos": "adjective",
+  "frequency": 1562,
+  "meanings": [
+   {
+    "english": "eastern, east",
+    "examples": [
+     {
+      "de": "Wir fahren in östlicher Richtung.",
+      "en": "We are driving in an easterly direction.",
+      "glosses": {
+       "östlicher": "easterly",
+       "Richtung": "direction",
+       "Wir": "we",
+       "fahren": "drive",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "parallel",
+  "pos": "adjective",
+  "frequency": 1563,
+  "meanings": [
+   {
+    "english": "parallel",
+    "examples": [
+     {
+      "de": "Die Straßen verlaufen parallel.",
+      "en": "The streets run parallel.",
+      "glosses": {
+       "parallel": "parallel",
+       "Straßen": "streets",
+       "verlaufen": "run",
+       "Die": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "passiv",
+  "pos": "adjective",
+  "frequency": 1564,
+  "meanings": [
+   {
+    "english": "passive",
+    "examples": [
+     {
+      "de": "Er ist sehr passiv.",
+      "en": "He is very passive.",
+      "glosses": {
+       "passiv": "passive",
+       "Er": "he",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "pauschal",
+  "pos": "adjective",
+  "frequency": 1565,
+  "meanings": [
+   {
+    "english": "flat-rate, general",
+    "examples": [
+     {
+      "de": "Der Preis ist pauschal.",
+      "en": "The price is a flat rate.",
+      "glosses": {
+       "pauschal": "flat-rate",
+       "Preis": "price",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "peinlich",
+  "pos": "adjective",
+  "frequency": 1566,
+  "meanings": [
+   {
+    "english": "embarrassing",
+    "examples": [
+     {
+      "de": "Das ist mir sehr peinlich.",
+      "en": "I am very embarrassed about that.",
+      "glosses": {
+       "peinlich": "embarrassing",
+       "mir": "me",
+       "Das": "that/the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "per",
   "pos": "preposition",
-  "frequency": 1374,
+  "frequency": 1567,
   "meanings": [
    {
     "english": "by (means of), per",
@@ -5572,9 +8602,54 @@
   "notes": "+ Akkusativ"
  },
  {
+  "word": "perfekt",
+  "pos": "adjective",
+  "frequency": 1568,
+  "meanings": [
+   {
+    "english": "perfect",
+    "examples": [
+     {
+      "de": "Dein Deutsch ist perfekt.",
+      "en": "Your German is perfect.",
+      "glosses": {
+       "perfekt": "perfect",
+       "Deutsch": "German",
+       "Dein": "your",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "persönlich",
+  "pos": "adjective",
+  "frequency": 1569,
+  "meanings": [
+   {
+    "english": "personal",
+    "examples": [
+     {
+      "de": "Das ist eine persönliche Frage.",
+      "en": "That is a personal question.",
+      "glosses": {
+       "persönliche": "personal",
+       "Frage": "question",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "persönlich",
   "pos": "adverb",
-  "frequency": 1375,
+  "frequency": 1570,
   "meanings": [
    {
     "english": "in person, personally",
@@ -5597,7 +8672,7 @@
        "Persönlich": "personally",
        "finde": "find",
        "ich": "I",
-       "das": "the",
+       "das": "that/the",
        "gut": "well"
       }
      }
@@ -5608,7 +8683,7 @@
  {
   "word": "pfui",
   "pos": "interjection",
-  "frequency": 1376,
+  "frequency": 1571,
   "meanings": [
    {
     "english": "fie, ugh, yuck",
@@ -5638,9 +8713,101 @@
   "notes": "expresses disgust or disapproval"
  },
  {
+  "word": "politisch",
+  "pos": "adjective",
+  "frequency": 1572,
+  "meanings": [
+   {
+    "english": "political",
+    "examples": [
+     {
+      "de": "Er interessiert sich für Politik.",
+      "en": "He is interested in politics.",
+      "glosses": {
+       "Politik": "politics",
+       "interessiert": "interested",
+       "sich": "himself",
+       "Er": "he",
+       "für": "for"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "populär",
+  "pos": "adjective",
+  "frequency": 1573,
+  "meanings": [
+   {
+    "english": "popular",
+    "examples": [
+     {
+      "de": "Der Sänger ist sehr populär.",
+      "en": "The singer is very popular.",
+      "glosses": {
+       "populär": "popular",
+       "Sänger": "singer",
+       "Der": "the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "positiv",
+  "pos": "adjective",
+  "frequency": 1574,
+  "meanings": [
+   {
+    "english": "positive",
+    "examples": [
+     {
+      "de": "Das Ergebnis ist positiv.",
+      "en": "The result is positive.",
+      "glosses": {
+       "positiv": "positive",
+       "Ergebnis": "result",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "prima",
+  "pos": "adjective",
+  "frequency": 1575,
+  "meanings": [
+   {
+    "english": "great, excellent",
+    "examples": [
+     {
+      "de": "Das ist eine prima Idee!",
+      "en": "That is a great idea!",
+      "glosses": {
+       "prima": "great",
+       "Idee": "idea",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "invariable, informal"
+ },
+ {
   "word": "puh",
   "pos": "interjection",
-  "frequency": 1377,
+  "frequency": 1576,
   "meanings": [
    {
     "english": "phew, whew",
@@ -5672,9 +8839,32 @@
   ]
  },
  {
+  "word": "realistisch",
+  "pos": "adjective",
+  "frequency": 1577,
+  "meanings": [
+   {
+    "english": "realistic",
+    "examples": [
+     {
+      "de": "Das ist kein realistischer Plan.",
+      "en": "That is not a realistic plan.",
+      "glosses": {
+       "realistischer": "realistic",
+       "Plan": "plan",
+       "Das": "that/the",
+       "ist": "is",
+       "kein": "no"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "recht",
   "pos": "adverb",
-  "frequency": 1378,
+  "frequency": 1578,
   "meanings": [
    {
     "english": "quite, rather",
@@ -5686,7 +8876,7 @@
        "recht": "quite",
        "Buch": "book",
        "interessant": "interesting",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is"
       }
      },
@@ -5706,9 +8896,325 @@
   ]
  },
  {
+  "word": "rechter, rechte, rechtes",
+  "pos": "adjective",
+  "frequency": 1579,
+  "meanings": [
+   {
+    "english": "right",
+    "examples": [
+     {
+      "de": "Er verletzte sich am rechten Arm.",
+      "en": "He hurt his right arm.",
+      "glosses": {
+       "rechten": "right",
+       "Arm": "arm",
+       "verletzte": "hurt",
+       "sich": "himself",
+       "Er": "he",
+       "am": "at the"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
+  "word": "rechtlich",
+  "pos": "adjective",
+  "frequency": 1580,
+  "meanings": [
+   {
+    "english": "legal",
+    "examples": [
+     {
+      "de": "Es gibt rechtliche Probleme.",
+      "en": "There are legal problems.",
+      "glosses": {
+       "rechtliche": "legal",
+       "Probleme": "problems",
+       "Es": "it",
+       "gibt": "gives"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "rechtzeitig",
+  "pos": "adjective",
+  "frequency": 1581,
+  "meanings": [
+   {
+    "english": "punctual, on time",
+    "examples": [
+     {
+      "de": "Wir sind rechtzeitig angekommen.",
+      "en": "We arrived on time.",
+      "glosses": {
+       "rechtzeitig": "on time",
+       "angekommen": "arrived",
+       "Wir": "we",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "regelmäßig",
+  "pos": "adjective",
+  "frequency": 1582,
+  "meanings": [
+   {
+    "english": "regular",
+    "examples": [
+     {
+      "de": "Er macht regelmäßig Sport.",
+      "en": "He does sport regularly.",
+      "glosses": {
+       "regelmäßig": "regularly",
+       "Sport": "sport",
+       "Er": "he",
+       "macht": "makes"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "regional",
+  "pos": "adjective",
+  "frequency": 1583,
+  "meanings": [
+   {
+    "english": "regional",
+    "examples": [
+     {
+      "de": "Wir kaufen regionale Produkte.",
+      "en": "We buy regional products.",
+      "glosses": {
+       "regionale": "regional",
+       "Produkte": "products",
+       "Wir": "we",
+       "kaufen": "buy"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "reif",
+  "pos": "adjective",
+  "frequency": 1584,
+  "meanings": [
+   {
+    "english": "ripe, mature",
+    "examples": [
+     {
+      "de": "Die Birnen sind reif.",
+      "en": "The pears are ripe.",
+      "glosses": {
+       "reif": "ripe",
+       "Birnen": "pears",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "rein",
+  "pos": "adjective",
+  "frequency": 1585,
+  "meanings": [
+   {
+    "english": "pure, clean",
+    "examples": [
+     {
+      "de": "Das ist reines Gold.",
+      "en": "That is pure gold.",
+      "glosses": {
+       "reines": "pure",
+       "Gold": "gold",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "relativ",
+  "pos": "adjective",
+  "frequency": 1586,
+  "meanings": [
+   {
+    "english": "relative",
+    "examples": [
+     {
+      "de": "Die Preise sind relativ niedrig.",
+      "en": "The prices are relatively low.",
+      "glosses": {
+       "relativ": "relatively",
+       "Preise": "prices",
+       "niedrig": "low",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "riesig",
+  "pos": "adjective",
+  "frequency": 1587,
+  "meanings": [
+   {
+    "english": "huge, enormous",
+    "examples": [
+     {
+      "de": "Das ist ein riesiges Haus.",
+      "en": "That is a huge house.",
+      "glosses": {
+       "riesiges": "huge",
+       "Haus": "house",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "roh",
+  "pos": "adjective",
+  "frequency": 1588,
+  "meanings": [
+   {
+    "english": "raw",
+    "examples": [
+     {
+      "de": "Das Fleisch ist noch roh.",
+      "en": "The meat is still raw.",
+      "glosses": {
+       "roh": "raw",
+       "Fleisch": "meat",
+       "Das": "that/the",
+       "ist": "is",
+       "noch": "still"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "salzig",
+  "pos": "adjective",
+  "frequency": 1589,
+  "meanings": [
+   {
+    "english": "salty",
+    "examples": [
+     {
+      "de": "Die Suppe ist zu salzig.",
+      "en": "The soup is too salty.",
+      "glosses": {
+       "salzig": "salty",
+       "Suppe": "soup",
+       "zu": "too",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "satt",
+  "pos": "adjective",
+  "frequency": 1590,
+  "meanings": [
+   {
+    "english": "full (after eating)",
+    "examples": [
+     {
+      "de": "Danke, ich bin satt.",
+      "en": "Thanks, I am full.",
+      "glosses": {
+       "satt": "full",
+       "Danke": "thanks",
+       "ich": "I",
+       "bin": "am"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "schick",
+  "pos": "adjective",
+  "frequency": 1591,
+  "meanings": [
+   {
+    "english": "chic, stylish",
+    "examples": [
+     {
+      "de": "Du siehst sehr schick aus.",
+      "en": "You look very smart.",
+      "glosses": {
+       "schick": "smart",
+       "siehst": "look",
+       "aus": "out",
+       "Du": "you",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "schief",
+  "pos": "adjective",
+  "frequency": 1592,
+  "meanings": [
+   {
+    "english": "crooked, slanted",
+    "examples": [
+     {
+      "de": "Das Bild hängt schief.",
+      "en": "The picture is hanging crooked.",
+      "glosses": {
+       "schief": "crooked",
+       "Bild": "picture",
+       "hängt": "hangs",
+       "Das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "schließlich",
   "pos": "adverb",
-  "frequency": 1379,
+  "frequency": 1593,
   "meanings": [
    {
     "english": "in the end, finally, after all",
@@ -5741,9 +9247,76 @@
   ]
  },
  {
+  "word": "schmal",
+  "pos": "adjective",
+  "frequency": 1594,
+  "meanings": [
+   {
+    "english": "narrow, slim",
+    "examples": [
+     {
+      "de": "Die Straße ist sehr schmal.",
+      "en": "The street is very narrow.",
+      "glosses": {
+       "schmal": "narrow",
+       "Straße": "street",
+       "Die": "the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "schuld",
+  "pos": "adjective",
+  "frequency": 1595,
+  "meanings": [
+   {
+    "english": "to blame, at fault",
+    "examples": [
+     {
+      "de": "Wer ist schuld daran?",
+      "en": "Who is to blame for that?",
+      "glosses": {
+       "schuld": "to blame",
+       "daran": "for that",
+       "Wer": "who",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "predicative: schuld sein"
+ },
+ {
+  "word": "schuldig",
+  "pos": "adjective",
+  "frequency": 1596,
+  "meanings": [
+   {
+    "english": "guilty; owing",
+    "examples": [
+     {
+      "de": "Er ist schuldig.",
+      "en": "He is guilty.",
+      "glosses": {
+       "schuldig": "guilty",
+       "Er": "he",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "seitdem",
   "pos": "conjunction",
-  "frequency": 1380,
+  "frequency": 1597,
   "meanings": [
    {
     "english": "since (a point in time)",
@@ -5782,9 +9355,166 @@
   "notes": "subordinating: verb at the end (also \"seit\")"
  },
  {
+  "word": "selbstverständlich",
+  "pos": "adjective",
+  "frequency": 1598,
+  "meanings": [
+   {
+    "english": "obvious, a matter of course",
+    "examples": [
+     {
+      "de": "Das ist doch selbstverständlich!",
+      "en": "That goes without saying!",
+      "glosses": {
+       "selbstverständlich": "obvious",
+       "Das": "that/the",
+       "ist": "is",
+       "doch": "surely"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "selten",
+  "pos": "adjective",
+  "frequency": 1599,
+  "meanings": [
+   {
+    "english": "rare",
+    "examples": [
+     {
+      "de": "Solche Tiere sind selten.",
+      "en": "Such animals are rare.",
+      "glosses": {
+       "selten": "rare",
+       "Solche": "such",
+       "Tiere": "animals",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "seltsam",
+  "pos": "adjective",
+  "frequency": 1600,
+  "meanings": [
+   {
+    "english": "strange, odd",
+    "examples": [
+     {
+      "de": "Das ist ein seltsames Geräusch.",
+      "en": "That is a strange noise.",
+      "glosses": {
+       "seltsames": "strange",
+       "Geräusch": "noise",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "senkrecht",
+  "pos": "adjective",
+  "frequency": 1601,
+  "meanings": [
+   {
+    "english": "vertical, perpendicular",
+    "examples": [
+     {
+      "de": "Die Linie ist senkrecht.",
+      "en": "The line is vertical.",
+      "glosses": {
+       "senkrecht": "vertical",
+       "Linie": "line",
+       "Die": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "sichtbar",
+  "pos": "adjective",
+  "frequency": 1602,
+  "meanings": [
+   {
+    "english": "visible",
+    "examples": [
+     {
+      "de": "Der Fehler ist deutlich sichtbar.",
+      "en": "The mistake is clearly visible.",
+      "glosses": {
+       "sichtbar": "visible",
+       "deutlich": "clearly",
+       "Der": "the",
+       "Fehler": "mistake",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "sinnlos",
+  "pos": "adjective",
+  "frequency": 1603,
+  "meanings": [
+   {
+    "english": "pointless, senseless",
+    "examples": [
+     {
+      "de": "Das ist doch sinnlos.",
+      "en": "That is pointless.",
+      "glosses": {
+       "sinnlos": "pointless",
+       "Das": "that/the",
+       "ist": "is",
+       "doch": "surely"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "sinnvoll",
+  "pos": "adjective",
+  "frequency": 1604,
+  "meanings": [
+   {
+    "english": "sensible, meaningful",
+    "examples": [
+     {
+      "de": "Das ist eine sinnvolle Idee.",
+      "en": "That is a sensible idea.",
+      "glosses": {
+       "sinnvolle": "sensible",
+       "Idee": "idea",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "sobald",
   "pos": "conjunction",
-  "frequency": 1381,
+  "frequency": 1605,
   "meanings": [
    {
     "english": "as soon as",
@@ -5824,7 +9554,7 @@
  {
   "word": "sodass",
   "pos": "conjunction",
-  "frequency": 1382,
+  "frequency": 1606,
   "meanings": [
    {
     "english": "so that, with the result that",
@@ -5862,9 +9592,32 @@
   "notes": "subordinating: verb at the end (also \"so dass\")"
  },
  {
+  "word": "sogenannt",
+  "pos": "adjective",
+  "frequency": 1607,
+  "meanings": [
+   {
+    "english": "so-called",
+    "examples": [
+     {
+      "de": "Er ist ein sogenannter Experte.",
+      "en": "He is a so-called expert.",
+      "glosses": {
+       "sogenannter": "so-called",
+       "Experte": "expert",
+       "Er": "he",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "solange",
   "pos": "conjunction",
-  "frequency": 1383,
+  "frequency": 1608,
   "meanings": [
    {
     "english": "as long as, while",
@@ -5900,7 +9653,7 @@
  {
   "word": "sondern",
   "pos": "conjunction",
-  "frequency": 1384,
+  "frequency": 1609,
   "meanings": [
    {
     "english": "but (rather), instead",
@@ -5937,7 +9690,7 @@
  {
   "word": "soviel",
   "pos": "conjunction",
-  "frequency": 1385,
+  "frequency": 1610,
   "meanings": [
    {
     "english": "as much as, as far as",
@@ -5972,7 +9725,7 @@
  {
   "word": "sowohl … als auch",
   "pos": "conjunction",
-  "frequency": 1386,
+  "frequency": 1611,
   "meanings": [
    {
     "english": "both … and, as well as",
@@ -6011,9 +9764,170 @@
   "notes": "two-part conjunction, no inversion"
  },
  {
+  "word": "sozial",
+  "pos": "adjective",
+  "frequency": 1612,
+  "meanings": [
+   {
+    "english": "social",
+    "examples": [
+     {
+      "de": "Sie arbeitet in einem sozialen Beruf.",
+      "en": "She works in a social profession.",
+      "glosses": {
+       "sozialen": "social",
+       "Beruf": "profession",
+       "Sie": "she/they/you (formal)",
+       "arbeitet": "works",
+       "in": "in",
+       "einem": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "sparsam",
+  "pos": "adjective",
+  "frequency": 1613,
+  "meanings": [
+   {
+    "english": "economical, thrifty",
+    "examples": [
+     {
+      "de": "Das Auto ist sehr sparsam.",
+      "en": "The car is very economical.",
+      "glosses": {
+       "sparsam": "economical",
+       "Auto": "car",
+       "Das": "that/the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "speziell",
+  "pos": "adjective",
+  "frequency": 1614,
+  "meanings": [
+   {
+    "english": "special, specific",
+    "examples": [
+     {
+      "de": "Wir haben ein spezielles Angebot.",
+      "en": "We have a special offer.",
+      "glosses": {
+       "spezielles": "special",
+       "Angebot": "offer",
+       "Wir": "we",
+       "haben": "have",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "spitz",
+  "pos": "adjective",
+  "frequency": 1615,
+  "meanings": [
+   {
+    "english": "pointed, sharp",
+    "examples": [
+     {
+      "de": "Das Messer ist sehr spitz.",
+      "en": "The knife is very sharp.",
+      "glosses": {
+       "spitz": "sharp",
+       "Messer": "knife",
+       "Das": "that/the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "städtisch",
+  "pos": "adjective",
+  "frequency": 1616,
+  "meanings": [
+   {
+    "english": "urban, municipal",
+    "examples": [
+     {
+      "de": "Das ist eine städtische Schule.",
+      "en": "That is a municipal school.",
+      "glosses": {
+       "städtische": "municipal",
+       "Schule": "school",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ständig",
+  "pos": "adjective",
+  "frequency": 1617,
+  "meanings": [
+   {
+    "english": "constant, permanent",
+    "examples": [
+     {
+      "de": "Er hat ständig neue Ideen.",
+      "en": "He constantly has new ideas.",
+      "glosses": {
+       "ständig": "constantly",
+       "Ideen": "ideas",
+       "Er": "he",
+       "hat": "has",
+       "neue": "new"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "statistisch",
+  "pos": "adjective",
+  "frequency": 1618,
+  "meanings": [
+   {
+    "english": "statistical",
+    "examples": [
+     {
+      "de": "Das sind statistische Daten.",
+      "en": "Those are statistical data.",
+      "glosses": {
+       "statistische": "statistical",
+       "Daten": "data",
+       "Das": "that/the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "statt",
   "pos": "preposition",
-  "frequency": 1387,
+  "frequency": 1619,
   "meanings": [
    {
     "english": "instead of",
@@ -6049,9 +9963,261 @@
   "notes": "+ Genitiv"
  },
  {
+  "word": "steil",
+  "pos": "adjective",
+  "frequency": 1620,
+  "meanings": [
+   {
+    "english": "steep",
+    "examples": [
+     {
+      "de": "Der Weg ist sehr steil.",
+      "en": "The path is very steep.",
+      "glosses": {
+       "steil": "steep",
+       "Weg": "path",
+       "Der": "the",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "stilistisch",
+  "pos": "adjective",
+  "frequency": 1621,
+  "meanings": [
+   {
+    "english": "stylistic",
+    "examples": [
+     {
+      "de": "Der Text hat stilistische Fehler.",
+      "en": "The text has stylistic errors.",
+      "glosses": {
+       "stilistische": "stylistic",
+       "Text": "text",
+       "Fehler": "errors",
+       "Der": "the",
+       "hat": "has"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "still",
+  "pos": "adjective",
+  "frequency": 1622,
+  "meanings": [
+   {
+    "english": "quiet, still",
+    "examples": [
+     {
+      "de": "Es ist ganz still im Haus.",
+      "en": "It is completely quiet in the house.",
+      "glosses": {
+       "still": "quiet",
+       "Haus": "house",
+       "Es": "it",
+       "ist": "is",
+       "ganz": "quite",
+       "im": "in the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "stolz",
+  "pos": "adjective",
+  "frequency": 1623,
+  "meanings": [
+   {
+    "english": "proud",
+    "examples": [
+     {
+      "de": "Die Eltern sind stolz auf ihr Kind.",
+      "en": "The parents are proud of their child.",
+      "glosses": {
+       "stolz": "proud",
+       "Kind": "child",
+       "ihr": "their",
+       "Die": "the",
+       "Eltern": "parents",
+       "sind": "are",
+       "auf": "on"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "strafbar",
+  "pos": "adjective",
+  "frequency": 1624,
+  "meanings": [
+   {
+    "english": "punishable",
+    "examples": [
+     {
+      "de": "Das ist strafbar.",
+      "en": "That is punishable by law.",
+      "glosses": {
+       "strafbar": "punishable",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "stumm",
+  "pos": "adjective",
+  "frequency": 1625,
+  "meanings": [
+   {
+    "english": "mute, silent",
+    "examples": [
+     {
+      "de": "Er stand stumm da.",
+      "en": "He stood there silently.",
+      "glosses": {
+       "stumm": "silently",
+       "stand": "stood",
+       "da": "there",
+       "Er": "he"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "süchtig",
+  "pos": "adjective",
+  "frequency": 1626,
+  "meanings": [
+   {
+    "english": "addicted",
+    "examples": [
+     {
+      "de": "Er ist süchtig nach Schokolade.",
+      "en": "He is addicted to chocolate.",
+      "glosses": {
+       "süchtig": "addicted",
+       "Schokolade": "chocolate",
+       "Er": "he",
+       "ist": "is",
+       "nach": "to"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "südlich",
+  "pos": "adjective",
+  "frequency": 1627,
+  "meanings": [
+   {
+    "english": "southern, south",
+    "examples": [
+     {
+      "de": "Wir fahren in südlicher Richtung.",
+      "en": "We are driving in a southerly direction.",
+      "glosses": {
+       "südlicher": "southerly",
+       "Richtung": "direction",
+       "Wir": "we",
+       "fahren": "drive",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "tatsächlich",
+  "pos": "adjective",
+  "frequency": 1628,
+  "meanings": [
+   {
+    "english": "actual, real",
+    "examples": [
+     {
+      "de": "Die tatsächlichen Kosten sind höher.",
+      "en": "The actual costs are higher.",
+      "glosses": {
+       "tatsächlichen": "actual",
+       "Kosten": "costs",
+       "höher": "higher",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "taub",
+  "pos": "adjective",
+  "frequency": 1629,
+  "meanings": [
+   {
+    "english": "deaf, numb",
+    "examples": [
+     {
+      "de": "Mein Fuß ist taub.",
+      "en": "My foot is numb.",
+      "glosses": {
+       "taub": "numb",
+       "Fuß": "foot",
+       "Mein": "my",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "technisch",
+  "pos": "adjective",
+  "frequency": 1630,
+  "meanings": [
+   {
+    "english": "technical",
+    "examples": [
+     {
+      "de": "Es gibt ein technisches Problem.",
+      "en": "There is a technical problem.",
+      "glosses": {
+       "technisches": "technical",
+       "Problem": "problem",
+       "gibt": "gives",
+       "Es": "it",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "teilweise",
   "pos": "adverb",
-  "frequency": 1388,
+  "frequency": 1631,
   "meanings": [
    {
     "english": "partially, partly",
@@ -6073,8 +10239,30 @@
       "glosses": {
        "teilweise": "partly",
        "stimmt": "is true",
-       "Das": "the",
+       "Das": "that/the",
        "nur": "only"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "theoretisch",
+  "pos": "adjective",
+  "frequency": 1632,
+  "meanings": [
+   {
+    "english": "theoretical",
+    "examples": [
+     {
+      "de": "Das ist theoretisch möglich.",
+      "en": "That is theoretically possible.",
+      "glosses": {
+       "theoretisch": "theoretically",
+       "möglich": "possible",
+       "Das": "that/the",
+       "ist": "is"
       }
      }
     ]
@@ -6084,7 +10272,7 @@
  {
   "word": "tja",
   "pos": "interjection",
-  "frequency": 1389,
+  "frequency": 1633,
   "meanings": [
    {
     "english": "well, oh well",
@@ -6118,9 +10306,75 @@
   "notes": "expresses resignation or hesitation"
  },
  {
+  "word": "tödlich",
+  "pos": "adjective",
+  "frequency": 1634,
+  "meanings": [
+   {
+    "english": "deadly, fatal",
+    "examples": [
+     {
+      "de": "Das Gift ist tödlich.",
+      "en": "The poison is deadly.",
+      "glosses": {
+       "tödlich": "deadly",
+       "Gift": "poison",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "tolerant",
+  "pos": "adjective",
+  "frequency": 1635,
+  "meanings": [
+   {
+    "english": "tolerant",
+    "examples": [
+     {
+      "de": "Er ist sehr tolerant.",
+      "en": "He is very tolerant.",
+      "glosses": {
+       "tolerant": "tolerant",
+       "Er": "he",
+       "ist": "is",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "treu",
+  "pos": "adjective",
+  "frequency": 1636,
+  "meanings": [
+   {
+    "english": "faithful, loyal",
+    "examples": [
+     {
+      "de": "Hunde sind treue Tiere.",
+      "en": "Dogs are loyal animals.",
+      "glosses": {
+       "treue": "loyal",
+       "Hunde": "dogs",
+       "Tiere": "animals",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "trotz",
   "pos": "preposition",
-  "frequency": 1390,
+  "frequency": 1637,
   "meanings": [
    {
     "english": "despite, in spite of",
@@ -6158,7 +10412,7 @@
  {
   "word": "trotzdem",
   "pos": "adverb",
-  "frequency": 1391,
+  "frequency": 1638,
   "meanings": [
    {
     "english": "nevertheless, anyway, still",
@@ -6194,7 +10448,7 @@
  {
   "word": "überhaupt",
   "pos": "adverb",
-  "frequency": 1392,
+  "frequency": 1639,
   "meanings": [
    {
     "english": "at all, in general, anyway",
@@ -6215,7 +10469,7 @@
       "glosses": {
        "überhaupt": "at all",
        "wahr": "true",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is",
        "nicht": "not"
       }
@@ -6225,9 +10479,55 @@
   ]
  },
  {
+  "word": "üblich",
+  "pos": "adjective",
+  "frequency": 1640,
+  "meanings": [
+   {
+    "english": "usual, customary",
+    "examples": [
+     {
+      "de": "Das ist hier so üblich.",
+      "en": "That is usual here.",
+      "glosses": {
+       "üblich": "usual",
+       "hier": "here",
+       "Das": "that/the",
+       "ist": "is",
+       "so": "so"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "übrig",
+  "pos": "adjective",
+  "frequency": 1641,
+  "meanings": [
+   {
+    "english": "remaining, left over",
+    "examples": [
+     {
+      "de": "Ist noch etwas Suppe übrig?",
+      "en": "Is there any soup left over?",
+      "glosses": {
+       "übrig": "left over",
+       "Suppe": "soup",
+       "Ist": "is",
+       "noch": "still",
+       "etwas": "something"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "übrigens",
   "pos": "adverb",
-  "frequency": 1393,
+  "frequency": 1642,
   "meanings": [
    {
     "english": "by the way, besides, incidentally",
@@ -6258,9 +10558,31 @@
   ]
  },
  {
+  "word": "umgekehrt",
+  "pos": "adjective",
+  "frequency": 1643,
+  "meanings": [
+   {
+    "english": "reversed, the other way round",
+    "examples": [
+     {
+      "de": "Es war genau umgekehrt.",
+      "en": "It was exactly the other way round.",
+      "glosses": {
+       "umgekehrt": "the other way round",
+       "genau": "exactly",
+       "Es": "it",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "umso",
   "pos": "conjunction",
-  "frequency": 1394,
+  "frequency": 1644,
   "meanings": [
    {
     "english": "the more, all the more",
@@ -6294,9 +10616,214 @@
   "notes": "umso + comparative, often after \"je\""
  },
  {
+  "word": "unentschieden",
+  "pos": "adjective",
+  "frequency": 1645,
+  "meanings": [
+   {
+    "english": "undecided, drawn",
+    "examples": [
+     {
+      "de": "Das Spiel endete unentschieden.",
+      "en": "The game ended in a draw.",
+      "glosses": {
+       "unentschieden": "drawn",
+       "Spiel": "game",
+       "endete": "ended",
+       "Das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ungefähr",
+  "pos": "adjective",
+  "frequency": 1646,
+  "meanings": [
+   {
+    "english": "approximate, rough",
+    "examples": [
+     {
+      "de": "Das ist nur eine ungefähre Zahl.",
+      "en": "That is only a rough figure.",
+      "glosses": {
+       "ungefähre": "rough",
+       "Zahl": "figure",
+       "Das": "that/the",
+       "ist": "is",
+       "nur": "only",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ungewöhnlich",
+  "pos": "adjective",
+  "frequency": 1647,
+  "meanings": [
+   {
+    "english": "unusual",
+    "examples": [
+     {
+      "de": "Das ist ein ungewöhnlicher Name.",
+      "en": "That is an unusual name.",
+      "glosses": {
+       "ungewöhnlicher": "unusual",
+       "Name": "name",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "unglaublich",
+  "pos": "adjective",
+  "frequency": 1648,
+  "meanings": [
+   {
+    "english": "incredible, unbelievable",
+    "examples": [
+     {
+      "de": "Das ist unglaublich!",
+      "en": "That is unbelievable!",
+      "glosses": {
+       "unglaublich": "unbelievable",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "unheimlich",
+  "pos": "adjective",
+  "frequency": 1649,
+  "meanings": [
+   {
+    "english": "eerie, creepy",
+    "examples": [
+     {
+      "de": "Der Wald ist nachts unheimlich.",
+      "en": "The forest is eerie at night.",
+      "glosses": {
+       "unheimlich": "eerie",
+       "Wald": "forest",
+       "nachts": "at night",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "unterer, untere, unteres",
+  "pos": "adjective",
+  "frequency": 1650,
+  "meanings": [
+   {
+    "english": "lower, bottom",
+    "examples": [
+     {
+      "de": "Das Buch liegt im unteren Regal.",
+      "en": "The book is on the lower shelf.",
+      "glosses": {
+       "unteren": "lower",
+       "Regal": "shelf",
+       "liegt": "lies",
+       "Das": "that/the",
+       "Buch": "book",
+       "im": "in the"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
+  "word": "untersagt",
+  "pos": "adjective",
+  "frequency": 1651,
+  "meanings": [
+   {
+    "english": "prohibited",
+    "examples": [
+     {
+      "de": "Rauchen ist hier untersagt.",
+      "en": "Smoking is prohibited here.",
+      "glosses": {
+       "untersagt": "prohibited",
+       "Rauchen": "smoking",
+       "hier": "here",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "unterschiedlich",
+  "pos": "adjective",
+  "frequency": 1652,
+  "meanings": [
+   {
+    "english": "different, varying",
+    "examples": [
+     {
+      "de": "Die Preise sind unterschiedlich.",
+      "en": "The prices are different.",
+      "glosses": {
+       "unterschiedlich": "different",
+       "Preise": "prices",
+       "Die": "the",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "ursprünglich",
+  "pos": "adjective",
+  "frequency": 1653,
+  "meanings": [
+   {
+    "english": "original",
+    "examples": [
+     {
+      "de": "Das ist der ursprüngliche Plan.",
+      "en": "That is the original plan.",
+      "glosses": {
+       "ursprüngliche": "original",
+       "Plan": "plan",
+       "Das": "that/the",
+       "ist": "is",
+       "der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "ursprünglich",
   "pos": "adverb",
-  "frequency": 1395,
+  "frequency": 1654,
   "meanings": [
    {
     "english": "originally, initially",
@@ -6319,7 +10846,7 @@
       "glosses": {
        "ursprünglich": "originally",
        "Bauernhof": "farm",
-       "Das": "the",
+       "Das": "that/the",
        "Haus": "house",
        "war": "was",
        "ein": "a"
@@ -6330,9 +10857,414 @@
   ]
  },
  {
+  "word": "vegetarisch",
+  "pos": "adjective",
+  "frequency": 1655,
+  "meanings": [
+   {
+    "english": "vegetarian",
+    "examples": [
+     {
+      "de": "Ich esse vegetarisch.",
+      "en": "I eat vegetarian.",
+      "glosses": {
+       "vegetarisch": "vegetarian",
+       "esse": "eat",
+       "Ich": "I"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verantwortlich",
+  "pos": "adjective",
+  "frequency": 1656,
+  "meanings": [
+   {
+    "english": "responsible",
+    "examples": [
+     {
+      "de": "Wer ist dafür verantwortlich?",
+      "en": "Who is responsible for that?",
+      "glosses": {
+       "verantwortlich": "responsible",
+       "dafür": "for that",
+       "Wer": "who",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verdächtig",
+  "pos": "adjective",
+  "frequency": 1657,
+  "meanings": [
+   {
+    "english": "suspicious",
+    "examples": [
+     {
+      "de": "Der Mann sieht verdächtig aus.",
+      "en": "The man looks suspicious.",
+      "glosses": {
+       "verdächtig": "suspicious",
+       "Mann": "man",
+       "sieht": "looks",
+       "aus": "out",
+       "Der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "vergeblich",
+  "pos": "adjective",
+  "frequency": 1658,
+  "meanings": [
+   {
+    "english": "futile, in vain",
+    "examples": [
+     {
+      "de": "Alle Mühe war vergeblich.",
+      "en": "All the effort was in vain.",
+      "glosses": {
+       "vergeblich": "in vain",
+       "Mühe": "effort",
+       "alle": "all",
+       "war": "was"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "vergnügt",
+  "pos": "adjective",
+  "frequency": 1659,
+  "meanings": [
+   {
+    "english": "cheerful, merry",
+    "examples": [
+     {
+      "de": "Die Kinder spielen vergnügt.",
+      "en": "The children play merrily.",
+      "glosses": {
+       "vergnügt": "merrily",
+       "Kinder": "children",
+       "spielen": "play",
+       "Die": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verliebt",
+  "pos": "adjective",
+  "frequency": 1660,
+  "meanings": [
+   {
+    "english": "in love",
+    "examples": [
+     {
+      "de": "Sie ist in ihn verliebt.",
+      "en": "She is in love with him.",
+      "glosses": {
+       "verliebt": "in love",
+       "ihn": "him",
+       "Sie": "she/they/you (formal)",
+       "ist": "is",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "vernünftig",
+  "pos": "adjective",
+  "frequency": 1661,
+  "meanings": [
+   {
+    "english": "sensible, reasonable",
+    "examples": [
+     {
+      "de": "Das ist ein vernünftiger Vorschlag.",
+      "en": "That is a sensible suggestion.",
+      "glosses": {
+       "vernünftiger": "sensible",
+       "Vorschlag": "suggestion",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verpflichtet",
+  "pos": "adjective",
+  "frequency": 1662,
+  "meanings": [
+   {
+    "english": "obliged",
+    "examples": [
+     {
+      "de": "Wir sind dazu verpflichtet.",
+      "en": "We are obliged to do so.",
+      "glosses": {
+       "verpflichtet": "obliged",
+       "dazu": "to that",
+       "Wir": "we",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verrückt",
+  "pos": "adjective",
+  "frequency": 1663,
+  "meanings": [
+   {
+    "english": "crazy, mad",
+    "examples": [
+     {
+      "de": "Du bist doch verrückt!",
+      "en": "You are crazy!",
+      "glosses": {
+       "verrückt": "crazy",
+       "doch": "really",
+       "Du": "you",
+       "bist": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verständlich",
+  "pos": "adjective",
+  "frequency": 1664,
+  "meanings": [
+   {
+    "english": "understandable, comprehensible",
+    "examples": [
+     {
+      "de": "Das ist doch verständlich.",
+      "en": "That is understandable.",
+      "glosses": {
+       "verständlich": "understandable",
+       "Das": "that/the",
+       "ist": "is",
+       "doch": "surely"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "verwandt",
+  "pos": "adjective",
+  "frequency": 1665,
+  "meanings": [
+   {
+    "english": "related",
+    "examples": [
+     {
+      "de": "Wir sind miteinander verwandt.",
+      "en": "We are related to each other.",
+      "glosses": {
+       "verwandt": "related",
+       "miteinander": "to each other",
+       "Wir": "we",
+       "sind": "are"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "virtuell",
+  "pos": "adjective",
+  "frequency": 1666,
+  "meanings": [
+   {
+    "english": "virtual",
+    "examples": [
+     {
+      "de": "Wir treffen uns virtuell.",
+      "en": "We are meeting virtually.",
+      "glosses": {
+       "virtuell": "virtually",
+       "treffen": "meet",
+       "uns": "each other",
+       "Wir": "we"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "völlig",
+  "pos": "adjective",
+  "frequency": 1667,
+  "meanings": [
+   {
+    "english": "complete, total",
+    "examples": [
+     {
+      "de": "Das ist völlig unmöglich.",
+      "en": "That is completely impossible.",
+      "glosses": {
+       "völlig": "completely",
+       "unmöglich": "impossible",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "voraussichtlich",
+  "pos": "adjective",
+  "frequency": 1668,
+  "meanings": [
+   {
+    "english": "expected, anticipated",
+    "examples": [
+     {
+      "de": "Der Zug kommt voraussichtlich um acht.",
+      "en": "The train is expected at eight.",
+      "glosses": {
+       "voraussichtlich": "expected",
+       "Zug": "train",
+       "kommt": "arrives",
+       "Der": "the",
+       "um": "at",
+       "acht": "eight"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "vorderer, vordere, vorderes",
+  "pos": "adjective",
+  "frequency": 1669,
+  "meanings": [
+   {
+    "english": "front",
+    "examples": [
+     {
+      "de": "Wir sitzen in der vorderen Reihe.",
+      "en": "We are sitting in the front row.",
+      "glosses": {
+       "vorderen": "front",
+       "Reihe": "row",
+       "sitzen": "sit",
+       "Wir": "we",
+       "in": "in",
+       "der": "the"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
+  "word": "vorläufig",
+  "pos": "adjective",
+  "frequency": 1670,
+  "meanings": [
+   {
+    "english": "temporary, provisional",
+    "examples": [
+     {
+      "de": "Das ist nur eine vorläufige Lösung.",
+      "en": "That is only a temporary solution.",
+      "glosses": {
+       "vorläufige": "temporary",
+       "Lösung": "solution",
+       "Das": "that/the",
+       "ist": "is",
+       "nur": "only",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "waagerecht",
+  "pos": "adjective",
+  "frequency": 1671,
+  "meanings": [
+   {
+    "english": "horizontal",
+    "examples": [
+     {
+      "de": "Zeichne eine waagerechte Linie.",
+      "en": "Draw a horizontal line.",
+      "glosses": {
+       "waagerechte": "horizontal",
+       "Zeichne": "draw",
+       "Linie": "line",
+       "eine": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wahnsinnig",
+  "pos": "adjective",
+  "frequency": 1672,
+  "meanings": [
+   {
+    "english": "insane, crazy; extremely",
+    "examples": [
+     {
+      "de": "Das ist wahnsinnig teuer.",
+      "en": "That is insanely expensive.",
+      "glosses": {
+       "wahnsinnig": "insanely",
+       "teuer": "expensive",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "während",
   "pos": "conjunction",
-  "frequency": 1396,
+  "frequency": 1673,
   "meanings": [
    {
     "english": "while, whereas",
@@ -6369,7 +11301,7 @@
  {
   "word": "während",
   "pos": "preposition",
-  "frequency": 1397,
+  "frequency": 1674,
   "meanings": [
    {
     "english": "during",
@@ -6407,7 +11339,7 @@
  {
   "word": "weder … noch",
   "pos": "conjunction",
-  "frequency": 1398,
+  "frequency": 1675,
   "meanings": [
    {
     "english": "neither … nor",
@@ -6442,9 +11374,170 @@
   "notes": "two-part conjunction"
  },
  {
+  "word": "weiterer, weitere, weiteres",
+  "pos": "adjective",
+  "frequency": 1676,
+  "meanings": [
+   {
+    "english": "further, additional",
+    "examples": [
+     {
+      "de": "Haben Sie weitere Fragen?",
+      "en": "Do you have any further questions?",
+      "glosses": {
+       "weitere": "further",
+       "Fragen": "questions",
+       "Haben": "have",
+       "Sie": "she/they/you (formal)"
+      }
+     }
+    ]
+   }
+  ],
+  "notes": "attributive only"
+ },
+ {
+  "word": "weltweit",
+  "pos": "adjective",
+  "frequency": 1677,
+  "meanings": [
+   {
+    "english": "worldwide",
+    "examples": [
+     {
+      "de": "Das ist ein weltweites Problem.",
+      "en": "That is a worldwide problem.",
+      "glosses": {
+       "weltweites": "worldwide",
+       "Problem": "problem",
+       "Das": "that/the",
+       "ist": "is",
+       "ein": "a"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wert",
+  "pos": "adjective",
+  "frequency": 1678,
+  "meanings": [
+   {
+    "english": "worth, valuable",
+    "examples": [
+     {
+      "de": "Das Buch ist viel Geld wert.",
+      "en": "The book is worth a lot of money.",
+      "glosses": {
+       "wert": "worth",
+       "Buch": "book",
+       "Geld": "money",
+       "Das": "that/the",
+       "ist": "is",
+       "viel": "much"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wertlos",
+  "pos": "adjective",
+  "frequency": 1679,
+  "meanings": [
+   {
+    "english": "worthless",
+    "examples": [
+     {
+      "de": "Das Papier ist wertlos.",
+      "en": "The paper is worthless.",
+      "glosses": {
+       "wertlos": "worthless",
+       "Papier": "paper",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "westlich",
+  "pos": "adjective",
+  "frequency": 1680,
+  "meanings": [
+   {
+    "english": "western, west",
+    "examples": [
+     {
+      "de": "Wir fahren in westlicher Richtung.",
+      "en": "We are driving in a westerly direction.",
+      "glosses": {
+       "westlicher": "westerly",
+       "Richtung": "direction",
+       "Wir": "we",
+       "fahren": "drive",
+       "in": "in"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wild",
+  "pos": "adjective",
+  "frequency": 1681,
+  "meanings": [
+   {
+    "english": "wild",
+    "examples": [
+     {
+      "de": "Im Wald leben wilde Tiere.",
+      "en": "Wild animals live in the forest.",
+      "glosses": {
+       "wilde": "wild",
+       "Wald": "forest",
+       "Tiere": "animals",
+       "Im": "in the",
+       "leben": "live"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wöchentlich",
+  "pos": "adjective",
+  "frequency": 1682,
+  "meanings": [
+   {
+    "english": "weekly",
+    "examples": [
+     {
+      "de": "Der Kurs findet wöchentlich statt.",
+      "en": "The course takes place weekly.",
+      "glosses": {
+       "wöchentlich": "weekly",
+       "Kurs": "course",
+       "findet": "finds",
+       "statt": "place",
+       "Der": "the"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "wohl",
   "pos": "adverb",
-  "frequency": 1399,
+  "frequency": 1683,
   "meanings": [
    {
     "english": "probably, well, I suppose",
@@ -6465,8 +11558,96 @@
       "glosses": {
        "wohl": "probably",
        "stimmen": "be right",
-       "Das": "the",
+       "Das": "that/the",
        "wird": "becomes"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wunderschön",
+  "pos": "adjective",
+  "frequency": 1684,
+  "meanings": [
+   {
+    "english": "beautiful, gorgeous",
+    "examples": [
+     {
+      "de": "Der Garten ist wunderschön.",
+      "en": "The garden is gorgeous.",
+      "glosses": {
+       "wunderschön": "gorgeous",
+       "Garten": "garden",
+       "Der": "the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "wütend",
+  "pos": "adjective",
+  "frequency": 1685,
+  "meanings": [
+   {
+    "english": "furious, angry",
+    "examples": [
+     {
+      "de": "Er war sehr wütend.",
+      "en": "He was very angry.",
+      "glosses": {
+       "wütend": "angry",
+       "war": "was",
+       "Er": "he",
+       "sehr": "very"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zahlreich",
+  "pos": "adjective",
+  "frequency": 1686,
+  "meanings": [
+   {
+    "english": "numerous",
+    "examples": [
+     {
+      "de": "Zahlreiche Gäste kamen.",
+      "en": "Numerous guests came.",
+      "glosses": {
+       "Zahlreiche": "numerous",
+       "Gäste": "guests",
+       "kamen": "came"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zentral",
+  "pos": "adjective",
+  "frequency": 1687,
+  "meanings": [
+   {
+    "english": "central",
+    "examples": [
+     {
+      "de": "Das Hotel liegt sehr zentral.",
+      "en": "The hotel is very central.",
+      "glosses": {
+       "zentral": "central",
+       "Hotel": "hotel",
+       "Das": "that/the",
+       "liegt": "lies",
+       "sehr": "very"
       }
      }
     ]
@@ -6476,7 +11657,7 @@
  {
   "word": "ziemlich",
   "pos": "adverb",
-  "frequency": 1400,
+  "frequency": 1688,
   "meanings": [
    {
     "english": "quite, pretty, rather, fairly",
@@ -6487,7 +11668,7 @@
       "glosses": {
        "ziemlich": "quite",
        "schwer": "difficult",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is"
       }
      },
@@ -6506,9 +11687,78 @@
   ]
  },
  {
+  "word": "zufällig",
+  "pos": "adjective",
+  "frequency": 1689,
+  "meanings": [
+   {
+    "english": "accidental, by chance",
+    "examples": [
+     {
+      "de": "Wir haben uns zufällig getroffen.",
+      "en": "We met by chance.",
+      "glosses": {
+       "zufällig": "by chance",
+       "getroffen": "met",
+       "uns": "each other",
+       "Wir": "we",
+       "haben": "have"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zugänglich",
+  "pos": "adjective",
+  "frequency": 1690,
+  "meanings": [
+   {
+    "english": "accessible",
+    "examples": [
+     {
+      "de": "Das Gebäude ist barrierefrei zugänglich.",
+      "en": "The building is accessible without barriers.",
+      "glosses": {
+       "zugänglich": "accessible",
+       "Gebäude": "building",
+       "barrierefrei": "barrier-free",
+       "Das": "that/the",
+       "ist": "is"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zukünftig",
+  "pos": "adjective",
+  "frequency": 1691,
+  "meanings": [
+   {
+    "english": "future",
+    "examples": [
+     {
+      "de": "Meine zukünftige Frau heißt Anna.",
+      "en": "My future wife is called Anna.",
+      "glosses": {
+       "zukünftige": "future",
+       "Frau": "wife",
+       "heißt": "is called",
+       "Meine": "my",
+       "Anna": "Anna"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "zumindest",
   "pos": "adverb",
-  "frequency": 1401,
+  "frequency": 1692,
   "meanings": [
    {
     "english": "at least",
@@ -6530,7 +11780,7 @@
       "glosses": {
        "zumindest": "at least",
        "Anfang": "start",
-       "Das": "the",
+       "Das": "that/the",
        "ist": "is",
        "ein": "a"
       }
@@ -6542,7 +11792,7 @@
  {
   "word": "zunächst",
   "pos": "adverb",
-  "frequency": 1402,
+  "frequency": 1693,
   "meanings": [
    {
     "english": "first, at first, for now",
@@ -6573,9 +11823,55 @@
   ]
  },
  {
+  "word": "zusätzlich",
+  "pos": "adjective",
+  "frequency": 1694,
+  "meanings": [
+   {
+    "english": "additional, extra",
+    "examples": [
+     {
+      "de": "Dafür brauchen wir zusätzliche Hilfe.",
+      "en": "For that we need additional help.",
+      "glosses": {
+       "zusätzliche": "additional",
+       "Hilfe": "help",
+       "brauchen": "need",
+       "Dafür": "for it",
+       "wir": "we"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "word": "zuständig",
+  "pos": "adjective",
+  "frequency": 1695,
+  "meanings": [
+   {
+    "english": "responsible, in charge, competent",
+    "examples": [
+     {
+      "de": "Dafür bin ich nicht zuständig.",
+      "en": "I am not in charge of that.",
+      "glosses": {
+       "zuständig": "in charge",
+       "dafür": "of that",
+       "bin": "am",
+       "ich": "I",
+       "nicht": "not"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ {
   "word": "zwar",
   "pos": "adverb",
-  "frequency": 1403,
+  "frequency": 1696,
   "meanings": [
    {
     "english": "indeed, admittedly, to be sure",
@@ -6610,5 +11906,28 @@
    }
   ],
   "notes": "often \"zwar … aber\""
+ },
+ {
+  "word": "zweifach",
+  "pos": "adjective",
+  "frequency": 1697,
+  "meanings": [
+   {
+    "english": "double, twofold",
+    "examples": [
+     {
+      "de": "Wir haben das zweifach geprüft.",
+      "en": "We checked that twice over.",
+      "glosses": {
+       "zweifach": "twice over",
+       "geprüft": "checked",
+       "Wir": "we",
+       "haben": "have",
+       "das": "that/the"
+      }
+     }
+    ]
+   }
+  ]
  }
 ]

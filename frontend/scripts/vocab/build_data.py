@@ -109,7 +109,9 @@ def corpus_glosses(files):
                     for k, v in (ex.get("glosses") or {}).items():
                         c[k.lower()][v] += 1
     out = {k: v.most_common(1)[0][0] for k, v in c.items()}
-    out.update({"sich": "oneself", "mich": "me/myself", "dich": "you/yourself", "uns": "us/ourselves"})  # person-dependent
+    # Ambiguous function words: the most common corpus gloss is often wrong for a given sentence, so be neutral.
+    out.update({"sich": "oneself", "mich": "me/myself", "dich": "you/yourself", "uns": "us/each other",
+                "das": "that/the", "sie": "she/they/you (formal)", "mir": "me", "es": "it"})
     return out
 
 
