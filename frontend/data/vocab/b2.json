@@ -1479,15 +1479,15 @@
     "english": "disabled",
     "examples": [
      {
-      "de": "Das Gebäude hat Zugang für behinderte Menschen.",
-      "en": "The building has access for disabled people.",
+      "de": "Dieser Parkplatz ist für behinderte Menschen reserviert.",
+      "en": "This parking space is reserved for disabled people.",
       "glosses": {
        "behinderte": "disabled",
        "Menschen": "people",
-       "Zugang": "access",
-       "Gebäude": "building",
-       "Das": "that/the",
-       "hat": "has",
+       "Parkplatz": "parking space",
+       "reserviert": "reserved",
+       "Dieser": "this",
+       "ist": "is",
        "für": "for"
       }
      }
@@ -2098,14 +2098,15 @@
     "english": "civil, middle-class",
     "examples": [
      {
-      "de": "Das ist das bürgerliche Gesetzbuch.",
-      "en": "That is the civil code.",
+      "de": "Er stammt aus einer bürgerlichen Familie.",
+      "en": "He comes from a middle-class family.",
       "glosses": {
-       "bürgerliche": "civil",
-       "Gesetzbuch": "code",
-       "Das": "that/the",
-       "ist": "is",
-       "das": "that/the"
+       "bürgerlichen": "middle-class",
+       "Familie": "family",
+       "stammt": "comes",
+       "Er": "he",
+       "aus": "from",
+       "einer": "a"
       }
      }
     ]
@@ -3075,12 +3076,14 @@
     "english": "on it, on that",
     "examples": [
      {
-      "de": "Pass drauf auf!",
-      "en": "Watch out for it!",
+      "de": "Ich freue mich schon drauf.",
+      "en": "I am already looking forward to it.",
       "glosses": {
-       "drauf": "on it",
-       "Pass": "watch",
-       "auf": "on"
+       "drauf": "to it",
+       "freue": "look forward",
+       "mich": "myself",
+       "schon": "already",
+       "Ich": "I"
       }
      }
     ]
@@ -4682,13 +4685,16 @@
     "english": "liquid, fluid",
     "examples": [
      {
-      "de": "Das Wasser ist flüssig.",
-      "en": "The water is liquid.",
+      "de": "Bei dieser Temperatur ist das Metall flüssig.",
+      "en": "At this temperature the metal is liquid.",
       "glosses": {
        "flüssig": "liquid",
-       "Wasser": "water",
-       "Das": "that/the",
-       "ist": "is"
+       "Temperatur": "temperature",
+       "Metall": "metal",
+       "dieser": "this",
+       "Bei": "at",
+       "ist": "is",
+       "das": "that/the"
       }
      }
     ]
@@ -6034,14 +6040,13 @@
     "english": "main, chiefly",
     "examples": [
      {
-      "de": "Das Hauptproblem ist die Zeit.",
-      "en": "The main problem is time.",
+      "de": "Wir essen hauptsächlich Gemüse.",
+      "en": "We mainly eat vegetables.",
       "glosses": {
-       "Hauptproblem": "main problem",
-       "Zeit": "time",
-       "Das": "that/the",
-       "ist": "is",
-       "die": "the"
+       "hauptsächlich": "mainly",
+       "essen": "eat",
+       "Gemüse": "vegetables",
+       "Wir": "we"
       }
      }
     ]
@@ -10285,13 +10290,15 @@
     "english": "apparent, seeming",
     "examples": [
      {
-      "de": "Er ist scheinbar müde.",
-      "en": "He is apparently tired.",
+      "de": "Das war nur ein scheinbarer Widerspruch.",
+      "en": "That was only an apparent contradiction.",
       "glosses": {
-       "scheinbar": "apparently",
-       "müde": "tired",
-       "Er": "he",
-       "ist": "is"
+       "scheinbarer": "apparent",
+       "Widerspruch": "contradiction",
+       "nur": "only",
+       "Das": "that/the",
+       "war": "was",
+       "ein": "a"
       }
      }
     ]
@@ -10638,14 +10645,13 @@
     "english": "sexual",
     "examples": [
      {
-      "de": "Das ist ein sexuelles Thema.",
-      "en": "That is a sexual topic.",
+      "de": "Sexuelle Belästigung ist verboten.",
+      "en": "Sexual harassment is forbidden.",
       "glosses": {
-       "sexuelles": "sexual",
-       "Thema": "topic",
-       "Das": "that/the",
-       "ist": "is",
-       "ein": "a"
+       "Sexuelle": "sexual",
+       "Belästigung": "harassment",
+       "verboten": "forbidden",
+       "ist": "is"
       }
      }
     ]
@@ -10911,7 +10917,7 @@
        "ankommt": "arrives",
        "sage": "say",
        "ich": "I",
-       "Bescheid": "notice"
+       "Bescheid": "word"
       }
      }
     ]
@@ -11886,7 +11892,7 @@
     "examples": [
      {
       "de": "Er ist überdurchschnittlich intelligent.",
-      "en": "He is above-average intelligent.",
+      "en": "He is more intelligent than average.",
       "glosses": {
        "überdurchschnittlich": "above average",
        "intelligent": "intelligent",
@@ -12711,13 +12717,13 @@
     "english": "uncertain, unsafe",
     "examples": [
      {
-      "de": "Ich bin mir unsicher.",
-      "en": "I am not sure.",
+      "de": "Ich fühle mich unsicher.",
+      "en": "I feel insecure.",
       "glosses": {
-       "unsicher": "unsure",
-       "mir": "myself",
-       "Ich": "I",
-       "bin": "am"
+       "unsicher": "insecure",
+       "fühle": "feel",
+       "mich": "myself",
+       "Ich": "I"
       }
      }
     ]
@@ -13205,13 +13211,14 @@
     "english": "hurt, injured",
     "examples": [
      {
-      "de": "Der Fahrer wurde verletzt.",
-      "en": "The driver was injured.",
+      "de": "Der Fahrer ist schwer verletzt.",
+      "en": "The driver is seriously injured.",
       "glosses": {
        "verletzt": "injured",
        "Fahrer": "driver",
-       "wurde": "was",
-       "Der": "the"
+       "schwer": "seriously",
+       "Der": "the",
+       "ist": "is"
       }
      }
     ]
@@ -14178,13 +14185,14 @@
       }
      },
      {
-      "de": "Wobei hast du geholfen?",
-      "en": "What did you help with?",
+      "de": "Wobei kann ich Ihnen helfen?",
+      "en": "What can I help you with?",
       "glosses": {
        "Wobei": "with what",
-       "geholfen": "helped",
-       "hast": "have",
-       "du": "you"
+       "kann": "can",
+       "ich": "I",
+       "Ihnen": "you",
+       "helfen": "help"
       }
      }
     ]

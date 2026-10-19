@@ -99,11 +99,11 @@ x Das macht es umso schwieriger. ## That makes it all the more difficult. ## Das
 
 B1 | soviel | subordinating: verb at the end; "so viel" = so much | as much as, as far as
 x Soviel ich weiß, kommt er morgen. ## As far as I know, he is coming tomorrow. ## Soviel=as far as|ich=I|weiß=know|kommt=comes|er=he|morgen=tomorrow
-x Iss, soviel du möchtest. ## Eat as much as you like. ## Iss=eat|soviel=as much as|du=you|möchtest=like
+x Soviel ich gehört habe, ist er umgezogen. ## As far as I have heard, he has moved. ## Soviel=as far as|gehört=heard|umgezogen=moved
 
 B2 | sowie | position 0 | as well as, as soon as
 x Wir verkaufen Obst sowie Gemüse. ## We sell fruit as well as vegetables. ## Wir=we|verkaufen=sell|Obst=fruit|sowie=as well as|Gemüse=vegetables
-x Sowie er ankommt, sage ich Bescheid. ## As soon as he arrives, I will let you know. ## Sowie=as soon as|er=he|ankommt=arrives|sage=say|ich=I|Bescheid=notice
+x Sowie er ankommt, sage ich Bescheid. ## As soon as he arrives, I will let you know. ## Sowie=as soon as|er=he|ankommt=arrives|sage=say|ich=I|Bescheid=word
 
 B2 | beziehungsweise | often abbreviated "bzw." | or rather, and … respectively
 x Ich wohne in Berlin beziehungsweise in der Nähe von Berlin. ## I live in Berlin, or rather near Berlin. ## Ich=I|wohne=live|in=in|Berlin=Berlin|beziehungsweise=or rather|der=the|Nähe=vicinity|von=of

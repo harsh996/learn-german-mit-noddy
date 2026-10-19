@@ -2820,19 +2820,14 @@
       }
      },
      {
-      "de": "Das Buch liegt auf dem Tisch, leg das Heft darauf.",
-      "en": "The book is on the table, put the notebook on it.",
+      "de": "Ich warte schon lange darauf.",
+      "en": "I have been waiting for it for a long time.",
       "glosses": {
-       "darauf": "on it",
-       "Heft": "notebook",
-       "leg": "put",
-       "liegt": "lies",
-       "Das": "that/the",
-       "Buch": "book",
-       "auf": "on",
-       "dem": "the",
-       "Tisch": "table",
-       "das": "that/the"
+       "darauf": "for it",
+       "warte": "wait",
+       "schon": "already",
+       "lange": "long",
+       "Ich": "I"
       }
      }
     ]
@@ -10245,14 +10240,13 @@
     "english": "orange",
     "examples": [
      {
-      "de": "Ich mag den orange Pullover.",
-      "en": "I like the orange sweater.",
+      "de": "Der Pullover ist orange.",
+      "en": "The sweater is orange.",
       "glosses": {
        "orange": "orange",
        "Pullover": "sweater",
-       "Ich": "I",
-       "mag": "like",
-       "den": "the"
+       "Der": "the",
+       "ist": "is"
       }
      }
     ]
@@ -10700,11 +10694,11 @@
     "english": "sudden",
     "examples": [
      {
-      "de": "Es gab einen plötzlichen Regen.",
-      "en": "There was a sudden rain.",
+      "de": "Es gab einen plötzlichen Regenschauer.",
+      "en": "There was a sudden rain shower.",
       "glosses": {
        "plötzlichen": "sudden",
-       "Regen": "rain",
+       "Regenschauer": "rain shower",
        "gab": "was",
        "Es": "it",
        "einen": "a"
@@ -13225,14 +13219,14 @@
     "english": "total, complete",
     "examples": [
      {
-      "de": "Das ist ein totaler Fehler.",
-      "en": "That is a total mistake.",
+      "de": "Im Zimmer herrschte totales Chaos.",
+      "en": "There was total chaos in the room.",
       "glosses": {
-       "totaler": "total",
-       "Fehler": "mistake",
-       "Das": "that/the",
-       "ist": "is",
-       "ein": "a"
+       "totales": "total",
+       "Chaos": "chaos",
+       "Zimmer": "room",
+       "herrschte": "prevailed",
+       "Im": "in the"
       }
      }
     ]

@@ -83,7 +83,7 @@ A2 | wahrscheinlich | | probable, likely
 x Das ist die wahrscheinlichste Lösung. ## That is the most likely solution. ## wahrscheinlichste=most likely|Lösung=solution
 
 A2 | plötzlich | | sudden
-x Es gab einen plötzlichen Regen. ## There was a sudden rain. ## plötzlichen=sudden|Regen=rain|gab=was
+x Es gab einen plötzlichen Regenschauer. ## There was a sudden rain shower. ## plötzlichen=sudden|Regenschauer=rain shower|gab=was
 
 A2 | modern | | modern
 x Die Wohnung ist sehr modern. ## The flat is very modern. ## modern=modern|Wohnung=flat
@@ -110,7 +110,7 @@ A2 | streng | | strict
 x Unser Lehrer ist sehr streng. ## Our teacher is very strict. ## streng=strict|Lehrer=teacher
 
 A2 | total | | total, complete
-x Das ist ein totaler Fehler. ## That is a total mistake. ## totaler=total|Fehler=mistake
+x Im Zimmer herrschte totales Chaos. ## There was total chaos in the room. ## totales=total|Chaos=chaos|Zimmer=room|herrschte=prevailed
 
 A2 | trocken | | dry
 x Die Wäsche ist schon trocken. ## The laundry is already dry. ## trocken=dry|Wäsche=laundry
@@ -152,7 +152,7 @@ A2 | geehrt | | honoured, dear (in letters)
 x Sehr geehrte Frau Meier! ## Dear Mrs Meier! ## geehrte=dear|Frau=Mrs|Meier=Meier
 
 A2 | orange | invariable | orange
-x Ich mag den orange Pullover. ## I like the orange sweater. ## orange=orange|Pullover=sweater
+x Der Pullover ist orange. ## The sweater is orange. ## orange=orange|Pullover=sweater
 
 A2 | sympathisch | | likeable, nice
 x Der neue Kollege ist sympathisch. ## The new colleague is likeable. ## sympathisch=likeable|Kollege=colleague
@@ -356,7 +356,7 @@ B1 | eindeutig | | clear, unambiguous
 x Die Antwort ist eindeutig. ## The answer is clear. ## eindeutig=clear|Antwort=answer
 
 B1 | politisch | | political
-x Er interessiert sich für Politik. ## He is interested in politics. ## Politik=politics|interessiert=interested|sich=himself
+x Das ist eine politische Entscheidung. ## That is a political decision. ## politische=political|Entscheidung=decision
 
 B1 | still | | quiet, still
 x Es ist ganz still im Haus. ## It is completely quiet in the house. ## still=quiet|Haus=house
@@ -497,7 +497,7 @@ B1 | -jährig | suffix, e.g. dreijährig | -year-old, -year
 x Sie hat einen dreijährigen Sohn. ## She has a three-year-old son. ## dreijährigen=three-year-old|Sohn=son
 
 B1 | innerer, innere, inneres | attributive only | inner, internal
-x Das Zimmer hat einen inneren Hof. ## The room has an inner courtyard. ## inneren=inner|Hof=courtyard
+x Ich spüre eine innere Unruhe. ## I feel an inner restlessness. ## innere=inner|Unruhe=restlessness|spüre=feel
 
 B1 | ungefähr | | approximate, rough
 x Das ist nur eine ungefähre Zahl. ## That is only a rough figure. ## ungefähre=rough|Zahl=figure
@@ -1175,7 +1175,7 @@ B2 | militärisch | | military
 x Das ist ein militärisches Gebiet. ## That is a military area. ## militärisches=military|Gebiet=area
 
 B2 | hauptsächlich | | main, chiefly
-x Das Hauptproblem ist die Zeit. ## The main problem is time. ## Hauptproblem=main problem|Zeit=time
+x Wir essen hauptsächlich Gemüse. ## We mainly eat vegetables. ## hauptsächlich=mainly|essen=eat|Gemüse=vegetables
 
 B2 | gegenwärtig | | present, current
 x Die gegenwärtige Lage ist schwierig. ## The current situation is difficult. ## gegenwärtige=current|Lage=situation|schwierig=difficult
@@ -1328,7 +1328,7 @@ B2 | erstaunlich | | astonishing
 x Das ist erstaunlich! ## That is astonishing! ## erstaunlich=astonishing
 
 B2 | scheinbar | | apparent, seeming
-x Er ist scheinbar müde. ## He is apparently tired. ## scheinbar=apparently|müde=tired
+x Das war nur ein scheinbarer Widerspruch. ## That was only an apparent contradiction. ## scheinbarer=apparent|Widerspruch=contradiction|nur=only
 
 B2 | sanft | | gentle, soft
 x Sie hat eine sanfte Stimme. ## She has a gentle voice. ## sanfte=gentle|Stimme=voice
@@ -1439,7 +1439,7 @@ B2 | pädagogisch | | educational
 x Das ist ein pädagogisches Konzept. ## That is an educational concept. ## pädagogisches=educational|Konzept=concept
 
 B2 | unsicher | | uncertain, unsafe
-x Ich bin mir unsicher. ## I am not sure. ## unsicher=unsure|mir=myself
+x Ich fühle mich unsicher. ## I feel insecure. ## unsicher=insecure|fühle=feel|mich=myself
 
 B2 | beliebig | | any, arbitrary
 x Wähle eine beliebige Zahl. ## Choose any number. ## beliebige=any|Wähle=choose|Zahl=number
@@ -1511,7 +1511,7 @@ B2 | unangenehm | | unpleasant
 x Das ist eine unangenehme Situation. ## That is an unpleasant situation. ## unangenehme=unpleasant|Situation=situation
 
 B2 | behindert | | disabled
-x Das Gebäude hat Zugang für behinderte Menschen. ## The building has access for disabled people. ## behinderte=disabled|Menschen=people|Zugang=access|Gebäude=building
+x Dieser Parkplatz ist für behinderte Menschen reserviert. ## This parking space is reserved for disabled people. ## behinderte=disabled|Menschen=people|Parkplatz=parking space|reserviert=reserved
 
 B2 | angewiesen | | dependent
 x Ich bin auf deine Hilfe angewiesen. ## I am dependent on your help. ## angewiesen=dependent|Hilfe=help|auf=on
@@ -1535,7 +1535,7 @@ B2 | unklar | | unclear
 x Die Lage ist noch unklar. ## The situation is still unclear. ## unklar=unclear|Lage=situation
 
 B2 | sexuell | | sexual
-x Das ist ein sexuelles Thema. ## That is a sexual topic. ## sexuelles=sexual|Thema=topic
+x Sexuelle Belästigung ist verboten. ## Sexual harassment is forbidden. ## Sexuelle=sexual|Belästigung=harassment|verboten=forbidden
 
 B2 | empfindlich | | sensitive
 x Meine Haut ist sehr empfindlich. ## My skin is very sensitive. ## empfindlich=sensitive|Haut=skin
@@ -1547,7 +1547,7 @@ B2 | betrieblich | | company, operational
 x Das ist eine betriebliche Entscheidung. ## That is an operational decision. ## betriebliche=operational|Entscheidung=decision
 
 B2 | bürgerlich | | civil, middle-class
-x Das ist das bürgerliche Gesetzbuch. ## That is the civil code. ## bürgerliche=civil|Gesetzbuch=code
+x Er stammt aus einer bürgerlichen Familie. ## He comes from a middle-class family. ## bürgerlichen=middle-class|Familie=family|stammt=comes
 
 B2 | großzügig | | generous
 x Er ist sehr großzügig. ## He is very generous. ## großzügig=generous
@@ -1748,7 +1748,7 @@ B2 | einstig | attributive only | former, one-time
 x Das ist mein einstiger Nachbar. ## That is my former neighbour. ## einstiger=former|Nachbar=neighbour
 
 B2 | flüssig | | liquid, fluid
-x Das Wasser ist flüssig. ## The water is liquid. ## flüssig=liquid|Wasser=water
+x Bei dieser Temperatur ist das Metall flüssig. ## At this temperature the metal is liquid. ## flüssig=liquid|Temperatur=temperature|Metall=metal|dieser=this
 
 B2 | harmlos | | harmless
 x Der Hund ist harmlos. ## The dog is harmless. ## harmlos=harmless|Hund=dog
@@ -1961,7 +1961,7 @@ B2 | dreckig | informal | dirty, filthy
 x Deine Schuhe sind dreckig. ## Your shoes are dirty. ## dreckig=dirty|Schuhe=shoes
 
 B2 | verletzt | | hurt, injured
-x Der Fahrer wurde verletzt. ## The driver was injured. ## verletzt=injured|Fahrer=driver|wurde=was
+x Der Fahrer ist schwer verletzt. ## The driver is seriously injured. ## verletzt=injured|Fahrer=driver|schwer=seriously
 
 B2 | riskant | | risky
 x Das ist zu riskant. ## That is too risky. ## riskant=risky|zu=too
@@ -2138,7 +2138,7 @@ B2 | unbemerkt | | unnoticed
 x Er verließ den Raum unbemerkt. ## He left the room unnoticed. ## unbemerkt=unnoticed|verließ=left|Raum=room
 
 B2 | überdurchschnittlich | | above average
-x Er ist überdurchschnittlich intelligent. ## He is above-average intelligent. ## überdurchschnittlich=above average|intelligent=intelligent
+x Er ist überdurchschnittlich intelligent. ## He is more intelligent than average. ## überdurchschnittlich=above average|intelligent=intelligent
 
 B2 | magnetisch | | magnetic
 x Das Metall ist magnetisch. ## The metal is magnetic. ## magnetisch=magnetic|Metall=metal

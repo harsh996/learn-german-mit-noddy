@@ -6689,15 +6689,14 @@
     "english": "inner, internal",
     "examples": [
      {
-      "de": "Das Zimmer hat einen inneren Hof.",
-      "en": "The room has an inner courtyard.",
+      "de": "Ich spüre eine innere Unruhe.",
+      "en": "I feel an inner restlessness.",
       "glosses": {
-       "inneren": "inner",
-       "Hof": "courtyard",
-       "Das": "that/the",
-       "Zimmer": "room",
-       "hat": "has",
-       "einen": "a"
+       "innere": "inner",
+       "Unruhe": "restlessness",
+       "spüre": "feel",
+       "Ich": "I",
+       "eine": "a"
       }
      }
     ]
@@ -8721,14 +8720,14 @@
     "english": "political",
     "examples": [
      {
-      "de": "Er interessiert sich für Politik.",
-      "en": "He is interested in politics.",
+      "de": "Das ist eine politische Entscheidung.",
+      "en": "That is a political decision.",
       "glosses": {
-       "Politik": "politics",
-       "interessiert": "interested",
-       "sich": "himself",
-       "Er": "he",
-       "für": "for"
+       "politische": "political",
+       "Entscheidung": "decision",
+       "Das": "that/the",
+       "ist": "is",
+       "eine": "a"
       }
      }
     ]
@@ -9708,13 +9707,16 @@
       }
      },
      {
-      "de": "Iss, soviel du möchtest.",
-      "en": "Eat as much as you like.",
+      "de": "Soviel ich gehört habe, ist er umgezogen.",
+      "en": "As far as I have heard, he has moved.",
       "glosses": {
-       "Iss": "eat",
-       "soviel": "as much as",
-       "du": "you",
-       "möchtest": "like"
+       "Soviel": "as far as",
+       "gehört": "heard",
+       "umgezogen": "moved",
+       "ich": "I",
+       "habe": "have",
+       "ist": "is",
+       "er": "he"
       }
      }
     ]

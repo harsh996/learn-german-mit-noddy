@@ -71,7 +71,7 @@ x Kannst du etwas lauter sprechen? ## Can you speak a little louder? ## etwas=a 
 
 A2 | darauf | colloquially "drauf" | on it, on that, to that
 x Ich freue mich darauf. ## I am looking forward to it. ## darauf=to it|freue=look forward|mich=myself
-x Das Buch liegt auf dem Tisch, leg das Heft darauf. ## The book is on the table, put the notebook on it. ## darauf=on it|Heft=notebook|leg=put|liegt=lies
+x Ich warte schon lange darauf. ## I have been waiting for it for a long time. ## darauf=for it|warte=wait|schon=already|lange=long
 
 A2 | besonders | | especially, particularly
 x Das Essen war besonders gut. ## The food was especially good. ## besonders=especially|Essen=food
@@ -449,7 +449,7 @@ x Davon habe ich nichts gewusst. ## I knew nothing about that. ## Davon=about th
 x Ich möchte etwas davon. ## I would like some of it. ## davon=of it|etwas=some
 
 B2 | drauf | colloquial form of "darauf" | on it, on that
-x Pass drauf auf! ## Watch out for it! ## drauf=on it|Pass=watch
+x Ich freue mich schon drauf. ## I am already looking forward to it. ## drauf=to it|freue=look forward|mich=myself|schon=already
 
 B2 | drüber | colloquial form of "darüber" | over it, about it
 x Lass uns drüber reden. ## Let's talk about it. ## drüber=about it|Lass=let|reden=talk
@@ -483,7 +483,7 @@ x Das war jedenfalls meine Meinung. ## That was my opinion, at any rate. ## jede
 
 B2 | wobei | | whereby, in doing so, although
 x Er fiel, wobei er sich verletzte. ## He fell, and in doing so he hurt himself. ## wobei=in doing so|fiel=fell|verletzte=hurt
-x Wobei hast du geholfen? ## What did you help with? ## Wobei=with what|geholfen=helped
+x Wobei kann ich Ihnen helfen? ## What can I help you with? ## Wobei=with what|kann=can|ich=I|Ihnen=you|helfen=help
 
 B2 | darum | | that's why, around it
 x Ich bin krank, darum bleibe ich zu Hause. ## I am ill, that's why I am staying at home. ## darum=that's why|krank=ill
