@@ -4,6 +4,7 @@ import { Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
 import { VoiceSession } from "@/components/VoiceSession";
+import { useActiveProfile, useSavedWords } from "@/components/vocab/SavedWordsProvider";
 import styles from "./dashboard.module.css";
 
 function DashboardInner() {
@@ -11,6 +12,7 @@ function DashboardInner() {
   const params = useSearchParams();
   const profileId = params.get("profileId");
   const mode = params.get("mode");
+  useActiveProfile(profileId);
 
   if (!profileId) {
     return (
@@ -29,7 +31,7 @@ function DashboardInner() {
       <div className={styles.picker}>
         <h1>What would you like to practise?</h1>
         <div className={styles.options}>
-          <button type="button" className={styles.option} onClick={() => router.push("/vocab")}>
+          <button type="button" className={styles.option} onClick={() => router.push(`/vocab?profileId=${encodeURIComponent(profileId)}`)}>
             <strong>Vocabulary</strong>
             <span>Browse and save words</span>
           </button>
@@ -37,7 +39,7 @@ function DashboardInner() {
             <strong>Live Conversation</strong>
             <span>Video chat with your AI tutor</span>
           </button>
-          <button type="button" className={styles.option} onClick={() => router.push("/reading")}>
+          <button type="button" className={styles.option} onClick={() => router.push(`/reading?profileId=${encodeURIComponent(profileId)}`)}>
             <strong>Reading</strong>
             <span>Short German stories by level</span>
           </button>
@@ -59,6 +61,7 @@ function DashboardInner() {
 
 export default function DashboardPage() {
   const router = useRouter();
+  const { profileId } = useSavedWords();
 
   return (
     <div className="app-shell">
@@ -66,7 +69,11 @@ export default function DashboardPage() {
         <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
           Profiles
         </button>
-        <button className="btn btn-ghost" type="button" onClick={() => router.push("/vocab")}>
+        <button
+          className="btn btn-ghost"
+          type="button"
+          onClick={() => router.push(profileId ? `/vocab?profileId=${encodeURIComponent(profileId)}` : "/vocab")}
+        >
           Vocabulary
         </button>
       </AppHeader>

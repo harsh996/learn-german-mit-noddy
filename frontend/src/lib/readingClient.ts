@@ -33,22 +33,31 @@ export function loadStory(id: string): Promise<Story> {
 
 export const prefetchStory = (id: string) => void loadStory(id).catch(() => {});
 
-export function store(key: string): string | null {
-  try {
-    return localStorage.getItem(key);
-  } catch {
-    return null;
-  }
+// Reading state lives on the server, keyed by profile (never in shared browser storage).
+export type ReadingPrefs = { level?: string; size?: number };
+export type ReadingState = { progress: Record<string, number>; prefs: ReadingPrefs };
+
+export const readingUrl = (profileId: string, storyId?: string) =>
+  `/reading?profileId=${encodeURIComponent(profileId)}${storyId ? `&story=${encodeURIComponent(storyId)}` : ""}`;
+
+export async function loadReadingState(profileId: string): Promise<ReadingState> {
+  const d = await getJson(`/api/reading/progress?profileId=${encodeURIComponent(profileId)}`);
+  return { progress: d.progress ?? {}, prefs: d.prefs ?? {} };
 }
 
-export function setStore(key: string, value: string) {
-  try {
-    localStorage.setItem(key, value);
-  } catch {}
+function put(body: unknown, keepalive = false) {
+  return fetch("/api/reading/progress", {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(body),
+    keepalive,
+  }).catch(() => {});
 }
 
-export const progressKey = (id: string) => `reading-progress:${id}`;
-export const readProgress = (id: string) => Math.min(1, Math.max(0, Number(store(progressKey(id))) || 0));
+export const saveProgress = (profileId: string, storyId: string, progress: number, keepalive = false) =>
+  put({ profileId, storyId, progress: Math.min(1, Math.max(0, progress)) }, keepalive);
+
+export const savePrefs = (profileId: string, prefs: ReadingPrefs) => put({ profileId, prefs });
 
 export type WordInfo = {
   wordKey: string;

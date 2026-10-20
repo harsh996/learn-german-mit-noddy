@@ -1,10 +1,11 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
-import { useRouter } from "next/navigation";
+import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
+import { ProfilePicker } from "@/components/ProfilePicker";
 import { SentenceText } from "@/components/vocab/SentenceText";
-import { useSavedWords } from "@/components/vocab/SavedWordsProvider";
+import { useActiveProfile, useSavedWords } from "@/components/vocab/SavedWordsProvider";
 import { VOCAB_LEVELS, VOCAB_POS, levelLabel, type VocabEntry } from "@/lib/vocabTypes";
 import styles from "@/components/vocab/vocab.module.css";
 
@@ -37,6 +38,39 @@ function Seg<T extends string>({
 }
 
 export default function VocabPage() {
+  return (
+    <Suspense fallback={null}>
+      <VocabRoute />
+    </Suspense>
+  );
+}
+
+// Saved words are kept per learner profile, so the page needs to know which one.
+function VocabRoute() {
+  const router = useRouter();
+  const profileId = useSearchParams().get("profileId");
+  useActiveProfile(profileId);
+
+  if (profileId) return <VocabContent profileId={profileId} />;
+  return (
+    <div className="app-shell">
+      <AppHeader>
+        <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
+          Profiles
+        </button>
+      </AppHeader>
+      <main>
+        <ProfilePicker
+          heading="Vocabulary"
+          prompt="Whose word list?"
+          onPick={(p) => router.push(`/vocab?profileId=${encodeURIComponent(p)}`)}
+        />
+      </main>
+    </div>
+  );
+}
+
+function VocabContent({ profileId }: { profileId: string }) {
   const router = useRouter();
   const { isSaved, save, remove } = useSavedWords();
   const [entries, setEntries] = useState<VocabEntry[]>([]);
@@ -119,6 +153,13 @@ export default function VocabPage() {
       <AppHeader>
         <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
           Profiles
+        </button>
+        <button
+          className="btn btn-ghost"
+          type="button"
+          onClick={() => router.push(`/reading?profileId=${encodeURIComponent(profileId)}`)}
+        >
+          Reading
         </button>
       </AppHeader>
 

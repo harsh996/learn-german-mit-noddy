@@ -1,15 +1,24 @@
 "use client";
 
-import { FormEvent, useState } from "react";
+import { FormEvent, useEffect, useState } from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import styles from "./login.module.css";
 
 export default function LoginPage() {
   const router = useRouter();
-  const [username, setUsername] = useState("admin");
+  const [identifier, setIdentifier] = useState("");
+  const [signupOpen, setSignupOpen] = useState(false);
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    fetch("/api/auth/signup")
+      .then((r) => r.json())
+      .then((d) => setSignupOpen(Boolean(d.enabled)))
+      .catch(() => setSignupOpen(false));
+  }, []);
 
   async function onSubmit(e: FormEvent) {
     e.preventDefault();
@@ -19,7 +28,7 @@ export default function LoginPage() {
       const res = await fetch("/api/auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ username, password }),
+        body: JSON.stringify({ identifier, password }),
       });
       const data = await res.json();
       if (!res.ok) {
@@ -50,12 +59,15 @@ export default function LoginPage() {
         <form className={styles.form} onSubmit={onSubmit}>
           {error ? <div className="error-banner">{error}</div> : null}
           <div className="field">
-            <label htmlFor="username">Username</label>
+            <label htmlFor="identifier">Email or username</label>
             <input
-              id="username"
+              id="identifier"
               autoComplete="username"
-              value={username}
-              onChange={(e) => setUsername(e.target.value)}
+              autoCapitalize="none"
+              spellCheck={false}
+              maxLength={254}
+              value={identifier}
+              onChange={(e) => setIdentifier(e.target.value)}
               required
             />
           </div>
@@ -65,6 +77,7 @@ export default function LoginPage() {
               id="password"
               type="password"
               autoComplete="current-password"
+              maxLength={128}
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
@@ -74,6 +87,11 @@ export default function LoginPage() {
             {loading ? "Signing in…" : "Enter the room"}
           </button>
         </form>
+        {signupOpen && (
+          <p className={styles.switch}>
+            New here? <Link href="/signup">Create an account</Link>
+          </p>
+        )}
       </section>
     </main>
   );

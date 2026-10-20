@@ -6,13 +6,13 @@ import { useSavedWords } from "@/components/vocab/SavedWordsProvider";
 import type { Story, StorySummary } from "@/lib/readingTypes";
 import {
   AuthError,
+  loadReadingState,
   loadStories,
   loadStory,
   prefetchStory,
-  progressKey,
-  readProgress,
-  setStore,
-  store,
+  readingUrl,
+  savePrefs,
+  saveProgress,
 } from "@/lib/readingClient";
 import { Paragraph } from "./Paragraph";
 import { WordPopover, type Target } from "./WordPopover";
@@ -38,8 +38,9 @@ function sentenceAround(el: HTMLElement): string {
   return full.slice(0, 500);
 }
 
-export function StoryReader({ id }: { id: string }) {
+export function StoryReader({ id, profileId }: { id: string; profileId: string }) {
   const router = useRouter();
+  const startRef = useRef(0);
   const { words } = useSavedWords();
   const [story, setStory] = useState<Story | null>(null);
   const [error, setError] = useState("");
@@ -51,19 +52,17 @@ export function StoryReader({ id }: { id: string }) {
   const barRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const saved = Number(store("reading-size"));
-    if (Number.isInteger(saved) && saved >= 0 && saved < SIZES.length) setSize(saved);
-  }, []);
-
-  useEffect(() => {
     let live = true;
     setStory(null);
     setError("");
     setTarget(null);
     setSession([]);
-    Promise.all([loadStory(id), loadStories()]).then(
-      ([s, all]) => {
+    Promise.all([loadStory(id), loadStories(), loadReadingState(profileId)]).then(
+      ([s, all, state]) => {
         if (!live) return;
+        const savedSize = state.prefs.size;
+        if (Number.isInteger(savedSize) && savedSize! >= 0 && savedSize! < SIZES.length) setSize(savedSize!);
+        startRef.current = Math.min(1, Math.max(0, state.progress[s.id] ?? 0));
         setStory(s);
         const same = all.filter((x) => x.level === s.level);
         const i = same.findIndex((x) => x.id === s.id);
@@ -80,12 +79,12 @@ export function StoryReader({ id }: { id: string }) {
     return () => {
       live = false;
     };
-  }, [id, router]);
+  }, [id, profileId, router]);
 
   // Restore the previous scroll position once the text is on screen.
   useEffect(() => {
     if (!story) return;
-    const p = readProgress(story.id);
+    const p = startRef.current;
     if (p > 0.02 && p < 0.97) {
       requestAnimationFrame(() => {
         const el = pageRef.current;
@@ -111,7 +110,11 @@ export function StoryReader({ id }: { id: string }) {
       last = Math.min(1, Math.max(0, (window.innerHeight * 0.3 - r.top) / Math.max(total, 1)));
       if (barRef.current) barRef.current.style.transform = `scaleX(${last})`;
       clearTimeout(timer);
-      timer = setTimeout(() => setStore(progressKey(story.id), last.toFixed(3)), 400);
+      timer = setTimeout(() => void saveProgress(profileId, story.id, last), 1500);
+    };
+    const flush = () => {
+      clearTimeout(timer);
+      if (last) void saveProgress(profileId, story.id, last, true);
     };
     const onScroll = () => {
       if (!raf) raf = requestAnimationFrame(update);
@@ -119,14 +122,15 @@ export function StoryReader({ id }: { id: string }) {
     update();
     window.addEventListener("scroll", onScroll, { passive: true });
     window.addEventListener("resize", onScroll);
+    window.addEventListener("pagehide", flush);
     return () => {
       window.removeEventListener("scroll", onScroll);
       window.removeEventListener("resize", onScroll);
+      window.removeEventListener("pagehide", flush);
       cancelAnimationFrame(raf);
-      clearTimeout(timer);
-      if (last) setStore(progressKey(story.id), last.toFixed(3));
+      flush();
     };
-  }, [story]);
+  }, [story, profileId]);
 
   const close = useCallback(() => setTarget(null), []);
 
@@ -146,7 +150,7 @@ export function StoryReader({ id }: { id: string }) {
   function changeSize(delta: number) {
     const n = Math.min(SIZES.length - 1, Math.max(0, size + delta));
     setSize(n);
-    setStore("reading-size", String(n));
+    void savePrefs(profileId, { size: n });
     setTarget(null);
   }
 
@@ -162,7 +166,7 @@ export function StoryReader({ id }: { id: string }) {
     return (
       <div className={styles.state}>
         <p>{error}</p>
-        <button className="btn btn-primary" type="button" onClick={() => router.push("/reading")}>
+        <button className="btn btn-primary" type="button" onClick={() => router.push(readingUrl(profileId))}>
           Back to stories
         </button>
       </div>
@@ -188,7 +192,7 @@ export function StoryReader({ id }: { id: string }) {
         style={{ ["--read-size" as string]: `${SIZES[size]}rem` }}
       >
         <div className={styles.toolbar}>
-          <button className="btn btn-ghost" type="button" onClick={() => router.push("/reading")}>
+          <button className="btn btn-ghost" type="button" onClick={() => router.push(readingUrl(profileId))}>
             ← All stories
           </button>
           <div className={styles.sizer} role="group" aria-label="Text size">
@@ -218,11 +222,11 @@ export function StoryReader({ id }: { id: string }) {
         <p className={styles.source}>{story.source}</p>
         <div className={styles.end}>
           {next ? (
-            <button className="btn btn-primary" type="button" onClick={() => router.push(`/reading?story=${next.id}`)} onPointerEnter={() => prefetchStory(next.id)}>
+            <button className="btn btn-primary" type="button" onClick={() => router.push(readingUrl(profileId, next.id))} onPointerEnter={() => prefetchStory(next.id)}>
               Next: {next.title} →
             </button>
           ) : (
-            <button className="btn btn-primary" type="button" onClick={() => router.push("/reading")}>
+            <button className="btn btn-primary" type="button" onClick={() => router.push(readingUrl(profileId))}>
               Back to all stories
             </button>
           )}

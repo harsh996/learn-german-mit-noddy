@@ -7,12 +7,16 @@ import styles from "./AppHeader.module.css";
 
 export function AppHeader({ children }: { children?: React.ReactNode }) {
   const router = useRouter();
-  const { words, refresh, remove } = useSavedWords();
+  const { words, remove, profileId, reset } = useSavedWords();
   const [open, setOpen] = useState(false);
+  const [username, setUsername] = useState("");
 
   useEffect(() => {
-    void refresh();
-  }, [refresh]);
+    fetch("/api/auth/me")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => d && setUsername(d.username))
+      .catch(() => undefined);
+  }, []);
 
   // Lets any page open the saved-words drawer (e.g. "View saved words" in the reader).
   useEffect(() => {
@@ -30,6 +34,7 @@ export function AppHeader({ children }: { children?: React.ReactNode }) {
 
   async function logout() {
     await fetch("/api/auth/logout", { method: "POST" });
+    reset();
     router.push("/login");
   }
 
@@ -41,25 +46,28 @@ export function AppHeader({ children }: { children?: React.ReactNode }) {
         </button>
         <div className={styles.actions}>
           {children}
-          <button
-            className={styles.saved}
-            type="button"
-            aria-label={`Saved words (${words.length})`}
-            title="Saved words"
-            onClick={() => setOpen(true)}
-          >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
-              <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z" />
-            </svg>
-            {words.length > 0 && <span className={styles.badge}>{words.length}</span>}
-          </button>
+          {username && <span className={styles.user}>@{username}</span>}
+          {profileId && (
+            <button
+              className={styles.saved}
+              type="button"
+              aria-label={`Saved words (${words.length})`}
+              title="Saved words"
+              onClick={() => setOpen(true)}
+            >
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                <path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z" />
+              </svg>
+              {words.length > 0 && <span className={styles.badge}>{words.length}</span>}
+            </button>
+          )}
           <button className="btn btn-ghost" type="button" onClick={logout}>
             Log out
           </button>
         </div>
       </header>
 
-      {open && (
+      {open && profileId && (
         <div className={styles.overlay} onClick={() => setOpen(false)}>
           <aside
             className={styles.drawer}

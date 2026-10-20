@@ -3,10 +3,17 @@
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { READING_LEVELS, type StorySummary } from "@/lib/readingTypes";
-import { AuthError, loadStories, prefetchStory, readProgress, setStore, store } from "@/lib/readingClient";
+import {
+  AuthError,
+  loadReadingState,
+  loadStories,
+  prefetchStory,
+  readingUrl,
+  savePrefs,
+} from "@/lib/readingClient";
 import styles from "./reader.module.css";
 
-export function StoryLibrary() {
+export function StoryLibrary({ profileId }: { profileId: string }) {
   const router = useRouter();
   const [stories, setStories] = useState<StorySummary[] | null>(null);
   const [error, setError] = useState("");
@@ -14,16 +21,27 @@ export function StoryLibrary() {
   const [progress, setProgress] = useState<Record<string, number>>({});
 
   useEffect(() => {
-    const saved = store("reading-level");
-    if (saved && (READING_LEVELS as readonly string[]).includes(saved)) setLevel(saved);
-    loadStories().then(
-      (s) => {
+    let live = true;
+    setStories(null);
+    setProgress({});
+    Promise.all([loadStories(), loadReadingState(profileId)]).then(
+      ([s, state]) => {
+        if (!live) return;
+        const saved = state.prefs.level;
+        if (saved && (READING_LEVELS as readonly string[]).includes(saved)) setLevel(saved);
+        setProgress(state.progress);
         setStories(s);
-        setProgress(Object.fromEntries(s.map((x) => [x.id, readProgress(x.id)])));
       },
-      (e) => (e instanceof AuthError ? router.push("/login") : setError("We couldn't load the stories.")),
+      (e) => {
+        if (!live) return;
+        if (e instanceof AuthError) router.push("/login");
+        else setError("We couldn't load the stories.");
+      },
     );
-  }, [router]);
+    return () => {
+      live = false;
+    };
+  }, [router, profileId]);
 
   const counts = useMemo(() => {
     const c: Record<string, number> = {};
@@ -33,12 +51,12 @@ export function StoryLibrary() {
 
   const shown = stories?.filter((s) => s.level === level) ?? [];
   const resume = stories
-    ?.filter((s) => progress[s.id] > 0.02 && progress[s.id] < 0.97)
+    ?.filter((s) => (progress[s.id] ?? 0) > 0.02 && (progress[s.id] ?? 0) < 0.97)
     .sort((a, b) => progress[b.id] - progress[a.id])[0];
 
   function pick(l: string) {
     setLevel(l);
-    setStore("reading-level", l);
+    void savePrefs(profileId, { level: l });
   }
 
   return (
@@ -49,7 +67,7 @@ export function StoryLibrary() {
       </div>
 
       {resume && (
-        <button type="button" className={styles.resume} onClick={() => router.push(`/reading?story=${resume.id}`)}>
+        <button type="button" className={styles.resume} onClick={() => router.push(readingUrl(profileId, resume.id))}>
           <span>Continue reading</span>
           <strong>{resume.title}</strong>
           <span>{Math.round(progress[resume.id] * 100)}% · {resume.level}</span>
@@ -85,7 +103,7 @@ export function StoryLibrary() {
                 type="button"
                 className={styles.card}
                 style={{ animationDelay: `${i * 45}ms` }}
-                onClick={() => router.push(`/reading?story=${s.id}`)}
+                onClick={() => router.push(readingUrl(profileId, s.id))}
                 onPointerEnter={() => prefetchStory(s.id)}
                 onFocus={() => prefetchStory(s.id)}
               >

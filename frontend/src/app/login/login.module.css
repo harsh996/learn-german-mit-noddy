@@ -75,3 +75,16 @@
     padding: 1.75rem 1.25rem;
   }
 }
+
+.switch {
+  margin-top: 1.25rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.switch a {
+  color: var(--forest);
+  font-weight: 600;
+  text-decoration: underline;
+}
