@@ -1,0 +1,97 @@
+# Interjections missing from the Goethe word lists. Same block format as supplement_prepositions.txt.
+
+A1 | nee | colloquial for "nein" | no (informal)
+x Nee, danke, ich habe keinen Hunger. ## No thanks, I'm not hungry. ## Nee=no|danke=thanks|ich=I|habe=have|keinen=no|Hunger=hunger
+x Kommst du mit? – Nee, ich bleibe hier. ## Are you coming? – Nah, I'm staying here. ## Kommst=come|du=you|mit=along|Nee=nah|ich=I|bleibe=stay|hier=here
+
+A1 | nö | colloquial for "nein" | nope, nah
+x Nö, das mache ich nicht. ## Nope, I'm not doing that. ## Nö=nope|das=that|mache=do|ich=I|nicht=not
+x Hast du Lust auf Kino? – Nö, heute nicht. ## Do you feel like the cinema? – Nah, not today. ## Hast=have|du=you|Lust=desire|auf=for|Kino=cinema|Nö=nah|heute=today|nicht=not
+
+A1 | Entschuldigung | used to get attention or apologise | excuse me, sorry
+x Entschuldigung, wo ist der Bahnhof? ## Excuse me, where is the station? ## Entschuldigung=excuse me|wo=where|ist=is|der=the|Bahnhof=station
+x Entschuldigung, ich bin zu spät. ## Sorry, I am late. ## Entschuldigung=sorry|ich=I|bin=am|zu=too|spät=late
+
+A2 | halt | also a particle meaning "simply" in spoken German | stop, halt
+x Halt! Hier darf man nicht weitergehen. ## Stop! You may not go any further here. ## Halt=stop|Hier=here|darf=may|man=one|nicht=not|weitergehen=go on
+x Halt, ich habe etwas vergessen! ## Wait, I have forgotten something! ## Halt=wait|ich=I|habe=have|etwas=something|vergessen=forgotten
+
+A2 | Gesundheit | said after someone sneezes | bless you
+x Hatschi! – Gesundheit! ## Achoo! – Bless you! ## Hatschi=achoo|Gesundheit=bless you
+x Du hast geniest. Gesundheit! ## You sneezed. Bless you! ## Du=you|hast=have|geniest=sneezed|Gesundheit=bless you
+
+A2 | Mahlzeit | greeting around lunchtime, esp. at work | enjoy your meal, hello (at lunchtime)
+x Mahlzeit! Guten Appetit! ## Enjoy your meal! Bon appétit! ## Mahlzeit=enjoy your meal|Guten=good|Appetit=appetite
+x In der Kantine sagen alle Mahlzeit. ## In the canteen everyone says "Mahlzeit". ## In=in|der=the|Kantine=canteen|sagen=say|alle=everyone|Mahlzeit=Mahlzeit
+
+A2 | herein | used when someone knocks | come in
+x Es klopft. – Herein! ## There's a knock. – Come in! ## Es=it|klopft=knocks|Herein=come in
+x Herein, die Tür ist offen. ## Come in, the door is open. ## Herein=come in|die=the|Tür=door|ist=is|offen=open
+
+A2 | ach | expresses surprise, regret or relief | oh, alas
+x Ach, das wusste ich nicht. ## Oh, I didn't know that. ## Ach=oh|das=that|wusste=knew|ich=I|nicht=not
+x Ach, wie schade! ## Oh, what a pity! ## Ach=oh|wie=how|schade=pity
+
+A2 | oh | | oh
+x Oh, das ist aber schön! ## Oh, that is beautiful! ## Oh=oh|das=that|ist=is|aber=indeed|schön=beautiful
+x Oh, ich habe meinen Schlüssel vergessen. ## Oh, I have forgotten my key. ## Oh=oh|ich=I|habe=have|meinen=my|Schlüssel=key|vergessen=forgotten
+
+A2 | hey | informal, to get attention | hey
+x Hey, wartet auf mich! ## Hey, wait for me! ## Hey=hey|wartet=wait|auf=for|mich=me
+x Hey, wie geht's? ## Hey, how's it going? ## Hey=hey|wie=how|geht's=goes
+
+A2 | oje | | oh dear
+x Oje, es regnet schon wieder! ## Oh dear, it's raining again! ## Oje=oh dear|es=it|regnet=rains|schon=already|wieder=again
+x Oje, das tut mir leid. ## Oh dear, I'm sorry about that. ## Oje=oh dear|das=that|tut=does|mir=me|leid=sorry
+
+A2 | hoppla | said after a small mishap | oops, whoops
+x Hoppla, das Glas ist heruntergefallen! ## Whoops, the glass has fallen down! ## Hoppla=whoops|das=the|Glas=glass|ist=has|heruntergefallen=fallen down
+x Hoppla, entschuldigen Sie bitte! ## Oops, I beg your pardon! ## Hoppla=oops|entschuldigen=excuse|Sie=you|bitte=please
+
+A2 | aha | | aha, I see
+x Aha, jetzt verstehe ich! ## Aha, now I understand! ## Aha=aha|jetzt=now|verstehe=understand|ich=I
+x Aha, so funktioniert das also. ## Aha, so that's how it works. ## Aha=aha|so=so|funktioniert=works|das=that|also=then
+
+A2 | aua | said when in pain | ouch, ow
+x Aua! Das tut weh! ## Ouch! That hurts! ## Aua=ouch|Das=that|tut=does|weh=hurt
+x Aua, ich habe mich geschnitten. ## Ow, I cut myself. ## Aua=ow|ich=I|habe=have|mich=myself|geschnitten=cut
+
+A2 | bravo | | well done, bravo
+x Bravo, das hast du gut gemacht! ## Well done, you did that well! ## Bravo=well done|das=that|hast=have|du=you|gut=well|gemacht=done
+x Alle rufen: Bravo! ## Everyone shouts: Bravo! ## Alle=everyone|rufen=shout|Bravo=bravo
+
+B1 | tja | expresses resignation or hesitation | well, oh well
+x Tja, da kann man nichts machen. ## Well, there's nothing you can do. ## Tja=well|da=there|kann=can|man=one|nichts=nothing|machen=do
+x Tja, das war's dann wohl. ## Well, that's that, I suppose. ## Tja=well|das=that|war's=was|dann=then|wohl=probably
+
+B1 | ojemine | old-fashioned or humorous | oh dear, goodness me
+x Ojemine, wie siehst du denn aus? ## Goodness me, what do you look like? ## Ojemine=goodness me|wie=how|siehst=look|du=you|denn=then|aus=out
+x Ojemine, die Milch ist übergekocht! ## Oh dear, the milk has boiled over! ## Ojemine=oh dear|die=the|Milch=milk|ist=has|übergekocht=boiled over
+
+B1 | igitt | | yuck, ugh
+x Igitt, da ist eine Spinne! ## Yuck, there's a spider! ## Igitt=yuck|da=there|ist=is|eine=a|Spinne=spider
+x Igitt, die Suppe schmeckt scheußlich. ## Ugh, the soup tastes awful. ## Igitt=ugh|die=the|Suppe=soup|schmeckt=tastes|scheußlich=awful
+
+B1 | bäh | | yuck, ugh
+x Bäh, das mag ich nicht! ## Yuck, I don't like that! ## Bäh=yuck|das=that|mag=like|ich=I|nicht=not
+x Bäh, der Kaffee ist kalt. ## Ugh, the coffee is cold. ## Bäh=ugh|der=the|Kaffee=coffee|ist=is|kalt=cold
+
+B1 | juhu | | yippee, hooray, yay
+x Juhu, endlich Ferien! ## Yippee, holidays at last! ## Juhu=yippee|endlich=finally|Ferien=holidays
+x Juhu, wir haben gewonnen! ## Hooray, we won! ## Juhu=hooray|wir=we|haben=have|gewonnen=won
+
+B1 | hui | | whoosh, wow, oh
+x Hui, ist das schnell! ## Whoa, that's fast! ## Hui=whoa|ist=is|das=that|schnell=fast
+x Hui, was für ein Wind! ## Whoosh, what a wind! ## Hui=whoosh|was=what|für=for|ein=a|Wind=wind
+
+B1 | pfui | expresses disgust or disapproval | fie, ugh, yuck
+x Pfui, das ist ekelhaft! ## Ugh, that's disgusting! ## Pfui=ugh|das=that|ist=is|ekelhaft=disgusting
+x Pfui, schäm dich! ## Shame on you! ## Pfui=shame|schäm=shame|dich=yourself
+
+B1 | hä | informal | huh, eh
+x Hä? Was hast du gesagt? ## Huh? What did you say? ## Hä=huh|Was=what|hast=have|du=you|gesagt=said
+x Hä, das verstehe ich nicht. ## Huh, I don't understand that. ## Hä=huh|das=that|verstehe=understand|ich=I|nicht=not
+
+B1 | puh | | phew, whew
+x Puh, ist das heiß heute! ## Phew, it's hot today! ## Puh=phew|ist=is|das=that|heiß=hot|heute=today
+x Puh, die Prüfung ist vorbei. ## Phew, the exam is over. ## Puh=phew|die=the|Prüfung=exam|ist=is|vorbei=over

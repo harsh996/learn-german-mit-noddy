@@ -3,6 +3,7 @@
 import { FormEvent, useCallback, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
+import { useActiveProfile } from "@/components/vocab/SavedWordsProvider";
 import styles from "./profiles.module.css";
 
 type Memory = {
@@ -26,6 +27,7 @@ const LEVELS = ["A1", "A2", "B1", "B2", "C1"];
 
 export default function ProfilesPage() {
   const router = useRouter();
+  useActiveProfile(null);
   const [profiles, setProfiles] = useState<Profile[]>([]);
   const [maxProfiles, setMaxProfiles] = useState(10);
   const [loading, setLoading] = useState(true);
@@ -103,6 +105,9 @@ export default function ProfilesPage() {
   return (
     <div className="app-shell">
       <AppHeader>
+        <button className="btn btn-ghost" onClick={() => router.push("/reading")} type="button">
+          Reading
+        </button>
         <button className="btn btn-ghost" onClick={() => router.push("/vocab")} type="button">
           Vocabulary
         </button>

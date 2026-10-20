@@ -1,13 +1,15 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 import { jwtVerify } from "jose";
+import { getAuthSecret } from "@/lib/auth-secret";
 
-const PUBLIC_EXACT = new Set(["/login", "/api/auth/login", "/api/health"]);
-
-function getSecret() {
-  const secret = process.env.AUTH_SECRET || "german-tutor-dev-secret-change-in-prod";
-  return new TextEncoder().encode(secret);
-}
+const PUBLIC_EXACT = new Set([
+  "/login",
+  "/signup",
+  "/api/auth/login",
+  "/api/auth/signup",
+  "/api/health",
+]);
 
 export async function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
@@ -40,7 +42,7 @@ export async function middleware(req: NextRequest) {
   }
 
   try {
-    await jwtVerify(token, getSecret());
+    await jwtVerify(token, getAuthSecret(), { algorithms: ["HS256"] });
     return NextResponse.next();
   } catch {
     if (pathname.startsWith("/api/")) {
@@ -53,12 +55,14 @@ export async function middleware(req: NextRequest) {
 export const config = {
   matcher: [
     "/login",
+    "/signup",
     "/profiles",
     "/profiles/:path*",
     "/dashboard",
     "/dashboard/:path*",
     "/vocab",
     "/vocab/:path*",
+    "/reading",
     "/api/:path*",
     "/",
   ],

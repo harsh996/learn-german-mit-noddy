@@ -8,7 +8,6 @@ rtc:
   port_range_end: 50100
   use_external_ip: false
   enable_loopback_candidate: true
-  node_ip: 192.168.178.20
 keys:
   devkey: secretsecretsecretsecretsecret12
 logging:

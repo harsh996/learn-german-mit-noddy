@@ -62,3 +62,15 @@
 .list li span { color: var(--muted); font-size: 0.88rem; }
 .list li em { font-style: normal; font-size: 0.72rem; font-weight: 700; color: var(--pine); }
 .list li button { background: none; border: none; color: var(--danger); font-size: 0.8rem; font-weight: 600; }
+
+.user {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+@media (max-width: 480px) {
+  .user {
+    display: none;
+  }
+}

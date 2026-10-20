@@ -26,10 +26,12 @@ services:
       - LIVEKIT_URL=ws://livekit:7880
       - LIVEKIT_API_KEY=devkey
       - LIVEKIT_API_SECRET=secretsecretsecretsecretsecret12
-      - AUTH_SECRET=${AUTH_SECRET:-german-tutor-dev-secret-change-in-prod}
+      - "AUTH_SECRET=${AUTH_SECRET:?Set AUTH_SECRET in .env, e.g. openssl rand -base64 48}"
       - NEXT_SERVER_ACTIONS_ENCRYPTION_KEY=${NEXT_SERVER_ACTIONS_ENCRYPTION_KEY:-dGVybWFuLXR1dG9yLWRldi1zZXJ2ZXItYWN0aW9uLWtleSE=}
-      - ADMIN_USERNAME=admin
-      - ADMIN_PASSWORD=Password123!
+      - ADMIN_USERNAME=${ADMIN_USERNAME:-admin}
+      - ADMIN_EMAIL=${ADMIN_EMAIL:-}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-}
+      - ALLOW_SIGNUP=${ALLOW_SIGNUP:-true}
       - AI_PROVIDER=${AI_PROVIDER:-gemini}
       - GOOGLE_API_KEY=${GOOGLE_API_KEY:-}
       - OPENAI_API_KEY=${OPENAI_API_KEY:-}
@@ -51,12 +53,13 @@ services:
       - GOOGLE_API_KEY=${GOOGLE_API_KEY}
       - OPENAI_API_KEY=${OPENAI_API_KEY}
       - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.5-flash-native-audio-preview-12-2025}
-      - GEMINI_SILENCE_MS=${GEMINI_SILENCE_MS:-900}
-      - GEMINI_PREFIX_PADDING_MS=${GEMINI_PREFIX_PADDING_MS:-300}
+      - GEMINI_SILENCE_MS=${GEMINI_SILENCE_MS:-500}
+      - GEMINI_PREFIX_PADDING_MS=${GEMINI_PREFIX_PADDING_MS:-200}
       - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-realtime-preview}
+      - OPENAI_SILENCE_MS=${OPENAI_SILENCE_MS:-500}
       - DATABASE_PATH=/frontend/prisma/dev.db
       - FRONTEND_URL=http://frontend:3000
-      - AUTH_SECRET=${AUTH_SECRET:-german-tutor-dev-secret-change-in-prod}
+      - "AUTH_SECRET=${AUTH_SECRET:?Set AUTH_SECRET in .env, e.g. openssl rand -base64 48}"
     volumes:
       - sqlite_data:/frontend/prisma
     depends_on:

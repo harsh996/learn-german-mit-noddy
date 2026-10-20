@@ -39,8 +39,12 @@ Local UI is also available at [http://localhost:3000](http://localhost:3000).
 
 ### Login
 
-- Username: `admin`
-- Password: `Password123!`
+Users create their own account at `/signup` (email, username, password) and log in with
+either their email or username. Set `ALLOW_SIGNUP=false` in `.env` to close sign-up.
+
+`AUTH_SECRET` is required (32+ random characters, e.g. `openssl rand -base64 48`).
+To also seed an admin account, set `ADMIN_USERNAME`, `ADMIN_EMAIL` and `ADMIN_PASSWORD`
+in `.env`; with no `ADMIN_PASSWORD`, no admin is created.
 
 ## Local development (without Docker)
 

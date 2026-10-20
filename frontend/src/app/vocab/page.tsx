@@ -1,11 +1,12 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
-import { useRouter } from "next/navigation";
+import { Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { AppHeader } from "@/components/AppHeader";
+import { ProfilePicker } from "@/components/ProfilePicker";
 import { SentenceText } from "@/components/vocab/SentenceText";
-import { useSavedWords } from "@/components/vocab/SavedWordsProvider";
-import { VOCAB_LEVELS, VOCAB_POS, type VocabEntry } from "@/lib/vocabTypes";
+import { useActiveProfile, useSavedWords } from "@/components/vocab/SavedWordsProvider";
+import { VOCAB_LEVELS, VOCAB_POS, levelLabel, type VocabEntry } from "@/lib/vocabTypes";
 import styles from "@/components/vocab/vocab.module.css";
 
 type Prefs = { sort: "frequency" | "alpha"; status: "all" | "saved" | "unsaved"; pos: string; level: string };
@@ -37,6 +38,39 @@ function Seg<T extends string>({
 }
 
 export default function VocabPage() {
+  return (
+    <Suspense fallback={null}>
+      <VocabRoute />
+    </Suspense>
+  );
+}
+
+// Saved words are kept per learner profile, so the page needs to know which one.
+function VocabRoute() {
+  const router = useRouter();
+  const profileId = useSearchParams().get("profileId");
+  useActiveProfile(profileId);
+
+  if (profileId) return <VocabContent profileId={profileId} />;
+  return (
+    <div className="app-shell">
+      <AppHeader>
+        <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
+          Profiles
+        </button>
+      </AppHeader>
+      <main>
+        <ProfilePicker
+          heading="Vocabulary"
+          prompt="Whose word list?"
+          onPick={(p) => router.push(`/vocab?profileId=${encodeURIComponent(p)}`)}
+        />
+      </main>
+    </div>
+  );
+}
+
+function VocabContent({ profileId }: { profileId: string }) {
   const router = useRouter();
   const { isSaved, save, remove } = useSavedWords();
   const [entries, setEntries] = useState<VocabEntry[]>([]);
@@ -120,6 +154,13 @@ export default function VocabPage() {
         <button className="btn btn-ghost" type="button" onClick={() => router.push("/profiles")}>
           Profiles
         </button>
+        <button
+          className="btn btn-ghost"
+          type="button"
+          onClick={() => router.push(`/reading?profileId=${encodeURIComponent(profileId)}`)}
+        >
+          Reading
+        </button>
       </AppHeader>
 
       <main className={styles.layout}>
@@ -170,7 +211,7 @@ export default function VocabPage() {
           <Seg
             value={prefs.level}
             onChange={(level) => updatePrefs({ level })}
-            options={[{ value: "all", label: "All" }, ...VOCAB_LEVELS.map((l) => ({ value: l as string, label: l }))]}
+            options={[{ value: "all", label: "All" }, ...VOCAB_LEVELS.map((l) => ({ value: l as string, label: levelLabel(l) }))]}
           />
           <button
             type="button"
@@ -206,7 +247,7 @@ export default function VocabPage() {
                     {e.word}
                   </span>
                   <span className={styles.rowMeaning}>{e.meanings.map((m) => m.english).join(" · ")}</span>
-                  <span className={styles.rowLevel}>{e.level}</span>
+                  <span className={styles.rowLevel}>{levelLabel(e.level)}</span>
                   <button
                     type="button"
                     className={isSaved(e.key) ? styles.bmOn : styles.bm}
@@ -234,7 +275,7 @@ export default function VocabPage() {
                 </h1>
                 <div className={styles.meta}>
                   <span>{cap(selected.pos || "word")}</span>
-                  <span>Level {selected.level}</span>
+                  <span>Level {levelLabel(selected.level)}</span>
                 </div>
                 {selected.notes && <p className={styles.notes}>{selected.notes}</p>}
                 <button

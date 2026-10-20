@@ -1,0 +1,131 @@
+# Prepositions missing from the Goethe word lists. One block per word, blank line between blocks.
+#   <level> | <word> | <notes> | <english meaning>
+#   x German ## English ## word=gloss|word=gloss     (one line per example sentence)
+
+A1 | im | in + dem · Dativ | in the, at the, on the
+x Ich wohne im dritten Stock. ## I live on the third floor. ## Ich=I|wohne=live|im=in the|dritten=third|Stock=floor
+x Im Sommer fahren wir ans Meer. ## In summer we go to the sea. ## Im=in the|Sommer=summer|fahren=go|wir=we|ans=to the|Meer=sea
+
+A1 | zum | zu + dem · Dativ | to the, for the
+x Ich gehe zum Arzt. ## I am going to the doctor. ## Ich=I|gehe=go|zum=to the|Arzt=doctor
+x Was möchtest du zum Frühstück? ## What would you like for breakfast? ## Was=what|möchtest=would like|du=you|zum=for|Frühstück=breakfast
+
+A1 | vom | von + dem · Dativ | from the, of the
+x Das Buch ist vom Lehrer. ## The book is from the teacher. ## Das=the|Buch=book|ist=is|vom=from the|Lehrer=teacher
+x Ich komme gerade vom Einkaufen. ## I am just coming back from shopping. ## Ich=I|komme=come|gerade=just|vom=from|Einkaufen=shopping
+
+A1 | ins | in + das · Akkusativ | into the, to the
+x Wir gehen ins Kino. ## We are going to the cinema. ## Wir=we|gehen=go|ins=to the|Kino=cinema
+x Sie stellt die Bücher ins Regal. ## She puts the books on the shelf. ## Sie=she|stellt=puts|die=the|Bücher=books|ins=onto the|Regal=shelf
+
+A2 | wegen | + Genitiv (colloquially + Dativ) | because of, due to
+x Wegen des Regens bleiben wir zu Hause. ## Because of the rain we are staying at home. ## Wegen=because of|des=the|Regens=rain|bleiben=stay|wir=we|zu=at|Hause=home
+x Wegen der Kinder ziehen sie aufs Land. ## Because of the children they are moving to the countryside. ## Wegen=because of|der=the|Kinder=children|ziehen=move|sie=they|aufs=to the|Land=countryside
+
+B1 | während | + Genitiv | during
+x Während des Films hat er geschlafen. ## He slept during the film. ## Während=during|des=the|Films=film|hat=has|er=he|geschlafen=slept
+x Während der Ferien arbeitet sie im Café. ## During the holidays she works in a café. ## Während=during|der=the|Ferien=holidays|arbeitet=works|sie=she|im=in the|Café=café
+
+B1 | trotz | + Genitiv | despite, in spite of
+x Trotz des Wetters gehen wir spazieren. ## Despite the weather we are going for a walk. ## Trotz=despite|des=the|Wetters=weather|gehen=go|wir=we|spazieren=for a walk
+x Trotz der Kälte trug sie keine Jacke. ## Despite the cold she wore no jacket. ## Trotz=despite|der=the|Kälte=cold|trug=wore|sie=she|keine=no|Jacke=jacket
+
+B1 | statt | + Genitiv | instead of
+x Statt eines Autos kaufte er ein Fahrrad. ## Instead of a car he bought a bicycle. ## Statt=instead of|eines=a|Autos=car|kaufte=bought|er=he|ein=a|Fahrrad=bicycle
+x Statt des Kaffees trinke ich Tee. ## Instead of coffee I drink tea. ## Statt=instead of|des=the|Kaffees=coffee|trinke=drink|ich=I|Tee=tea
+
+B1 | nahe | + Dativ | near, close to
+x Das Hotel liegt nahe dem Bahnhof. ## The hotel is near the station. ## Das=the|Hotel=hotel|liegt=is located|nahe=near|dem=the|Bahnhof=station
+x Sie wohnt nahe der Universität. ## She lives near the university. ## Sie=she|wohnt=lives|nahe=near|der=the|Universität=university
+
+B1 | innerhalb | + Genitiv | within, inside
+x Innerhalb einer Woche bekommen Sie eine Antwort. ## Within a week you will get an answer. ## Innerhalb=within|einer=a|Woche=week|bekommen=get|Sie=you|eine=an|Antwort=answer
+x Innerhalb der Stadt gilt Tempo fünfzig. ## Within the city a speed limit of fifty applies. ## Innerhalb=within|der=the|Stadt=city|gilt=applies|Tempo=speed|fünfzig=fifty
+
+B1 | per | + Akkusativ | by (means of), per
+x Ich schicke dir die Datei per E-Mail. ## I will send you the file by email. ## Ich=I|schicke=send|dir=you|die=the|Datei=file|per=by|E-Mail=email
+x Sie bezahlt per Karte. ## She pays by card. ## Sie=she|bezahlt=pays|per=by|Karte=card
+
+B1 | entlang | + Akkusativ (after the noun) | along
+x Wir gehen den Fluss entlang. ## We walk along the river. ## Wir=we|gehen=walk|den=the|Fluss=river|entlang=along
+x Die Straße entlang stehen alte Bäume. ## Old trees stand along the street. ## Die=the|Straße=street|entlang=along|stehen=stand|alte=old|Bäume=trees
+
+B1 | inklusive | + Genitiv | including, inclusive of
+x Der Preis gilt inklusive Frühstück. ## The price includes breakfast. ## Der=the|Preis=price|gilt=applies|inklusive=including|Frühstück=breakfast
+x Die Miete beträgt sechshundert Euro inklusive Nebenkosten. ## The rent is six hundred euros including utilities. ## Die=the|Miete=rent|beträgt=is|sechshundert=six hundred|Euro=euros|inklusive=including|Nebenkosten=utilities
+
+B1 | einschließlich | + Genitiv | including, inclusive of
+x Alle Gäste, einschließlich der Kinder, bekommen ein Geschenk. ## All guests, including the children, get a present. ## Alle=all|Gäste=guests|einschließlich=including|der=the|Kinder=children|bekommen=get|ein=a|Geschenk=present
+x Das Zimmer kostet achtzig Euro einschließlich Frühstück. ## The room costs eighty euros including breakfast. ## Das=the|Zimmer=room|kostet=costs|achtzig=eighty|Euro=euros|einschließlich=including|Frühstück=breakfast
+
+B2 | aufgrund | + Genitiv | because of, on the basis of
+x Aufgrund des Staus kam er zu spät. ## Because of the traffic jam he arrived late. ## Aufgrund=because of|des=the|Staus=traffic jam|kam=came|er=he|zu=too|spät=late
+x Aufgrund der Krankheit bleibt sie zu Hause. ## Because of the illness she is staying at home. ## Aufgrund=because of|der=the|Krankheit=illness|bleibt=stays|sie=she|zu=at|Hause=home
+
+B2 | angesichts | + Genitiv | in view of, considering
+x Angesichts der Lage müssen wir handeln. ## In view of the situation we have to act. ## Angesichts=in view of|der=the|Lage=situation|müssen=must|wir=we|handeln=act
+x Angesichts der hohen Preise sparen viele Menschen. ## Given the high prices, many people save. ## Angesichts=given|der=the|hohen=high|Preise=prices|sparen=save|viele=many|Menschen=people
+
+B2 | gemäß | + Dativ | in accordance with, according to
+x Gemäß dem Vertrag müssen Sie zahlen. ## According to the contract you have to pay. ## Gemäß=according to|dem=the|Vertrag=contract|müssen=must|Sie=you|zahlen=pay
+x Wir handeln gemäß den Regeln. ## We act in accordance with the rules. ## Wir=we|handeln=act|gemäß=in accordance with|den=the|Regeln=rules
+
+B2 | entsprechend | + Dativ | in accordance with, according to, corresponding to
+x Entsprechend den Anweisungen füllte er das Formular aus. ## In accordance with the instructions he filled out the form. ## Entsprechend=in accordance with|den=the|Anweisungen=instructions|füllte=filled|er=he|das=the|Formular=form|aus=out
+x Das Gehalt wird der Erfahrung entsprechend gezahlt. ## The salary is paid according to experience. ## Das=the|Gehalt=salary|wird=is|der=the|Erfahrung=experience|entsprechend=according to|gezahlt=paid
+
+B2 | zufolge | + Dativ (after the noun) | according to
+x Dem Bericht zufolge steigen die Preise. ## According to the report prices are rising. ## Dem=the|Bericht=report|zufolge=according to|steigen=rise|die=the|Preise=prices
+x Experten zufolge wird es bald wärmer. ## According to experts it will soon get warmer. ## Experten=experts|zufolge=according to|wird=becomes|es=it|bald=soon|wärmer=warmer
+
+B2 | mithilfe | + Genitiv | with the help of, by means of
+x Mithilfe eines Wörterbuchs verstehe ich den Text. ## With the help of a dictionary I understand the text. ## Mithilfe=with the help of|eines=a|Wörterbuchs=dictionary|verstehe=understand|ich=I|den=the|Text=text
+x Mithilfe der Karte fanden wir den Weg. ## With the help of the map we found the way. ## Mithilfe=with the help of|der=the|Karte=map|fanden=found|wir=we|den=the|Weg=way
+
+B2 | anhand | + Genitiv | on the basis of, with the aid of
+x Anhand der Fotos erkannte er den Dieb. ## On the basis of the photos he recognised the thief. ## Anhand=on the basis of|der=the|Fotos=photos|erkannte=recognised|er=he|den=the|Dieb=thief
+x Ich erkläre das anhand eines Beispiels. ## I explain this using an example. ## Ich=I|erkläre=explain|das=this|anhand=using|eines=an|Beispiels=example
+
+B2 | mittels | + Genitiv | by means of
+x Das Tor öffnet sich mittels einer Fernbedienung. ## The gate opens by means of a remote control. ## Das=the|Tor=gate|öffnet=opens|sich=itself|mittels=by means of|einer=a|Fernbedienung=remote control
+x Mittels eines Tests prüft man die Sprachkenntnisse. ## Language skills are checked by means of a test. ## Mittels=by means of|eines=a|Tests=test|prüft=checks|man=one|die=the|Sprachkenntnisse=language skills
+
+B2 | hinsichtlich | + Genitiv | with regard to, regarding
+x Hinsichtlich der Kosten gibt es noch Fragen. ## With regard to the costs there are still questions. ## Hinsichtlich=regarding|der=the|Kosten=costs|gibt=gives|es=it|noch=still|Fragen=questions
+x Wir sind uns hinsichtlich des Ziels einig. ## We agree regarding the goal. ## Wir=we|sind=are|uns=ourselves|hinsichtlich=regarding|des=the|Ziels=goal|einig=in agreement
+
+B2 | bezüglich | + Genitiv | regarding, concerning, referring to
+x Bezüglich Ihrer Anfrage melden wir uns morgen. ## Regarding your inquiry we will get back to you tomorrow. ## Bezüglich=regarding|Ihrer=your|Anfrage=inquiry|melden=get in touch|wir=we|uns=ourselves|morgen=tomorrow
+x Ich habe eine Frage bezüglich der Rechnung. ## I have a question concerning the invoice. ## Ich=I|habe=have|eine=a|Frage=question|bezüglich=concerning|der=the|Rechnung=invoice
+
+B2 | jenseits | + Genitiv | beyond, on the other side of
+x Jenseits des Flusses beginnt der Wald. ## Beyond the river the forest begins. ## Jenseits=beyond|des=the|Flusses=river|beginnt=begins|der=the|Wald=forest
+x Das liegt jenseits meiner Vorstellung. ## That is beyond my imagination. ## Das=that|liegt=lies|jenseits=beyond|meiner=my|Vorstellung=imagination
+
+B2 | zugunsten | + Genitiv | in favour of
+x Er verzichtet zugunsten seiner Schwester auf das Erbe. ## He gives up the inheritance in favour of his sister. ## Er=he|verzichtet=gives up|zugunsten=in favour of|seiner=his|Schwester=sister|auf=on|das=the|Erbe=inheritance
+x Das Gericht entschied zugunsten des Kunden. ## The court ruled in favour of the customer. ## Das=the|Gericht=court|entschied=decided|zugunsten=in favour of|des=the|Kunden=customer
+
+B2 | infolge | + Genitiv | as a result of
+x Infolge des Sturms fielen viele Züge aus. ## As a result of the storm many trains were cancelled. ## Infolge=as a result of|des=the|Sturms=storm|fielen=fell|viele=many|Züge=trains|aus=out
+x Infolge eines Fehlers wurde das Spiel abgebrochen. ## As a result of a mistake the game was stopped. ## Infolge=as a result of|eines=a|Fehlers=mistake|wurde=was|das=the|Spiel=game|abgebrochen=stopped
+
+B2 | samt | + Dativ | together with, along with
+x Sie verkauften das Haus samt Garten. ## They sold the house together with the garden. ## Sie=they|verkauften=sold|das=the|Haus=house|samt=together with|Garten=garden
+x Er kam samt Familie zur Feier. ## He came to the party with his whole family. ## Er=he|kam=came|samt=together with|Familie=family|zur=to the|Feier=party
+
+B2 | anstelle | + Genitiv (or anstelle von) | instead of, in place of
+x Anstelle des Chefs kam seine Assistentin. ## Instead of the boss his assistant came. ## Anstelle=instead of|des=the|Chefs=boss|kam=came|seine=his|Assistentin=assistant
+x Anstelle von Butter nehme ich Öl. ## Instead of butter I use oil. ## Anstelle=instead of|von=of|Butter=butter|nehme=take|ich=I|Öl=oil
+
+B2 | seitens | + Genitiv | on the part of
+x Seitens der Firma gibt es keine Einwände. ## On the part of the company there are no objections. ## Seitens=on the part of|der=the|Firma=company|gibt=gives|es=it|keine=no|Einwände=objections
+x Seitens der Schule wurde das Projekt gefördert. ## The project was supported by the school. ## Seitens=on the part of|der=the|Schule=school|wurde=was|das=the|Projekt=project|gefördert=supported
+
+B2 | laut | + Genitiv or Dativ | according to
+x Laut dem Wetterbericht regnet es morgen. ## According to the weather forecast it will rain tomorrow. ## Laut=according to|dem=the|Wetterbericht=weather forecast|regnet=rains|es=it|morgen=tomorrow
+x Laut Zeitung ist der Minister zurückgetreten. ## According to the newspaper the minister has resigned. ## Laut=according to|Zeitung=newspaper|ist=is|der=the|Minister=minister|zurückgetreten=resigned
+
+B2 | dank | + Genitiv or Dativ | thanks to
+x Dank deiner Hilfe habe ich es geschafft. ## Thanks to your help I made it. ## Dank=thanks to|deiner=your|Hilfe=help|habe=have|ich=I|es=it|geschafft=managed
+x Dank des guten Wetters konnten wir draußen essen. ## Thanks to the good weather we could eat outside. ## Dank=thanks to|des=the|guten=good|Wetters=weather|konnten=could|wir=we|draußen=outside|essen=eat

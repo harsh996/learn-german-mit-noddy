@@ -1,7 +1,7 @@
 import { NextRequest } from "next/server";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
-import { getSession } from "@/lib/auth";
+import { getSession, isAgentKey } from "@/lib/auth";
 import { containsBlockedContent, SAFETY_REFUSAL_DE } from "@/lib/safety";
 import { jsonError, jsonOk, unauthorized } from "@/lib/api";
 
@@ -21,9 +21,7 @@ const bodySchema = z.object({
 export async function POST(req: NextRequest) {
   // Allow either session cookie OR internal agent key
   const session = await getSession();
-  const agentKey = req.headers.get("x-agent-key");
-  const expectedKey = process.env.AUTH_SECRET || "german-tutor-dev-secret-change-in-prod";
-  const isAgent = agentKey === expectedKey;
+  const isAgent = isAgentKey(req.headers.get("x-agent-key"));
 
   if (!session && !isAgent) return unauthorized();
 

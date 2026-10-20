@@ -1,0 +1,602 @@
+# Adverbs missing from the Goethe word lists. Same block format as supplement_prepositions.txt.
+# Glosses are only needed for the target word and unusual tokens; common words are filled in by build_data.py.
+
+A1 | zu | | too, closed
+x Das ist mir zu teuer. ## That is too expensive for me. ## zu=too|teuer=expensive
+x Die Tür ist zu. ## The door is closed. ## zu=closed|Tür=door
+
+A1 | auf | | open, up
+x Das Fenster ist auf. ## The window is open. ## auf=open|Fenster=window
+x Um sechs Uhr bin ich schon auf. ## I am already up at six o'clock. ## auf=up|Uhr=o'clock|schon=already
+
+A1 | vor | vor und zurück | forward(s)
+x Bitte einen Schritt vor! ## One step forward, please! ## vor=forward|Schritt=step
+x Der Zug fährt erst vor und dann zurück. ## The train first goes forward and then back. ## vor=forward|Zug=train|fährt=goes|zurück=back
+
+A1 | viel | | a lot, much
+x Er arbeitet viel. ## He works a lot. ## viel=a lot|arbeitet=works
+x Ich schlafe nicht viel. ## I don't sleep much. ## viel=much|schlafe=sleep
+
+A1 | gut | | well
+x Sie spricht sehr gut Deutsch. ## She speaks German very well. ## gut=well|spricht=speaks|Deutsch=German
+x Das hast du gut gemacht. ## You did that well. ## gut=well|gemacht=done
+
+A1 | hoch | | high, up
+x Der Vogel fliegt hoch. ## The bird flies high. ## hoch=high|Vogel=bird|fliegt=flies
+x Wir wohnen hoch oben im zehnten Stock. ## We live high up on the tenth floor. ## hoch=high|oben=up|zehnten=tenth|Stock=floor
+
+A1 | kurz | | briefly, shortly
+x Kann ich dich kurz sprechen? ## Can I speak to you briefly? ## kurz=briefly|sprechen=speak to
+x Ich bin kurz weg. ## I'll be away for a moment. ## kurz=briefly|weg=away
+
+A1 | einfach | | simply, easily, just
+x Das ist einfach super! ## That is simply great! ## einfach=simply|super=great
+x Fahr einfach geradeaus. ## Just drive straight ahead. ## einfach=just|Fahr=drive|geradeaus=straight ahead
+
+A1 | schnell | | quickly, fast
+x Bitte komm schnell! ## Please come quickly! ## schnell=quickly|komm=come
+x Er läuft sehr schnell. ## He runs very fast. ## schnell=fast|läuft=runs
+
+A1 | allein | | alone, on one's own
+x Ich wohne allein. ## I live alone. ## allein=alone|wohne=live
+x Kannst du das allein machen? ## Can you do that on your own? ## allein=on your own|machen=do
+
+A1 | wo | question word | where
+x Wo wohnst du? ## Where do you live? ## Wo=where|wohnst=live
+x Wo ist der Bahnhof? ## Where is the station? ## Wo=where|Bahnhof=station
+
+A1 | schon | | already, yet
+x Ich bin schon fertig. ## I am already finished. ## schon=already|fertig=finished
+x Warst du schon in Berlin? ## Have you been to Berlin yet? ## schon=yet|Warst=were
+
+A1 | gerne | variant of "gern" | gladly, with pleasure
+x Ich helfe dir gerne. ## I'm happy to help you. ## gerne=gladly|helfe=help
+x Möchtest du Kaffee? – Gerne! ## Would you like coffee? – Gladly! ## Gerne=gladly|Möchtest=would like
+
+A2 | mal | informal particle | once, just (for a moment)
+x Schau mal, wie schön! ## Look, how beautiful! ## mal=(softener)|Schau=look|schön=beautiful
+x Komm doch mal vorbei! ## Do drop by sometime! ## mal=sometime|vorbei=by
+
+A2 | erst | | not until, only, first
+x Der Zug kommt erst um acht. ## The train doesn't arrive until eight. ## erst=not until|Zug=train|kommt=arrives
+x Ich bin erst seit einer Woche hier. ## I have only been here for a week. ## erst=only|Woche=week
+
+A2 | selbst | | even, oneself
+x Selbst ich verstehe das nicht. ## Even I don't understand that. ## Selbst=even|verstehe=understand
+x Er macht alles selbst. ## He does everything himself. ## selbst=himself|macht=does|alles=everything
+
+A2 | etwas | | somewhat, slightly, a little
+x Das ist etwas teuer. ## That is somewhat expensive. ## etwas=somewhat|teuer=expensive
+x Kannst du etwas lauter sprechen? ## Can you speak a little louder? ## etwas=a little|lauter=louder|sprechen=speak
+
+A2 | darauf | colloquially "drauf" | on it, on that, to that
+x Ich freue mich darauf. ## I am looking forward to it. ## darauf=to it|freue=look forward|mich=myself
+x Ich warte schon lange darauf. ## I have been waiting for it for a long time. ## darauf=for it|warte=wait|schon=already|lange=long
+
+A2 | besonders | | especially, particularly
+x Das Essen war besonders gut. ## The food was especially good. ## besonders=especially|Essen=food
+x Ich mag Musik, besonders Jazz. ## I like music, especially jazz. ## besonders=especially|Jazz=jazz
+
+A2 | eigentlich | | actually, really, in fact
+x Was machst du eigentlich beruflich? ## What do you actually do for a living? ## eigentlich=actually|beruflich=for a living
+x Eigentlich wollte ich gehen. ## Actually I wanted to go. ## Eigentlich=actually|wollte=wanted
+
+A2 | darüber | colloquially "drüber" | about it, above it, over it
+x Wir sprechen morgen darüber. ## We'll talk about it tomorrow. ## darüber=about it|sprechen=talk
+x Über dem Tisch hängt eine Lampe, darüber ein Bild. ## A lamp hangs above the table, above it a picture. ## darüber=above it|hängt=hangs|Bild=picture
+
+A2 | sogar | | even, actually
+x Er spricht sogar drei Sprachen. ## He even speaks three languages. ## sogar=even|drei=three|Sprachen=languages
+x Es hat sogar geschneit. ## It even snowed. ## sogar=even|geschneit=snowed
+
+A2 | damals | | back then, at that time
+x Damals hatten wir kein Handy. ## Back then we didn't have a mobile phone. ## Damals=back then|hatten=had|Handy=mobile phone
+x Damals war alles anders. ## Back then everything was different. ## Damals=back then|anders=different
+
+A2 | sonst | | otherwise, else, usually
+x Beeil dich, sonst verpasst du den Zug. ## Hurry up, otherwise you will miss the train. ## sonst=otherwise|Beeil=hurry|verpasst=miss
+x Sonst noch etwas? ## Anything else? ## Sonst=else|noch=still
+
+A2 | anders | | differently, otherwise
+x Ich sehe das anders. ## I see that differently. ## anders=differently|sehe=see
+x Es ging nicht anders. ## There was no other way. ## anders=otherwise|ging=went
+
+A2 | wirklich | | really, truly, actually
+x Das ist wirklich schön. ## That is really beautiful. ## wirklich=really|schön=beautiful
+x Hast du das wirklich gesagt? ## Did you really say that? ## wirklich=really|gesagt=said
+
+A2 | manchmal | | sometimes
+x Manchmal gehe ich zu Fuß zur Arbeit. ## Sometimes I walk to work. ## Manchmal=sometimes|Fuß=foot|Arbeit=work
+x Er ist manchmal müde. ## He is sometimes tired. ## manchmal=sometimes|müde=tired
+
+A2 | wahrscheinlich | | probably
+x Er kommt wahrscheinlich später. ## He will probably come later. ## wahrscheinlich=probably|später=later
+x Es regnet wahrscheinlich morgen. ## It will probably rain tomorrow. ## wahrscheinlich=probably|regnet=rains
+
+A2 | her | direction towards the speaker | from, ago, over here
+x Komm her! ## Come here! ## her=here|Komm=come
+x Das ist schon lange her. ## That was a long time ago. ## her=ago|lange=long
+
+A1 | sofort | | immediately, right away
+x Komm bitte sofort! ## Please come immediately! ## sofort=immediately|komm=come
+x Ich rufe dich sofort zurück. ## I'll call you back right away. ## sofort=right away|rufe=call|zurück=back
+
+A2 | außerdem | | besides, also, in addition
+x Es ist kalt, außerdem regnet es. ## It is cold, and besides it's raining. ## außerdem=besides|kalt=cold|regnet=rains
+x Ich habe Hunger, außerdem bin ich müde. ## I am hungry, and also I am tired. ## außerdem=also|Hunger=hunger|müde=tired
+
+A2 | genug | | enough
+x Ich habe genug gegessen. ## I have eaten enough. ## genug=enough|gegessen=eaten
+x Das Zimmer ist groß genug. ## The room is big enough. ## genug=enough|Zimmer=room|groß=big
+
+A2 | endlich | | finally, at last
+x Endlich sind Ferien! ## At last it's holidays! ## Endlich=at last|Ferien=holidays
+x Er hat endlich angerufen. ## He finally called. ## endlich=finally|angerufen=called
+
+A2 | hin | direction away from the speaker | there, towards
+x Wo gehst du hin? ## Where are you going (to)? ## hin=to|gehst=go
+x Gehen wir zusammen hin? ## Shall we go there together? ## hin=there|Gehen=go|zusammen=together
+
+A1 | gestern | | yesterday
+x Gestern war ich im Kino. ## Yesterday I was at the cinema. ## Gestern=yesterday|Kino=cinema
+x Wir haben gestern gearbeitet. ## We worked yesterday. ## gestern=yesterday|gearbeitet=worked
+
+A1 | zusammen | | together
+x Wir lernen zusammen. ## We are studying together. ## zusammen=together|lernen=study
+x Wollen wir zusammen essen? ## Shall we eat together? ## zusammen=together|Wollen=want|essen=eat
+
+A1 | wann | question word | when
+x Wann kommst du? ## When are you coming? ## Wann=when|kommst=come
+x Wann ist das Konzert? ## When is the concert? ## Wann=when|Konzert=concert
+
+A1 | unten | | below, downstairs, at the bottom
+x Die Küche ist unten. ## The kitchen is downstairs. ## unten=downstairs|Küche=kitchen
+x Unten im Tal liegt ein Dorf. ## Down in the valley lies a village. ## Unten=down|Tal=valley|liegt=lies|Dorf=village
+
+A2 | vorher | | beforehand, earlier, before
+x Ruf mich vorher an. ## Call me beforehand. ## vorher=beforehand|Ruf=call|an=up
+x Das hat er mir vorher nicht gesagt. ## He didn't tell me that beforehand. ## vorher=beforehand|gesagt=said
+
+A1 | meist | also "meistens" | mostly, usually
+x Ich trinke meist Tee. ## I mostly drink tea. ## meist=mostly|trinke=drink|Tee=tea
+x Am Wochenende schlafe ich meist lange. ## At the weekend I usually sleep late. ## meist=usually|Wochenende=weekend|lange=long
+
+A1 | leider | | unfortunately
+x Leider habe ich keine Zeit. ## Unfortunately I have no time. ## Leider=unfortunately|Zeit=time
+x Der Zug ist leider schon weg. ## The train has unfortunately already left. ## leider=unfortunately|weg=gone
+
+A2 | mindestens | | at least
+x Das kostet mindestens hundert Euro. ## That costs at least a hundred euros. ## mindestens=at least|kostet=costs|hundert=hundred
+x Du musst mindestens zwei Stunden warten. ## You have to wait at least two hours. ## mindestens=at least|Stunden=hours|warten=wait
+
+A2 | zuerst | | first, at first
+x Zuerst esse ich, dann lerne ich. ## First I eat, then I study. ## Zuerst=first|esse=eat|dann=then
+x Wer kommt zuerst dran? ## Who goes first? ## zuerst=first|dran=(his) turn
+
+A2 | unbedingt | | absolutely, by all means
+x Das musst du unbedingt sehen! ## You absolutely must see that! ## unbedingt=absolutely|sehen=see
+x Ich möchte unbedingt nach Hause. ## I really want to go home. ## unbedingt=really|nach=to|Hause=home
+
+A2 | hinaus | movement out, away from the speaker | out
+x Er geht zur Tür hinaus. ## He goes out through the door. ## hinaus=out|Tür=door
+x Hinaus mit dir! ## Out with you! ## Hinaus=out
+
+A2 | zuletzt | | last, in the end, lastly
+x Wann hast du ihn zuletzt gesehen? ## When did you last see him? ## zuletzt=last|gesehen=seen
+x Zuletzt kam der Lehrer. ## Last of all came the teacher. ## Zuletzt=last of all|kam=came|Lehrer=teacher
+
+A1 | lieber | comparative of "gern" | rather, preferably
+x Ich trinke lieber Tee. ## I prefer to drink tea. ## lieber=rather|trinke=drink|Tee=tea
+x Gehen wir lieber zu Fuß. ## Let's rather go on foot. ## lieber=rather|Fuß=foot
+
+A2 | überall | | everywhere, anywhere
+x Ich habe überall gesucht. ## I have looked everywhere. ## überall=everywhere|gesucht=searched
+x Überall liegt Schnee. ## There is snow everywhere. ## Überall=everywhere|liegt=lies|Schnee=snow
+
+A2 | vorn | also "vorne" | in front, at the front
+x Ich sitze gern vorn. ## I like sitting at the front. ## vorn=at the front|sitze=sit
+x Der Bus ist vorn voll. ## The bus is full at the front. ## vorn=at the front|voll=full
+
+A2 | vorne | also "vorn" | in front, at the front
+x Er steht ganz vorne. ## He is standing right at the front. ## vorne=at the front|steht=stands
+x Vorne links ist ein Platz frei. ## There is a free seat at the front left. ## Vorne=at the front|links=left|Platz=seat|frei=free
+
+A2 | weg | | away, gone, off
+x Mein Schlüssel ist weg. ## My key is gone. ## weg=gone|Schlüssel=key
+x Er ist schon weg. ## He has already left. ## weg=left|schon=already
+
+A2 | wenigstens | | at least
+x Ruf wenigstens kurz an. ## At least call briefly. ## wenigstens=at least|Ruf=call|kurz=briefly
+x Wir haben wenigstens gewonnen. ## At least we won. ## wenigstens=at least|gewonnen=won
+
+A2 | heraus | movement out towards the speaker | out
+x Komm heraus! ## Come out! ## heraus=out|Komm=come
+x Er nimmt das Buch aus der Tasche heraus. ## He takes the book out of the bag. ## heraus=out|nimmt=takes|Tasche=bag
+
+A2 | unterwegs | | on the way, on the go, en route
+x Ich bin gerade unterwegs. ## I am on my way right now. ## unterwegs=on my way|gerade=right now
+x Wir waren den ganzen Tag unterwegs. ## We were out and about all day. ## unterwegs=out and about|ganzen=whole|Tag=day
+
+A2 | vorbei | | past, over, by
+x Die Prüfung ist vorbei. ## The exam is over. ## vorbei=over|Prüfung=exam
+x Der Bus fährt am Haus vorbei. ## The bus drives past the house. ## vorbei=past|fährt=drives|Haus=house
+
+A2 | online | | online
+x Ich kaufe viel online. ## I buy a lot online. ## online=online|kaufe=buy|viel=a lot
+x Sind Sie online? ## Are you online? ## online=online
+
+A2 | egal | | no matter, doesn't matter
+x Das ist mir egal. ## I don't care. ## egal=all the same|mir=me
+x Egal, wann du kommst. ## It doesn't matter when you come. ## Egal=no matter|wann=when|kommst=come
+
+A2 | rund | | around, approximately
+x Der Ort hat rund tausend Einwohner. ## The village has around a thousand inhabitants. ## rund=around|Ort=village|tausend=thousand|Einwohner=inhabitants
+x Es dauert rund eine Stunde. ## It takes about an hour. ## rund=about|dauert=takes|Stunde=hour
+
+A2 | ganz | | quite, completely, entirely
+x Das ist ganz einfach. ## That is quite simple. ## ganz=quite|einfach=simple
+x Ich bin ganz müde. ## I am completely tired. ## ganz=completely|müde=tired
+
+B1 | nun | | now, well
+x Nun müssen wir gehen. ## Now we have to go. ## Nun=now|müssen=must|gehen=go
+x Was nun? ## What now? ## nun=now|Was=what
+
+B1 | bereits | | already
+x Er ist bereits abgereist. ## He has already left. ## bereits=already|abgereist=left
+x Ich habe bereits bezahlt. ## I have already paid. ## bereits=already|bezahlt=paid
+
+B1 | etwa | | about, approximately, for example
+x Es sind etwa zehn Kilometer. ## It is about ten kilometres. ## etwa=about|zehn=ten|Kilometer=kilometres
+x Meinst du etwa mich? ## Do you mean me, by any chance? ## etwa=by any chance|Meinst=mean
+
+B1 | dafür | | for it, for that, instead
+x Ich habe kein Geld dafür. ## I have no money for it. ## dafür=for it|Geld=money
+x Er ist krank, dafür kommt sein Bruder. ## He is ill; his brother is coming instead. ## dafür=instead|krank=ill|Bruder=brother
+
+B1 | allerdings | | however, though, admittedly
+x Das Essen war gut, allerdings etwas teuer. ## The food was good, though a bit expensive. ## allerdings=though|etwas=a bit|teuer=expensive
+x Ich komme gern, allerdings erst später. ## I'd love to come, but only later. ## allerdings=but|erst=only|später=later
+
+B1 | zwar | often "zwar … aber" | indeed, admittedly, to be sure
+x Er ist zwar jung, aber sehr erfahren. ## He is admittedly young, but very experienced. ## zwar=admittedly|jung=young|erfahren=experienced
+x Es regnet zwar, doch wir gehen trotzdem. ## It is indeed raining, yet we are going anyway. ## zwar=indeed|regnet=rains|trotzdem=anyway
+
+B1 | jedoch | | however, but, though
+x Er wollte kommen, konnte jedoch nicht. ## He wanted to come but could not. ## jedoch=but|wollte=wanted|konnte=could
+x Das Angebot ist gut, jedoch zu teuer. ## The offer is good, however too expensive. ## jedoch=however|Angebot=offer|teuer=expensive
+
+B1 | wohl | | probably, well, I suppose
+x Er ist wohl krank. ## He is probably ill. ## wohl=probably|krank=ill
+x Das wird wohl stimmen. ## That is probably right. ## wohl=probably|stimmen=be right
+
+B1 | gar | often "gar nicht", "gar kein" | at all, even
+x Das gefällt mir gar nicht. ## I don't like that at all. ## gar=at all|gefällt=pleases
+x Er hat gar kein Geld. ## He has no money at all. ## gar=at all|Geld=money
+
+B1 | eben | | just, just now, simply
+x Ich habe eben angerufen. ## I just called. ## eben=just now|angerufen=called
+x Das ist eben so. ## That is just how it is. ## eben=simply|so=so
+
+B1 | kaum | | hardly, barely, scarcely
+x Ich kann kaum noch laufen. ## I can hardly walk any more. ## kaum=hardly|laufen=walk
+x Es gibt kaum Parkplätze. ## There are hardly any parking spaces. ## kaum=hardly|Parkplätze=parking spaces
+
+B1 | möglichst | | as … as possible, if possible
+x Komm möglichst bald! ## Come as soon as possible! ## möglichst=as possible|bald=soon
+x Bitte antworten Sie möglichst schnell. ## Please answer as quickly as possible. ## möglichst=as possible|antworten=answer|schnell=quickly
+
+B1 | je | | ever, each, per
+x Hast du je Sushi gegessen? ## Have you ever eaten sushi? ## je=ever|gegessen=eaten|Sushi=sushi
+x Die Karten kosten je zehn Euro. ## The tickets cost ten euros each. ## je=each|Karten=tickets|kosten=cost
+
+B1 | eher | | rather, sooner, earlier, more likely
+x Ich komme eher selten hierher. ## I rather rarely come here. ## eher=rather|selten=rarely|hierher=here
+x Je eher, desto besser. ## The sooner the better. ## eher=sooner|Je=the|desto=the|besser=better
+
+B1 | darin | colloquially "drin" | in it, therein
+x Die Tasche ist leer, es ist nichts darin. ## The bag is empty, there is nothing in it. ## darin=in it|Tasche=bag|leer=empty
+x Ich sehe darin keinen Sinn. ## I see no point in it. ## darin=in it|sehe=see|Sinn=point
+
+B1 | schließlich | | in the end, finally, after all
+x Schließlich haben wir den Weg gefunden. ## In the end we found the way. ## Schließlich=in the end|Weg=way|gefunden=found
+x Er ist schließlich dein Freund. ## After all, he is your friend. ## schließlich=after all|Freund=friend
+
+B1 | daher | | therefore, from there, hence
+x Es regnet, daher bleiben wir zu Hause. ## It is raining, therefore we are staying at home. ## daher=therefore|regnet=rains
+x Daher kommt also der Lärm! ## So that's where the noise comes from! ## Daher=from there|Lärm=noise
+
+B1 | recht | | quite, rather
+x Das Buch ist recht interessant. ## The book is quite interesting. ## recht=quite|Buch=book|interessant=interesting
+x Es ist recht kalt heute. ## It is rather cold today. ## recht=rather|kalt=cold|heute=today
+
+B1 | gemeinsam | | together, jointly, in common
+x Wir lösen das Problem gemeinsam. ## We solve the problem together. ## gemeinsam=together|lösen=solve|Problem=problem
+x Sie haben gemeinsam gegessen. ## They ate together. ## gemeinsam=together|gegessen=eaten
+
+B1 | zunächst | | first, at first, for now
+x Zunächst möchte ich mich vorstellen. ## First I would like to introduce myself. ## Zunächst=first|möchte=would like|vorstellen=introduce
+x Zunächst blieb alles ruhig. ## At first everything stayed quiet. ## Zunächst=at first|blieb=stayed|ruhig=quiet
+
+B1 | bisher | | so far, until now
+x Bisher hatte ich keine Probleme. ## So far I have had no problems. ## Bisher=so far|Probleme=problems
+x Das war bisher mein bester Urlaub. ## That was my best holiday so far. ## bisher=so far|bester=best|Urlaub=holiday
+
+B1 | ebenso | | just as, equally, likewise
+x Er ist ebenso müde wie ich. ## He is just as tired as I am. ## ebenso=just as|müde=tired
+x Ich freue mich ebenso. ## I am equally pleased. ## ebenso=equally|freue=am pleased
+
+B1 | danach | | afterwards, after that
+x Wir essen und gehen danach spazieren. ## We eat and go for a walk afterwards. ## danach=afterwards|spazieren=for a walk
+x Danach war ich sehr müde. ## Afterwards I was very tired. ## Danach=afterwards|müde=tired
+
+B1 | dagegen | | against it, on the other hand, in contrast
+x Ich habe nichts dagegen. ## I have nothing against it. ## dagegen=against it|nichts=nothing
+x Er ist ruhig, sie dagegen ist sehr laut. ## He is quiet, she on the other hand is very loud. ## dagegen=on the other hand|ruhig=quiet|laut=loud
+
+B1 | ziemlich | | quite, pretty, rather, fairly
+x Das ist ziemlich schwer. ## That is quite difficult. ## ziemlich=quite|schwer=difficult
+x Es war ziemlich kalt. ## It was pretty cold. ## ziemlich=pretty|kalt=cold
+
+B1 | inzwischen | | in the meantime, meanwhile, by now
+x Inzwischen ist er zurückgekommen. ## In the meantime he has come back. ## Inzwischen=meanwhile|zurückgekommen=come back
+x Ich bin inzwischen fertig. ## I am done by now. ## inzwischen=by now|fertig=done
+
+B1 | persönlich | | in person, personally
+x Ich möchte ihn persönlich sprechen. ## I would like to speak to him in person. ## persönlich=in person|sprechen=speak
+x Persönlich finde ich das gut. ## Personally, I think that is good. ## Persönlich=personally|finde=find
+
+B1 | ebenfalls | | also, likewise, as well
+x Danke, ebenfalls! ## Thanks, likewise! ## ebenfalls=likewise|Danke=thanks
+x Sie kommt ebenfalls zur Party. ## She is also coming to the party. ## ebenfalls=also|Party=party
+
+B1 | bloß | | only, simply, just
+x Das war bloß ein Scherz. ## That was only a joke. ## bloß=only|Scherz=joke
+x Wie kann das bloß passieren? ## How can that possibly happen? ## bloß=possibly|passieren=happen
+
+B1 | jeweils | | each, each time, respectively
+x Die Kurse dauern jeweils zwei Stunden. ## The courses each last two hours. ## jeweils=each|Kurse=courses|dauern=last
+x Wir treffen uns jeweils montags. ## We meet each Monday. ## jeweils=each|treffen=meet|montags=on Mondays
+
+B1 | insgesamt | | in all, overall, altogether
+x Insgesamt waren zwanzig Leute da. ## In all, twenty people were there. ## Insgesamt=in all|zwanzig=twenty|Leute=people
+x Insgesamt bin ich zufrieden. ## Overall I am satisfied. ## Insgesamt=overall|zufrieden=satisfied
+
+B1 | trotzdem | | nevertheless, anyway, still
+x Es regnet, trotzdem gehen wir raus. ## It is raining, but we are going out anyway. ## trotzdem=anyway|regnet=rains|raus=out
+x Er war krank, kam aber trotzdem. ## He was ill but came anyway. ## trotzdem=anyway|krank=ill|kam=came
+
+B1 | zumindest | | at least
+x Zumindest hat er es versucht. ## At least he tried. ## Zumindest=at least|versucht=tried
+x Das ist zumindest ein Anfang. ## That is at least a start. ## zumindest=at least|Anfang=start
+
+B1 | nochmals | also "nochmal" | again, once more
+x Bitte erklären Sie das nochmals. ## Please explain that once more. ## nochmals=once more|erklären=explain
+x Ich danke Ihnen nochmals. ## I thank you again. ## nochmals=again|danke=thank
+
+B1 | nochmal | colloquial form of "nochmals" | again, once more
+x Sag das bitte nochmal. ## Please say that again. ## nochmal=again|Sag=say
+
+B1 | teilweise | | partially, partly
+x Die Straße ist teilweise gesperrt. ## The road is partly closed. ## teilweise=partly|Straße=road|gesperrt=closed
+x Das stimmt nur teilweise. ## That is only partly true. ## teilweise=partly|stimmt=is true
+
+B1 | miteinander | | together, with each other
+x Wir sprechen oft miteinander. ## We often talk with each other. ## miteinander=with each other|oft=often
+x Sie arbeiten gut miteinander. ## They work well together. ## miteinander=together|arbeiten=work
+
+B1 | deswegen | | therefore, that's why
+x Ich bin krank, deswegen bleibe ich zu Hause. ## I am ill, that's why I am staying at home. ## deswegen=that's why|krank=ill
+x Deswegen habe ich angerufen. ## That is why I called. ## Deswegen=that is why|angerufen=called
+
+B1 | andererseits | often after "einerseits" | on the other hand
+x Einerseits ist es teuer, andererseits ist es gut. ## On the one hand it is expensive, on the other hand it is good. ## andererseits=on the other hand|Einerseits=on the one hand|teuer=expensive
+x Andererseits habe ich keine Zeit. ## On the other hand I have no time. ## Andererseits=on the other hand|Zeit=time
+
+B1 | überhaupt | | at all, in general, anyway
+x Hast du überhaupt Hunger? ## Are you hungry at all? ## überhaupt=at all|Hunger=hunger
+x Das ist überhaupt nicht wahr. ## That is not true at all. ## überhaupt=at all|wahr=true
+
+B1 | längst | | long since, a long time ago
+x Das habe ich längst vergessen. ## I forgot that long ago. ## längst=long ago|vergessen=forgotten
+x Er ist längst zu Hause. ## He has been home for ages. ## längst=for ages|Hause=home
+
+B1 | genauso | | just as, just the same, equally
+x Ich mache es genauso. ## I do it the same way. ## genauso=the same way|mache=do
+x Sie ist genauso alt wie er. ## She is just as old as he is. ## genauso=just as|alt=old
+
+B1 | zurzeit | also "zur Zeit" | currently, at the moment
+x Ich arbeite zurzeit in Berlin. ## I am currently working in Berlin. ## zurzeit=currently|arbeite=work
+x Er ist zurzeit im Urlaub. ## He is on holiday at the moment. ## zurzeit=at the moment|Urlaub=holiday
+
+B1 | mittlerweile | | in the meantime, meanwhile, by now
+x Ich spreche mittlerweile gut Deutsch. ## By now I speak German well. ## mittlerweile=by now|spreche=speak
+x Es ist mittlerweile dunkel geworden. ## In the meantime it has got dark. ## mittlerweile=in the meantime|dunkel=dark|geworden=become
+
+B1 | irgendwann | | sometime, one day, at some point
+x Irgendwann möchte ich nach Japan reisen. ## Some day I would like to travel to Japan. ## Irgendwann=some day|Japan=Japan|reisen=travel
+x Wir sehen uns irgendwann wieder. ## We will see each other again sometime. ## irgendwann=sometime|sehen=see|wieder=again
+
+B1 | übrigens | | by the way, besides, incidentally
+x Übrigens, ich habe morgen Geburtstag. ## By the way, it's my birthday tomorrow. ## Übrigens=by the way|Geburtstag=birthday
+x Wo ist er übrigens? ## Where is he, by the way? ## übrigens=by the way|Wo=where
+
+B1 | dahin | | there, to that place
+x Wie komme ich dahin? ## How do I get there? ## dahin=there|komme=get
+x Bis dahin sind es noch zwei Wochen. ## Until then it is still two weeks. ## dahin=then|Bis=until|Wochen=weeks
+
+B1 | ursprünglich | | originally, initially
+x Ursprünglich wollten wir nach Spanien fahren. ## Originally we wanted to travel to Spain. ## Ursprünglich=originally|Spanien=Spain|fahren=travel
+x Das Haus war ursprünglich ein Bauernhof. ## The house was originally a farm. ## ursprünglich=originally|Bauernhof=farm
+
+B1 | diesmal | | this time
+x Diesmal klappt es bestimmt. ## This time it will surely work. ## Diesmal=this time|klappt=works|bestimmt=surely
+x Diesmal zahle ich. ## This time I'm paying. ## Diesmal=this time|zahle=pay
+
+B1 | los | | off, going on, loose, rid of
+x Was ist los? ## What is going on? ## los=going on|Was=what
+x Los geht's! ## Here we go! ## Los=off
+
+B1 | möglicherweise | | possibly, perhaps
+x Er kommt möglicherweise später. ## He may possibly come later. ## möglicherweise=possibly|später=later
+x Möglicherweise hast du recht. ## Perhaps you are right. ## Möglicherweise=perhaps|recht=right
+
+B2 | dazu | | in addition, to that, for that
+x Dazu habe ich keine Meinung. ## I have no opinion on that. ## Dazu=on that|Meinung=opinion
+x Er isst Fisch und trinkt Wein dazu. ## He eats fish and drinks wine with it. ## dazu=with it|trinkt=drinks|Fisch=fish|Wein=wine
+
+B2 | davon | | of it, from that, about it
+x Davon habe ich nichts gewusst. ## I knew nothing about that. ## Davon=about that|nichts=nothing|gewusst=known
+x Ich möchte etwas davon. ## I would like some of it. ## davon=of it|etwas=some
+
+B2 | drauf | colloquial form of "darauf" | on it, on that
+x Ich freue mich schon drauf. ## I am already looking forward to it. ## drauf=to it|freue=look forward|mich=myself|schon=already
+
+B2 | drüber | colloquial form of "darüber" | over it, about it
+x Lass uns drüber reden. ## Let's talk about it. ## drüber=about it|Lass=let|reden=talk
+
+B2 | daran | colloquially "dran" | on it, at it, of it
+x Ich denke oft daran. ## I often think of it. ## daran=of it|denke=think|oft=often
+x Daran habe ich nicht gedacht. ## I didn't think of that. ## Daran=of that|gedacht=thought
+
+B2 | dran | colloquial form of "daran" | on it, at it
+x Du bist dran! ## It's your turn! ## dran=(your) turn
+x Ich bin gleich dran. ## I'm next in a moment. ## dran=next|gleich=in a moment
+
+B2 | drin | colloquial form of "darin" | in it, inside
+x Was ist da drin? ## What is in there? ## drin=in there|Was=what
+
+B2 | dadurch | | through it, thereby, as a result
+x Dadurch sparst du viel Zeit. ## You save a lot of time that way. ## Dadurch=thereby|sparst=save|Zeit=time
+x Er hat sich dadurch verletzt. ## He injured himself as a result. ## dadurch=as a result|verletzt=injured
+
+B2 | irgendwie | | somehow, kind of
+x Irgendwie schaffen wir das. ## Somehow we will manage it. ## Irgendwie=somehow|schaffen=manage
+x Das ist irgendwie komisch. ## That is kind of strange. ## irgendwie=kind of|komisch=strange
+
+B2 | insbesondere | | especially, in particular
+x Alle, insbesondere die Kinder, freuten sich. ## Everyone, especially the children, was happy. ## insbesondere=especially|Kinder=children|freuten=were happy
+x Ich mag Obst, insbesondere Äpfel. ## I like fruit, in particular apples. ## insbesondere=in particular|Obst=fruit|Äpfel=apples
+
+B2 | jedenfalls | | in any case, anyhow, at least
+x Jedenfalls bin ich pünktlich. ## In any case I am on time. ## Jedenfalls=in any case|pünktlich=on time
+x Das war jedenfalls meine Meinung. ## That was my opinion, at any rate. ## jedenfalls=at any rate|Meinung=opinion
+
+B2 | wobei | | whereby, in doing so, although
+x Er fiel, wobei er sich verletzte. ## He fell, and in doing so he hurt himself. ## wobei=in doing so|fiel=fell|verletzte=hurt
+x Wobei kann ich Ihnen helfen? ## What can I help you with? ## Wobei=with what|kann=can|ich=I|Ihnen=you|helfen=help
+
+B2 | darum | | that's why, around it
+x Ich bin krank, darum bleibe ich zu Hause. ## I am ill, that's why I am staying at home. ## darum=that's why|krank=ill
+x Darum geht es nicht. ## That is not what it is about. ## Darum=about that|geht=goes
+
+B2 | beispielsweise | | for example, for instance
+x Viele Städte, beispielsweise Berlin, sind sehr groß. ## Many cities, for example Berlin, are very big. ## beispielsweise=for example|Städte=cities|groß=big
+x Man kann beispielsweise im Park spazieren gehen. ## You can, for example, go for a walk in the park. ## beispielsweise=for example|Park=park
+
+B2 | zudem | | furthermore, moreover, besides
+x Es ist billig und zudem gesund. ## It is cheap and moreover healthy. ## zudem=moreover|billig=cheap|gesund=healthy
+x Zudem fehlt uns die Zeit. ## Besides, we lack the time. ## Zudem=besides|fehlt=is lacking|Zeit=time
+
+B2 | dennoch | | nevertheless, nonetheless, however
+x Er war müde, dennoch arbeitete er weiter. ## He was tired, nevertheless he kept working. ## dennoch=nevertheless|arbeitete=worked|müde=tired|weiter=on
+x Dennoch bin ich froh. ## Nevertheless I am glad. ## Dennoch=nevertheless|froh=glad
+
+B2 | zugleich | | at the same time, both
+x Sie ist Ärztin und zugleich Mutter. ## She is a doctor and at the same time a mother. ## zugleich=at the same time|Ärztin=doctor|Mutter=mother
+x Es ist schön und zugleich gefährlich. ## It is beautiful and at the same time dangerous. ## zugleich=at the same time|gefährlich=dangerous
+
+B2 | derzeit | | at the moment, at present, currently
+x Derzeit gibt es keine freien Zimmer. ## At the moment there are no free rooms. ## Derzeit=at the moment|freien=free|Zimmer=rooms
+x Er lebt derzeit in München. ## He is currently living in Munich. ## derzeit=currently|lebt=lives|München=Munich
+
+B2 | zuvor | | before, previously, beforehand
+x Ich hatte ihn nie zuvor gesehen. ## I had never seen him before. ## zuvor=before|nie=never|gesehen=seen
+x Wie zuvor ist alles ruhig. ## As before, everything is quiet. ## zuvor=before|ruhig=quiet
+
+B2 | daraus | | out of it, from it, from that
+x Daraus lerne ich viel. ## I learn a lot from that. ## Daraus=from that|lerne=learn
+x Ich nehme ein Glas und trinke daraus. ## I take a glass and drink from it. ## daraus=from it|Glas=glass|trinke=drink
+
+B2 | durchaus | | quite, absolutely, certainly
+x Das ist durchaus möglich. ## That is quite possible. ## durchaus=quite|möglich=possible
+x Ich bin durchaus zufrieden. ## I am perfectly satisfied. ## durchaus=perfectly|zufrieden=satisfied
+
+B2 | stets | | always, constantly
+x Er war stets freundlich. ## He was always friendly. ## stets=always|freundlich=friendly
+x Wir sind stets für Sie da. ## We are always there for you. ## stets=always|da=there
+
+B2 | darunter | | under it, among them, below
+x Es kamen viele Gäste, darunter auch Kinder. ## Many guests came, among them children. ## darunter=among them|kamen=came|Gäste=guests|Kinder=children
+x Oben wohnt Frau Meyer, darunter wohne ich. ## Mrs Meyer lives upstairs, I live below her. ## darunter=below|oben=upstairs|Meyer=Meyer
+
+B2 | lediglich | | merely, simply, only
+x Das ist lediglich eine Frage der Zeit. ## That is merely a question of time. ## lediglich=merely|Frage=question|Zeit=time
+x Er hat lediglich zwei Fehler gemacht. ## He made only two mistakes. ## lediglich=only|Fehler=mistakes
+
+B2 | weiterhin | | still, furthermore
+x Wir bleiben weiterhin in Kontakt. ## We will stay in touch. ## weiterhin=still|bleiben=stay|Kontakt=contact
+x Es regnet weiterhin. ## It is still raining. ## weiterhin=still|regnet=rains
+
+B2 | somit | | thus, therefore, consequently
+x Er hat gewonnen und ist somit Meister. ## He won and is thus champion. ## somit=thus|gewonnen=won|Meister=champion
+x Somit ist das Problem gelöst. ## Thus the problem is solved. ## Somit=thus|Problem=problem|gelöst=solved
+
+B2 | immerhin | | after all, at least, anyhow
+x Immerhin hat er es versucht. ## After all, he tried. ## Immerhin=after all|versucht=tried
+x Es ist immerhin ein Anfang. ## It is at least a beginning. ## immerhin=at least|Anfang=beginning
+
+B2 | wiederum | | again, in turn, on the other hand
+x Das hat wiederum Folgen. ## That in turn has consequences. ## wiederum=in turn|Folgen=consequences
+x Er kam wiederum zu spät. ## He arrived late again. ## wiederum=again|kam=came|spät=late
+
+B2 | sicherlich | | certainly, surely
+x Das ist sicherlich richtig. ## That is certainly right. ## sicherlich=certainly|richtig=right
+x Er kommt sicherlich bald. ## He will surely come soon. ## sicherlich=surely|bald=soon
+
+B2 | soweit | | as far as, so far as, insofar as
+x Soweit ich weiß, ist er krank. ## As far as I know, he is ill. ## Soweit=as far as|weiß=know
+x Es ist alles soweit fertig. ## Everything is ready so far. ## soweit=so far|fertig=ready
+
+B2 | vielmehr | | rather, in fact, on the contrary
+x Er ist nicht faul, vielmehr sehr müde. ## He is not lazy, but rather very tired. ## vielmehr=rather|faul=lazy|müde=tired
+x Es ist kein Fehler, vielmehr ein Vorteil. ## It is not a mistake, but rather an advantage. ## vielmehr=rather|Fehler=mistake|Vorteil=advantage
+
+B2 | bislang | | so far, up to now
+x Bislang gab es keine Probleme. ## So far there have been no problems. ## Bislang=so far|gab=were|Probleme=problems
+x Das ist bislang unbekannt. ## That is unknown so far. ## bislang=so far|unbekannt=unknown
+
+B2 | anschließend | | then, subsequently, afterwards
+x Anschließend gab es Kaffee und Kuchen. ## Afterwards there was coffee and cake. ## Anschließend=afterwards|gab=was|Kaffee=coffee|Kuchen=cake
+x Wir essen und gehen anschließend nach Hause. ## We eat and then go home. ## anschließend=then|essen=eat|Hause=home
+
+B2 | erstmals | | for the first time
+x Er war erstmals in Deutschland. ## He was in Germany for the first time. ## erstmals=for the first time|Deutschland=Germany
+x Erstmals seit Jahren regnet es wieder. ## For the first time in years it is raining again. ## Erstmals=for the first time|Jahren=years|regnet=rains
+
+B2 | hingegen | | on the other hand, on the contrary
+x Er ist ruhig, sie hingegen ist laut. ## He is quiet, she on the other hand is loud. ## hingegen=on the other hand|ruhig=quiet|laut=loud
+x Im Sommer ist es heiß, im Winter hingegen kalt. ## In summer it is hot, in winter on the other hand cold. ## hingegen=on the other hand|Winter=winter|heiß=hot|kalt=cold
+
+B2 | ansonsten | | otherwise, apart from that
+x Ansonsten ist alles in Ordnung. ## Otherwise everything is fine. ## Ansonsten=otherwise|Ordnung=order
+x Ich bin müde, ansonsten geht es mir gut. ## I am tired, but otherwise I am fine. ## ansonsten=otherwise|müde=tired|gut=well
+
+B2 | letztlich | | in the end, ultimately, finally
+x Letztlich entscheidest du. ## In the end you decide. ## Letztlich=in the end|entscheidest=decide
+x Es kommt letztlich auf das Geld an. ## Ultimately it comes down to the money. ## letztlich=ultimately|kommt=comes|Geld=money
+
+A1 | warum | question word | why
+x Warum lernst du Deutsch? ## Why are you learning German? ## Warum=why|lernst=learn
+x Ich weiß nicht, warum er nicht kommt. ## I don't know why he isn't coming. ## warum=why|weiß=know|kommt=coming
+
+A2 | deshalb | | for that reason, therefore
+x Ich bin müde, deshalb gehe ich ins Bett. ## I am tired, therefore I am going to bed. ## deshalb=therefore|müde=tired|Bett=bed
+x Deshalb habe ich dich angerufen. ## That is why I called you. ## Deshalb=that is why|angerufen=called
+
+B1 | halt | spoken-German filler | simply, just
+x Das ist halt so. ## That's just how it is. ## halt=just|so=so
+x Dann nehme ich halt den Bus. ## Then I'll simply take the bus. ## halt=simply|nehme=take|Bus=bus
+
+B1 | damit | pronominal adverb: da- + mit | with it, with that
+x Ich bin damit nicht einverstanden. ## I don't agree with that. ## damit=with that|einverstanden=in agreement
+x Was willst du damit sagen? ## What do you want to say by that? ## damit=by that|willst=want|sagen=say

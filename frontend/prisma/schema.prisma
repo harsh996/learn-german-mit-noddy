@@ -8,9 +8,12 @@ generator client {
 }
 
 model User {
-  id       String    @id @default(uuid())
-  username String    @unique
-  password String
+  id            String    @id @default(uuid())
+  username      String    @unique // stored lowercase
+  email         String?   @unique // stored lowercase; nullable only for pre-existing accounts
+  emailVerified DateTime?
+  password      String
+  createdAt     DateTime  @default(now())
   profiles Profile[]
   savedWords SavedWord[]
   preferences UserPreference?
@@ -25,8 +28,21 @@ model Profile {
   avatarGender String
   avatarName   String
   createdAt    DateTime        @default(now())
+  readingPrefs String          @default("{}")
   memories     ProfileMemory[]
   sessions     SessionLog[]
+  reading      ReadingProgress[]
+  savedWords   SavedWord[]
+}
+
+model ReadingProgress {
+  profileId String
+  profile   Profile  @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  storyId   String
+  progress  Float
+  updatedAt DateTime @updatedAt
+
+  @@id([profileId, storyId])
 }
 
 model ProfileMemory {
@@ -53,6 +69,9 @@ model SavedWord {
   id          String   @id @default(uuid())
   userId      String
   user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  // Nullable only so pre-existing rows survive the migration; the entrypoint assigns them to a profile.
+  profileId   String?
+  profile     Profile? @relation(fields: [profileId], references: [id], onDelete: Cascade)
   wordKey     String
   word        String
   article     String?
@@ -61,8 +80,8 @@ model SavedWord {
   translation String
   createdAt   DateTime @default(now())
 
-  @@unique([userId, wordKey])
-  @@index([userId, createdAt])
+  @@unique([profileId, wordKey])
+  @@index([profileId, createdAt])
 }
 
 model UserPreference {

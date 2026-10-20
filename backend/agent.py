@@ -5,6 +5,7 @@ Compatible with livekit-agents 1.x (AgentSession + RealtimeModel).
 
 from __future__ import annotations
 
+import asyncio
 import json
 import logging
 import os
@@ -67,7 +68,7 @@ def _build_realtime_model(system_prompt: str, gender: str):
         }
         if api_key:
             kwargs["api_key"] = api_key
-        # Wait longer for the learner to finish before the model responds.
+        # Short silence window so replies start promptly after the learner stops.
         try:
             from openai.types.beta.realtime.session import TurnDetection
 
@@ -75,7 +76,7 @@ def _build_realtime_model(system_prompt: str, gender: str):
                 type="server_vad",
                 threshold=0.5,
                 prefix_padding_ms=300,
-                silence_duration_ms=800,
+                silence_duration_ms=int(os.getenv("OPENAI_SILENCE_MS", "500")),
             )
         except Exception:  # noqa: BLE001
             logger.warning("OpenAI turn_detection config unavailable; using defaults")
@@ -89,10 +90,11 @@ def _build_realtime_model(system_prompt: str, gender: str):
     if not api_key:
         raise RuntimeError("GOOGLE_API_KEY is missing — cannot start Gemini realtime session")
 
-    # Balanced VAD: ~0.9s silence so replies feel snappy, without cutting short sentences.
+    # ~0.5s silence ends the turn so replies feel conversational; raise GEMINI_SILENCE_MS
+    # if short pauses mid-sentence get cut off.
     # END_SENSITIVITY_LOW + long silence previously caused multi-minute hangs with mic noise.
-    silence_ms = int(os.getenv("GEMINI_SILENCE_MS", "900"))
-    prefix_ms = int(os.getenv("GEMINI_PREFIX_PADDING_MS", "300"))
+    silence_ms = int(os.getenv("GEMINI_SILENCE_MS", "500"))
+    prefix_ms = int(os.getenv("GEMINI_PREFIX_PADDING_MS", "200"))
     realtime_input_config = None
     try:
         from google.genai import types
@@ -132,7 +134,10 @@ async def _post_session_summary(
     transcript: str,
 ) -> None:
     frontend = os.getenv("FRONTEND_URL", "http://frontend:3000").rstrip("/")
-    secret = os.getenv("AUTH_SECRET", "german-tutor-dev-secret-change-in-prod")
+    secret = os.getenv("AUTH_SECRET", "")
+    if not secret:
+        logger.error("AUTH_SECRET is not set; cannot post session summary")
+        return
     url = f"{frontend}/api/session/summarize"
 
     payload = {
@@ -169,7 +174,7 @@ async def entrypoint(ctx: JobContext):
     gender = meta.get("avatarGender", "female")
     profile_name = meta.get("profileName")
 
-    memories = fetch_profile_memories(profile_id) if profile_id else []
+    memories = await asyncio.to_thread(fetch_profile_memories, profile_id) if profile_id else []
     system_prompt = build_system_prompt(
         level=level,
         memory_items=memories,

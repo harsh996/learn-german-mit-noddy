@@ -49,7 +49,7 @@ def valid(res, e):
 
 def build(entries, cache):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    files = {"A1": [], "A2": [], "B1": []}
+    files = {"A1": [], "A2": [], "B1": [], "B2": [], "OTHERS": []}
     skipped = 0
     for i, e in enumerate(entries):
         r = cache.get(entry_id(e))
@@ -79,6 +79,10 @@ def build(entries, cache):
         if notes:
             out["notes"] = " · ".join(notes)
         files[e["level"]].append(out)
+    add_supplements(files)
+    add_noun_supplements(files)
+    add_verb_supplements(files)
+
     def collate(w):
         return w.casefold().translate(str.maketrans("äöüß", "aous"))
 
@@ -88,10 +92,211 @@ def build(entries, cache):
         for it in items:  # "frequency" doubles as list order: A1 -> A2 -> B1, alphabetical within a level
             n += 1
             it["frequency"] = n
+        if not items:
+            continue
         (OUT_DIR / f"{lvl.lower()}.json").write_text(json.dumps(items, ensure_ascii=False, indent=1))
         print(f"{lvl}: {len(items)} entries written")
     print(f"{skipped} entries not yet enriched (omitted)")
 
+
+
+def corpus_glosses(files):
+    """Most common gloss per lowercase token across the existing examples (used to fill the obvious words)."""
+    from collections import Counter, defaultdict
+    c = defaultdict(Counter)
+    for items in files.values():
+        for it in items:
+            for m in it["meanings"]:
+                for ex in m["examples"]:
+                    for k, v in (ex.get("glosses") or {}).items():
+                        c[k.lower()][v] += 1
+    out = {k: v.most_common(1)[0][0] for k, v in c.items()}
+    # Ambiguous function words: the most common corpus gloss is often wrong for a given sentence, so be neutral.
+    out.update({"sich": "oneself", "mich": "me/myself", "dich": "you/yourself", "uns": "us/each other",
+                "das": "that/the", "sie": "she/they/you (formal)", "mir": "me", "es": "it"})
+    return out
+
+
+def add_supplements(files):
+    """Merge scripts/vocab/supplement_*.txt (words missing from the Goethe lists) into the level files.
+
+    Block format is documented at the top of each supplement file. A word is skipped if the same
+    word + part of speech already exists at any level, so the supplements never shadow the lists.
+    """
+    have = {(it["word"].lower(), it["pos"]) for items in files.values() for it in items}
+    auto = corpus_glosses(files)
+    for f in sorted(HERE.glob("supplement_*.txt")):
+        if f.name in ("supplement_nouns.txt", "supplement_verbs.txt"):  # different format, see add_noun/verb_supplements
+            continue
+        pos = f.stem.removeprefix("supplement_").rstrip("s")  # supplement_prepositions.txt -> preposition
+        for block in re.split(r"\n\s*\n", f.read_text()):
+            lines = [l for l in block.strip().splitlines() if l.strip() and not l.startswith("#")]
+            if not lines:
+                continue
+            level, word, notes, english = [p.strip() for p in lines[0].split("|")]
+            if (word.lower(), pos) in have:
+                continue
+            exs = []
+            for l in lines[1:]:
+                de, en, g = [p.strip() for p in l[2:].split("##")]
+                glosses = gl(g)
+                have_k = {k.lower() for k in glosses}
+                missing = []
+                for t in TOKEN.findall(de):
+                    if t.lower() in have_k:
+                        continue
+                    if t.lower() in auto:  # explicit glosses in the file always win
+                        glosses[t] = auto[t.lower()]
+                    else:
+                        missing.append(t)
+                if missing:
+                    print(f"WARN {f.name} {word}: no gloss for {missing}")
+                exs.append({"de": de, "en": en, "glosses": glosses})
+            item = {"word": word, "pos": pos, "frequency": 0, "meanings": [{"english": english, "examples": exs}]}
+            if notes:
+                item["notes"] = notes
+            files[level].append(item)
+            have.add((word.lower(), pos))
+
+
+NOUN_NOTES = {"n-Deklination", "adjektivische Deklination", "ohne Artikel", "die Niederlande"}
+ARTICLE = {"m": "der", "f": "die", "n": "das", "p": "die"}
+LEVEL = {"1": "A1", "2": "A2", "3": "B1", "0": "B2", "4": "OTHERS"}
+
+
+def first_meaning(english):
+    return re.split(r"[;,(]", english)[0].strip()
+
+
+def load_gloss_dictionary():
+    d = {}
+    p = HERE / "gloss_dictionary.txt"
+    if p.exists():
+        for l in p.read_text(encoding="utf8").splitlines():
+            if l.strip() and not l.startswith("#") and "=" in l:
+                k, v = l.split("=", 1)
+                d[k.strip().lower()] = v.strip()
+    return d
+
+
+def add_noun_supplements(files):
+    """Merge supplement_nouns.txt (nouns missing from the Goethe lists) into the level files."""
+    f = HERE / "supplement_nouns.txt"
+    if not f.exists():
+        return
+    have = {(it["word"].lower(), it.get("article")) for items in files.values() for it in items if it["pos"] == "noun"}
+    auto = corpus_glosses(files)
+    dictionary = load_gloss_dictionary()
+    rows = []
+    for l in f.read_text(encoding="utf8").splitlines():
+        if not l.strip() or l.startswith("#"):
+            continue
+        level, g, word, plural, english, de, en = l.split("|")
+        rows.append((level, g, word, plural, english, de, en))
+    # Headword and plural forms -> short meaning, so tokens that are other new nouns get glossed.
+    own = {}
+    for level, g, word, plural, english, de, en in rows:
+        m = first_meaning(english)
+        own.setdefault(word.lower(), m)
+        pl = plural.split(";")[0].strip()
+        if pl and pl != "-":
+            own.setdefault(pl.lower(), m)
+    unresolved = {}
+    for level, g, word, plural, english, de, en in rows:
+        art = ARTICLE[g]
+        if (word.lower(), art) in have:
+            continue
+        pl, _, extra = plural.partition(";")
+        pl, extra = pl.strip(), extra.strip()
+        notes = []
+        if g == "p":
+            notes.append("Plural only")
+        elif pl == "-":
+            notes.append("No plural")
+        elif pl:
+            notes.append(f"Plural: die {pl}")
+        if extra:
+            notes.append(extra if extra in NOUN_NOTES else f"Also: {extra}")
+        glosses = {}
+        for t in TOKEN.findall(de):
+            k = t.lower()
+            if k in own:
+                glosses[t] = own[k]
+            elif k in dictionary:
+                glosses[t] = dictionary[k]
+            elif k in auto:
+                glosses[t] = auto[k]
+            else:
+                unresolved.setdefault(k, []).append(word)
+        item = {"word": word, "pos": "noun", "article": art, "frequency": 0,
+                "meanings": [{"english": english, "examples": [{"de": de, "en": en, "glosses": glosses}]}]}
+        if notes:
+            item["notes"] = " · ".join(notes)
+        files[LEVEL[level]].append(item)
+        have.add((word.lower(), art))
+    if unresolved:
+        print(f"WARN supplement_nouns.txt: {len(unresolved)} tokens without a gloss (add them to gloss_dictionary.txt)")
+        (HERE / "unresolved_glosses.txt").write_text("\n".join(f"{k}\t{'; '.join(v[:2])}" for k, v in sorted(unresolved.items())), encoding="utf8")
+
+
+def add_verb_supplements(files):
+    """Merge supplement_verbs.txt (verbs missing from the Goethe lists) into the level files.
+
+    One entry per line: level (1=A1 2=A2 3=B1 4=Others) | verb | principal parts / notes | English meaning(s)
+    | German example | English translation | optional extra glosses (word=gloss;word=gloss).
+    """
+    f = HERE / "supplement_verbs.txt"
+    if not f.exists():
+        return
+    have = {it["word"].lower() for items in files.values() for it in items if it["pos"] == "verb"}
+    auto = corpus_glosses(files)
+    dictionary = load_gloss_dictionary()
+    unresolved = {}
+    for l in f.read_text(encoding="utf8").splitlines():
+        if not l.strip() or l.startswith("#"):
+            continue
+        merge = l.startswith("+")  # "+level|verb|..." adds a further meaning to the verb's existing entry
+        level, word, notes, english, de, en, *rest = [p.strip() for p in l.lstrip("+").split("|")]
+        if merge:
+            target = next((it for items in files.values() for it in items if it["pos"] == "verb" and it["word"].lower() == word.lower()), None)
+        elif word.lower() in have:
+            continue
+        glosses = {}
+        for pair in (rest[0] if rest else "").split(";"):
+            if "=" in pair:
+                k, v = pair.split("=", 1)
+                head, *tail = k.split()  # "findet statt=takes place": later tokens point back at the phrase
+                glosses[head] = v.strip()
+                for t in tail:
+                    glosses[t] = f"(part of {k.strip()})"
+        for t in TOKEN.findall(de):  # key each explicit gloss by the sentence's own capitalisation
+            for k in list(glosses):
+                if k != t and k.lower() == t.lower():
+                    glosses[t] = glosses.pop(k)
+        explicit = {k.lower() for k in glosses}
+        for t in TOKEN.findall(de):
+            k = t.lower()
+            if k in explicit:
+                continue
+            if k in dictionary:
+                glosses[t] = dictionary[k]
+            elif k in auto:
+                glosses[t] = auto[k]
+            else:
+                unresolved.setdefault(k, []).append(word)
+        meaning = {"english": english, "examples": [{"de": de, "en": en, "glosses": glosses}]}
+        if merge:
+            if target and not any(m["english"] == english for m in target["meanings"]):
+                target["meanings"].append(meaning)
+            continue
+        item = {"word": word, "pos": "verb", "frequency": 0, "meanings": [meaning]}
+        if notes:
+            item["notes"] = notes
+        files[LEVEL[level]].append(item)
+        have.add(word.lower())
+    if unresolved:
+        print(f"WARN supplement_verbs.txt: {len(unresolved)} tokens without a gloss: "
+              + ", ".join(f"{k} ({v[0]})" for k, v in sorted(unresolved.items())))
 
 
 def gl(s):
