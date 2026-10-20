@@ -1,6 +1,6 @@
 # Vocabulary word lists (A1 · A2 · B1 · B2)
 
-`a1.json`, `a2.json`, `b1.json`, `b2.json` are **generated** from the Goethe-Zertifikat word lists in
+`a1.json`, `a2.json`, `b1.json`, `b2.json`, `others.json` are **generated** from the Goethe-Zertifikat word lists in
 `knowledge_base/vocab_docs/`. Don't edit them by hand — change the source and rebuild:
 
 ```bash
@@ -10,7 +10,8 @@ python3 frontend/scripts/vocab/build_data.py        # parsed.json + scripts/voca
 
 `scripts/vocab/supplement_*.txt` add words the Goethe lists lack (currently prepositions such as `im`, `wegen`,
 `aufgrund`, with their case in `notes`); `build_data.py` merges them in and skips any word already present with the
-same part of speech. `b2.json` exists only for such supplements.
+same part of speech. `b2.json` and `others.json` (the "Others" level, level code `OTHERS`) exist only for such supplements.
+`supplement_verbs.txt` is a one-line-per-verb file (see its header); level `4` puts a verb in Others, and a line starting with `+` adds a further meaning to a verb that already exists.
 
 `parse_wordlists.py` extracts headword, article, notes and cleaned example sentences, and drops words that
 repeat at a higher level (a word is shown at the first level it appears). `translations/*.txt` hold the English
@@ -33,5 +34,5 @@ so re-run the parser **before** adding translations if the source lists change.
 ```
 
 - `pos`: adjective | adverb | conjunction | interjection | noun | number | preposition | pronoun | verb
-- `frequency` is the list order (A1 → A2 → B1, alphabetical within a level), not corpus frequency.
+- `frequency` is the list order (A1 → A2 → B1 → B2 → Others, alphabetical within a level), not corpus frequency.
 - Hover translations use the sentence's `glosses` first, then any list entry matching the word.

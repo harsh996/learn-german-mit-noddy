@@ -887,3 +887,4 @@ zünden=light
 überwacht=monitors
 überwinden=overcome
 dorfes=of the village
+okay=okay

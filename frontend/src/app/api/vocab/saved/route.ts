@@ -9,7 +9,7 @@ const saveSchema = z.object({
   word: z.string().trim().min(1).max(100),
   article: z.string().max(10).nullish(),
   pos: z.string().max(30).nullish(),
-  level: z.string().max(4).nullish(),
+  level: z.string().max(8).nullish(),
   translation: z.string().trim().max(300).default(""),
 });
 

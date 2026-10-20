@@ -100,6 +100,26 @@
       }
      }
     ]
+   },
+   {
+    "english": "to break off, to cancel, to abort, to stop",
+    "examples": [
+     {
+      "de": "Die Polizei brach das Konzert wegen des Unwetters ab.",
+      "en": "The police stopped the concert because of the storm.",
+      "glosses": {
+       "brach": "stopped",
+       "ab": "(part of brach ab)",
+       "Polizei": "police",
+       "Konzert": "concert",
+       "Unwetters": "storm",
+       "wegen": "because of",
+       "Die": "the",
+       "das": "that/the",
+       "des": "the"
+      }
+     }
+    ]
    }
   ],
   "notes": "bricht ab, brach ab, hat abgebrochen"
@@ -3298,6 +3318,27 @@
        "sich": "yourself",
        "nicht": "not",
        "auf": "(part of aufregen)"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to get upset, to get excited, to get worked up",
+    "examples": [
+     {
+      "de": "Reg dich nicht so auf, es ist doch nichts passiert!",
+      "en": "Don't get so worked up, nothing has happened!",
+      "glosses": {
+       "Reg": "get worked up",
+       "auf": "(part of Reg auf)",
+       "dich": "yourself",
+       "nicht": "not",
+       "so": "so",
+       "nichts": "nothing",
+       "passiert": "happened",
+       "es": "it",
+       "ist": "is",
+       "doch": "surely"
       }
      }
     ]
@@ -10578,6 +10619,25 @@
        "viel": "a lot of",
        "Zucker": "sugar",
        "Dieses": "this"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to abstain, to refrain",
+    "examples": [
+     {
+      "de": "Bei der Abstimmung hat er sich der Stimme enthalten.",
+      "en": "He abstained in the vote.",
+      "glosses": {
+       "enthalten": "abstained",
+       "sich": "himself",
+       "Abstimmung": "vote",
+       "Stimme": "vote",
+       "Bei": "in",
+       "der": "the",
+       "hat": "has",
+       "er": "he"
       }
      }
     ]
@@ -32765,6 +32825,25 @@
       }
      }
     ]
+   },
+   {
+    "english": "to worry, to be worried, to be concerned",
+    "examples": [
+     {
+      "de": "Die Eltern sorgen sich um ihren kranken Sohn.",
+      "en": "The parents are worried about their sick son.",
+      "glosses": {
+       "sorgen": "worry",
+       "sich": "themselves",
+       "Eltern": "parents",
+       "kranken": "sick",
+       "Sohn": "son",
+       "um": "about",
+       "Die": "the",
+       "ihren": "your"
+      }
+     }
+    ]
    }
   ],
   "notes": "sorgt, sorgte, hat gesorgt"
@@ -36534,6 +36613,25 @@
       }
      }
     ]
+   },
+   {
+    "english": "to separate, to break up, to part, to split up",
+    "examples": [
+     {
+      "de": "Die beiden haben sich nach zehn Jahren getrennt.",
+      "en": "The two of them split up after ten years.",
+      "glosses": {
+       "getrennt": "split up",
+       "sich": "each other",
+       "beiden": "two",
+       "nach": "after",
+       "zehn": "ten",
+       "Jahren": "years",
+       "Die": "the",
+       "haben": "have"
+      }
+     }
+    ]
    }
   ],
   "notes": "trennt, trennte, hat getrennt · reflexive (sich)"
@@ -39497,6 +39595,23 @@
        "Wir": "we",
        "haben": "have",
        "im": "in the"
+      }
+     }
+    ]
+   },
+   {
+    "english": "to go, to run (of a course)",
+    "examples": [
+     {
+      "de": "Die Prüfung ist ohne Probleme verlaufen.",
+      "en": "The exam went off without any problems.",
+      "glosses": {
+       "verlaufen": "went off",
+       "Prüfung": "exam",
+       "ohne": "without",
+       "Probleme": "problems",
+       "Die": "the",
+       "ist": "is"
       }
      }
     ]

@@ -49,7 +49,7 @@ def valid(res, e):
 
 def build(entries, cache):
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    files = {"A1": [], "A2": [], "B1": [], "B2": []}
+    files = {"A1": [], "A2": [], "B1": [], "B2": [], "OTHERS": []}
     skipped = 0
     for i, e in enumerate(entries):
         r = cache.get(entry_id(e))
@@ -161,7 +161,7 @@ def add_supplements(files):
 
 NOUN_NOTES = {"n-Deklination", "adjektivische Deklination", "ohne Artikel", "die Niederlande"}
 ARTICLE = {"m": "der", "f": "die", "n": "das", "p": "die"}
-LEVEL = {"1": "A1", "2": "A2", "3": "B1", "0": "B2"}
+LEVEL = {"1": "A1", "2": "A2", "3": "B1", "0": "B2", "4": "OTHERS"}
 
 
 def first_meaning(english):
@@ -242,7 +242,7 @@ def add_noun_supplements(files):
 def add_verb_supplements(files):
     """Merge supplement_verbs.txt (verbs missing from the Goethe lists) into the level files.
 
-    One entry per line: level (1=A1 2=A2 3=B1) | verb | principal parts / notes | English meaning(s)
+    One entry per line: level (1=A1 2=A2 3=B1 4=Others) | verb | principal parts / notes | English meaning(s)
     | German example | English translation | optional extra glosses (word=gloss;word=gloss).
     """
     f = HERE / "supplement_verbs.txt"
@@ -255,8 +255,11 @@ def add_verb_supplements(files):
     for l in f.read_text(encoding="utf8").splitlines():
         if not l.strip() or l.startswith("#"):
             continue
-        level, word, notes, english, de, en, *rest = [p.strip() for p in l.split("|")]
-        if word.lower() in have:
+        merge = l.startswith("+")  # "+level|verb|..." adds a further meaning to the verb's existing entry
+        level, word, notes, english, de, en, *rest = [p.strip() for p in l.lstrip("+").split("|")]
+        if merge:
+            target = next((it for items in files.values() for it in items if it["pos"] == "verb" and it["word"].lower() == word.lower()), None)
+        elif word.lower() in have:
             continue
         glosses = {}
         for pair in (rest[0] if rest else "").split(";"):
@@ -281,8 +284,12 @@ def add_verb_supplements(files):
                 glosses[t] = auto[k]
             else:
                 unresolved.setdefault(k, []).append(word)
-        item = {"word": word, "pos": "verb", "frequency": 0,
-                "meanings": [{"english": english, "examples": [{"de": de, "en": en, "glosses": glosses}]}]}
+        meaning = {"english": english, "examples": [{"de": de, "en": en, "glosses": glosses}]}
+        if merge:
+            if target and not any(m["english"] == english for m in target["meanings"]):
+                target["meanings"].append(meaning)
+            continue
+        item = {"word": word, "pos": "verb", "frequency": 0, "meanings": [meaning]}
         if notes:
             item["notes"] = notes
         files[LEVEL[level]].append(item)
